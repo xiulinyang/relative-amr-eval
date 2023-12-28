@@ -1,0 +1,8 @@
+amr_utils==1.0
+conllu==4.5.3
+matplotlib==3.7.3
+matplotlib==3.7.2
+pandas==2.0.3
+Penman==1.2.0
+tqdm==4.50.2
+udapi==0.3.0
