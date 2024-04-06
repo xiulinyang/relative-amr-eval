@@ -1,5 +1,5 @@
 # relative-amr-eval
-This repository contains the code and dataset for the paper *The Relative Clauses AMR Parsers Hate Mosts* by Xiulin Yang and Nathan Schneider.
+This repository contains the code and dataset for the paper *The Relative Clauses AMR Parsers Hate Most* by Xiulin Yang and Nathan Schneider.
 
 # To replicate the experiments
 First, you need to create a virtual environment with python==3.8 and install all the dependencies.
