@@ -3,9 +3,7 @@ This repository contains the code and dataset for the paper *The Relative Clause
 
 
 ## dataset
-- ```ewt.zip```: the output and alignment from spring
-- ```ewt_output.zip```: the output and alignmentfrom am-parser
-- ```amrlib.zip```: the output and alignment from amrlib
+The parsed results for ewt can be found in the ```parse_results```folder.
 ## classification code
 - ```rc-types.py```: the code to classify the relative clauses without distinguishing types of reduced relative clauses.
 - ```rrc-types.py```: the code to classify reduced relative clauses and add EUD annotations.
