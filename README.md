@@ -45,7 +45,7 @@ In order to check if there is any mis-classified reduced relative clauses, you c
 
 ### double check
 
-3. Once you have corrected all sentences, you can make a double check by (1) run ```rc-types.py``` to get the updated ```eud_ewt_split.conllu``` under the ```eud_ewt``` folder; (2) run ```rrc-types.py``` to get the updated reduced relative clause classification and recheck if they are correct. If something is wrong, then follow the correction section. 
+4. Once you have corrected all sentences, you can make a double check by (1) run ```rc-types.py``` to get the updated ```eud_ewt_split.conllu``` under the ```eud_ewt``` folder; (2) run ```rrc-types.py``` to get the updated reduced relative clause classification and recheck if they are correct. If something is wrong, then follow the correction section. 
 
 
 ## TODO
