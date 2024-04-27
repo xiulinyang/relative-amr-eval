@@ -20,6 +20,9 @@ The parsed results for ewt can be found in the ```parse_results```folder.
 - ```dep_parse_amr.py```: the code to generate dependency trees for data from AMR 3.0
 - ```amrbart_postprocess.py```: the code that post-processes the parses from AMRBART.
 
+
+## To recover the enhanced Universal Dependency (EUD) relations back
+1. 
 ## TODO
 - [ ] Add argparse and bash script for easier implementation of the code.
 - [ ] Add more detailed instructions in readme. 
