@@ -6,6 +6,11 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
+
+PATH = 'eud_ewt_train'
+
+
+
 def read_preannoated_sents(conllus):
     relative_types = []
     relative_clauses =[]
@@ -252,7 +257,7 @@ def recover_info_back(original_split, advrc, orc, mannual_annotation):
     return sents
 
 if __name__ =='__main__':
-    PATH = 'eud_ewt_test'
+
     if not os.path.exists(PATH):
         os.mkdir(PATH)
     ewts = ['en_ewt-ud-dev.conllu', 'en_ewt-ud-test.conllu', 'en_ewt-ud-train.conllu']
@@ -278,4 +283,4 @@ if __name__ =='__main__':
     save_relative_split(f'{PATH}/needcheck.txt', f'{PATH}/needcheck.conllu')
 
     train_sents = recover_info_back(f'{PATH}.conllu', oblrc, orc, manual)
-    write_to_conllu(f'{PATH}/eud_{PATH}.conllu', train_sents)
+    write_to_conllu(f'{PATH}/{PATH}.conllu', train_sents)

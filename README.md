@@ -22,7 +22,26 @@ The parsed results for ewt can be found in the ```parse_results```folder.
 
 
 ## To recover the enhanced Universal Dependency (EUD) relations back
-1. 
+- ```en_ewt-ud-dev/test/train.conllu``` are downloaded from [ewt-dev-branch](https://github.com/xiulinyang/UD_English-EWT)
+- ```eud_ewt_dev/test/train.conllu``` are the post-processed files that have the recovered eud annotation.
+- ```rc-types.py```: the script used to classify sentences based on their eud annotations (which means for the reduced relative clauses, the Cxn value in the misc column will be xxx-red-missingdep-xxx.
+
+- ```rrc-types.py```: the script used to classify reduced relative clauses. The output is stored in the ``eud_train/dev/test`` folders (each folder contains necessary documents for each split of the EWT treebank)
+	
+
+In order to check if there is any mis-classified reduced relative clauses, you can follow the following pipeline:
+
+### correction
+1. Go to the ``eud_train/dev/test`` folder and you need to check the following two documents:
+	- ```orc/oblrc.txt`` or ```orc/oblrc.conllu```: you need to check if sentences have misclassified examples. 
+
+2. Once you find a misclassification example, you can go check ```eud_ewt_split.conllu``` and you will find that the eud annotation of the sentence and you should correct it. 
+
+### double check
+
+3. Once you have corrected all sentences, you can make a double check by (1) run ```rc-types.py``` to get the updated ```eud_ewt_split.conllu``` under the ```eud_ewt``` folder; (2) run ```rrc-types.py``` to get the updated reduced relative clause classification and recheck if they are correct. If something is wrong, then follow the correction section. 
+
+
 ## TODO
 - [ ] Add argparse and bash script for easier implementation of the code.
 - [ ] Add more detailed instructions in readme. 
