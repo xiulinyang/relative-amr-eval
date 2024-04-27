@@ -35,7 +35,7 @@ In order to check if there is any mis-classified reduced relative clauses, you c
 
 ### correction
 1. Go to the ``eud_train/dev/test`` folder and you need to check the following two documents:
-	- ```orc/oblrc.txt`` or ```orc/oblrc.conllu```: you need to check if sentences have misclassified examples. 
+	- ```orc/oblrc.txt``` or ```orc/oblrc.conllu```: you need to check if sentences have misclassified examples. 
 
 2. Once you find a misclassification example, you can go check ```eud_ewt_split.conllu``` and you will find that the eud annotation of the sentence and you should correct it. 
 
