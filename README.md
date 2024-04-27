@@ -27,6 +27,8 @@ The parsed results for ewt can be found in the ```parse_results```folder.
 - ```rc-types.py```: the script used to classify sentences based on their eud annotations (which means for the reduced relative clauses, the Cxn value in the misc column will be xxx-red-missingdep-xxx.
 
 - ```rrc-types.py```: the script used to classify reduced relative clauses. The output is stored in the ``eud_train/dev/test`` folders (each folder contains necessary documents for each split of the EWT treebank)
+
+- ```verb_transitivity.tsv```: the tsv file that contains verb transitivity information. 
 	
 
 In order to check if there is any mis-classified reduced relative clauses, you can follow the following pipeline:
