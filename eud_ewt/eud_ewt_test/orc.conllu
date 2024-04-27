@@ -1,0 +1,1251 @@
+# newdoc id = weblog-blogspot.com_marketview_20050224181500_ENG_20050224_181500
+# sent_id = weblog-blogspot.com_marketview_20050224181500_ENG_20050224_181500-0001
+# newpar id = weblog-blogspot.com_marketview_20050224181500_ENG_20050224_181500-p0001
+# text = Let me join the chorus of annoyance over Google's new toolbar , which, as noted in the linked article, commits just about every sin an online marketer could commit, and makes up a few new ones besides.
+1	Let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj|3:nsubj:xsubj	_
+3	join	join	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	chorus	chorus	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	annoyance	annoyance	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	_
+8	over	over	ADP	IN	_	12	case	12:case	_
+9-10	Google's	_	_	_	_	_	_	_	_
+9	Google	Google	PROPN	NNP	Number=Sing	12	nmod:poss	12:nmod:poss	_
+10	's	's	PART	POS	_	9	case	9:case	_
+11	new	new	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	toolbar	toolbar	NOUN	NN	Number=Sing	7	nmod	7:nmod:over|23:nsubj|35:nsubj	_
+13	,	,	PUNCT	,	_	23	punct	23:punct	_
+14	which	which	PRON	WDT	PronType=Rel	23	nsubj	12:ref	SpaceAfter=No
+15	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	as	as	SCONJ	IN	_	17	mark	17:mark	_
+17	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	23:advcl:as	_
+18	in	in	ADP	IN	_	21	case	21:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	linked	link	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	21	amod	21:amod	_
+21	article	article	NOUN	NN	Number=Sing	17	obl	17:obl:in	SpaceAfter=No
+22	,	,	PUNCT	,	_	17	punct	17:punct	_
+23	commits	commit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	Cxn=rc-wh-nsubj
+24	just	just	ADV	RB	_	25	advmod	25:advmod	_
+25	about	about	ADV	RB	_	27	advmod	27:advmod	_
+26	every	every	DET	DT	PronType=Tot	27	det	27:det	_
+27	sin	sin	NOUN	NN	Number=Sing	23	obj	23:obj|32:obj	_
+28	an	a	DET	DT	Definite=Ind|PronType=Art	30	det	30:det	_
+29	online	online	ADJ	JJ	Degree=Pos	30	amod	30:amod	_
+30	marketer	marketer	NOUN	NN	Number=Sing	32	nsubj	32:nsubj	_
+31	could	could	AUX	MD	VerbForm=Fin	32	aux	32:aux	_
+32	commit	commit	VERB	VB	VerbForm=Inf	27	acl:relcl	27:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+33	,	,	PUNCT	,	_	35	punct	35:punct	_
+34	and	and	CCONJ	CC	_	35	cc	35:cc	_
+35	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	12:acl:relcl|23:conj:and	_
+36	up	up	ADP	RP	_	35	compound:prt	35:compound:prt	_
+37	a	a	DET	DT	Definite=Ind|PronType=Art	40	det	40:det	_
+38	few	few	ADJ	JJ	Degree=Pos	40	amod	40:amod	_
+39	new	new	ADJ	JJ	Degree=Pos	40	amod	40:amod	_
+40	ones	one	NOUN	NNS	Number=Plur	35	obj	35:obj	_
+41	besides	besides	ADV	RB	_	35	advmod	35:advmod	SpaceAfter=No
+42	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = weblog-blogspot.com_floppingaces_20050313182621_ENG_20050313_182621-0005
+# text = UN Secretary-General Kofi Annan has indicated it is time to "recognize Hezbollah" after easily being duped by "the message on the placards they are using".
+1	UN	UN	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	Secretary	Secretary	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
+3	-	-	PUNCT	HYPH	_	4	punct	4:punct	SpaceAfter=No
+4	General	General	ADJ	NNP	Degree=Pos	2	amod	2:amod	_
+5	Kofi	Kofi	PROPN	NNP	Number=Sing	2	flat	2:flat	_
+6	Annan	Annan	PROPN	NNP	Number=Sing	5	flat	5:flat	_
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+8	indicated	indicate	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	11:expl	_
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+11	time	time	NOUN	NN	Number=Sing	8	ccomp	8:ccomp	_
+12	to	to	PART	TO	_	14	mark	14:mark	_
+13	"	"	PUNCT	``	_	14	punct	14:punct	SpaceAfter=No
+14	recognize	recognize	VERB	VB	VerbForm=Inf	11	acl	11:acl:to	_
+15	Hezbollah	Hezbollah	PROPN	NNP	Number=Sing	14	obj	14:obj	SpaceAfter=No
+16	"	"	PUNCT	''	_	14	punct	14:punct	_
+17	after	after	SCONJ	IN	_	20	mark	20:mark	_
+18	easily	easily	ADV	RB	_	20	advmod	20:advmod	_
+19	being	be	AUX	VBG	VerbForm=Ger	20	aux:pass	20:aux:pass	_
+20	duped	dupe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl:after	_
+21	by	by	ADP	IN	_	24	case	24:case	_
+22	"	"	PUNCT	``	_	24	punct	24:punct	SpaceAfter=No
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	24:det	_
+24	message	message	NOUN	NN	Number=Sing	20	obl:agent	20:obl:agent	_
+25	on	on	ADP	IN	_	27	case	27:case	_
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	_
+27	placards	placard	NOUN	NNS	Number=Plur	24	nmod	24:nmod:on|30:obj	_
+28	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	30:nsubj	_
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	30:aux	_
+30	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	27	acl:relcl	27:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+31	"	"	PUNCT	''	_	24	punct	24:punct	SpaceAfter=No
+32	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0023
+# text = Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.
+1	Imperial	imperial	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	Hubris	hubris	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	case	case	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	that	that	SCONJ	IN	_	21	mark	21:mark	_
+7	lots	lot	NOUN	NNS	Number=Plur	21	nsubj	21:nsubj	_
+8	of	of	ADP	IN	_	9	case	9:case	_
+9	people	people	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	CIA	CIA	PROPN	NNP	Number=Sing	9	nmod	9:nmod:in	_
+13	and	and	CCONJ	CC	_	15	cc	15:cc	_
+14	counter-terrorism	counter-terrorism	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
+15	divisions	division	NOUN	NNS	Number=Plur	12	conj	9:nmod:in|12:conj:and	_
+16	elsewhere	elsewhere	ADV	RB	_	15	advmod	15:advmod	_
+17	in	in	ADP	IN	_	20	case	20:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	_
+19	US	US	PROPN	NNP	Number=Sing	20	compound	20:compound	_
+20	government	government	NOUN	NN	Number=Sing	15	nmod	15:nmod:in	_
+21	knew	know	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl	5:acl:that	_
+22	all	all	ADV	RB	_	24	advmod	24:advmod	_
+23	about	about	ADP	IN	_	24	case	24:case	_
+24	Bin	Bin	PROPN	NNP	Number=Sing	21	obl	21:obl:about	_
+25	Laden	Laden	PROPN	NNP	Number=Sing	24	flat	24:flat	_
+26	and	and	CCONJ	CC	_	28	cc	28:cc	_
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	28:det	_
+28	threat	threat	NOUN	NN	Number=Sing	24	conj	21:obl:about|24:conj:and|30:obj	_
+29	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	30:nsubj	_
+30	posed	pose	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	acl:relcl	28:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+31	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0026
+# text = Dick could never thereafter get any real cooperation from the cabinet officers, who outranked him, and he could not convince them to go to battle stations in the summer of 2001 when George Tenet's hair was "on fire" about the excited chatter the CIA was picking up from radical Islamist terrorists.
+1	Dick	Dick	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	_
+2	could	could	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+3	never	never	ADV	RB	_	5	advmod	5:advmod	_
+4	thereafter	thereafter	ADV	RB	_	5	advmod	5:advmod	_
+5	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	any	any	DET	DT	PronType=Ind	8	det	8:det	_
+7	real	real	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	cooperation	cooperation	NOUN	NN	Number=Sing	5	obj	5:obj	_
+9	from	from	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+11	cabinet	cabinet	NOUN	NN	Number=Sing	12	compound	12:compound	_
+12	officers	officer	NOUN	NNS	Number=Plur	8	nmod	8:nmod:from|15:nsubj	SpaceAfter=No
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	who	who	PRON	WP	PronType=Rel	15	nsubj	12:ref	_
+15	outranked	outrank	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	12:acl:relcl	Cxn=rc-wh-nsubj
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	SpaceAfter=No
+17	,	,	PUNCT	,	_	22	punct	22:punct	_
+18	and	and	CCONJ	CC	_	22	cc	22:cc	_
+19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
+20	could	could	AUX	MD	VerbForm=Fin	22	aux	22:aux	_
+21	not	not	PART	RB	_	22	advmod	22:advmod	_
+22	convince	convince	VERB	VB	VerbForm=Inf	5	conj	5:conj:and	_
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	iobj	22:iobj|25:nsubj:xsubj	_
+24	to	to	PART	TO	_	25	mark	25:mark	_
+25	go	go	VERB	VB	VerbForm=Inf	22	xcomp	22:xcomp	_
+26	to	to	ADP	IN	_	28	case	28:case	_
+27	battle	battle	NOUN	NN	Number=Sing	28	compound	28:compound	_
+28	stations	station	NOUN	NNS	Number=Plur	25	obl	25:obl:to	_
+29	in	in	ADP	IN	_	31	case	31:case	_
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	31:det	_
+31	summer	summer	NOUN	NN	Number=Sing	25	obl	25:obl:in	_
+32	of	of	ADP	IN	_	33	case	33:case	_
+33	2001	2001	NUM	CD	NumForm=Digit|NumType=Card	31	nmod	31:nmod:of	_
+34	when	when	ADV	WRB	PronType=Int	42	advmod	42:advmod	_
+35	George	George	PROPN	NNP	Number=Sing	38	nmod:poss	38:nmod:poss	_
+36-37	Tenet's	_	_	_	_	_	_	_	_
+36	Tenet	Tenet	PROPN	NNP	Number=Sing	35	flat	35:flat	_
+37	's	's	PART	POS	_	35	case	35:case	_
+38	hair	hair	NOUN	NN	Number=Sing	42	nsubj	42:nsubj	_
+39	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	42	cop	42:cop	_
+40	"	"	PUNCT	``	_	42	punct	42:punct	SpaceAfter=No
+41	on	on	ADP	IN	_	42	case	42:case	_
+42	fire	fire	NOUN	NN	Number=Sing	22	advcl	22:advcl:on	SpaceAfter=No
+43	"	"	PUNCT	''	_	42	punct	42:punct	_
+44	about	about	ADP	IN	_	47	case	47:case	_
+45	the	the	DET	DT	Definite=Def|PronType=Art	47	det	47:det	_
+46	excited	excited	ADJ	JJ	Degree=Pos	47	amod	47:amod	_
+47	chatter	chatter	NOUN	NN	Number=Sing	42	nmod	42:nmod:about|51:obj	_
+48	the	the	DET	DT	Definite=Def|PronType=Art	49	det	49:det	_
+49	CIA	CIA	PROPN	NNP	Number=Sing	51	nsubj	51:nsubj	_
+50	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	51	aux	51:aux	_
+51	picking	pick	VERB	VBG	Tense=Pres|VerbForm=Part	47	acl:relcl	47:acl:relcl	Cxn=rc-red-obj
+52	up	up	ADP	RP	_	51	compound:prt	51:compound:prt	_
+53	from	from	ADP	IN	_	56	case	56:case	_
+54	radical	radical	ADJ	JJ	Degree=Pos	56	amod	56:amod	_
+55	Islamist	Islamist	PROPN	NNP	Number=Sing	56	compound	56:compound	_
+56	terrorists	terrorist	NOUN	NNS	Number=Plur	51	obl	51:obl:from	SpaceAfter=No
+57	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = email-enronsent27_02-0012
+# text = I don't know if there is anything I can do but I'm always willing to help.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2-3	don't	_	_	_	_	_	_	_	_
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
+3	n't	not	PART	RB	_	4	advmod	4:advmod	_
+4	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	if	if	SCONJ	IN	_	7	mark	7:mark	_
+6	there	there	PRON	EX	_	7	expl	7:expl	_
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	4:ccomp	_
+8	anything	anything	PRON	NN	Number=Sing|PronType=Ind	7	nsubj	7:nsubj|11:obj	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	11:aux	_
+11	do	do	VERB	VB	VerbForm=Inf	8	acl:relcl	8:acl:relcl	Cxn=rc-red-obj
+12	but	but	CCONJ	CC	_	16	cc	16:cc	_
+13-14	I'm	_	_	_	_	_	_	_	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj|18:nsubj:xsubj	_
+14	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	16:cop	_
+15	always	always	ADV	RB	_	16	advmod	16:advmod	_
+16	willing	willing	ADJ	JJ	Degree=Pos	4	conj	4:conj:but	_
+17	to	to	PART	TO	_	18	mark	18:mark	_
+18	help	help	VERB	VB	VerbForm=Inf	16	xcomp	16:xcomp	SpaceAfter=No
+19	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = email-enronsent23_04-0008
+# text = However, do not purchase tickets until it is a done deal - a lesson I learned following the Ark game last season.
+1	However	however	ADV	RB	_	5	advmod	5:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	5:aux	_
+4	not	not	PART	RB	_	5	advmod	5:advmod	_
+5	purchase	purchase	VERB	VB	Mood=Imp|VerbForm=Fin	15	parataxis	15:parataxis	_
+6	tickets	ticket	NOUN	NNS	Number=Plur	5	obj	5:obj	_
+7	until	until	SCONJ	IN	_	12	mark	12:mark	_
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+11	done	done	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	deal	deal	NOUN	NN	Number=Sing	5	advcl	5:advcl:until	_
+13	-	-	PUNCT	,	_	5	punct	5:punct	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+15	lesson	lesson	NOUN	NN	Number=Sing	0	root	0:root|17:obj	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	17:nsubj	_
+17	learned	learn	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	acl:relcl	15:acl:relcl	Cxn=rc-red-obj
+18	following	follow	VERB	VBG	VerbForm=Ger	21	case	21:case	_
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+20	Ark	Ark	PROPN	NNP	Number=Sing	21	compound	21:compound	_
+21	game	game	NOUN	NN	Number=Sing	17	obl	17:obl:following	_
+22	last	last	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
+23	season	season	NOUN	NN	Number=Sing	21	nmod:tmod	21:nmod:tmod	SpaceAfter=No
+24	.	.	PUNCT	.	_	15	punct	15:punct	_
+
+# sent_id = email-enronsent18_01-0010
+# text = Grateful for any help or suggestions you could provide.
+1	Grateful	grateful	ADJ	JJ	Degree=Pos	0	root	0:root	_
+2	for	for	ADP	IN	_	4	case	4:case	_
+3	any	any	DET	DT	PronType=Ind	4	det	4:det	_
+4	help	help	NOUN	NN	Number=Sing	1	obl	1:obl:for|9:obj	_
+5	or	or	CCONJ	CC	_	6	cc	6:cc	_
+6	suggestions	suggestion	NOUN	NNS	Number=Plur	4	conj	1:obl:for|4:conj:or	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	9:nsubj	_
+8	could	could	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+9	provide	provide	VERB	VB	VerbForm=Inf	4	acl:relcl	4:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = email-enronsent29_02-0010
+# newpar id = email-enronsent29_02-p0005
+# text = Stacey here is the Master draft we discussed.
+1	Stacey	Stacey	PROPN	NNP	Number=Sing	2	vocative	2:vocative	_
+2	here	here	ADV	RB	PronType=Dem	0	root	0:root	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	2:cop	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	Master	master	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	draft	draft	NOUN	NN	Number=Sing	2	nsubj	2:nsubj|8:obj	_
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+8	discussed	discuss	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = email-enronsent29_02-0013
+# newpar id = email-enronsent29_02-p0007
+# text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchase agreements?
+1	Could	could	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
+2	one	one	NUM	CD	NumForm=Word|NumType=Card	6	nsubj	6:nsubj	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	nmod	2:nmod:of	_
+5	please	please	INTJ	UH	_	6	discourse	6:discourse	_
+6	email	email	VERB	VB	VerbForm=Inf	0	root	0:root	_
+7	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	iobj	6:iobj	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	copy	copy	NOUN	NN	Number=Sing	6	obj	6:obj	_
+10	of	of	ADP	IN	_	13	case	13:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	13:det	_
+12	standard	standard	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
+13	template	template	NOUN	NN	Number=Sing	9	nmod	9:nmod:of|15:obj	_
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	15:nsubj	_
+15	use	use	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	acl:relcl	13:acl:relcl	Cxn=rc-red-obj
+16	for	for	ADP	IN	_	20	case	20:case	_
+17	Enfolio	Enfolio	PROPN	NNP	Number=Sing	20	compound	20:compound	_
+18	gas	gas	NOUN	NN	Number=Sing	19	compound	19:compound	_
+19	purchase	purchase	NOUN	NN	Number=Sing	20	compound	20:compound	_
+20	agreements	agreement	NOUN	NNS	Number=Plur	15	obl	15:obl:for	SpaceAfter=No
+21	?	?	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = email-enronsent04_01-0027
+# text = I'm hearing some pretty depressing stuff from the people I know at ENE.
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	hearing	hear	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+4	some	some	DET	DT	PronType=Ind	7	det	7:det	_
+5	pretty	pretty	ADV	RB	_	6	advmod	6:advmod	_
+6	depressing	depressing	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	stuff	stuff	NOUN	NN	Number=Sing	3	obj	3:obj	_
+8	from	from	ADP	IN	_	10	case	10:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	people	people	NOUN	NNS	Number=Plur	3	obl	3:obl:from|12:obj	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
+12	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj
+13	at	at	ADP	IN	_	14	case	14:case	_
+14	ENE	ENE	PROPN	NNP	Number=Sing	12	obl	12:obl:at	SpaceAfter=No
+15	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = email-enronsent18_02-0010
+# newpar id = email-enronsent18_02-p0007
+# text = I just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	check	check	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	with	with	ADP	IN	_	7	case	7:case	_
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	5:obl:with	_
+8	regarding	regard	VERB	VBG	VerbForm=Ger	11	case	11:case	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	consulting	consulting	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	arrangement	arrangement	NOUN	NN	Number=Sing	5	obl	5:obl:regarding|13:obj	_
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	discussed	discuss	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-red-obj
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	15:det	_
+15	couple	couple	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	_
+16	of	of	ADP	IN	_	17	case	17:case	_
+17	weeks	week	NOUN	NNS	Number=Plur	15	nmod	15:nmod:of	_
+18	ago	ago	ADV	RB	_	13	advmod	13:advmod	SpaceAfter=No
+19	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = email-enronsent18_02-0016
+# newpar id = email-enronsent18_02-p0009
+# text = Did you have a chance to take a look at the resume I sent you?
+1	Did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	aux	3:aux	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	have	have	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	chance	chance	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	take	take	VERB	VB	VerbForm=Inf	5	acl	5:acl:to	_
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+9	look	look	NOUN	NN	Number=Sing	7	obj	7:obj	_
+10	at	at	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	resume	resume	NOUN	NN	Number=Sing	9	nmod	9:nmod:at|14:obj	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+14	sent	send	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	acl:relcl	12:acl:relcl	Cxn=rc-red-obj
+15	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	iobj	14:iobj	SpaceAfter=No
+16	?	?	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = email-enronsent18_02-0030
+# newpar id = email-enronsent18_02-p0014
+# text = Further to your call attached is a presentation I gave at the Canadian Risk Managers Conference in Edmonton in the fall of 2000.
+1	Further	further	ADV	RB	_	5	advmod	5:advmod	_
+2	to	to	ADP	IN	_	4	case	4:case	_
+3	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	call	call	NOUN	NN	Number=Sing	1	obl	1:obl:to	_
+5	attached	attach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+8	presentation	presentation	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass|10:obj	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+10	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	acl:relcl	8:acl:relcl	Cxn=rc-red-obj
+11	at	at	ADP	IN	_	16	case	16:case	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
+13	Canadian	Canadian	ADJ	NNP	Degree=Pos	16	amod	16:amod	_
+14	Risk	Risk	PROPN	NNP	Number=Sing	15	compound	15:compound	_
+15	Managers	Manager	PROPN	NNPS	Number=Plur	16	compound	16:compound	_
+16	Conference	Conference	PROPN	NNP	Number=Sing	10	obl	10:obl:at	_
+17	in	in	ADP	IN	_	18	case	18:case	_
+18	Edmonton	Edmonton	PROPN	NNP	Number=Sing	10	obl	10:obl:in	_
+19	in	in	ADP	IN	_	21	case	21:case	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	_
+21	fall	fall	NOUN	NN	Number=Sing	10	obl	10:obl:in	_
+22	of	of	ADP	IN	_	23	case	23:case	_
+23	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	21	nmod	21:nmod:of	SpaceAfter=No
+24	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = email-enronsent21_02-0016
+# text = Has that gone anywhere or are the other possibilities you had better?
+1	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
+3	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	anywhere	anywhere	ADV	RB	_	3	advmod	3:advmod	_
+5	or	or	CCONJ	CC	_	12	cc	12:cc	_
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	12:cop	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	possibilities	possibility	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj|11:obj	_
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	11:nsubj	_
+11	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	9	acl:relcl	9:acl:relcl	Cxn=rc-red-obj
+12	better	good	ADJ	JJR	Degree=Cmp	3	conj	3:conj:or	SpaceAfter=No
+13	?	?	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = newsgroup-groups.google.com_n3td3v_e874a1e5eb995654_ENG_20060120_052200-0007
+# text = Choose the news and sport headlines you want - when you want them, all in one daily e-mail
+1	Choose	choose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+3	news	news	NOUN	NN	Number=Sing	6	compound	6:compound	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	sport	sport	NOUN	NN	Number=Sing	3	conj	3:conj:and|6:compound	_
+6	headlines	headline	NOUN	NNS	Number=Plur	1	obj	1:obj|8:obj	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+8	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj
+9	-	-	PUNCT	,	_	12	punct	12:punct	_
+10	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	12:nsubj	_
+12	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	advcl	1:advcl:when	_
+13	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12	obj	12:obj	SpaceAfter=No
+14	,	,	PUNCT	,	_	19	punct	19:punct	_
+15	all	all	ADV	RB	_	19	advmod	19:advmod	_
+16	in	in	ADP	IN	_	19	case	19:case	_
+17	one	one	NUM	CD	NumForm=Word|NumType=Card	19	nummod	19:nummod	_
+18	daily	daily	ADJ	JJ	Degree=Pos	19	amod	19:amod	_
+19	e-mail	e-mail	NOUN	NN	Number=Sing	1	obl	1:obl:in	_
+
+# sent_id = newsgroup-groups.google.com_chantonline_3e01677617c74720_ENG_20060112_102000-0009
+# text = You can attach anything you write to pages for your local area, as well as to the 'issue' pages.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
+3	attach	attach	VERB	VB	VerbForm=Inf	0	root	0:root	_
+4	anything	anything	PRON	NN	Number=Sing|PronType=Ind	3	obj	3:obj|6:obj	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+6	write	write	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Cxn=rc-red-obj
+7	to	to	ADP	IN	_	8	case	8:case	_
+8	pages	page	NOUN	NNS	Number=Plur	3	obl	3:obl:to	_
+9	for	for	ADP	IN	_	12	case	12:case	_
+10	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+11	local	local	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	area	area	NOUN	NN	Number=Sing	8	nmod	8:nmod:for	SpaceAfter=No
+13	,	,	PUNCT	,	_	22	punct	22:punct	_
+14	as	as	ADV	RB	ExtPos=CCONJ	22	cc	22:cc	_
+15	well	well	ADV	RB	Degree=Pos	14	fixed	14:fixed	_
+16	as	as	ADP	IN	_	14	fixed	14:fixed	_
+17	to	to	ADP	IN	_	22	case	22:case	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	22	det	22:det	_
+19	'	'	PUNCT	``	_	20	punct	20:punct	SpaceAfter=No
+20	issue	issue	NOUN	NN	Number=Sing	22	compound	22:compound	SpaceAfter=No
+21	'	'	PUNCT	''	_	20	punct	20:punct	_
+22	pages	page	NOUN	NNS	Number=Plur	8	conj	3:obl:to|8:conj:as_well_as	SpaceAfter=No
+23	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_e21e429b3ad58235_ENG_20050830_214700-0003
+# text = U.S. astronauts will launch to the moon on sleek, single, shuttle booster rockets and the first new upper-stage rocket this country has developed in more than a decade, NASA and the Pentagon have told the White House.
+1	U.S.	U.S.	PROPN	NNP	Number=Sing	2	compound	2:compound	_
+2	astronauts	astronaut	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+4	launch	launch	VERB	VB	VerbForm=Inf	39	ccomp	39:ccomp	_
+5	to	to	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	moon	moon	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
+8	on	on	ADP	IN	_	15	case	15:case	_
+9	sleek	sleek	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+10	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	single	single	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
+12	,	,	PUNCT	,	_	11	punct	11:punct	_
+13	shuttle	shuttle	NOUN	NN	Number=Sing	14	compound	14:compound	_
+14	booster	booster	NOUN	NN	Number=Sing	15	compound	15:compound	_
+15	rockets	rocket	NOUN	NNS	Number=Plur	4	obl	4:obl:on	_
+16	and	and	CCONJ	CC	_	23	cc	23:cc	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+18	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	23	amod	23:amod	_
+19	new	new	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
+20	upper	upper	ADJ	JJ	Degree=Pos	22	amod	22:amod	SpaceAfter=No
+21	-	-	PUNCT	HYPH	_	20	punct	20:punct	SpaceAfter=No
+22	stage	stage	NOUN	NN	Number=Sing	23	compound	23:compound	_
+23	rocket	rocket	NOUN	NN	Number=Sing	15	conj	4:obl:on|15:conj:and|27:obj	_
+24	this	this	DET	DT	Number=Sing|PronType=Dem	25	det	25:det	_
+25	country	country	NOUN	NN	Number=Sing	27	nsubj	27:nsubj	_
+26	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	27:aux	_
+27	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part	23	acl:relcl	23:acl:relcl	Cxn=rc-red-obj
+28	in	in	ADP	IN	_	32	case	32:case	_
+29	more	more	ADJ	JJR	Degree=Cmp|ExtPos=ADV	32	advmod	32:advmod	_
+30	than	than	ADP	IN	_	29	fixed	29:fixed	_
+31	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	32:det	_
+32	decade	decade	NOUN	NN	Number=Sing	27	obl	27:obl:in	SpaceAfter=No
+33	,	,	PUNCT	,	_	4	punct	4:punct	_
+34	NASA	NASA	PROPN	NNP	Number=Sing	39	nsubj	39:nsubj	_
+35	and	and	CCONJ	CC	_	37	cc	37:cc	_
+36	the	the	DET	DT	Definite=Def|PronType=Art	37	det	37:det	_
+37	Pentagon	Pentagon	PROPN	NNP	Number=Sing	34	conj	34:conj:and|39:nsubj	_
+38	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux	39:aux	_
+39	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+40	the	the	DET	DT	Definite=Def|PronType=Art	42	det	42:det	_
+41	White	White	ADJ	NNP	Degree=Pos	42	amod	42:amod	_
+42	House	House	PROPN	NNP	Number=Sing	39	iobj	39:iobj	SpaceAfter=No
+43	.	.	PUNCT	.	_	39	punct	39:punct	_
+
+# sent_id = answers-20110101171252AA43jJo_ans-0002
+# newpar id = answers-20110101171252AA43jJo_ans-p0002
+# text = The Hank Green I know is hardly awesome.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	Hank	Hank	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj|5:obj	_
+3	Green	Green	PROPN	NNP	Number=Sing	2	flat	2:flat	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+5	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obj
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
+7	hardly	hardly	ADV	RB	_	8	advmod	8:advmod	_
+8	awesome	awesome	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = answers-20111024202518AA18Sg7_ans-0003
+# text = because all of the food blogs Ive read say so and I will travel from maryland if thats true
+1	because	because	SCONJ	IN	_	10	mark	10:mark	_
+2	all	all	DET	DT	PronType=Tot	10	nsubj	10:nsubj	_
+3	of	of	ADP	IN	_	6	case	6:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+5	food	food	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	blogs	blog	NOUN	NNS	Number=Plur	2	nmod	2:nmod:of|9:obj	_
+7-8	Ive	_	_	_	_	_	_	_	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+8	ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	9	aux	9:aux	CorrectForm='ve
+9	read	read	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj
+10	say	say	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+11	so	so	ADV	RB	_	10	advmod	10:advmod	_
+12	and	and	CCONJ	CC	_	15	cc	15:cc	_
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+14	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+15	travel	travel	VERB	VB	VerbForm=Inf	10	conj	10:conj:and	_
+16	from	from	ADP	IN	_	17	case	17:case	_
+17	maryland	Maryland	PROPN	NNP	Number=Sing	15	obl	15:obl:from	_
+18	if	if	SCONJ	IN	_	21	mark	21:mark	_
+19-20	thats	_	_	_	_	_	_	_	_
+19	that	that	PRON	DT	Number=Sing|PronType=Dem	21	nsubj	21:nsubj	_
+20	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	21	cop	21:cop	CorrectForm='s
+21	true	true	ADJ	JJ	Degree=Pos	15	advcl	15:advcl:if	_
+
+# newdoc id = answers-20111107163942AA08rP5_ans
+# sent_id = answers-20111107163942AA08rP5_ans-0001
+# newpar id = answers-20111107163942AA08rP5_ans-p0001
+# text = Name something you find at a carnival that comes on a stick?
+1	Name	name	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	something	something	PRON	NN	Number=Sing|PronType=Ind	1	obj	1:obj|4:obj|9:nsubj	_
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+4	find	find	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obj
+5	at	at	ADP	IN	_	7	case	7:case	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	carnival	carnival	NOUN	NN	Number=Sing	4	obl	4:obl:at	_
+8	that	that	PRON	WDT	PronType=Rel	9	nsubj	2:ref	_
+9	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-that-nsubj
+10	on	on	ADP	IN	_	12	case	12:case	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	_
+12	stick	stick	NOUN	NN	Number=Sing	9	obl	9:obl:on	SpaceAfter=No
+13	?	?	PUNCT	.	_	1	punct	1:punct	_
+
+# sent_id = answers-20111024111513AAAQhAO_ans-0002
+# newpar id = answers-20111024111513AAAQhAO_ans-p0002
+# text = What is the best pos system I can buy in philadelphia pa?
+1	What	what	PRON	WP	PronType=Int	6	nsubj	6:nsubj	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	best	good	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+5	pos	pos	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	system	system	NOUN	NN	Number=Sing	0	root	0:root|9:obj	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+8	can	can	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+9	buy	buy	VERB	VB	VerbForm=Inf	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	philadelphia	Philadelphia	PROPN	NNP	Number=Sing	9	obl	9:obl:in	_
+12	pa	PA	PROPN	NNP	Number=Sing	11	appos	11:appos	SpaceAfter=No
+13	?	?	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = answers-20111108083559AAp6Jfq_ans-0003
+# text = I'm planning on buying a compact system camera at best buy ; so please list the one(s) I should purchase.
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	3:aux	_
+3	planning	plan	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+4	on	on	SCONJ	IN	_	5	mark	5:mark	_
+5	buying	buy	VERB	VBG	VerbForm=Ger	3	advcl	3:advcl:on	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
+7	compact	compact	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
+8	system	system	NOUN	NN	Number=Sing	9	compound	9:compound	_
+9	camera	camera	NOUN	NN	Number=Sing	5	obj	5:obj	_
+10	at	at	ADP	IN	_	12	case	12:case	_
+11	best	good	ADJ	NNP	Degree=Sup	12	amod	12:amod	_
+12	buy	buy	PROPN	NNP	Number=Sing	5	obl	5:obl:at	_
+13	;	;	PUNCT	,	_	16	punct	16:punct	_
+14	so	so	ADV	RB	_	16	advmod	16:advmod	_
+15	please	please	INTJ	UH	_	16	discourse	16:discourse	_
+16	list	list	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	3:parataxis	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	one	one	NOUN	NN	Number=Sing	16	obj	16:obj|24:obj	SpaceAfter=No
+19	(	(	PUNCT	-LRB-	_	20	punct	20:punct	SpaceAfter=No
+20	s	s	X	AFX	_	18	compound	18:compound	SpaceAfter=No
+21	)	)	PUNCT	-RRB-	_	20	punct	20:punct	_
+22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	24:nsubj	_
+23	should	should	AUX	MD	VerbForm=Fin	24	aux	24:aux	_
+24	purchase	purchase	VERB	VB	VerbForm=Inf	18	acl:relcl	18:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = answers-20111106130843AA7yj7U_ans-0002
+# newpar id = answers-20111106130843AA7yj7U_ans-p0002
+# text = Hi, i'm looking to take myself and my best friend and his girl friend and this girl i really like out to dinner for my birthday.
+1	Hi	hi	INTJ	UH	_	5	discourse	5:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3-4	i'm	_	_	_	_	_	_	_	_
+3	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|7:nsubj:xsubj	_
+4	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+5	looking	look	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	take	take	VERB	VB	VerbForm=Inf	5	xcomp	5:xcomp	_
+8	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	obj	7:obj	_
+9	and	and	CCONJ	CC	_	12	cc	12:cc	_
+10	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	_
+11	best	good	ADJ	JJS	Degree=Sup	12	amod	12:amod	_
+12	friend	friend	NOUN	NN	Number=Sing	8	conj	7:obj|8:conj:and	_
+13	and	and	CCONJ	CC	_	16	cc	16:cc	_
+14	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+15	girl	girl	NOUN	NN	Number=Sing	16	compound	16:compound	_
+16	friend	friend	NOUN	NN	Number=Sing	8	conj	7:obj|8:conj:and	_
+17	and	and	CCONJ	CC	_	19	cc	19:cc	_
+18	this	this	DET	DT	Number=Sing|PronType=Dem	19	det	19:det	_
+19	girl	girl	NOUN	NN	Number=Sing	8	conj	7:obj|8:conj:and|22:obj	_
+20	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	22:nsubj	_
+21	really	really	ADV	RB	_	22	advmod	22:advmod	_
+22	like	like	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	acl:relcl	19:acl:relcl	Cxn=rc-red-obj
+23	out	out	ADP	RP	_	7	compound:prt	7:compound:prt	_
+24	to	to	ADP	IN	_	25	case	25:case	_
+25	dinner	dinner	NOUN	NN	Number=Sing	7	obl	7:obl:to	_
+26	for	for	ADP	IN	_	28	case	28:case	_
+27	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	28	nmod:poss	28:nmod:poss	_
+28	birthday	birthday	NOUN	NN	Number=Sing	7	obl	7:obl:for	SpaceAfter=No
+29	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = answers-20111108105137AA9BNtk_ans-0005
+# text = It actually needs to be relatively waterproof - the last one I bought had me soaked in anything more than light/moderate rain.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj|7:nsubj:xsubj	_
+2	actually	actually	ADV	RB	_	3	advmod	3:advmod	_
+3	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	7	mark	7:mark	_
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
+6	relatively	relatively	ADV	RB	_	7	advmod	7:advmod	_
+7	waterproof	waterproof	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	_
+8	-	-	PUNCT	,	_	14	punct	14:punct	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
+10	last	last	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	one	one	NOUN	NN	Number=Sing	14	nsubj	13:obj|14:nsubj	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+13	bought	buy	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-red-obj
+14	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
+15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	14:obj|16:nsubj:xsubj	_
+16	soaked	soaked	ADJ	JJ	Degree=Pos	14	xcomp	14:xcomp	_
+17	in	in	ADP	IN	_	18	case	18:case	_
+18	anything	anything	PRON	NN	Number=Sing|PronType=Ind	16	obl	16:obl:in	_
+19	more	more	ADJ	JJR	Degree=Cmp	18	amod	18:amod	_
+20	than	than	ADP	IN	_	24	case	24:case	_
+21	light	light	ADJ	JJ	Degree=Pos	24	amod	24:amod	SpaceAfter=No
+22	/	/	PUNCT	,	_	21	punct	21:punct	SpaceAfter=No
+23	moderate	moderate	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+24	rain	rain	NOUN	NN	Number=Sing	19	obl	19:obl:than	SpaceAfter=No
+25	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = answers-20111108081911AAy6QeW_ans-0006
+# text = All you can do is take each section (individual video) and edit them together on software.
+1	All	all	DET	DT	PronType=Tot	6	nsubj:outer	4:obj|6:nsubj:outer|14:nsubj:outer	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
+3	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
+4	do	do	VERB	VB	VerbForm=Inf	1	acl:relcl	1:acl:relcl	Cxn=rc-red-obj
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+6	take	take	VERB	VB	VerbForm=Inf	0	root	0:root	_
+7	each	each	DET	DT	PronType=Tot	8	det	8:det	_
+8	section	section	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	(	(	PUNCT	-LRB-	_	11	punct	11:punct	SpaceAfter=No
+10	individual	individual	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	video	video	NOUN	NN	Number=Sing	8	appos	8:appos	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	11	punct	11:punct	_
+13	and	and	CCONJ	CC	_	14	cc	14:cc	_
+14	edit	edit	VERB	VB	VerbForm=Inf	6	conj	0:root|6:conj:and	_
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	14:obj	_
+16	together	together	ADV	RB	_	14	advmod	14:advmod	_
+17	on	on	ADP	IN	_	18	case	18:case	_
+18	software	software	NOUN	NN	Number=Sing	14	obl	14:obl:on	SpaceAfter=No
+19	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0002
+# newpar id = answers-20111107082312AAPNaxb_ans-p0002
+# text = I have a friend out in Chicago this week, and I am trying to remember the name of an awesome hibachi style restaurant i visited while out there a couple years ago.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	friend	friend	NOUN	NN	Number=Sing	2	obj	2:obj	_
+5	out	out	ADV	RB	_	4	advmod	4:advmod	_
+6	in	in	ADP	IN	_	7	case	7:case	_
+7	Chicago	Chicago	PROPN	NNP	Number=Sing	5	obl	5:obl:in	_
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	9:det	_
+9	week	week	NOUN	NN	Number=Sing	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
+10	,	,	PUNCT	,	_	14	punct	14:punct	_
+11	and	and	CCONJ	CC	_	14	cc	14:cc	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj|16:nsubj:xsubj	_
+13	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+14	trying	try	VERB	VBG	VerbForm=Ger	2	conj	2:conj:and	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	remember	remember	VERB	VB	VerbForm=Inf	14	xcomp	14:xcomp	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	name	name	NOUN	NN	Number=Sing	16	obj	16:obj	_
+19	of	of	ADP	IN	_	24	case	24:case	_
+20	an	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+21	awesome	awesome	ADJ	JJ	Degree=Pos	24	amod	24:amod	_
+22	hibachi	hibachi	NOUN	NN	Number=Sing	23	compound	23:compound	_
+23	style	style	NOUN	NN	Number=Sing	24	compound	24:compound	_
+24	restaurant	restaurant	NOUN	NN	Number=Sing	18	nmod	18:nmod:of|26:obj	_
+25	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	26:nsubj	_
+26	visited	visit	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	24	acl:relcl	24:acl:relcl	Cxn=rc-red-obj
+27	while	while	SCONJ	IN	_	29	mark	29:mark	_
+28	out	out	ADV	RB	_	29	advmod	29:advmod	_
+29	there	there	ADV	RB	PronType=Dem	26	advcl	26:advcl:while	_
+30	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	31:det	_
+31	couple	couple	NOUN	NN	Number=Sing	32	nmod:npmod	32:nmod:npmod	_
+32	years	year	NOUN	NNS	Number=Plur	33	obl:npmod	33:obl:npmod	_
+33	ago	ago	ADV	RB	_	26	advmod	26:advmod	SpaceAfter=No
+34	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = answers-20111107082312AAPNaxb_ans-0006
+# text = All-you can-eat style deal.
+1	All	all	DET	DT	PronType=Tot	7	compound	7:compound|6:obj	SpaceAfter=No
+2	-	-	PUNCT	HYPH	_	6	punct	6:punct	SpaceAfter=No
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	6:aux	SpaceAfter=No
+5	-	-	PUNCT	HYPH	_	4	punct	4:punct	SpaceAfter=No
+6	eat	eat	VERB	VB	VerbForm=Inf	1	acl:relcl	1:acl:relcl	Cxn=rc-red-obj
+7	style	style	NOUN	NN	Number=Sing	8	compound	8:compound	_
+8	deal	deal	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	8:punct	_
+
+# sent_id = answers-20111108102205AArwNzY_ans-0011
+# text = They gave the best service & rates I could find.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	gave	give	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	best	good	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
+5	service	service	NOUN	NN	Number=Sing	2	obj	2:obj|10:obj	_
+6	&	&	CCONJ	CC	_	7	cc	7:cc	_
+7	rates	rate	NOUN	NNS	Number=Plur	5	conj	2:obj|5:conj	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+9	could	could	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	find	find	VERB	VB	VerbForm=Inf	5	acl:relcl	5:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = answers-20111103205154AAOod9K_ans-0004
+# text = I just want a simple way to get a good deal to whatever Restaurant I want, whenever I want.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	simple	simple	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	way	way	NOUN	NN	Number=Sing	3	obj	3:obj	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	get	get	VERB	VB	VerbForm=Inf	6	acl	6:acl:to	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	good	good	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	deal	deal	NOUN	NN	Number=Sing	8	obj	8:obj	_
+12	to	to	ADP	IN	_	14	case	14:case	_
+13	whatever	whatever	DET	WDT	PronType=Int	14	det	14:det	_
+14	Restaurant	restaurant	NOUN	NN	Number=Sing	11	nmod	11:nmod:to|16:obj	_
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	_
+16	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	14:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+17	,	,	PUNCT	,	_	20	punct	20:punct	_
+18	whenever	whenever	ADV	WRB	PronType=Int	20	advmod	20:advmod	_
+19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	20:nsubj	_
+20	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	8:advcl	SpaceAfter=No
+21	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = answers-20111103205154AAOod9K_ans-0008
+# text = So you can pretty much get whatever deal you want anytime.
+1	So	so	ADV	RB	_	6	advmod	6:advmod	_
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+3	can	can	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
+4	pretty	pretty	ADV	RB	_	5	advmod	5:advmod	_
+5	much	much	ADV	RB	_	6	advmod	6:advmod	_
+6	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+7	whatever	whatever	DET	WDT	PronType=Int	8	det	8:det	_
+8	deal	deal	NOUN	NN	Number=Sing	6	obj	6:obj|10:obj	_
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
+10	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	Cxn=rc-red-obj
+11	anytime	anytime	NOUN	NN	Number=Sing	6	obl:tmod	6:obl:tmod	SpaceAfter=No
+12	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = answers-20111106230959AAuYQ5Q_ans-0004
+# text = Or how about visiting the Chicago Botanical Gardens and see the change of colors and enjoy the air, They also have many inside exhibits you might enjoy, food is pretty good to.
+1	Or	or	CCONJ	CC	_	2	cc	2:cc	_
+2	how	how	ADV	WRB	PronType=Int	0	root	0:root	_
+3	about	about	SCONJ	IN	_	4	mark	4:mark	_
+4	visiting	visit	VERB	VBG	VerbForm=Ger	2	advcl	2:advcl:about	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+6	Chicago	Chicago	PROPN	NNP	Number=Sing	8	compound	8:compound	_
+7	Botanical	Botanical	ADJ	NNP	Degree=Pos	8	amod	8:amod	_
+8	Gardens	Garden	PROPN	NNPS	Number=Plur	4	obj	4:obj	_
+9	and	and	CCONJ	CC	_	10	cc	10:cc	_
+10	see	see	VERB	VB	VerbForm=Inf	4	conj	2:advcl:about|4:conj:and	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
+12	change	change	NOUN	NN	Number=Sing	10	obj	10:obj	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	colors	color	NOUN	NNS	Number=Plur	12	nmod	12:nmod:of	_
+15	and	and	CCONJ	CC	_	16	cc	16:cc	_
+16	enjoy	enjoy	VERB	VB	VerbForm=Inf	10	conj	10:conj:and	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+18	air	air	NOUN	NN	Number=Sing	16	obj	16:obj	SpaceAfter=No
+19	,	,	PUNCT	,	_	22	punct	22:punct	_
+20	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	22:nsubj	_
+21	also	also	ADV	RB	_	22	advmod	22:advmod	_
+22	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	_
+23	many	many	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+24	inside	inside	ADJ	JJ	Degree=Pos	25	amod	25:amod	_
+25	exhibits	exhibit	NOUN	NNS	Number=Plur	22	obj	22:obj|28:obj	_
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	28	nsubj	28:nsubj	_
+27	might	might	AUX	MD	VerbForm=Fin	28	aux	28:aux	_
+28	enjoy	enjoy	VERB	VB	VerbForm=Inf	25	acl:relcl	25:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+29	,	,	PUNCT	,	_	33	punct	33:punct	_
+30	food	food	NOUN	NN	Number=Sing	33	nsubj	33:nsubj	_
+31	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	33:cop	_
+32	pretty	pretty	ADV	RB	_	33	advmod	33:advmod	_
+33	good	good	ADJ	JJ	Degree=Pos	2	parataxis	2:parataxis	_
+34	to	too	ADV	RB	Typo=Yes	33	advmod	33:advmod	CorrectForm=too|SpaceAfter=No
+35	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# newdoc id = reviews-255757
+# sent_id = reviews-255757-0001
+# newpar id = reviews-255757-p0001
+# text = they recovered the pics geeksquad deleted.
+1	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	recovered	recover	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+4	pics	pic	NOUN	NNS	Number=Plur	2	obj	2:obj|6:obj	_
+5	geeksquad	geeksquad	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+6	deleted	delete	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# newdoc id = reviews-174824
+# sent_id = reviews-174824-0001
+# newpar id = reviews-174824-p0001
+# text = Yeah they ruined some shirts I had too.
+1	Yeah	yeah	INTJ	UH	_	3	discourse	3:discourse	_
+2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
+3	ruined	ruin	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	some	some	DET	DT	PronType=Ind	5	det	5:det	_
+5	shirts	shirt	NOUN	NNS	Number=Plur	3	obj	3:obj|7:obj	_
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+7	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Cxn=rc-red-obj
+8	too	too	ADV	RB	_	3	advmod	3:advmod	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-104703-0002
+# text = Best pedi mani Ive ever had.
+1	Best	good	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
+2	pedi	pedi	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	mani	mani	NOUN	NN	Number=Sing	0	root	0:root|7:obj	_
+4-5	Ive	_	_	_	_	_	_	_	_
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+5	ve	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Typo=Yes|VerbForm=Fin	7	aux	7:aux	CorrectForm='ve
+6	ever	ever	ADV	RB	_	7	advmod	7:advmod	_
+7	had	have	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	3:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-103878-0002
+# text = We honestly cannot think of even 1 thing we didn't like!
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+2	honestly	honestly	ADV	RB	_	5	advmod	5:advmod	_
+3-4	cannot	_	_	_	_	_	_	_	_
+3	can	can	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+4	not	not	PART	RB	_	5	advmod	5:advmod	_
+5	think	think	VERB	VB	VerbForm=Inf	0	root	0:root	_
+6	of	of	ADP	IN	_	9	case	9:case	_
+7	even	even	ADV	RB	_	9	advmod	9:advmod	_
+8	1	1	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
+9	thing	thing	NOUN	NN	Number=Sing	5	obl	5:obl:of|13:obj	_
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+11-12	didn't	_	_	_	_	_	_	_	_
+11	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	13	aux	13:aux	_
+12	n't	not	PART	RB	_	13	advmod	13:advmod	_
+13	like	like	VERB	VB	VerbForm=Inf	9	acl:relcl	9:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+14	!	!	PUNCT	.	_	5	punct	5:punct	_
+
+# newdoc id = reviews-396046
+# sent_id = reviews-396046-0001
+# newpar id = reviews-396046-p0001
+# text = Worst experience ever like a sardine can and the bartender downstairs is the rudest person I have ever met.
+1	Worst	bad	ADJ	JJS	Degree=Sup	2	amod	2:amod	_
+2	experience	experience	NOUN	NN	Number=Sing	0	root	0:root	_
+3	ever	ever	ADV	RB	_	2	advmod	2:advmod	_
+4	like	like	ADP	IN	_	7	case	7:case	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+6	sardine	sardine	NOUN	NN	Number=Sing	7	compound	7:compound	_
+7	can	can	NOUN	NN	Number=Sing	2	nmod	2:nmod:like	_
+8	and	and	CCONJ	CC	_	15	cc	15:cc	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	bartender	bartender	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	_
+11	downstairs	downstairs	ADV	RB	_	10	advmod	10:advmod	_
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	15:det	_
+14	rudest	rude	ADJ	JJS	Degree=Sup	15	amod	15:amod	_
+15	person	person	NOUN	NN	Number=Sing	2	conj	2:conj:and|19:obj	_
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	19:nsubj	_
+17	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux	19:aux	_
+18	ever	ever	ADV	RB	_	19	advmod	19:advmod	_
+19	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	15	acl:relcl	15:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# newdoc id = reviews-334928
+# sent_id = reviews-334928-0001
+# newpar id = reviews-334928-p0001
+# text = One of the better vegetarian sandwiches I've had in Seattle.
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
+2	of	of	ADP	IN	_	6	case	6:case	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	better	good	ADJ	JJR	Degree=Cmp	6	amod	6:amod	_
+5	vegetarian	vegetarian	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	sandwiches	sandwich	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of|9:obj	_
+7-8	I've	_	_	_	_	_	_	_	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+8	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
+9	had	have	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	Seattle	Seattle	PROPN	NNP	Number=Sing	9	obl	9:obl:in	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# newdoc id = reviews-314024
+# sent_id = reviews-314024-0001
+# newpar id = reviews-314024-p0001
+# text = Old time grocery, best steaks I have ever had!
+1	Old	old	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	time	time	NOUN	NN	Number=Sing	3	compound	3:compound	_
+3	grocery	grocery	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	,	_	6	punct	6:punct	_
+5	best	good	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+6	steaks	steak	NOUN	NNS	Number=Plur	3	appos	3:appos|10:obj	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+8	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+9	ever	ever	ADV	RB	_	10	advmod	10:advmod	_
+10	had	have	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+11	!	!	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-128808-0003
+# text = The best darlington has to offer in contemporary sandwicheering.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	best	good	ADJ	JJS	Degree=Sup	0	root	0:root|4:obj	_
+3	darlington	darlington	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	_
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obj
+5	to	to	PART	TO	_	6	mark	6:mark	_
+6	offer	offer	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
+7	in	in	ADP	IN	_	9	case	9:case	_
+8	contemporary	contemporary	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	sandwicheering	sandwicheering	NOUN	NN	Number=Sing	6	obl	6:obl:in	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = reviews-181696-0002
+# newpar id = reviews-181696-p0002
+# text = The only 10.0 "Perfect Score" AVVO Rated Attorney I Have Ever Met.
+1	The	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+2	only	only	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
+3	10.0	10.0	NUM	CD	NumForm=Digit|NumType=Frac	10	nummod	10:nummod	_
+4	"	"	PUNCT	``	_	6	punct	6:punct	SpaceAfter=No
+5	Perfect	perfect	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	Score	score	NOUN	NN	Number=Sing	10	compound	10:compound	SpaceAfter=No
+7	"	"	PUNCT	''	_	6	punct	6:punct	_
+8	AVVO	AVVO	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+9	Rated	rate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	amod	10:amod	_
+10	Attorney	attorney	NOUN	NN	Number=Sing	0	root	0:root|14:obj	_
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+12	Have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
+13	Ever	ever	ADV	RB	_	14	advmod	14:advmod	_
+14	Met	meet	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+15	.	.	PUNCT	.	_	10	punct	10:punct	_
+
+# sent_id = reviews-101864-0002
+# newpar id = reviews-101864-p0002
+# text = I have no complaints about the service I received.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	no	no	DET	DT	PronType=Neg	4	det	4:det	_
+4	complaints	complaint	NOUN	NNS	Number=Plur	2	obj	2:obj	_
+5	about	about	ADP	IN	_	7	case	7:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	service	service	NOUN	NN	Number=Sing	4	nmod	4:nmod:about|9:obj	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+9	received	receive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	SpaceAfter=No
+
+# newdoc id = reviews-060396
+# sent_id = reviews-060396-0001
+# newpar id = reviews-060396-p0001
+# text = The best Thai food I've ever had in Australia, very fresh and so much favor of authentic Thai .
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+2	best	good	ADJ	JJS	Degree=Sup	4	amod	4:amod	_
+3	Thai	Thai	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+4	food	food	NOUN	NN	Number=Sing	0	root	0:root|8:obj	_
+5-6	I've	_	_	_	_	_	_	_	_
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+6	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	ever	ever	ADV	RB	_	8	advmod	8:advmod	_
+8	had	have	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	Cxn=rc-red-obj
+9	in	in	ADP	IN	_	10	case	10:case	_
+10	Australia	Australia	PROPN	NNP	Number=Sing	8	obl	8:obl:in	SpaceAfter=No
+11	,	,	PUNCT	,	_	13	punct	13:punct	_
+12	very	very	ADV	RB	_	13	advmod	13:advmod	_
+13	fresh	fresh	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	_
+14	and	and	CCONJ	CC	_	17	cc	17:cc	_
+15	so	so	ADV	RB	_	16	advmod	16:advmod	_
+16	much	much	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	favor	favor	NOUN	NN	Number=Sing	13	conj	13:conj:and	_
+18	of	of	ADP	IN	_	20	case	20:case	_
+19	authentic	authentic	ADJ	JJ	Degree=Pos	20	amod	20:amod	_
+20	Thai	Thai	ADJ	JJ	Degree=Pos	17	nmod	17:nmod:of	_
+21	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = reviews-080814-0002
+# text = These guys really know their stuff .. they have almost anything you could want in terms of spy and surviellance equipment.
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	2:det	_
+2	guys	guy	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+3	really	really	ADV	RB	_	4	advmod	4:advmod	_
+4	know	know	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+6	stuff	stuff	NOUN	NN	Number=Sing	4	obj	4:obj	_
+7	..	..	PUNCT	,	_	9	punct	9:punct	_
+8	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+9	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
+10	almost	almost	ADV	RB	_	11	advmod	11:advmod	_
+11	anything	anything	PRON	NN	Number=Sing|PronType=Ind	9	obj	9:obj|14:obj	_
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	14:nsubj	_
+13	could	could	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+14	want	want	VERB	VB	VerbForm=Inf	11	acl:relcl	11:acl:relcl	Cxn=rc-red-obj
+15	in	in	ADP	IN	_	16	case	16:case	_
+16	terms	term	NOUN	NNS	Number=Plur	14	obl	14:obl:in	_
+17	of	of	ADP	IN	_	21	case	21:case	_
+18	spy	spy	NOUN	NN	Number=Sing	21	compound	21:compound	_
+19	and	and	CCONJ	CC	_	20	cc	20:cc	_
+20	surviellance	surveillance	NOUN	NN	Number=Sing|Typo=Yes	18	conj	18:conj:and|21:compound	CorrectForm=surveillance
+21	equipment	equipment	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	SpaceAfter=No
+22	.	.	PUNCT	.	_	4	punct	4:punct	_
+
+# sent_id = reviews-186235-0002
+# text = i wish the other utilities i had to set up had people to work with like this..
+1	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	wish	wish	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+5	utilities	utility	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|9:obl|7:obj	_
+6	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|9:nsubj:xsubj	_
+7	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Cxn=rc-red-obl_xcomp
+8	to	to	PART	TO	_	9	mark	9:mark	_
+9	set	set	VERB	VB	VerbForm=Inf	7	xcomp	7:xcomp	_
+10	up	up	ADP	RP	_	9	compound:prt	9:compound:prt	_
+11	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	_
+12	people	people	NOUN	NNS	Number=Plur	11	obj	11:obj	_
+13	to	to	PART	TO	_	14	mark	14:mark	_
+14	work	work	VERB	VB	VerbForm=Inf	12	acl	12:acl:to	_
+15	with	with	ADP	IN	_	14	obl	14:obl	Promoted=Yes
+16	like	like	ADP	IN	_	17	case	17:case	_
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	12	nmod	12:nmod:like	SpaceAfter=No
+18	..	..	PUNCT	.	_	2	punct	2:punct	_
+
+# sent_id = reviews-332068-0002
+# text = his clinic is very very dirty he is a real disaster to go totally not organized for every step he take .
+1	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	clinic	clinic	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+4	very	very	ADV	RB	_	5	advmod	5:advmod	_
+5	very	very	ADV	RB	_	6	advmod	6:advmod	_
+6	dirty	dirty	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|16:nsubj	_
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	real	real	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	disaster	disaster	NOUN	NN	Number=Sing	6	parataxis	6:parataxis	_
+12	to	to	PART	TO	_	13	mark	13:mark	_
+13	go	go	VERB	VB	VerbForm=Inf	11	advcl	11:advcl:to	_
+14	totally	totally	ADV	RB	_	16	advmod	16:advmod	_
+15	not	not	PART	RB	_	16	advmod	16:advmod	_
+16	organized	organized	ADJ	JJ	Degree=Pos	11	conj	11:conj	_
+17	for	for	ADP	IN	_	19	case	19:case	_
+18	every	every	DET	DT	PronType=Tot	19	det	19:det	_
+19	step	step	NOUN	NN	Number=Sing	16	obl	16:obl:for|21:obj	_
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	_
+21	take	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	19	acl:relcl	19:acl:relcl	CorrectForm=takes|Cxn=rc-red-obj
+22	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = reviews-045972-0002
+# newpar id = reviews-045972-p0002
+# text = I just wanted to try your clinic because I was not totally happy with my current therapist I regularly see.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	try	try	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
+6	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	clinic	clinic	NOUN	NN	Number=Sing	5	obj	5:obj	_
+8	because	because	SCONJ	IN	_	13	mark	13:mark	_
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	13:cop	_
+11	not	not	PART	RB	_	13	advmod	13:advmod	_
+12	totally	totally	ADV	RB	_	13	advmod	13:advmod	_
+13	happy	happy	ADJ	JJ	Degree=Pos	3	advcl	3:advcl:because	_
+14	with	with	ADP	IN	_	17	case	17:case	_
+15	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+16	current	current	ADJ	JJ	Degree=Pos	17	amod	17:amod	_
+17	therapist	therapist	NOUN	NN	Number=Sing	13	obl	13:obl:with|20:obj	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	20:nsubj	_
+19	regularly	regularly	ADV	RB	_	20	advmod	20:advmod	_
+20	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+21	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-024306-0002
+# newpar id = reviews-024306-p0002
+# text = This place had the worst tasting pizza I have ever tasted it was possible the worst food I've ever eaten.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	2:det	_
+2	place	place	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
+3	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+5	worst	bad	ADV	RBS	Degree=Sup	6	advmod	6:advmod	_
+6	tasting	taste	VERB	VBG	VerbForm=Ger	7	amod	7:amod	_
+7	pizza	pizza	NOUN	NN	Number=Sing	3	obj	3:obj|11:obj	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
+9	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
+10	ever	ever	ADV	RB	_	11	advmod	11:advmod	_
+11	tasted	taste	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	7:acl:relcl	Cxn=rc-red-obj
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	17:cop	_
+14	possible	possibly	ADV	RB	Typo=Yes	17	advmod	17:advmod	CorrectForm=possibly
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+16	worst	bad	ADJ	JJS	Degree=Sup	17	amod	17:amod	_
+17	food	food	NOUN	NN	Number=Sing	3	parataxis	3:parataxis|21:obj	_
+18-19	I've	_	_	_	_	_	_	_	_
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	21:nsubj	_
+19	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux	21:aux	_
+20	ever	ever	ADV	RB	_	21	advmod	21:advmod	_
+21	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-257735-0002
+# newpar id = reviews-257735-p0002
+# text = The bartender is a douchebag and he has a little console behind the bar where he can delete songs he doesn't like, and you end up paying for it.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	bartender	bartender	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
+5	douchebag	douchebag	NOUN	NN	Number=Sing	0	root	0:root	_
+6	and	and	CCONJ	CC	_	8	cc	8:cc	_
+7	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+8	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	_
+10	little	little	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+11	console	console	NOUN	NN	Number=Sing	8	obj	8:obj|18:obl	_
+12	behind	behind	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	_
+14	bar	bar	NOUN	NN	Number=Sing	11	nmod	11:nmod:behind	_
+15	where	where	ADV	WRB	PronType=Rel	18	advmod	11:ref	_
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	_
+17	can	can	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
+18	delete	delete	VERB	VB	VerbForm=Inf	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-obl
+19	songs	song	NOUN	NNS	Number=Plur	18	obj	18:obj|23:obj	_
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	_
+21-22	doesn't	_	_	_	_	_	_	_	_
+21	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	23:aux	_
+22	n't	not	PART	RB	_	23	advmod	23:advmod	_
+23	like	like	VERB	VB	VerbForm=Inf	19	acl:relcl	19:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+24	,	,	PUNCT	,	_	27	punct	27:punct	_
+25	and	and	CCONJ	CC	_	27	cc	27:cc	_
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	nsubj	27:nsubj|29:nsubj:xsubj	_
+27	end	end	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	5:conj:and	_
+28	up	up	ADP	RP	_	27	compound:prt	27:compound:prt	_
+29	paying	pay	VERB	VBG	VerbForm=Ger	27	xcomp	27:xcomp	_
+30	for	for	ADP	IN	_	31	case	31:case	_
+31	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	obl	29:obl:for	SpaceAfter=No
+32	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# sent_id = reviews-030430-0004
+# text = Edit was the best massage therapist I've ever had and I would HIGHLY recommend her!
+1	Edit	Edit	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
+4	best	good	ADJ	JJS	Degree=Sup	6	amod	6:amod	_
+5	massage	massage	NOUN	NN	Number=Sing	6	compound	6:compound	_
+6	therapist	therapist	NOUN	NN	Number=Sing	0	root	0:root|10:obj	_
+7-8	I've	_	_	_	_	_	_	_	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
+8	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+9	ever	ever	ADV	RB	_	10	advmod	10:advmod	_
+10	had	have	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	Cxn=rc-red-obj
+11	and	and	CCONJ	CC	_	15	cc	15:cc	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	15:nsubj	_
+13	would	would	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
+14	HIGHLY	highly	ADV	RB	_	15	advmod	15:advmod	_
+15	recommend	recommend	VERB	VB	VerbForm=Inf	6	conj	6:conj:and	_
+16	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	obj	15:obj	SpaceAfter=No
+17	!	!	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = reviews-122564-0003
+# text = too many bugs some you even never seen before.
+1	too	too	ADV	RB	_	2	advmod	2:advmod	_
+2	many	many	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	bugs	bug	NOUN	NNS	Number=Plur	0	root	0:root	_
+4	some	some	DET	DT	PronType=Ind	3	appos	3:appos|8:obj	_
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+6	even	even	ADV	RB	_	8	advmod	8:advmod	_
+7	never	never	ADV	RB	_	8	advmod	8:advmod	_
+8	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	Cxn=rc-red-obj
+9	before	before	ADV	RB	_	8	advmod	8:advmod	SpaceAfter=No
+10	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-254908-0002
+# text = The price they gave was good so I said hey this seems great.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	_
+2	price	price	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|4:obj	_
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+4	gave	give	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	2:acl:relcl	Cxn=rc-red-obj
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+6	good	good	ADJ	JJ	Degree=Pos	0	root	0:root	_
+7	so	so	ADV	RB	_	9	mark	9:mark	_
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	advcl	6:advcl:so	_
+10	hey	hey	INTJ	UH	_	12	discourse	12:discourse	_
+11	this	this	PRON	DT	Number=Sing|PronType=Dem	12	nsubj	12:nsubj|13:nsubj:xsubj	_
+12	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	9:ccomp	_
+13	great	great	ADJ	JJ	Degree=Pos	12	xcomp	12:xcomp	SpaceAfter=No
+14	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = reviews-235190-0003
+# text = I just give them guide and they can find anything they need.
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	just	just	ADV	RB	_	3	advmod	3:advmod	_
+3	give	give	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	iobj	3:iobj	_
+5	guide	guide	NOUN	NN	Number=Sing	3	obj	3:obj	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
+8	can	can	AUX	MD	VerbForm=Fin	9	aux	9:aux	_
+9	find	find	VERB	VB	VerbForm=Inf	3	conj	3:conj:and	_
+10	anything	anything	PRON	NN	Number=Sing|PronType=Ind	9	obj	9:obj|12:obj	_
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+12	need	need	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# sent_id = reviews-229442-0003
+# text = While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels
+1	While	while	SCONJ	IN	_	5	mark	5:mark	_
+2	other	other	ADJ	JJ	Degree=Pos	5	nsubj	5:nsubj	_
+3	may	may	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
+5	ok	ok	ADJ	JJ	Degree=Pos	14	advcl	14:advcl:while	_
+6	waiting	wait	VERB	VBG	VerbForm=Ger	5	advcl	5:advcl	_
+7	in	in	ADP	IN	_	8	case	8:case	_
+8	line	line	NOUN	NN	Number=Sing	6	obl	6:obl:in	_
+9	at	at	ADP	IN	_	11	case	11:case	_
+10	Town	Town	PROPN	NNP	Number=Sing	11	compound	11:compound	_
+11	Bagel	Bagel	PROPN	NNP	Number=Sing	6	obl	6:obl:at	_
+12	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	14:nsubj	_
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
+14	happy	happy	ADJ	JJ	Degree=Pos	0	root	0:root	_
+15	with	with	ADP	IN	_	17	case	17:case	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
+17	quality	quality	NOUN	NN	Number=Sing	14	obl	14:obl:with|21:obj	_
+18	and	and	CCONJ	CC	_	19	cc	19:cc	_
+19	service	service	NOUN	NN	Number=Sing	17	conj	14:obl:with|17:conj:and	_
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	21:nsubj	_
+21	get	get	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obj
+22	at	at	ADP	IN	_	24	case	24:case	_
+23	Family	Family	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+24	Bagels	Bagel	PROPN	NNPS	Number=Plur	21	obl	21:obl:at	_
+
