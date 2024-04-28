@@ -28,7 +28,7 @@ First, go to the ```eud_ewt```folder and you will find the following documents.
 - ```eud_ewt_{dev,test,train}.conllu``` are the post-processed files that have the recovered eud annotation.
 - ```rc-types.py```: the script used to classify sentences based on their eud annotations (which means for the reduced relative clauses, the Cxn value in the misc column will be xxx-red-missingdep-xxx.
 
-- ```rrc-types.py```: the script used to classify reduced relative clauses. The output is stored in the ``eud_train/dev/test`` folders (each folder contains necessary documents for each split of the EWT treebank)
+- ```rrc-types.py```: the script used to classify reduced relative clauses. The output is stored in the ``eud_{train,dev,test}`` folders (each folder contains necessary documents for each split of the EWT treebank)
 
 - ```verb_transitivity.tsv```: the tsv file that contains verb transitivity information. 
 	
