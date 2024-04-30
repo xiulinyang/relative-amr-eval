@@ -457,6 +457,62 @@
 14	grow	grow	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
 15	!	!	PUNCT	.	_	7	punct	7:punct	_
 
+# sent_id = newsgroup-groups.google.com_RagnarokOnlineII_acbece2a311cfb3c_ENG_20051119_076100-0002
+# text = lol, last news message came out kinda weird, i was trying to browse the japanese website while i changed the text iwas supposed to put up but i ran out of time so there are no real pictures yet... but i'll add the links soon sry.
+1	lol	lol	INTJ	UH	_	6	discourse	6:discourse	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3	last	last	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
+4	news	news	NOUN	NN	Number=Sing	5	compound	5:compound	_
+5	message	message	NOUN	NN	Number=Sing	6	nsubj	6:nsubj|9:nsubj:xsubj	_
+6	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	out	out	ADV	RP	_	6	compound:prt	6:compound:prt	_
+8	kinda	kinda	ADV	RB	_	9	advmod	9:advmod	_
+9	weird	weird	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	SpaceAfter=No
+10	,	,	PUNCT	,	_	13	punct	13:punct	_
+11	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj|15:nsubj:xsubj	_
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	13:aux	_
+13	trying	try	VERB	VBG	VerbForm=Ger	6	parataxis	6:parataxis	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	browse	browse	VERB	VB	VerbForm=Inf	13	xcomp	13:xcomp	_
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
+17	japanese	Japanese	ADJ	JJ	Degree=Pos	18	amod	18:amod	_
+18	website	website	NOUN	NN	Number=Sing	15	obj	15:obj	_
+19	while	while	SCONJ	IN	_	21	mark	21:mark	_
+20	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	21:nsubj	_
+21	changed	change	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	advcl	15:advcl:while	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+23	text	text	NOUN	NN	Number=Sing	21	obj	21:obj|26:obj	_
+24	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj:pass	26:nsubj:pass|28:nsubj:xsubj	CorrectSpaceAfter=Yes|SpaceAfter=No
+25	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux:pass	26:aux:pass	_
+26	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	acl:relcl	23:acl:relcl	Cxn=rc-red-obj
+27	to	to	PART	TO	_	28	mark	28:mark	_
+28	put	put	VERB	VB	VerbForm=Inf	26	xcomp	26:xcomp	_
+29	up	up	ADV	RB	_	28	advmod	28:advmod	_
+30	but	but	CCONJ	CC	_	32	cc	32:cc	_
+31	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	32	nsubj	32:nsubj	_
+32	ran	run	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	conj	13:conj:but	_
+33	out	out	ADP	RP	_	32	compound:prt	32:compound:prt	_
+34	of	of	ADP	IN	_	35	case	35:case	_
+35	time	time	NOUN	NN	Number=Sing	32	obl	32:obl:of	_
+36	so	so	ADV	RB	_	38	advmod	38:advmod	_
+37	there	there	PRON	EX	_	38	expl	38:expl	_
+38	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	parataxis	32:parataxis	_
+39	no	no	DET	DT	PronType=Neg	41	det	41:det	_
+40	real	real	ADJ	JJ	Degree=Pos	41	amod	41:amod	_
+41	pictures	picture	NOUN	NNS	Number=Plur	38	nsubj	38:nsubj	_
+42	yet	yet	ADV	RB	_	38	advmod	38:advmod	SpaceAfter=No
+43	...	...	PUNCT	,	_	47	punct	47:punct	_
+44	but	but	CCONJ	CC	_	47	cc	47:cc	_
+45-46	i'll	_	_	_	_	_	_	_	_
+45	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	47	nsubj	47:nsubj	_
+46	'll	will	AUX	MD	VerbForm=Fin	47	aux	47:aux	_
+47	add	add	VERB	VB	VerbForm=Inf	13	conj	13:conj:but	_
+48	the	the	DET	DT	Definite=Def|PronType=Art	49	det	49:det	_
+49	links	link	NOUN	NNS	Number=Plur	47	obj	47:obj	_
+50	soon	soon	ADV	RB	Degree=Pos	47	advmod	47:advmod	_
+51	sry	sry	INTJ	UH	_	47	discourse	47:discourse	SpaceAfter=No
+52	.	.	PUNCT	.	_	6	punct	6:punct	_
+
 # sent_id = newsgroup-groups.google.com_alt.animals.cat_119630d7ce2d2e9c_ENG_20051107_021600-0008
 # text = cats react to the treatment they receive, they are not toys.
 1	cats	cat	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	_
@@ -547,6 +603,39 @@
 32	the	the	DET	DT	Definite=Def|PronType=Art	33	det	33:det	_
 33	airlines	airline	NOUN	NNS	Number=Plur	30	obl	30:obl:from	SpaceAfter=No
 34	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# sent_id = newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0008
+# text = It looks as if Hamas has thrown in the towel for this round, unable to take the beating the Israeli Defense Forces have unleashed upon this terrorist group.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	as	as	SCONJ	IN	_	7	mark	7:mark	_
+4	if	if	SCONJ	IN	_	7	mark	7:mark	_
+5	Hamas	Hamas	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	_
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+7	thrown	throw	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	2:advcl:if	_
+8	in	in	ADV	RB	_	7	advmod	7:advmod	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+10	towel	towel	NOUN	NN	Number=Sing	7	obj	7:obj	_
+11	for	for	ADP	IN	_	13	case	13:case	_
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	13:det	_
+13	round	round	NOUN	NN	Number=Sing	7	obl	7:obl:for	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	15:punct	_
+15	unable	unable	ADJ	JJ	Degree=Pos	7	parataxis	7:parataxis	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	take	take	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	_
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
+19	beating	beating	NOUN	NN	Number=Sing	17	obj	17:obj|25:obj	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	23	det	23:det	_
+21	Israeli	Israeli	ADJ	NNP	Degree=Pos	23	amod	23:amod	_
+22	Defense	Defense	PROPN	NNP	Number=Sing	23	compound	23:compound	_
+23	Forces	Force	PROPN	NNPS	Number=Plur	25	nsubj	25:nsubj	_
+24	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	25:aux	_
+25	unleashed	unleash	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	19:acl:relcl	Cxn=rc-red-obj
+26	upon	upon	ADP	IN	_	29	case	29:case	_
+27	this	this	DET	DT	Number=Sing|PronType=Dem	29	det	29:det	_
+28	terrorist	terrorist	NOUN	NN	Number=Sing	29	compound	29:compound	_
+29	group	group	NOUN	NN	Number=Sing	25	obl	25:obl:upon	SpaceAfter=No
+30	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 # sent_id = newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0020
 # text = Unless President Mahmoud Abbas steps in, Gaza will probably look like a battle field by the time Israel is done reminding Hamas of their critical error, although currently the only thing Abbas is doing is lashing out and refusing to take responsibility for his inability to act.
@@ -830,10 +919,10 @@
 7	anything	anything	PRON	NN	Number=Sing|PronType=Ind	6	obj	6:obj	_
 8	but	but	ADP	IN	_	10	case	10:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-10	hype	hype	NOUN	NN	Number=Sing	7	nmod	7:nmod:but|13:obl	_
+10	hype	hype	NOUN	NN	Number=Sing	7	nmod	7:nmod:but|13:obj	_
 11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	13:nsubj:pass	_
 12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
-13	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obl
+13	told	tell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj
 14	and	and	CCONJ	CC	_	16	cc	16:cc	_
 15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	_
 16	packages	package	NOUN	NNS	Number=Plur	10	conj	10:conj:and|18:obj	_

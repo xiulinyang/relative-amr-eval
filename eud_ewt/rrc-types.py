@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-PATH = 'eud_ewt_train'
+PATH = 'eud_ewt_dev'
 
 
 
