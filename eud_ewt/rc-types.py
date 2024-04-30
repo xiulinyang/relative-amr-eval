@@ -5,8 +5,8 @@ from tqdm import tqdm
 # Read a CONLL-U file
 
 doc = udapi.Document()
-PARENT_DIR = 'eud_ewt_dev'
-TO_SAVE_PATH = 'eud_ewt_dev.conllu'
+PARENT_DIR = 'eud_ewt_test'
+TO_SAVE_PATH = 'eud_ewt_test.conllu'
 doc.load_conllu(filename=f"{PARENT_DIR}/{TO_SAVE_PATH}")
 
 new_doc = udapi.Document()

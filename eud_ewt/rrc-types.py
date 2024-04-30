@@ -7,8 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-PATH = 'eud_ewt_dev'
-
+PATH = 'eud_ewt_test'
 
 
 def read_preannoated_sents(conllus):
@@ -26,6 +25,7 @@ def read_preannoated_sents(conllus):
 
     return relative_types, relative_clauses
 
+
 def write_to_conllu(conllu_file, redcl):
     with open(conllu_file, 'w') as conllu:
         for sent in redcl:
@@ -37,6 +37,7 @@ def write_to_conllu(conllu_file, redcl):
 #         new_depents=[x['id'] for x in sent if x['head'] in xcomp]
 #         all_depents.extend(new_depents)
 #         find_deps_xcomp(sent, new_depents, all_depents)
+
 
 def classify_relatives(relative_clauses):
     reduced_relative_clauses = []
