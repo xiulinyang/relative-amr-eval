@@ -1,0 +1,2910 @@
+# ::snt In the last decade, there has been a real and significant increase in childhood and, to a certain extent, adult carcinoma of the thyroid in contaminated regions of the former Soviet Union (Wi940) which should be attributed to the Chernobyl accident until proven otherwise .
+(p0 / increase-01
+    :ARG1 (p1 / and
+              :op1 (p2 / childhood)
+              :op2 (p3 / disease
+                       :wiki "Cancer"
+                       :name (p4 / name
+                                 :op1 "cancer")
+                       :mod (p5 / adult)
+                       :mod (p6 / thyroid)
+                       :degree (p7 / extent
+                                   :mod (p8 / certain))
+                       :location (p9 / region
+                                     :ARG1-of (p10 / contaminate-01)
+                                     :part-of (p11 / country
+                                                   :wiki "Soviet Union"
+                                                   :name (p12 / name
+                                                              :op1 "Soviet"
+                                                              :op2 "Union")
+                                                   :time (p13 / former)))))
+    :ARG1-of (p14 / real-04)
+    :ARG1-of (p15 / significant-02)
+    :time (p16 / before
+               :op1 (p17 / now)
+               :duration (p18 / temporal-quantity
+                              :quant 1
+                              :unit (p19 / decade)))
+    :ARG1-of (p20 / attribute-01
+                  :ARG2 (p21 / accident
+                             :location (p22 / facility
+                                            :wiki "Chernobyl Nuclear Power Plant"
+                                            :name (p23 / name
+                                                       :op1 "Chernobyl")))
+                  :ARG1-of (p24 / recommend-01)
+                  :time (p25 / until
+                             :op1 (p26 / prove-01
+                                       :ARG1 (p27 / have-polarity-91
+                                                  :ARG1 p0
+                                                  :ARG2 -)))))
+
+# ::snt The prestigious IAEA (International Atomic Energy Agency) published an early report on Chernobyl which was based on information from Russian sources and stated that there was no significant health effects .
+(p0 / publish-01
+    :ARG0 (p1 / organization
+              :wiki "International Atomic Energy Agency"
+              :name (p2 / name
+                        :op1 "IAEA")
+              :mod (p3 / prestigious)
+              :ARG1-of (p4 / mean-01
+                           :ARG2 (p5 / organization
+                                     :wiki "International Atomic Energy Agency"
+                                     :name (p6 / name
+                                               :op1 "International"
+                                               :op2 "Atomic"
+                                               :op3 "Energy"
+                                               :op4 "Agency"))))
+    :ARG1 (p7 / report-01
+              :ARG1 (p8 / facility
+                        :wiki "Chernobyl Nuclear Power Plant"
+                        :name (p9 / name
+                                  :op1 "Chernobyl"))
+              :time (p10 / early)
+              :ARG1-of (p11 / base-02
+                            :ARG2 (p12 / information
+                                       :source (p13 / source
+                                                    :mod (p14 / country
+                                                              :wiki "Russia"
+                                                              :name (p15 / name
+                                                                         :op1 "Russia")))))
+              :ARG0-of (p16 / state-01
+                            :ARG1 (p17 / affect-01
+                                       :polarity -
+                                       :ARG1 (p18 / health)
+                                       :ARG1-of (p19 / significant-02)))))
+
+# ::snt The dramatic increase in radiation-induced thyroid cancers in children and adolescents in Belarus, Russia, and Ukraine, which have been observed since 1991, continues to this day .
+(p0 / continue-01
+    :ARG1 (p1 / increase-01
+              :ARG1 (p2 / disease
+                        :wiki "Thyroid cancer"
+                        :name (p3 / name
+                                  :op1 "thyroid"
+                                  :op2 "cancer")
+                        :ARG1-of (p4 / induce-01
+                                     :ARG0 (p5 / radiate-01))
+                        :location (p6 / and
+                                      :op1 (p7 / child)
+                                      :op2 (p8 / adolescent)
+                                      :location (p9 / and
+                                                    :op1 (p10 / country
+                                                              :wiki "Belarus"
+                                                              :name (p11 / name
+                                                                         :op1 "Belarus"))
+                                                    :op2 (p12 / country
+                                                              :wiki "Russia"
+                                                              :name (p13 / name
+                                                                         :op1 "Russia"))
+                                                    :op3 (p14 / country
+                                                              :wiki "Ukraine"
+                                                              :name (p15 / name
+                                                                         :op1 "Ukraine")))))
+              :mod (p16 / dramatic)
+              :ARG1-of (p17 / observe-01
+                            :time (p18 / since
+                                       :op1 (p19 / date-entity
+                                                 :year 1991))))
+    :time (p20 / day
+               :mod (p21 / this)))
+
+# ::snt Israel's security interests are best served by peace with its neighbors, which can only be achieved by trading land for peace with the Palestinians .
+(p0 / serve-01
+    :ARG0 (p1 / peace
+              :accompanier (p2 / country
+                               :ARG1-of (p3 / neighbor-01
+                                            :ARG2 p8))
+              :ARG1-of (p4 / achieve-01
+                           :ARG1-of (p5 / possible-01)
+                           :manner (p6 / trade-01
+                                       :ARG1 (p7 / land)
+                                       :ARG3 (p8 / peace
+                                                 :prep-with (p9 / person
+                                                                :mod (p10 / country
+                                                                          :wiki "State of Palestine"
+                                                                          :name (p11 / name
+                                                                                     :op1 "Palestine"))))
+                                       :mod (p12 / only))))
+    :ARG1 (p13 / interest-01
+               :ARG1 (p14 / country
+                          :wiki "Israel"
+                          :name (p15 / name
+                                     :op1 "Israel"))
+               :ARG2 (p16 / security))
+    :ARG1-of (p17 / have-degree-91
+                  :ARG2 (p18 / good-02
+                             :ARG1 p0)
+                  :ARG3 (p19 / most)))
+
+# ::snt And this has already drawn protests from the Tamil National Alliance (TNA) which was backed by the LTTE in the April general elections held in Sri Lanka .
+(p0 / and
+    :op2 (p1 / draw-02
+             :ARG0 (p2 / this)
+             :ARG1 (p3 / protest-01
+                       :ARG0 (p4 / political-party
+                                 :wiki "Tamil National Alliance"
+                                 :name (p5 / name
+                                           :op1 "Tamil"
+                                           :op2 "National"
+                                           :op3 "Alliance")
+                                 :ARG1-of (p6 / back-01
+                                              :ARG0 (p7 / criminal-organization
+                                                        :wiki "Liberation Tigers of Tamil Eelam"
+                                                        :name (p8 / name
+                                                                  :op1 "LTTE"))
+                                              :time (p9 / elect-01
+                                                        :ARG1-of (p10 / general-02)
+                                                        :ARG1-of (p11 / hold-04
+                                                                      :location (p12 / country
+                                                                                     :wiki "Sri Lanka"
+                                                                                     :name (p13 / name
+                                                                                                :op1 "Sri"
+                                                                                                :op2 "Lanka")))
+                                                        :time (p14 / date-entity
+                                                                   :month 4)))))
+             :time (p15 / already)))
+
+# ::snt Kumaratunga's India tour preceded a three-day visit to Sri Lanka by Norwegian Foreign Minister Jan Petersen in a new bid to revive the peace talks that were supposed to follow a ceasefire that Oslo successfully brokered in February 2002 .
+(p0 / precede-01
+    :ARG1 (p1 / tour-01
+              :ARG0 (p2 / person
+                        :wiki "Rohan Kumaratunga"
+                        :name (p3 / name
+                                  :op1 "Kumaratunga"))
+              :ARG1 (p4 / country
+                        :wiki "India"
+                        :name (p5 / name
+                                  :op1 "India")))
+    :ARG2 (p6 / visit-01
+              :ARG0 (p7 / person
+                        :wiki "Jan Petersen"
+                        :name (p8 / name
+                                  :op1 "Jan"
+                                  :op2 "Petersen")
+                        :ARG0-of (p9 / have-org-role-91
+                                     :ARG1 (p10 / country
+                                                :wiki "Norway"
+                                                :name (p11 / name
+                                                           :op1 "Norway"))
+                                     :ARG2 (p12 / minister
+                                                :topic (p13 / foreign))))
+              :ARG1 (p14 / country
+                         :wiki "Sri Lanka"
+                         :name (p15 / name
+                                    :op1 "Sri"
+                                    :op2 "Lanka"))
+              :duration (p16 / temporal-quantity
+                             :quant 3
+                             :unit (p17 / day))
+              :purpose (p18 / bid-01
+                            :ARG0 p7
+                            :ARG1 (p19 / revive-01
+                                       :ARG0 p7
+                                       :ARG1 (p20 / talk-01
+                                                  :ARG1 (p21 / peace)
+                                                  :ARG1-of (p22 / suppose-02
+                                                                :ARG2 (p23 / follow-01
+                                                                           :ARG2 (p24 / cease-01
+                                                                                      :ARG1 (p25 / fire-01)
+                                                                                      :ARG1-of (p26 / broker-01
+                                                                                                    :ARG0 (p27 / city
+                                                                                                               :wiki "Oslo"
+                                                                                                               :name (p28 / name
+                                                                                                                          :op1 "Oslo"))
+                                                                                                    :ARG1-of (p29 / succeed-01)
+                                                                                                    :time (p30 / date-entity
+                                                                                                               :month 2
+                                                                                                               :year 2002)))))))
+                            :ARG1-of (p31 / new-01))))
+
+# ::snt And this has already drawn protests from the Tamil National Alliance (TNA) which was backed by the LTTE in the April general elections held in Sri Lanka .
+(p0 / and
+    :op2 (p1 / draw-02
+             :ARG0 (p2 / this)
+             :ARG1 (p3 / protest-01
+                       :ARG0 (p4 / political-party
+                                 :wiki "Tamil National Alliance"
+                                 :name (p5 / name
+                                           :op1 "Tamil"
+                                           :op2 "National"
+                                           :op3 "Alliance")
+                                 :ARG1-of (p6 / back-01
+                                              :ARG0 (p7 / criminal-organization
+                                                        :wiki "Liberation Tigers of Tamil Eelam"
+                                                        :name (p8 / name
+                                                                  :op1 "LTTE"))
+                                              :time (p9 / elect-01
+                                                        :ARG1-of (p10 / general-02)
+                                                        :ARG1-of (p11 / hold-04
+                                                                      :location (p12 / country
+                                                                                     :wiki "Sri Lanka"
+                                                                                     :name (p13 / name
+                                                                                                :op1 "Sri"
+                                                                                                :op2 "Lanka")))
+                                                        :time (p14 / date-entity
+                                                                   :month 4)))))
+             :time (p15 / already)))
+
+# ::snt India keeps what it has while Pakistan and China (which was gifted a slice of the territory three decades ago) do likewise .
+(p0 / contrast-01
+    :ARG1 (p1 / keep-01
+              :ARG0 (p2 / country
+                        :wiki "India"
+                        :name (p3 / name
+                                  :op1 "India"))
+              :ARG1 (p4 / thing
+                        :ARG1-of (p5 / have-03
+                                     :ARG0 p2)))
+    :ARG2 (p6 / do-02
+              :ARG0 (p7 / and
+                        :op1 (p8 / country
+                                 :wiki "Pakistan"
+                                 :name (p9 / name
+                                           :op1 "Pakistan"))
+                        :op2 (p10 / country
+                                  :wiki "China"
+                                  :name (p11 / name
+                                             :op1 "China"))
+                        :ARG1-of (p12 / gift-01
+                                      :ARG2 p2
+                                      :ARG3 (p13 / slice
+                                                 :part-of (p14 / territory))
+                                      :time (p15 / before
+                                                 :op1 (p16 / now)
+                                                 :quant (p17 / temporal-quantity
+                                                             :quant 3
+                                                             :unit (p18 / decade)))))
+              :ARG1 (p19 / likewise)))
+
+# ::snt Since then, India has talked peace while always signaling that only the status quo would be acceptable as a final settlement: a line of action that is followed in the case of disputes with China as well .
+(p0 / talk-01
+    :ARG0 (p1 / country
+              :wiki "India"
+              :name (p2 / name
+                        :op1 "India"))
+    :ARG1 (p3 / peace)
+    :time (p4 / since
+              :op1 (p5 / then))
+    :time (p6 / signal-07
+              :ARG0 p1
+              :ARG1 (p7 / accept-01
+                        :ARG1 (p8 / status-quo
+                                  :mod (p9 / only))
+                        :ARG3 (p10 / settle-02
+                                   :mod (p11 / final))
+                        :ARG1-of (p12 / mean-01
+                                      :ARG2 (p13 / line
+                                                 :mod (p14 / act-02)
+                                                 :ARG1-of (p15 / follow-02
+                                                               :time (p16 / dispute-01
+                                                                          :ARG0 p1
+                                                                          :ARG1 (p17 / country
+                                                                                     :wiki "China"
+                                                                                     :name (p18 / name
+                                                                                                :op1 "China"))
+                                                                          :mod (p19 / as-well))))))
+              :time (p20 / always)))
+
+# ::snt Hazim Al-Sha'lan, by the way, is the son of the late Sheikh of Al-Khaza'il in Diwaniya and has the potential to replace former information minister, M.S. Al-Sahaf, in his nonsensical media statements, which can be passed as jokes .
+(p0 / and
+    :op1 (p1 / have-rel-role-91
+             :ARG0 (p2 / person
+                       :wiki -
+                       :name (p3 / name
+                                 :op1 "Hazim"
+                                 :op2 "Al-Sha'lan"))
+             :ARG1 (p4 / person
+                       :wiki -
+                       :name (p5 / name
+                                 :op1 "Sheikh"
+                                 :op2 "of"
+                                 :op3 "Al-Khaza'il")
+                       :ARG1-of (p6 / late-03)
+                       :location (p7 / city
+                                     :wiki "Diwaniya"
+                                     :name (p8 / name
+                                               :op1 "Diwaniya")))
+             :ARG2 (p9 / son)
+             :mod (p10 / by-the-way))
+    :op2 (p11 / potential
+              :domain (p12 / replace-01
+                           :ARG0 p2
+                           :ARG1 (p13 / person
+                                      :wiki -
+                                      :name (p14 / name
+                                                 :op1 "M.S."
+                                                 :op2 "Al-Sahaf")
+                                      :ARG0-of (p15 / have-org-role-91
+                                                    :ARG2 (p16 / minister
+                                                               :topic (p17 / information))
+                                                    :time (p18 / former)))
+                           :ARG2 (p19 / state-01
+                                      :ARG0 p13
+                                      :mod (p20 / media)
+                                      :mod (p21 / nonsense)
+                                      :ARG1-of (p22 / pass-05
+                                                    :ARG2 (p23 / joke-01)
+                                                    :ARG1-of (p24 / possible-01))))))
+
+# ::snt Another bad step was the recent arrest of Sheikh Hassan Al-Lihabi, of the Lihaib tribe which is scattered between the governorates of Al-Anbar, Mosul and Salah Al-Din .
+(p0 / step-01
+    :ARG2 (p1 / arrest-01
+              :ARG1 (p2 / person
+                        :wiki -
+                        :name (p3 / name
+                                  :op1 "Sheikh"
+                                  :op2 "Hassan"
+                                  :op3 "Al-Lihabi")
+                        :ARG0-of (p4 / have-org-role-91
+                                     :ARG1 (p5 / tribe
+                                               :wiki "Lihaib"
+                                               :name (p6 / name
+                                                         :op1 "Lihaib")
+                                               :ARG1-of (p7 / scatter-01
+                                                            :ARG2 (p8 / between
+                                                                      :op1 (p9 / governorate
+                                                                               :wiki "Al-Anbar Governorate"
+                                                                               :name (p10 / name
+                                                                                          :op1 "Al-Anbar"))
+                                                                      :op2 (p11 / governorate
+                                                                                :wiki "Mosul"
+                                                                                :name (p12 / name
+                                                                                           :op1 "Mosul"))
+                                                                      :op3 (p13 / governorate
+                                                                                :wiki "Salah al-Din Governorate"
+                                                                                :name (p14 / name
+                                                                                           :op1 "Salah"
+                                                                                           :op2 "Al-Din")))))))
+              :time (p15 / recent))
+    :ARG1-of (p16 / bad-07)
+    :mod (p17 / another))
+
+# ::snt How Would You Like To Know How YOU Can Live In A Beautiful NEW House That Is Custom-Designed To YOUR Specifications.........And At NO COST To You ?
+(p0 / like-02
+    :ARG0 (p1 / you)
+    :ARG1 (p2 / know-01
+              :ARG0 p1
+              :ARG1 (p3 / thing
+                        :manner-of (p4 / possible-01
+                                       :ARG1 (p5 / live-01
+                                                 :ARG0 p1
+                                                 :location (p6 / house
+                                                               :ARG1-of (p7 / new-01)
+                                                               :ARG1-of (p8 / beautiful-02)
+                                                               :ARG1-of (p9 / design-01
+                                                                            :ARG3 (p10 / specification
+                                                                                       :poss p1)
+                                                                            :ARG1-of (p11 / customize-01)))
+                                                 :ARG1-of (p12 / cost-01
+                                                               :polarity -
+                                                               :ARG2 p1)))))
+    :manner (p13 / amr-unknown))
+
+# ::snt Like the tens of billions of dollars that have been "lost" in Iraq, planeloads of arms don't just "vanish"; not when the Pentagon contracts the work to an international criminal of Bout's untouchable stature .
+(p0 / contrast-01
+    :ARG1 (p1 / vanish-01
+              :polarity -
+              :ARG1 (p2 / planeload
+                        :consist-of (p3 / arm))
+              :mod (p4 / just)
+              :ARG1-of (p5 / resemble-01
+                           :ARG2 (p6 / lose-02
+                                     :ARG1 (p7 / multiple
+                                               :op1 (p8 / monetary-quantity
+                                                        :quant 1000000000
+                                                        :unit (p9 / dollar)))
+                                     :location (p10 / country
+                                                    :wiki "Iraq"
+                                                    :name (p11 / name
+                                                               :op1 "Iraq")))))
+    :ARG2 (p12 / vanish-01
+               :polarity -
+               :ARG1 p2
+               :time (p13 / contract-02
+                          :ARG0 (p14 / government-organization
+                                     :wiki "The Pentagon"
+                                     :name (p15 / name
+                                                :op1 "Pentagon"))
+                          :ARG1 (p16 / work-01)
+                          :ARG2 (p17 / person
+                                     :ARG0-of (p18 / criminal-03)
+                                     :mod (p19 / international)
+                                     :mod (p20 / stature
+                                               :ARG1-of (p21 / touch-01
+                                                             :ARG1-of (p22 / possible-01
+                                                                           :polarity -))
+                                               :poss (p23 / person
+                                                          :wiki "Boutros Boutros-Ghali"
+                                                          :name (p24 / name
+                                                                     :op1 "Bout")))))))
+
+# ::snt An altar cloth was draped over her half-naked body, which was posed as if she had been sexually assaulted .
+(p0 / wrap-01
+    :ARG1 (p1 / body
+              :part (p2 / naked
+                        :degree (p3 / half))
+              :poss (p4 / she)
+              :ARG1-of (p5 / pose-01
+                           :manner (p6 / assault-01
+                                       :ARG1 p4
+                                       :manner (p7 / sex-01
+                                                   :ARG1 p4))))
+    :ARG2 (p8 / cloth
+              :mod (p9 / altar)))
+
+# ::snt Afshari, who was posted in Germany and was responsible for receiving Mujahedeen children during the gulf war, said that when the German government tried to absorb Mujahedeen children into their education system, the Mujahedeen refused .
+(p0 / say-01
+    :ARG0 (p1 / person
+              :wiki -
+              :name (p2 / name
+                        :op1 "Afshari")
+              :ARG1-of (p3 / post-01
+                           :ARG2 (p4 / country
+                                     :wiki "Germany"
+                                     :name (p5 / name
+                                               :op1 "Germany")))
+              :ARG0-of (p6 / responsible-03
+                           :ARG1 (p7 / receive-01
+                                     :ARG0 p1
+                                     :ARG1 (p8 / child
+                                               :mod (p9 / organization
+                                                        :wiki "Mujahedin of Iran"
+                                                        :name (p10 / name
+                                                                   :op1 "Mujahedeen")))
+                                     :time (p11 / war
+                                                :wiki "Gulf War"
+                                                :name (p12 / name
+                                                           :op1 "Gulf"
+                                                           :op2 "War")))))
+    :ARG1 (p13 / refuse-01
+               :ARG0 p9
+               :time (p14 / try-01
+                          :ARG0 (p15 / government-organization
+                                     :ARG0-of (p16 / govern-01
+                                                   :ARG1 p4))
+                          :ARG1 (p17 / absorb-01
+                                     :ARG0 p15
+                                     :ARG1 p8
+                                     :ARG2 (p18 / system
+                                                :mod (p19 / educate-01)
+                                                :poss p15)))))
+
+# ::snt And all of this is happening in a region, which only 30 years ago, was believed to be the next wealthy part of the world, and in a Moslem area, which developed, at some point in history, one of the most advanced cultures in the world .
+(p0 / and
+    :op2 (p1 / this
+             :mod (p2 / all)
+             :location (p3 / and
+                           :op1 (p4 / region
+                                    :ARG1-of (p5 / believe-01
+                                                 :ARG2 (p6 / part
+                                                           :mod (p7 / wealth)
+                                                           :mod (p8 / next)
+                                                           :part-of (p9 / world)
+                                                           :domain p4)
+                                                 :time (p10 / before
+                                                            :op1 (p11 / now)
+                                                            :quant (p12 / temporal-quantity
+                                                                        :quant 30
+                                                                        :unit (p13 / year)
+                                                                        :mod (p14 / only)))))
+                           :op2 (p15 / area
+                                     :mod (p16 / religious-group
+                                               :wiki "Islam"
+                                               :name (p17 / name
+                                                          :op1 "Islam"))
+                                     :ARG0-of (p18 / develop-02
+                                                   :ARG1 (p19 / culture
+                                                              :ARG1-of (p20 / include-91
+                                                                            :ARG2 (p21 / culture
+                                                                                       :ARG1-of (p22 / have-degree-91
+                                                                                                     :ARG2 (p23 / advanced-02
+                                                                                                                :ARG1 p21)
+                                                                                                     :ARG3 (p24 / most)
+                                                                                                     :ARG5 (p25 / culture
+                                                                                                                :location (p26 / world))))))
+                                                   :time (p27 / point
+                                                              :mod (p28 / some)
+                                                              :part-of (p29 / history)))))))
+
+# ::snt International law does not know how to deal with a leader of murderers who is royally and comfortably hosted by a country, which pretends to condemn his acts or just claims to be too weak to arrest him .
+(p0 / know-01
+    :polarity -
+    :ARG0 (p1 / law
+              :mod (p2 / international))
+    :ARG1 (p3 / thing
+              :manner-of (p4 / deal-01
+                             :ARG0 p1
+                             :ARG1 (p5 / person
+                                       :ARG0-of (p6 / lead-02
+                                                    :ARG1 (p7 / person
+                                                              :ARG0-of (p8 / murder-01)))
+                                       :ARG1-of (p9 / host-01
+                                                    :ARG0 (p10 / country
+                                                               :ARG0-of (p11 / pretend-01
+                                                                             :ARG1 (p12 / condemn-01
+                                                                                        :ARG0 p10
+                                                                                        :ARG1 (p13 / act-02
+                                                                                                   :ARG0 p5)))
+                                                               :ARG0-of (p14 / comfortable-02))
+                                                    :manner (p15 / royal))
+                                       :ARG0-of (p16 / claim-01
+                                                     :ARG1 (p17 / have-degree-91
+                                                                :ARG1 p5
+                                                                :ARG2 (p18 / weak-02
+                                                                           :ARG1 p5)
+                                                                :ARG3 (p19 / too)
+                                                                :ARG6 (p20 / arrest-01
+                                                                           :ARG0 p10
+                                                                           :ARG1 p5))
+                                                     :mod (p21 / just))))))
+
+# ::snt Sufaat, according to both KSM and Hambali, did not have the virulent US Army Ames strain that would be used .
+(p0 / say-01
+    :ARG0 (p1 / and
+              :op1 (p2 / person
+                       :wiki -
+                       :name (p3 / name
+                                 :op1 "KSM"))
+              :op2 (p4 / person
+                       :wiki -
+                       :name (p5 / name
+                                 :op1 "Hambali")))
+    :ARG1 (p6 / have-03
+              :polarity -
+              :ARG0 (p7 / city
+                        :wiki "Sufaat"
+                        :name (p8 / name
+                                  :op1 "Sufaat"))
+              :ARG1 (p9 / strain
+                        :mod (p10 / virulent)
+                        :mod (p11 / facility
+                                  :wiki "Ames Research Center"
+                                  :name (p12 / name
+                                             :op1 "Ames")
+                                  :mod (p13 / military
+                                            :wiki "United States Army"
+                                            :name (p14 / name
+                                                       :op1 "US"
+                                                       :op2 "Army")))
+                        :ARG1-of (p15 / use-01))))
+
+# ::snt But if experience is any guide, nothing would stand in the way of Dr. Ayman Zawahiri's decade-long quest to weaponize and use anthrax against US targets that was described by one confidante to an Egyptian newspaper reporter .
+(p0 / contrast-01
+    :ARG2 (p1 / stand-11
+              :ARG0 (p2 / nothing)
+              :ARG1 (p3 / way)
+              :ARG2 (p4 / quest-01
+                        :ARG0 (p5 / person
+                                  :wiki "Ayman al-Zawahiri"
+                                  :name (p6 / name
+                                            :op1 "Ayman"
+                                            :op2 "Zawahiri")
+                                  :ARG0-of (p7 / have-org-role-91
+                                               :ARG2 (p8 / doctor)))
+                        :ARG1 (p9 / and
+                                  :op1 (p10 / weaponize-01
+                                            :ARG0 p5
+                                            :ARG1 (p11 / target
+                                                       :mod (p12 / country
+                                                                 :wiki "United States"
+                                                                 :name (p13 / name
+                                                                            :op1 "US"))))
+                                  :op2 (p14 / use-01
+                                            :ARG0 p5
+                                            :ARG1 (p15 / anthrax)))
+                        :ARG1-of (p16 / describe-01
+                                      :ARG0 (p17 / person
+                                                 :quant 1
+                                                 :ARG0-of (p18 / confide-01
+                                                               :ARG1 (p19 / person
+                                                                          :ARG0-of (p20 / report-01
+                                                                                        :ARG2 (p21 / newspaper
+                                                                                                   :mod (p22 / country
+                                                                                                             :wiki "Egypt"
+                                                                                                             :name (p23 / name
+                                                                                                                        :op1 "Egypt"))))))))
+                        :ARG1-of (p24 / long-03
+                                      :ARG2 (p25 / temporal-quantity
+                                                 :quant 1
+                                                 :unit (p26 / decade))))
+              :condition (p27 / guide-01
+                              :ARG0 (p28 / experience-01)
+                              :mod (p29 / any))))
+
+# ::snt In October 2001, did the FBI profilers know of the draft message Khalid Mohammed had on the seized laptop (from 1995) that was signed "Khalid Sheik Bojinka" ?
+(p0 / know-01
+    :ARG0 (p1 / person
+              :ARG0-of (p2 / profile-01)
+              :mod (p3 / government-organization
+                       :wiki "Federal Bureau of Investigation"
+                       :name (p4 / name
+                                 :op1 "FBI")))
+    :ARG1 (p5 / message
+              :ARG1-of (p6 / draft-01)
+              :ARG1-of (p7 / sign-01
+                           :ARG0 (p8 / person
+                                     :wiki -
+                                     :name (p9 / name
+                                               :op1 "Khalid"
+                                               :op2 "Sheik"
+                                               :op3 "Bojinka")))
+              :ARG1-of (p10 / have-03
+                            :ARG0 (p11 / person
+                                       :wiki -
+                                       :name (p12 / name
+                                                  :op1 "Khalid"
+                                                  :op2 "Mohammed"))
+                            :location (p13 / laptop
+                                           :ARG1-of (p14 / seize-01)
+                                           :time (p15 / date-entity
+                                                      :year 1995))))
+    :polarity (p16 / amr-unknown)
+    :time (p17 / date-entity
+               :month 10
+               :year 2001))
+
+# ::snt The same week, the WTC head testified that while they had not received any briefing on the use of planes, they had taken steps to prepare for an attack using anthrax based on intelligence that had been received .
+(p0 / testify-01
+    :ARG0 (p1 / person
+              :ARG0-of (p2 / head-01
+                           :ARG1 (p3 / building
+                                     :wiki "World Trade Center (1973–2001)"
+                                     :name (p4 / name
+                                               :op1 "World"
+                                               :op2 "Trade"
+                                               :op3 "Center"))))
+    :ARG1 (p5 / have-concession-91
+              :ARG1 (p6 / step-01
+                        :ARG1 p1
+                        :ARG2 (p7 / prepare-02
+                                  :ARG0 p1
+                                  :ARG2 (p8 / attack-01
+                                            :ARG2-of (p9 / use-01
+                                                         :ARG1 (p10 / anthrax))))
+                        :ARG1-of (p11 / base-02
+                                      :ARG2 (p12 / intelligence
+                                                 :ARG1-of (p13 / receive-01))))
+              :ARG2 (p14 / receive-01
+                         :polarity -
+                         :ARG0 p1
+                         :ARG1 (p15 / brief-01
+                                    :ARG1 p1
+                                    :ARG2 (p16 / use-01
+                                               :ARG1 (p17 / plane))
+                                    :mod (p18 / any))))
+    :time (p19 / week
+               :ARG1-of (p20 / same-01)))
+
+# ::snt There was lax control over the distribution of the Ames strain that was used, especially in light of the fact that transfers were not even required to be recorded prior to 1997 .
+(p0 / control-01
+    :ARG1 (p1 / distribute-01
+              :ARG1 (p2 / strain
+                        :wiki "Ames disease"
+                        :name (p3 / name
+                                  :op1 "Ames")
+                        :ARG1-of (p4 / use-01)))
+    :manner (p5 / lax)
+    :ARG1-of (p6 / cause-01
+                 :ARG0 (p7 / require-01
+                           :polarity -
+                           :ARG1 (p8 / record-01
+                                     :ARG1 (p9 / transfer-01))
+                           :mod (p10 / even)
+                           :time (p11 / prior
+                                      :op1 (p12 / date-entity
+                                                :year 1997)))
+                 :mod (p13 / especially)))
+
+# ::snt Newsweek reported that a "second wave" involving biological attacks had been thwarted upon the arrest of Al Qaeda members who had been intended to provide logistical support .
+(p0 / report-01
+    :ARG0 (p1 / magazine
+              :wiki "Newsweek"
+              :name (p2 / name
+                        :op1 "Newsweek"))
+    :ARG1 (p3 / thwart-01
+              :ARG1 (p4 / wave-04
+                        :ord (p5 / ordinal-entity
+                                 :value 2)
+                        :ARG2-of (p6 / involve-01
+                                     :ARG1 (p7 / attack-01
+                                               :mod (p8 / biology))))
+              :time (p9 / arrest-01
+                        :ARG1 (p10 / person
+                                   :ARG0-of (p11 / have-org-role-91
+                                                 :ARG1 (p12 / criminal-organization
+                                                            :wiki "Al-Qaeda"
+                                                            :name (p13 / name
+                                                                       :op1 "Al"
+                                                                       :op2 "Qaeda"))
+                                                 :ARG2 (p14 / member))
+                                   :ARG0-of (p15 / provide-01
+                                                 :ARG1 (p16 / support-01
+                                                            :mod (p17 / logistics))
+                                                 :ARG1-of (p18 / intend-01))))))
+
+# ::snt The public information mostly relates to those suspected sleepers who have been detained or who are at large and are being sought .
+(p0 / relate-01
+    :ARG1 (p1 / information
+              :ARG1-of (p2 / public-02))
+    :ARG2 (p3 / person
+              :ARG0-of (p4 / sleep-01)
+              :ARG2-of (p5 / suspect-01)
+              :ARG1-of (p6 / detain-01)
+              :mod (p7 / at-large)
+              :ARG1-of (p8 / seek-01))
+    :mod (p9 / most))
+
+# ::snt We save $21,000 in real money this way, the cash refund Sun is giving Enron for our other server, using a box that wasn't being used by anyone .
+(p0 / save-01
+    :ARG0 (p1 / we)
+    :ARG1 (p2 / monetary-quantity
+              :quant 21000
+              :unit (p3 / dollar)
+              :ARG1-of (p4 / real-04))
+    :manner (p5 / this)
+    :ARG1-of (p6 / cause-01
+                 :ARG0 (p7 / refund-01
+                           :ARG0 (p8 / company
+                                     :wiki "SunPower"
+                                     :name (p9 / name
+                                               :op1 "Sun"))
+                           :ARG1 (p10 / cash)
+                           :ARG2 (p11 / company
+                                      :wiki "Enron"
+                                      :name (p12 / name
+                                                 :op1 "Enron"))
+                           :ARG3 (p13 / server
+                                      :mod (p14 / other)
+                                      :poss p1)
+                           :manner (p15 / use-01
+                                        :ARG0 p1
+                                        :ARG1 (p16 / box
+                                                   :ARG1-of (p17 / use-01
+                                                                 :polarity -
+                                                                 :ARG0 (p18 / anyone)))))))
+
+# ::snt Paul Kaufman has asked me to set a conference call to review the FERC Meeting that was held Thursday, Nov. 9th .
+(p0 / ask-02
+    :ARG0 (p1 / person
+              :wiki -
+              :name (p2 / name
+                        :op1 "Paul"
+                        :op2 "Kaufman"))
+    :ARG1 (p3 / set-02
+              :ARG0 (p4 / i)
+              :ARG1 (p5 / call-02
+                        :mod (p6 / conference))
+              :purpose (p7 / review-01
+                           :ARG0 p4
+                           :ARG1 (p8 / meet-03
+                                     :ARG0 (p9 / organization
+                                               :wiki "Federal Energy Commission"
+                                               :name (p10 / name
+                                                          :op1 "FERC"))
+                                     :ARG1-of (p11 / hold-04
+                                                   :time (p12 / date-entity
+                                                              :day 9
+                                                              :month 11
+                                                              :weekday (p13 / thursday))))))
+    :ARG2 p4)
+
+# ::snt I believe that Doug told me the extra was for the cashout that was not invoiced .
+(p0 / believe-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / tell-01
+              :ARG0 (p3 / person
+                        :wiki -
+                        :name (p4 / name
+                                  :op1 "Doug"))
+              :ARG1 (p5 / have-purpose-91
+                        :ARG1 (p6 / extra)
+                        :ARG2 (p7 / cash-out-02
+                                  :ARG1-of (p8 / invoice-01
+                                               :polarity -)))
+              :ARG2 p1))
+
+# ::snt With respect to First Union National Bank, the draft we were working from was so old that they agreed to look at our current form of agreement which was sent to them on 11/8/00 for review .
+(p0 / have-degree-91
+    :ARG1 (p1 / thing
+              :ARG1-of (p2 / draft-01)
+              :ARG2-of (p3 / work-01
+                           :ARG0 (p4 / we)))
+    :ARG2 (p5 / old)
+    :ARG3 (p6 / so)
+    :ARG6 (p7 / agree-01
+              :ARG0 (p8 / they)
+              :ARG1 (p9 / look-01
+                        :ARG0 p8
+                        :ARG1 (p10 / form
+                                   :mod (p11 / agree-01
+                                             :ARG0 p4)
+                                   :time (p12 / current)
+                                   :ARG1-of (p13 / send-01
+                                                 :ARG2 p8
+                                                 :time (p14 / date-entity
+                                                            :year 2002
+                                                            :month 11
+                                                            :day 8)
+                                                 :purpose (p15 / review-01
+                                                               :ARG1 p10)))))
+    :topic (p16 / company
+                :wiki "First Union National Bank"
+                :name (p17 / name
+                           :op1 "First"
+                           :op2 "Union"
+                           :op3 "National"
+                           :op4 "Bank")))
+
+# ::snt Any credit concerns can be discussed with Dennis Goldmann, who can be reached at 315-460-3349 .
+(p0 / possible-01
+    :ARG1 (p1 / discuss-01
+              :ARG1 (p2 / concern-01
+                        :ARG0 (p3 / credit-02)
+                        :mod (p4 / any))
+              :ARG2 (p5 / person
+                        :wiki "Dennis Goldmann"
+                        :name (p6 / name
+                                  :op1 "Dennis"
+                                  :op2 "Goldmann")
+                        :ARG1-of (p7 / reach-02
+                                     :ARG0 (p8 / phone-number-entity
+                                               :value "315-460-3349")
+                                     :ARG1-of (p9 / possible-01)))))
+
+# ::snt If this is the case I would like someone to walk me through June to see if the numbers did really work themselves out as there was a large swing in second order on June 29 that was not adjusted for .
+(p0 / have-condition-91
+    :ARG1 (p1 / like-02
+              :ARG0 (p2 / i)
+              :ARG1 (p3 / walk-01
+                        :ARG0 (p4 / someone)
+                        :ARG1 p2
+                        :ARG2 (p5 / through
+                                  :op1 (p6 / date-entity
+                                           :month 6))
+                        :purpose (p7 / see-01
+                                     :ARG0 p2
+                                     :ARG1 (p8 / truth-value
+                                               :polarity-of (p9 / work-out-02
+                                                                :ARG1 (p10 / number)
+                                                                :ARG1-of (p11 / real-04)
+                                                                :ARG1-of (p12 / cause-01
+                                                                              :ARG0 (p13 / swing-02
+                                                                                         :ARG1 (p14 / order
+                                                                                                    :ord (p15 / ordinal-entity
+                                                                                                              :value 2))
+                                                                                         :mod (p16 / large)
+                                                                                         :ARG1-of (p17 / adjust-01
+                                                                                                       :polarity -)
+                                                                                         :time (p18 / date-entity
+                                                                                                    :month 6
+                                                                                                    :day 29))))))))
+    :ARG2 (p19 / case-04
+               :ARG1 (p20 / this)))
+
+# ::snt If this is the case I would like someone to walk me through June to see if the numbers did really work themselves out as there was a large swing in second order on June 29 that was not adjusted for .
+(p0 / have-condition-91
+    :ARG1 (p1 / like-02
+              :ARG0 (p2 / i)
+              :ARG1 (p3 / walk-01
+                        :ARG0 (p4 / someone)
+                        :ARG1 p2
+                        :ARG2 (p5 / through
+                                  :op1 (p6 / date-entity
+                                           :month 6))
+                        :purpose (p7 / see-01
+                                     :ARG0 p2
+                                     :ARG1 (p8 / truth-value
+                                               :polarity-of (p9 / work-out-02
+                                                                :ARG1 (p10 / number)
+                                                                :ARG1-of (p11 / real-04)
+                                                                :ARG1-of (p12 / cause-01
+                                                                              :ARG0 (p13 / swing-02
+                                                                                         :ARG1 (p14 / order
+                                                                                                    :ord (p15 / ordinal-entity
+                                                                                                              :value 2))
+                                                                                         :mod (p16 / large)
+                                                                                         :ARG1-of (p17 / adjust-01
+                                                                                                       :polarity -)
+                                                                                         :time (p18 / date-entity
+                                                                                                    :month 6
+                                                                                                    :day 29))))))))
+    :ARG2 (p19 / case-04
+               :ARG1 (p20 / this)))
+
+# ::snt Attached for your review are copies of the settlement documents that were filed today in the Gas Industry Restructuring/Natural Gas Strategy proceeding, including the Motion for Approval of the Comprehensive Settlement that is supported by thirty signatories to the Comprehensive Settlement, the Comprehensive Settlement document itself, and the various appendices to the settlement. ?
+(p0 / attach-01
+    :ARG1 (p1 / thing
+              :ARG2-of (p2 / copy-01
+                           :ARG1 (p3 / document
+                                     :mod (p4 / settle-02)
+                                     :ARG1-of (p5 / file-01
+                                                  :time (p6 / today)
+                                                  :subevent-of (p7 / proceeding-02
+                                                                   :ARG2 (p8 / slash
+                                                                             :op1 (p9 / restructure-01
+                                                                                      :ARG1 (p10 / industry
+                                                                                                 :mod (p11 / gas)))
+                                                                             :op2 (p12 / strategy
+                                                                                       :mod (p13 / gas
+                                                                                                 :ARG1-of (p14 / natural-03))))))
+                                     :ARG2-of (p15 / include-01
+                                                   :ARG1 (p16 / motion
+                                                              :topic (p17 / approve-01
+                                                                          :ARG1 (p18 / and
+                                                                                     :op1 (p19 / thing
+                                                                                               :ARG1-of (p20 / sign-01
+                                                                                                             :ARG0 (p21 / person
+                                                                                                                        :quant 30)))
+                                                                                     :op2 (p22 / document
+                                                                                               :mod p4)
+                                                                                     :op3 (p23 / appendix
+                                                                                               :mod (p24 / various)))))))))
+    :ARG2 (p25 / review-01
+               :ARG0 (p26 / you)
+               :ARG1 p1)
+    :polarity (p27 / amr-unknown))
+
+# ::snt Jurisdictions which are are approved to trade credit derivatives: Finland, Germany, Norway, Sweden, Switzerland, the U.K, and the U.S. .
+(p0 / approve-01
+    :ARG1 (p1 / jurisdiction
+              :example (p2 / and
+                           :op1 (p3 / country
+                                    :wiki "Finland"
+                                    :name (p4 / name
+                                              :op1 "Finland"))
+                           :op2 (p5 / country
+                                    :wiki "Germany"
+                                    :name (p6 / name
+                                              :op1 "Germany"))
+                           :op3 (p7 / country
+                                    :wiki "Norway"
+                                    :name (p8 / name
+                                              :op1 "Norway"))
+                           :op4 (p9 / country
+                                    :wiki "Sweden"
+                                    :name (p10 / name
+                                               :op1 "Sweden"))
+                           :op5 (p11 / country
+                                     :wiki "Switzerland"
+                                     :name (p12 / name
+                                                :op1 "Switzerland"))
+                           :op6 (p13 / country
+                                     :wiki "United Kingdom"
+                                     :name (p14 / name
+                                                :op1 "U.K"))
+                           :op7 (p15 / country
+                                     :wiki "United States"
+                                     :name (p16 / name
+                                                :op1 "U.S."))))
+    :ARG2 (p17 / trade-01
+               :ARG0 p1
+               :ARG1 (p18 / derivative
+                          :mod (p19 / credit))))
+
+# ::snt Jurisdictions which are not approved to trade credit derivatives include: Austria, Belgium, Canada, Croatia, Czech Republic, Denmark, France, Gibraltar, Ireland, Italy, Poland, Portugal, Romania, Scotland, Singapore, Slovenia, Spain, and The Netherlands .
+(p0 / include-01
+    :ARG1 (p1 / and
+              :op1 (p2 / country
+                       :wiki "Austria"
+                       :name (p3 / name
+                                 :op1 "Austria"))
+              :op2 (p4 / country
+                       :wiki "Belgium"
+                       :name (p5 / name
+                                 :op1 "Belgium"))
+              :op3 (p6 / country
+                       :wiki "Canada"
+                       :name (p7 / name
+                                 :op1 "Canada"))
+              :op4 (p8 / country
+                       :wiki "Croatia"
+                       :name (p9 / name
+                                 :op1 "Croatia"))
+              :op5 (p10 / country
+                        :wiki "Czech Republic"
+                        :name (p11 / name
+                                   :op1 "Czech"
+                                   :op2 "Republic"))
+              :op6 (p12 / country
+                        :wiki "Denmark"
+                        :name (p13 / name
+                                   :op1 "Denmark"))
+              :op7 (p14 / country
+                        :wiki "France"
+                        :name (p15 / name
+                                   :op1 "France"))
+              :op8 (p16 / territory
+                        :wiki "Gibraltar"
+                        :name (p17 / name
+                                   :op1 "Gibraltar"))
+              :op9 (p18 / country
+                        :wiki "Republic of Ireland"
+                        :name (p19 / name
+                                   :op1 "Ireland"))
+              :op10 (p20 / country
+                         :wiki "Italy"
+                         :name (p21 / name
+                                    :op1 "Italy"))
+              :op11 (p22 / country
+                         :wiki "Poland"
+                         :name (p23 / name
+                                    :op1 "Poland"))
+              :op12 (p24 / country
+                         :wiki "Portugal"
+                         :name (p25 / name
+                                    :op1 "Portugal"))
+              :op13 (p26 / country
+                         :wiki "Romania"
+                         :name (p27 / name
+                                    :op1 "Romania"))
+              :op14 (p28 / country
+                         :wiki "Scotland"
+                         :name (p29 / name
+                                    :op1 "Scotland"))
+              :op15 (p30 / country
+                         :wiki "Singapore"
+                         :name (p31 / name
+                                    :op1 "Singapore"))
+              :op16 (p32 / country
+                         :wiki "Slovenia"
+                         :name (p33 / name
+                                    :op1 "Slovenia"))
+              :op17 (p34 / country
+                         :wiki "Spain"
+                         :name (p35 / name
+                                    :op1 "Spain"))
+              :op18 (p36 / country
+                         :wiki "Netherlands"
+                         :name (p37 / name
+                                    :op1 "The"
+                                    :op2 "Netherlands")))
+    :ARG2 (p38 / jurisdiction
+               :ARG1-of (p39 / approve-01
+                             :polarity -
+                             :ARG2 (p40 / trade-01
+                                        :ARG0 p38
+                                        :ARG1 (p41 / derivative
+                                                   :mod (p42 / credit))))))
+
+# ::snt an outline of the internal balance sheet review process described in my earlier note which must now be reprioritised and rescoped ( see MO work )
+(p0 / multi-sentence
+    :snt1 (p1 / outline-01
+              :ARG1 (p2 / process-02
+                        :ARG1 (p3 / review-01
+                                  :ARG1 (p4 / sheet
+                                            :mod (p5 / balance)))
+                        :ARG1-of (p6 / internal-02)
+                        :ARG1-of (p7 / describe-01
+                                     :ARG0 (p8 / note
+                                               :poss (p9 / i)
+                                               :time (p10 / before)))
+                        :ARG1-of (p11 / obligate-01
+                                      :ARG2 (p12 / and
+                                                 :op1 (p13 / reprioritize-01
+                                                           :ARG1 p2)
+                                                 :op2 (p14 / rescope-01
+                                                           :ARG1 p2)
+                                                 :time (p15 / now)))))
+    :snt2 (p16 / see-01
+               :mode imperative
+               :ARG0 (p17 / you)
+               :ARG1 (p18 / work-01
+                          :ARG0 (p19 / person
+                                     :wiki -
+                                     :name (p20 / name
+                                                :op1 "MO")))))
+
+# ::snt detailed position analysis of all OBSF contracts that must be reconciled to Barclays documentatio n
+(p0 / analyze-01
+    :ARG1 (p1 / position-02
+              :ARG2 (p2 / contract
+                        :mod (p3 / organization
+                                 :wiki "Office for the Coordination of Foreign Affairs"
+                                 :name (p4 / name
+                                           :op1 "OBSF"))
+                        :mod (p5 / all)
+                        :ARG1-of (p6 / reconcile-01
+                                     :ARG2 (p7 / document
+                                               :mod (p8 / company
+                                                        :wiki "Barings Group"
+                                                        :name (p9 / name
+                                                                  :op1 "Barclays")))
+                                     :ARG2-of (p10 / obligate-01))))
+    :ARG1-of (p11 / detail-01))
+
+# ::snt Furthermore, I would like to reiterate that RAC's goal, prior to quoting any credit reserve, is to be 100% confident that: (i) the methodology that is being employed is consistent among the internal groups; and (ii) the inherent value of the price risk management contracts matches .
+(p0 / and
+    :op2 (p1 / like-02
+             :ARG0 (p2 / i)
+             :ARG1 (p3 / reiterate-01
+                       :ARG0 p2
+                       :ARG1 (p4 / goal
+                                 :poss (p5 / company
+                                           :wiki -
+                                           :name (p6 / name
+                                                     :op1 "RAC"))
+                                 :time (p7 / prior
+                                           :op1 (p8 / quote-01
+                                                    :ARG0 p5
+                                                    :ARG1 (p9 / reserve-01
+                                                              :ARG1 (p10 / credit-02)
+                                                              :mod (p11 / any))))
+                                 :domain (p12 / confident-01
+                                              :ARG1 p5
+                                              :ARG2 (p13 / and
+                                                         :op1 (p14 / consistent-01
+                                                                   :li "i"
+                                                                   :ARG1 (p15 / methodology
+                                                                              :ARG1-of (p16 / employ-02))
+                                                                   :ARG2 (p17 / group
+                                                                              :ARG1-of (p18 / internal-02)))
+                                                         :op2 (p19 / match-01
+                                                                   :li "ii"
+                                                                   :ARG1 (p20 / value-01
+                                                                              :ARG1 (p21 / contract-02
+                                                                                         :ARG1 (p22 / manage-01
+                                                                                                    :ARG1 (p23 / risk-01
+                                                                                                               :ARG2 (p24 / price-01))))
+                                                                              :mod (p25 / inherent))))
+                                              :degree (p26 / percentage-entity
+                                                           :value 100))))))
+
+# ::snt As an outgrowth of the meeting Leslie and I had with Scott and Hunter a couple of weeks ago, we have begun work to develop an electronic tool that would allow us to provide ongoing summaries of FERC gas activities, and possibly electric activities, in a format that can be linked to the Fundamentals intranet site used by the traders .
+(p0 / begin-01
+    :ARG0 (p1 / we)
+    :ARG1 (p2 / work-01
+              :ARG0 p1
+              :ARG1 (p3 / develop-02
+                        :ARG0 p1
+                        :ARG1 (p4 / tool
+                                  :mod (p5 / electronic)
+                                  :ARG0-of (p6 / allow-01
+                                               :ARG1 (p7 / provide-01
+                                                         :ARG0 p1
+                                                         :ARG1 (p8 / thing
+                                                                   :ARG2-of (p9 / summarize-01
+                                                                                :ARG1 (p10 / and
+                                                                                           :op1 (p11 / activity-06
+                                                                                                     :ARG0 (p12 / government-organization
+                                                                                                                :wiki "Federal Energy Commission"
+                                                                                                                :name (p13 / name
+                                                                                                                           :op1 "FERC"))
+                                                                                                     :mod (p14 / gas))
+                                                                                           :op2 (p15 / activity-06
+                                                                                                     :ARG0 p12
+                                                                                                     :mod (p16 / electric)
+                                                                                                     :ARG1-of (p17 / possible-01))))
+                                                                   :ARG1-of (p18 / go-on-15)
+                                                                   :mod (p19 / format
+                                                                             :ARG1-of (p20 / link-01
+                                                                                           :ARG2 (p21 / site
+                                                                                                      :mod (p22 / intranet)
+                                                                                                      :mod (p23 / fundamental)
+                                                                                                      :ARG1-of (p24 / use-01
+                                                                                                                    :ARG0 (p25 / person
+                                                                                                                               :ARG0-of (p26 / trade-01))))
+                                                                                           :ARG1-of (p27 / possible-01)))))))))
+    :ARG1-of (p28 / cause-01
+                  :ARG0 (p29 / outgrowth
+                             :mod (p30 / meet-03
+                                       :ARG0 p1
+                                       :ARG1 (p31 / and
+                                                  :op1 (p32 / person
+                                                            :wiki -
+                                                            :name (p33 / name
+                                                                       :op1 "Scott"))
+                                                  :op2 (p34 / person
+                                                            :wiki -
+                                                            :name (p35 / name
+                                                                       :op1 "Hunter")))
+                                       :time (p36 / before
+                                                  :op1 (p37 / now)
+                                                  :quant (p38 / couple
+                                                              :op1 (p39 / temporal-quantity
+                                                                        :quant 1
+                                                                        :unit (p40 / week))))))))
+
+# ::snt Those who are not assigned an associate may also allocate points (a max of 150) at the meeting based on contribution to your areas for the first review period .
+(p0 / possible-01
+    :ARG1 (p1 / allocate-01
+              :ARG0 (p2 / person
+                        :ARG1-of (p3 / assign-01
+                                     :polarity -
+                                     :ARG2 (p4 / person
+                                               :ARG0-of (p5 / associate-01
+                                                            :ARG1 p2))))
+              :ARG1 (p6 / point
+                        :quant (p7 / maximum
+                                   :op1 150)
+                        :ARG1-of (p8 / base-02
+                                     :ARG2 (p9 / contribute-01
+                                               :ARG0 p2
+                                               :ARG2 (p10 / area
+                                                          :poss (p11 / you))
+                                               :time (p12 / period
+                                                          :time-of (p13 / review-01)
+                                                          :ord (p14 / ordinal-entity
+                                                                    :value 1)))))
+              :ARG2 (p15 / meet-03)
+              :mod (p16 / also)))
+
+# ::snt Joe asked that you fax the revised gtee wording that has been agreed (I believe it was our agreeing to reduce the claim period from 15 days down to 5) and the new l/c wording (drops the 2 day period to replace an l/c with a different bank if the first refuses to pay) .
+(p0 / ask-02
+    :ARG0 (p1 / person
+              :wiki -
+              :name (p2 / name
+                        :op1 "Joe"))
+    :ARG1 (p3 / email-01
+              :ARG0 (p4 / you)
+              :ARG1 (p5 / and
+                        :op1 (p6 / thing
+                                 :ARG2-of (p7 / word-01)
+                                 :mod (p8 / government-organization
+                                          :ARG0-of (p9 / govern-01))
+                                 :ARG1-of (p10 / agree-01)
+                                 :ARG1-of (p11 / revise-01)
+                                 :ARG1-of (p12 / mean-01
+                                               :ARG2 (p13 / believe-01
+                                                          :ARG0 (p14 / i)
+                                                          :ARG1 (p15 / agree-01
+                                                                     :ARG0 (p16 / we)
+                                                                     :ARG1 (p17 / reduce-01
+                                                                                :ARG0 p16
+                                                                                :ARG1 (p18 / period
+                                                                                           :time-of (p19 / claim-01))
+                                                                                :ARG3 (p20 / temporal-quantity
+                                                                                           :quant 15
+                                                                                           :unit (p21 / day))
+                                                                                :ARG4 (p22 / temporal-quantity
+                                                                                           :quant 5
+                                                                                           :unit (p23 / day)))))))
+                        :op2 (p24 / thing
+                                  :ARG2-of (p25 / word-01)
+                                  :ARG1-of (p26 / new-01)
+                                  :ARG1-of (p27 / mean-01
+                                                :ARG2 (p28 / drop-05
+                                                           :ARG0 p16
+                                                           :ARG1 (p29 / period
+                                                                      :duration (p30 / temporal-quantity
+                                                                                     :quant 2
+                                                                                     :unit (p31 / day)))
+                                                           :purpose (p32 / replace-01
+                                                                         :ARG0 p16
+                                                                         :ARG1 (p33 / bank)
+                                                                         :ARG2 (p34 / bank
+                                                                                    :ARG1-of (p35 / differ-02))
+                                                                         :condition (p36 / refuse-01
+                                                                                         :ARG0 (p37 / bank
+                                                                                                    :ord (p38 / ordinal-entity
+                                                                                                              :value 1))
+                                                                                         :ARG1 (p39 / pay-01
+                                                                                                    :ARG0 p37))))))))
+    :ARG2 p4)
+
+# ::snt This deviation shows that Eco definitely has a significant amount of option value which can be exploited with quick reactions and favourable market movements .
+(p0 / show-01
+    :ARG0 (p1 / thing
+              :ARG1-of (p2 / deviate-01)
+              :mod (p3 / this))
+    :ARG1 (p4 / have-03
+              :ARG0 (p5 / company
+                        :wiki -
+                        :name (p6 / name
+                                  :op1 "Eco"))
+              :ARG1 (p7 / value-01
+                        :ARG1 (p8 / option)
+                        :quant (p9 / amount
+                                   :ARG1-of (p10 / significant-02))
+                        :ARG1-of (p11 / exploit-01
+                                      :ARG2 (p12 / and
+                                                 :op1 (p13 / react-01
+                                                           :ARG1-of (p14 / quick-02))
+                                                 :op2 (p15 / move-01
+                                                           :ARG1 (p16 / market)
+                                                           :ARG1-of (p17 / favor-01)))
+                                      :ARG1-of (p18 / possible-01)))
+              :mod (p19 / definite)))
+
+# ::snt Daniels is not set up for prepayments as they bill off an invoice and the main office and accounting had to create an invoice for a chromatograph that had not been delivered .
+(p0 / cause-01
+    :ARG0 (p1 / and
+              :op1 (p2 / bill-01
+                       :ARG0 (p3 / company
+                                 :wiki -
+                                 :name (p4 / name
+                                           :op1 "Daniels"))
+                       :ARG3 (p5 / bill-01)
+                       :mod (p6 / off))
+              :op2 (p7 / obligate-01
+                       :ARG1 (p8 / and
+                                 :op1 (p9 / office
+                                          :mod (p10 / main))
+                                 :op2 (p11 / account-01))
+                       :ARG2 (p12 / create-01
+                                  :ARG0 p8
+                                  :ARG1 (p13 / bill-01
+                                             :ARG3 (p14 / chromatograph
+                                                        :ARG1-of (p15 / deliver-01
+                                                                      :polarity -))))))
+    :ARG1 (p16 / set-up-03
+               :polarity -
+               :ARG1 p3
+               :ARG2 (p17 / pay-01)))
+
+# ::snt They began to withhold power from California, and on Dec. 7 the ISO declared its first Stage 3 emergency and braced for blackouts, which were narrowly averted .
+(p0 / and
+    :op1 (p1 / begin-01
+             :ARG0 (p2 / they)
+             :ARG1 (p3 / withhold-01
+                       :ARG0 p2
+                       :ARG1 (p4 / power-01)
+                       :ARG2 (p5 / state
+                                 :wiki "California"
+                                 :name (p6 / name
+                                           :op1 "California"))))
+    :op2 (p7 / and
+             :op1 (p8 / declare-01
+                      :ARG0 (p9 / government-organization
+                                :wiki -
+                                :name (p10 / name
+                                           :op1 "ISO"))
+                      :ARG1 (p11 / emergency
+                                 :ord (p12 / ordinal-entity
+                                           :value 1)
+                                 :mod (p13 / stage
+                                           :mod 3)
+                                 :poss p9)
+                      :time (p14 / date-entity
+                                 :day 7
+                                 :month 12))
+             :op2 (p15 / brace-01
+                       :ARG0 p9
+                       :ARG2 (p16 / blackout
+                                  :ARG1-of (p17 / avert-01
+                                                :ARG1-of (p18 / narrow-02))))))
+
+# ::snt Instead they followed the skyrocketing price of natural gas - which is used to run power plants to generate electricity .
+(p0 / instead-of-91
+    :ARG1 (p1 / follow-02
+              :ARG0 (p2 / they)
+              :ARG1 (p3 / price-01
+                        :ARG1 (p4 / gas
+                                  :ARG1-of (p5 / natural-03)
+                                  :ARG1-of (p6 / use-01
+                                               :ARG2 (p7 / run-01
+                                                         :ARG1 (p8 / plant
+                                                                   :mod (p9 / power))
+                                                         :purpose (p10 / generate-01
+                                                                       :ARG1 (p11 / electricity)))))
+                        :ARG1-of (p12 / skyrocket-01))))
+
+# ::snt Kaoshikii is a dance which was invented in 1978 by Shrii Shrii A'nandamu'rti .
+(p0 / dance
+    :wiki "Kaoshikii"
+    :name (p1 / name
+              :op1 "Kaoshikii")
+    :ARG1-of (p2 / invent-01
+                 :ARG0 (p3 / person
+                           :wiki -
+                           :name (p4 / name
+                                     :op1 "Shrii"
+                                     :op2 "Shrii"
+                                     :op3 "A'nandamu'rti"))
+                 :time (p5 / date-entity
+                           :year 1978)))
+
+# ::snt Dr. Eric Fortier, 34, of Gatineau, Que., used a pocket knife to attack a polar bear on Baffin Island, just south of the Arctic Circle, to save two friends who were being mauled .
+(p0 / use-01
+    :ARG0 (p1 / doctor
+              :wiki -
+              :name (p2 / name
+                        :op1 "Eric"
+                        :op2 "Fortier")
+              :age (p3 / temporal-quantity
+                       :quant 34
+                       :unit (p4 / year))
+              :location (p5 / city
+                            :wiki "Gatineau, Quebec"
+                            :name (p6 / name
+                                      :op1 "Gatineau")
+                            :location (p7 / province
+                                          :wiki "Quebec"
+                                          :name (p8 / name
+                                                    :op1 "Quebec"))))
+    :ARG1 (p9 / knife
+              :mod (p10 / pocket))
+    :ARG2 (p11 / attack-01
+               :ARG0 p1
+               :ARG1 (p12 / bear
+                          :mod (p13 / polar))
+               :location (p14 / island
+                              :wiki "Baffin Island"
+                              :name (p15 / name
+                                         :op1 "Baffin"
+                                         :op2 "Island")
+                              :location (p16 / relative-position
+                                             :op1 (p17 / world-region
+                                                       :wiki "Arctic circle"
+                                                       :name (p18 / name
+                                                                  :op1 "Arctic"
+                                                                  :op2 "Circle"))
+                                             :direction (p19 / south
+                                                             :mod (p20 / just)))))
+    :purpose (p21 / save-02
+                  :ARG0 p1
+                  :ARG1 (p22 / person
+                             :quant 2
+                             :ARG0-of (p23 / have-rel-role-91
+                                           :ARG1 p1
+                                           :ARG2 (p24 / friend))
+                             :ARG1-of (p25 / maul-01))))
+
+# ::snt The other Canadian recipient of the medal was Ronald Joseph Crawford, 42, of Hamilton, who was killed Aug. 4, 2002, while trying to defend a Hamilton sandwich shop owner from a robber wielding a knife .
+(p0 / person
+    :ARG0-of (p1 / receive-01
+                 :ARG1 (p2 / medal))
+    :mod (p3 / other)
+    :mod (p4 / country
+             :wiki "Canada"
+             :name (p5 / name
+                       :op1 "Canada"))
+    :domain (p6 / person
+                :wiki -
+                :name (p7 / name
+                          :op1 "Ronald"
+                          :op2 "Joseph"
+                          :op3 "Crawford")
+                :age (p8 / temporal-quantity
+                         :quant 42
+                         :unit (p9 / year))
+                :location (p10 / city
+                               :wiki "Hamilton, Ontario"
+                               :name (p11 / name
+                                          :op1 "Hamilton"))
+                :ARG1-of (p12 / kill-01
+                              :time (p13 / date-entity
+                                         :year 2002
+                                         :month 8
+                                         :day 4)
+                              :time (p14 / try-01
+                                         :ARG0 p6
+                                         :ARG1 (p15 / defend-01
+                                                    :ARG0 p6
+                                                    :ARG1 (p16 / person
+                                                               :ARG0-of (p17 / own-01
+                                                                             :ARG1 (p18 / shop
+                                                                                        :mod (p19 / sandwich)
+                                                                                        :location p10)))
+                                                    :ARG2 (p20 / person
+                                                               :ARG0-of (p21 / rob-01)
+                                                               :ARG0-of (p22 / wield-01
+                                                                             :ARG1 (p23 / knife))))))))
+
+# ::snt We are a consortium of legit honorable guilds that was established in 1997 for DI and we are now adding GW to the list of games played .
+(p0 / and
+    :op1 (p1 / consortium
+             :consist-of (p2 / guild
+                             :ARG1-of (p3 / honorable-03)
+                             :ARG1-of (p4 / legitimate-02))
+             :domain (p5 / we)
+             :ARG1-of (p6 / establish-01
+                          :time (p7 / date-entity
+                                    :year 1997)
+                          :beneficiary (p8 / organization
+                                           :wiki -
+                                           :name (p9 / name
+                                                     :op1 "DI"))))
+    :op2 (p10 / add-02
+              :ARG0 p5
+              :ARG1 (p11 / warm-01
+                         :ARG1 (p12 / globe))
+              :ARG2 (p13 / list-01
+                         :ARG1 (p14 / game
+                                    :ARG1-of (p15 / play-01)))
+              :time (p16 / now)))
+
+# ::snt I am writing you in absolute confidence primarily to seek your assistance in acquiring oil funds that are presently trapped in the republic of Iraq .
+(p0 / write-01
+    :ARG0 (p1 / i)
+    :ARG2 (p2 / you)
+    :ARG1-of (p3 / confident-01
+                 :degree (p4 / absolute))
+    :purpose (p5 / seek-01
+                 :ARG0 p1
+                 :ARG1 (p6 / assist-01
+                           :ARG0 p2
+                           :ARG1 p1
+                           :ARG2 (p7 / acquire-01
+                                     :ARG0 p1
+                                     :ARG1 (p8 / fund
+                                               :mod (p9 / oil)
+                                               :ARG1-of (p10 / trap-01
+                                                             :ARG2 (p11 / republic
+                                                                        :wiki "Iraq"
+                                                                        :name (p12 / name
+                                                                                   :op1 "Iraq"))
+                                                             :time (p13 / present)))))
+                 :mod (p14 / primary)))
+
+# ::snt My partners and I solicit your assistance in completing a transaction begun by my father, who has long been actively engaged in the extraction of petroleum in the United States of America, and bravely served his country as director of the United States Central Intelligence Agency .
+(p0 / solicit-01
+    :ARG0 (p1 / and
+              :op1 (p2 / person
+                       :ARG0-of (p3 / partner-01
+                                    :ARG1 (p4 / i)))
+              :op2 p4)
+    :ARG1 (p5 / assist-01
+              :ARG0 (p6 / you)
+              :ARG1 p4
+              :ARG2 (p7 / complete-01
+                        :ARG0 p4
+                        :ARG1 (p8 / transact-01
+                                  :ARG1-of (p9 / begin-01
+                                               :ARG0 (p10 / person
+                                                          :ARG0-of (p11 / have-rel-role-91
+                                                                        :ARG1 p4
+                                                                        :ARG2 (p12 / father))
+                                                          :ARG1-of (p13 / engage-01
+                                                                        :ARG2 (p14 / extract-01
+                                                                                   :ARG1 (p15 / petroleum)
+                                                                                   :location (p16 / country
+                                                                                                  :wiki "United States"
+                                                                                                  :name (p17 / name
+                                                                                                             :op1 "United"
+                                                                                                             :op2 "States"
+                                                                                                             :op3 "of"
+                                                                                                             :op4 "America")))
+                                                                        :ARG1-of (p18 / activity-06
+                                                                                      :ARG0 p10)
+                                                                        :ARG1-of (p19 / long-03))
+                                                          :ARG0-of (p20 / serve-01
+                                                                        :ARG1 (p21 / have-org-role-91
+                                                                                   :ARG0 p10
+                                                                                   :ARG1 (p22 / government-organization
+                                                                                              :wiki "Central Intelligence Agency"
+                                                                                              :name (p23 / name
+                                                                                                         :op1 "United"
+                                                                                                         :op2 "States"
+                                                                                                         :op3 "Central"
+                                                                                                         :op4 "Intelligence"
+                                                                                                         :op5 "Agency"))
+                                                                                   :ARG2 (p24 / director))
+                                                                        :ARG2 p16
+                                                                        :manner (p25 / brave-02
+                                                                                     :ARG0 p10))))))))
+
+# ::snt In Biloxi, 30 people were reported dead in one block of flats which was hit by a 9m (30ft) "storm surge" .
+(p0 / report-01
+    :ARG1 (p1 / die-01
+              :ARG1 (p2 / person
+                        :quant 30)
+              :location (p3 / block
+                            :quant 1
+                            :consist-of (p4 / flat)
+                            :ARG1-of (p5 / hit-01
+                                         :ARG0 (p6 / surge-01
+                                                   :ARG1 (p7 / storm)
+                                                   :ARG2 (p8 / distance-quantity
+                                                             :quant 9
+                                                             :unit (p9 / meter))))))
+    :location (p10 / city
+                   :wiki "Biloxi, Mississippi"
+                   :name (p11 / name
+                              :op1 "Biloxi")))
+
+# ::snt The connection, however, lies in an order issued last year by President Hu Jintao to seek secure oil supplies abroad - preferably ones which could not be stopped by America in case of conflict over Taiwan .
+(p0 / contrast-01
+    :ARG2 (p1 / lie-07
+              :ARG1 (p2 / connect-01)
+              :ARG2 (p3 / order-01
+                        :ARG0 (p4 / person
+                                  :wiki "Hu Jintao"
+                                  :name (p5 / name
+                                            :op1 "Hu"
+                                            :op2 "Jintao")
+                                  :ARG0-of (p6 / have-org-role-91
+                                               :ARG2 (p7 / president)))
+                        :ARG2 (p8 / seek-01
+                                  :ARG1 (p9 / supply-01
+                                            :ARG1 (p10 / oil)
+                                            :ARG1-of (p11 / secure-02)
+                                            :location (p12 / abroad)
+                                            :ARG1-of (p13 / prefer-01
+                                                          :ARG2 (p14 / supply-01
+                                                                     :ARG1 p10
+                                                                     :ARG1-of (p15 / stop-01
+                                                                                   :ARG0 (p16 / country
+                                                                                              :wiki "United States"
+                                                                                              :name (p17 / name
+                                                                                                         :op1 "America"))
+                                                                                   :ARG1-of (p18 / possible-01
+                                                                                                 :polarity -)
+                                                                                   :condition (p19 / conflict-01
+                                                                                                   :ARG2 (p20 / country
+                                                                                                              :wiki "Taiwan"
+                                                                                                              :name (p21 / name
+                                                                                                                         :op1 "Taiwan"))))))))
+                        :ARG1-of (p22 / issue-01
+                                      :ARG0 p4
+                                      :time (p23 / year
+                                                 :mod (p24 / last))))))
+
+# ::snt One of “NCRC4ME’s” major efforts is to collect signatures for the attached “Declaration of Religious Leaders,” which has been and will again be presented to members of the NC legislature .
+(p0 / include-91
+    :ARG1 (p1 / collect-01
+              :ARG1 (p2 / signature)
+              :ARG2 (p3 / publication
+                        :wiki -
+                        :name (p4 / name
+                                  :op1 "Declaration"
+                                  :op2 "of"
+                                  :op3 "Religious"
+                                  :op4 "Leaders")
+                        :ARG1-of (p5 / attach-01)
+                        :ARG1-of (p6 / present-01
+                                     :ARG2 (p7 / person
+                                               :ARG0-of (p8 / have-org-role-91
+                                                            :ARG1 (p9 / government-organization
+                                                                      :wiki "National People's Congress"
+                                                                      :name (p10 / name
+                                                                                 :op1 "NC")
+                                                                      :ARG0-of (p11 / legislate-01))
+                                                            :ARG2 (p12 / member)))
+                                     :mod (p13 / again))))
+    :ARG2 (p14 / effort-01
+               :ARG0 (p15 / organization
+                          :wiki -
+                          :name (p16 / name
+                                     :op1 "NCRC4ME"))
+               :ARG1-of (p17 / major-02)))
+
+# ::snt But Samuel Alito believes in a little-known Constitutional theory - called the "Unitary Executive Theory" - which says that the President should have complete control over the Executive Branch, and that the Executive Branch should be in charge of almost everything that the Government actually does, including the functions of the Independent Agencies which were designed to be free of Presidential control, and the Military, which exists, which is regulated, and which is funded by specific authority given by the Constitution to Congress, not to the President .
+# ::snt But Samuel Alito believes in a little-known Constitutional theory - called the "Unitary Executive Theory" - which says that the President should have complete control over the Executive Branch, and that the Executive Branch should be in charge of almost everything that the Government actually does, including the functions of the Independent Agencies which were designed to be free of Presidential control, and the Military, which exists, which is regulated, and which is funded by specific authority given by the Constitution to Congress, not to the President .
+( p0/ entity)
+
+# ::snt Musk, which is scraped from their genitals once a day for as long as they can surv ive, makes the scent of perfume last a bit longer after each application .
+(p0 / make-02
+    :ARG0 (p1 / product
+              :wiki -
+              :name (p2 / name
+                        :op1 "Musk")
+              :ARG1-of (p3 / scrap-01
+                           :source (p4 / genital
+                                       :part-of (p5 / they))
+                           :frequency (p6 / rate-entity-91
+                                          :ARG3 (p7 / temporal-quantity
+                                                    :quant 1
+                                                    :unit (p8 / day)))
+                           :duration (p9 / as-long-as
+                                         :op1 (p10 / possible-01
+                                                   :ARG1 (p11 / survive-01
+                                                              :ARG0 p5)))))
+    :ARG1 (p12 / have-degree-91
+               :ARG1 (p13 / last-01
+                          :ARG1 (p14 / scent-01
+                                     :ARG1 (p15 / perfume)))
+               :ARG2 (p16 / long-03
+                          :ARG1 p13)
+               :ARG3 (p17 / more
+                          :quant (p18 / bit))
+               :time (p19 / after
+                          :op1 (p20 / apply-02
+                                    :mod (p21 / each)))))
+
+# ::snt However, the money made from the mailing lists is secondary to income which is made from people like you and me asking to be included in that list .
+(p0 / contrast-01
+    :ARG2 (p1 / secondary
+              :domain (p2 / money
+                          :ARG1-of (p3 / make-05
+                                       :ARG2 (p4 / list
+                                                 :mod (p5 / mail-01))))
+              :prep-to (p6 / income
+                           :ARG1-of (p7 / make-05
+                                        :ARG0 (p8 / person
+                                                  :example (p9 / and
+                                                               :op1 (p10 / you)
+                                                               :op2 (p11 / i))
+                                                  :ARG0-of (p12 / ask-02
+                                                                :ARG1 (p13 / include-01
+                                                                           :ARG1 p8
+                                                                           :ARG2 p4)))))))
+
+# ::snt The 1.25 million people who have been housed in stadiums and convention centers across Texas will begin to populate Houston, Dallas, San Antonio and Galveston, and the surrounding areas .
+(p0 / begin-01
+    :ARG1 (p1 / populate-01
+              :ARG0 (p2 / person
+                        :quant 1500000
+                        :ARG1-of (p3 / house-01
+                                     :ARG2 (p4 / and
+                                               :op1 (p5 / stadium)
+                                               :op2 (p6 / center
+                                                        :mod (p7 / convention))
+                                               :location (p8 / across
+                                                             :op1 (p9 / state
+                                                                      :wiki "Texas"
+                                                                      :name (p10 / name
+                                                                                 :op1 "Texas"))))))
+              :ARG1 (p11 / and
+                         :op1 (p12 / city
+                                   :wiki "Houston"
+                                   :name (p13 / name
+                                              :op1 "Houston"))
+                         :op2 (p14 / city
+                                   :wiki "Dallas"
+                                   :name (p15 / name
+                                              :op1 "Dallas"))
+                         :op3 (p16 / city
+                                   :wiki "San Antonio"
+                                   :name (p17 / name
+                                              :op1 "San"
+                                              :op2 "Antonio"))
+                         :op4 (p18 / city
+                                   :wiki "Galveston, Texas"
+                                   :name (p19 / name
+                                              :op1 "Galveston"))
+                         :op5 (p20 / area
+                                   :ARG1-of (p21 / surround-01
+                                                 :ARG2 p12)))))
+
+# ::snt What I saw was dozens of school buses submerged that could have been used to evacuate people who had no transportation .
+(p0 / see-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / submerge-01
+              :ARG1 (p3 / bus
+                        :mod (p4 / school)
+                        :quant (p5 / multiple
+                                   :op1 12)
+                        :ARG1-of (p6 / use-01
+                                     :ARG2 (p7 / evacuate-01
+                                               :ARG2 (p8 / person
+                                                         :ARG0-of (p9 / have-03
+                                                                      :polarity -
+                                                                      :ARG1 (p10 / transport-01
+                                                                                 :ARG1 p8))))
+                                     :ARG1-of (p11 / possible-01)))))
+
+# ::snt Meanwhile, every pocket that can be lined is golden and the poor are shunted off radar yet again .
+(p0 / and
+    :op1 (p1 / golden
+             :domain (p2 / pocket
+                         :mod (p3 / every)
+                         :ARG1-of (p4 / line-01
+                                      :ARG1-of (p5 / possible-01))))
+    :op2 (p6 / shun-01
+             :ARG1 (p7 / person
+                       :mod (p8 / poor))
+             :ARG2 (p9 / off
+                       :op1 (p10 / radar))
+             :mod (p11 / again
+                       :mod (p12 / yet)))
+    :time (p13 / meanwhile))
+
+# ::snt <<"Well then," said Don Quixote, "the same thing happens in the comedy and life of this world, where some play emperors, others popes, and, in short, all the characters that can be brought into a play; but when it is over, that is to say when life ends, death strips them all of the garments that distinguish one from the other, and all are equal in the grave. "
+(p0 / say-01
+    :ARG0 (p1 / person
+              :wiki "Don Quixote"
+              :name (p2 / name
+                        :op1 "Don"
+                        :op2 "Quixote"))
+    :ARG1 (p3 / same-01
+              :ARG1 (p4 / thing
+                        :location (p5 / and
+                                      :op1 (p6 / comedy)
+                                      :op2 (p7 / life)
+                                      :poss (p8 / world
+                                                :mod (p9 / this))
+                                      :location-of (p10 / and
+                                                        :op1 (p11 / play-02
+                                                                  :ARG0 (p12 / person
+                                                                             :quant (p13 / some))
+                                                                  :ARG1 (p14 / emperor))
+                                                        :op2 (p15 / play-02
+                                                                  :ARG0 (p16 / person
+                                                                             :mod (p17 / other))
+                                                                  :ARG1 (p18 / pope))
+                                                        :op3 (p19 / character
+                                                                  :mod (p20 / all)
+                                                                  :ARG1-of (p21 / bring-01
+                                                                                :ARG2 (p22 / play-01)
+                                                                                :ARG1-of (p23 / possible-01))
+                                                                  :mod (p24 / in-short)))))
+              :concession-of (p25 / and
+                                  :op1 (p26 / strip-01
+                                            :ARG0 (p27 / die-01)
+                                            :ARG1 (p28 / thing
+                                                       :ARG2-of (p29 / clothe-01)
+                                                       :ARG0-of (p30 / distinguish-01
+                                                                     :ARG1 (p31 / one)
+                                                                     :ARG2 (p32 / other)))
+                                            :ARG2 (p33 / they
+                                                       :mod (p34 / all))
+                                            :time (p35 / over-01
+                                                       :ARG1 (p36 / life)))
+                                  :op2 (p37 / equal-01
+                                            :ARG1 p33
+                                            :location (p38 / grave))))
+    :mod (p39 / then
+              :mod (p40 / well)))
+
+# ::snt On a certain evening, which had been prearranged, I sent my friend final instructions, for the man was forever on the alert and continually changed his room .
+(p0 / send-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / instruct-01
+              :ARG0 p1
+              :ARG1 (p3 / person
+                        :ARG0-of (p4 / have-rel-role-91
+                                     :ARG1 p1
+                                     :ARG2 (p5 / friend)))
+              :mod (p6 / final))
+    :ARG1-of (p7 / cause-01
+                 :ARG0 (p8 / and
+                           :op1 (p9 / alert-01
+                                    :ARG1 p3
+                                    :duration (p10 / forever))
+                           :op2 (p11 / change-01
+                                     :ARG0 p3
+                                     :ARG1 (p12 / room
+                                                :poss p3)
+                                     :ARG1-of (p13 / continue-01))))
+    :time (p14 / date-entity
+               :dayperiod (p15 / evening)
+               :mod (p16 / certain)
+               :ARG1-of (p17 / arrange-01
+                             :ARG1-of (p18 / possible-01))))
+
+# ::snt To Paul McCartney whose company's logo was a person toying with the planets as if he was a god, and who was being very much deluded in his ego trip by the fact that he was made "Sir" (when in England even the road sweeper is made Sir, as long as he produces money for the nation), GOD provided cancer to the wife .
+(p0 / provide-01
+    :ARG0 (p1 / person
+              :wiki "God"
+              :name (p2 / name
+                        :op1 "God"))
+    :ARG1 (p3 / disease
+              :wiki "Cancer"
+              :name (p4 / name
+                        :op1 "cancer"))
+    :ARG2 (p5 / person
+              :wiki "Paul McCartney"
+              :name (p6 / name
+                        :op1 "Paul"
+                        :op2 "McCartney")
+              :ARG0-of (p7 / have-03
+                           :ARG1 (p8 / logo
+                                     :poss (p9 / company)
+                                     :mod (p10 / person
+                                               :ARG0-of (p11 / toy-01
+                                                             :ARG1 (p12 / planet)
+                                                             :manner (p13 / resemble-01
+                                                                          :ARG1 p10
+                                                                          :ARG2 p1)))))
+              :ARG1-of (p14 / delude-01
+                            :ARG0 (p15 / make-02
+                                       :ARG1 (p16 / person
+                                                  :ARG0-of (p17 / have-org-role-91
+                                                                :ARG2 (p18 / sir)))
+                                       :location (p19 / country
+                                                      :wiki "England"
+                                                      :name (p20 / name
+                                                                 :op1 "England"))
+                                       :time (p21 / make-02
+                                                  :ARG1 (p22 / person
+                                                             :ARG0-of (p23 / sweep-01
+                                                                           :ARG1 (p24 / road)))
+                                                  :location p19
+                                                  :mod (p25 / even)
+                                                  :condition (p26 / as-long-as
+                                                                  :op1 (p27 / produce-01
+                                                                            :ARG0 p22
+                                                                            :ARG1 (p28 / money)
+                                                                            :ARG3 (p29 / nation))))))
+              :degree (p30 / much
+                           :degree (p31 / very))))
+
+# ::snt The Gulf itself only has one exit, the Strait of Hormuz, which is also dominated by the mountainous Iranian coastline .
+(p0 / have-03
+    :ARG0 (p1 / world-region
+              :wiki "Persian Gulf"
+              :name (p2 / name
+                        :op1 "Gulf"))
+    :ARG1 (p3 / exit-01
+              :quant 1
+              :ARG0 p1
+              :ARG1 (p4 / strait
+                        :wiki "Strait of Hormuz"
+                        :name (p5 / name
+                                  :op1 "Strait"
+                                  :op2 "of"
+                                  :op3 "Hormuz")
+                        :ARG1-of (p6 / dominate-01
+                                     :ARG0 (p7 / coastline
+                                               :mod (p8 / mountain)
+                                               :location (p9 / country
+                                                             :wiki "Iran"
+                                                             :name (p10 / name
+                                                                        :op1 "Iran")))
+                                     :mod (p11 / also)))
+              :mod (p12 / only)))
+
+# ::snt This was a specific reaction to the American invasion of Iraq, and a reaction to America's condemnation of Syria after the death of Lebanese Prime Minister Rafik Hariri, which was widely seen as an assassination ordered from Damascus .
+(p0 / and
+    :op1 (p1 / react-01
+             :ARG1 (p2 / invade-01
+                       :ARG0 (p3 / country
+                                 :wiki "United States"
+                                 :name (p4 / name
+                                           :op1 "America"))
+                       :ARG1 (p5 / country
+                                 :wiki "Iraq"
+                                 :name (p6 / name
+                                           :op1 "Iraq")))
+             :ARG2 (p7 / this)
+             :ARG1-of (p8 / specific-02))
+    :op2 (p9 / react-01
+             :ARG1 (p10 / condemn-01
+                        :ARG0 p3
+                        :ARG1 (p11 / country
+                                   :wiki "Syria"
+                                   :name (p12 / name
+                                              :op1 "Syria"))
+                        :time (p13 / after
+                                   :op1 (p14 / die-01
+                                             :ARG1 (p15 / person
+                                                        :wiki "Rafic Hariri"
+                                                        :name (p16 / name
+                                                                   :op1 "Rafik"
+                                                                   :op2 "Hariri")
+                                                        :ARG0-of (p17 / have-org-role-91
+                                                                      :ARG1 (p18 / country
+                                                                                 :wiki "Lebanon"
+                                                                                 :name (p19 / name
+                                                                                            :op1 "Lebanon"))
+                                                                      :ARG2 (p20 / minister
+                                                                                 :mod (p21 / prime))))
+                                             :ARG1-of (p22 / see-01
+                                                           :ARG2 (p23 / assassinate-01
+                                                                      :ARG1-of (p24 / order-01
+                                                                                    :ARG0 (p25 / city
+                                                                                               :wiki "Damascus"
+                                                                                               :name (p26 / name
+                                                                                                          :op1 "Damascus"))))
+                                                           :ARG1-of (p27 / wide-02)))))
+             :ARG2 p7))
+
+# ::snt 50= Approximate number of policy changes and regulation rollbacks injurious to the environment that have been announced by the Bush administration on Fridays after 5pm, a time that makes it all but impossible for news organisations to relay the information to the widest possible audience .
+(p0 / equal-01
+    :ARG1 (p1 / number
+              :quant-of (p2 / and
+                            :op1 (p3 / change-01
+                                     :ARG1 (p4 / policy-01))
+                            :op2 (p5 / roll-back-04
+                                     :ARG1 (p6 / regulate-01))
+                            :ARG0-of (p7 / harm-01
+                                         :ARG1 (p8 / environment))
+                            :ARG1-of (p9 / announce-01
+                                         :ARG0 (p10 / government-organization
+                                                    :ARG0-of (p11 / administrate-01)
+                                                    :mod (p12 / person
+                                                              :wiki "George W. Bush"
+                                                              :name (p13 / name
+                                                                         :op1 "Bush")))
+                                         :time (p14 / date-entity
+                                                    :weekday (p15 / friday)
+                                                    :time (p16 / after
+                                                               :op1 (p17 / date-entity
+                                                                         :time "17:00")))
+                                         :ARG0-of (p18 / make-02
+                                                       :ARG1 (p19 / possible-01
+                                                                  :polarity -
+                                                                  :ARG1 (p20 / relay-01
+                                                                             :ARG0 (p21 / organization
+                                                                                        :mod (p22 / news))
+                                                                             :ARG1 (p23 / information)
+                                                                             :ARG2 (p24 / audience
+                                                                                        :ARG1-of (p25 / have-degree-91
+                                                                                                      :ARG2 (p26 / wide-02
+                                                                                                                 :ARG1 p24)
+                                                                                                      :ARG3 (p27 / most))
+                                                                                        :ARG1-of (p28 / possible-01)))
+                                                                  :degree (p29 / all-but)))))
+              :ARG1-of (p30 / approximate-01))
+    :ARG2 50)
+
+# ::snt 5 - Estimated Percentage of US air cargo that is screened, including cargo transported on passenger planes .
+(p0 / estimate-01
+    :li 5
+    :ARG1 (p1 / percentage
+              :quant-of (p2 / cargo
+                            :mod (p3 / air)
+                            :mod (p4 / country
+                                     :wiki "United States"
+                                     :name (p5 / name
+                                               :op1 "US"))
+                            :ARG1-of (p6 / screen-01)
+                            :ARG2-of (p7 / include-01
+                                         :ARG1 (p8 / cargo
+                                                   :ARG1-of (p9 / transport-01
+                                                                :ARG3 (p10 / plane
+                                                                           :mod (p11 / passenger))))))))
+
+# ::snt 0 - Number of new drugs or vaccines against "priority pathogens" listed by the Centres for Disease Control that have been developed and introduced since 11 September 2001 .
+(p0 / number
+    :quant-of (p1 / or
+                  :op1 (p2 / drug)
+                  :op2 (p3 / vaccine)
+                  :ARG1-of (p4 / new-01)
+                  :ARG0-of (p5 / counter-01
+                               :ARG1 (p6 / pathogen
+                                         :mod (p7 / priority)))
+                  :ARG1-of (p8 / develop-02
+                               :time (p9 / since
+                                         :op1 (p10 / date-entity
+                                                   :year 2001
+                                                   :month 9
+                                                   :day 11)))
+                  :ARG1-of (p11 / introduce-02
+                                :time p9)
+                  :ARG1-of (p12 / list-01
+                                :ARG0 (p13 / government-organization
+                                           :wiki "Centre for Disease Control and Prevention"
+                                           :name (p14 / name
+                                                      :op1 "Centre"
+                                                      :op2 "for"
+                                                      :op3 "Disease"
+                                                      :op4 "Control")))))
+
+# ::snt Pioneers were assigned numbers, which were included on all cheques, enabling the campaign to keep track of who raised how much. )
+(p0 / assign-01
+    :ARG1 (p1 / number
+              :ARG1-of (p2 / include-01
+                           :ARG2 (p3 / cheque
+                                     :mod (p4 / all))
+                           :ARG0-of (p5 / enable-01
+                                        :ARG1 (p6 / keep-02
+                                                  :ARG0 (p7 / campaign-01)
+                                                  :ARG1 (p8 / track-01
+                                                            :ARG0 p7
+                                                            :ARG1 (p9 / person
+                                                                      :ARG0-of (p10 / raise-02
+                                                                                    :ARG1 (p11 / much
+                                                                                               :degree (p12 / so)))))))))
+    :ARG2 (p13 / person
+               :ARG0-of (p14 / pioneer-01)))
+
+# ::snt 4.7m - Number of bankruptcies that were declared during Bush's first three years in office .
+(p0 / equal-01
+    :ARG1 (p1 / number
+              :quant-of (p2 / bankrupt-01
+                            :ARG1-of (p3 / declare-02
+                                         :time (p4 / have-org-role-91
+                                                   :ARG0 (p5 / person
+                                                             :wiki "George W. Bush"
+                                                             :name (p6 / name
+                                                                       :op1 "Bush"))
+                                                   :ARG2 (p7 / office)
+                                                   :duration (p8 / temporal-quantity
+                                                                 :quant 3
+                                                                 :unit (p9 / year)
+                                                                 :ord (p10 / ordinal-entity
+                                                                           :value 1))))))
+    :ARG2 4700000)
+
+# ::snt 680 - Number of suspected al-Qa'ida members that the United States admits are detained at Guantánamo Bay, Cuba .
+(p0 / number
+    :quant-of (p1 / person
+                  :ARG2-of (p2 / suspect-01)
+                  :ARG0-of (p3 / have-org-role-91
+                               :ARG1 (p4 / criminal-organization
+                                         :wiki "Al-Qaeda"
+                                         :name (p5 / name
+                                                   :op1 "al-Qa'ida"))
+                               :ARG2 (p6 / member))
+                  :ARG1-of (p7 / detain-01
+                               :location (p8 / bay
+                                             :wiki "Guantánamo Bay"
+                                             :name (p9 / name
+                                                       :op1 "Guantánamo"
+                                                       :op2 "Bay")
+                                             :location (p10 / country
+                                                            :wiki "Cuba"
+                                                            :name (p11 / name
+                                                                       :op1 "Cuba")))
+                               :ARG1-of (p12 / admit-01
+                                             :ARG0 (p13 / country
+                                                        :wiki "United States"
+                                                        :name (p14 / name
+                                                                   :op1 "United"
+                                                                   :op2 "States"))))))
+
+# ::snt 52 - Percentage of votes cast during the 2002 midterm elections that were recorded by Election Systems & Software, the largest voting-technology firm, a big Republican donor .
+(p0 / percentage
+    :quant-of (p1 / vote-01
+                  :time (p2 / elect-01
+                            :mod (p3 / mid-term)
+                            :time (p4 / date-entity
+                                      :year 2002))
+                  :ARG1-of (p5 / record-01
+                               :ARG0 (p6 / firm
+                                         :wiki "Election Systems & Software"
+                                         :name (p7 / name
+                                                   :op1 "Election"
+                                                   :op2 "Systems"
+                                                   :op3 "&"
+                                                   :op4 "Software")
+                                         :mod (p8 / firm
+                                                  :mod (p9 / technology
+                                                           :mod (p10 / vote-01))
+                                                  :ARG1-of (p11 / have-degree-91
+                                                                :ARG2 (p12 / large)
+                                                                :ARG3 (p13 / most))
+                                                  :ARG0-of (p14 / donate-01
+                                                                :ARG2 (p15 / political-party
+                                                                           :wiki "Republican Party (United States)"
+                                                                           :name (p16 / name
+                                                                                      :op1 "Republican"))
+                                                                :mod (p17 / big))))))
+    :quant (p18 / percentage-entity
+                :value 52))
+
+# ::snt 29 - Percentage of votes that will be cast via computer voting machines that don't produce a paper record .
+(p0 / percentage
+    :quant-of (p1 / vote-01
+                  :instrument (p2 / machine
+                                  :instrument-of (p3 / vote-01)
+                                  :mod (p4 / computer)
+                                  :ARG0-of (p5 / produce-01
+                                               :polarity -
+                                               :ARG1 (p6 / record
+                                                         :mod (p7 / paper)))))
+    :domain (p8 / percentage-entity
+                :value 29))
+
+# ::snt - it dries out, losing the water that is soaked into the set structur e
+(p0 / and
+    :op1 (p1 / dry-02
+             :ARG1 (p2 / it))
+    :op2 (p3 / lose-02
+             :ARG0 p2
+             :ARG1 (p4 / water
+                       :ARG1-of (p5 / soak-01
+                                    :ARG2 (p6 / structure
+                                              :mod (p7 / set))))))
+
+# ::snt For example, a set plaster mold that is to be used for clay slip casting must be dry - it gets wet pulling the water out of the slip - while a set plaster mold used for molding wax must be soaking or damp wet http://www.mikegigi.com/castgobl.htm#LGGOBPRO J
+(p0 / exemplify-01
+    :ARG0 (p1 / contrast-01
+              :ARG1 (p2 / obligate-01
+                        :ARG2 (p3 / dry-02
+                                  :ARG1 (p4 / mold
+                                            :mod (p5 / plaster
+                                                     :mod (p6 / set))
+                                            :ARG1-of (p7 / use-01
+                                                         :ARG2 (p8 / cast-01
+                                                                   :ARG1 (p9 / slip
+                                                                             :consist-of (p10 / Clay))))))
+                        :ARG1-of (p11 / cause-01
+                                      :ARG0 (p12 / get-03
+                                                 :ARG1 p4
+                                                 :ARG2 (p13 / wet-01
+                                                            :ARG1 p4)
+                                                 :ARG0-of (p14 / cause-01
+                                                               :ARG1 (p15 / pull-01
+                                                                          :ARG0 p4
+                                                                          :ARG1 (p16 / water)
+                                                                          :ARG2 (p17 / out-06
+                                                                                     :ARG1 p16
+                                                                                     :ARG2 p9))))))
+              :ARG2 (p18 / obligate-01
+                         :ARG2 (p19 / or
+                                    :op1 (p20 / soak-01
+                                              :ARG1 (p21 / mold
+                                                         :mod p5
+                                                         :ARG1-of (p22 / use-01
+                                                                       :ARG2 (p23 / wax-01
+                                                                                  :ARG1 p21))))
+                                    :op2 (p24 / wet-01
+                                              :ARG1 p21))
+                         :ARG1-of (p25 / hyperlink-91
+                                       :ARG3 (p26 / url-entity
+                                                  :value "http://www.mikegigi.com/castgobl.htm#LGGOB PRO J")))))
+
+# ::snt Problem is, for some reason, the visa process took longer than it should, thus I missed school this semester (visa was issued to me about 25 days after school started so I couldn't attend), now I no longer want to go into that school (because they only would accept me again on September of 2012), I found a school that accepted me for may 2012, can I use the same visa that was issued to me ?
+# ::snt Problem is, for some reason, the visa process took longer than it should, thus I missed school this semester (visa was issued to me about 25 days after school started so I couldn't attend), now I no longer want to go into that school (because they only would accept me again on September of 2012), I found a school that accepted me for may 2012, can I use the same visa that was issued to me ?
+( p0/ entity)
+
+# ::snt I have 2 phones running on the same line and the ADSL which is connected to one of the phones and the filter, I'm still getting a buzzing noise even when I have disconnected the other phone without one .
+(p0 / cause-01
+    :ARG0 (p1 / have-03
+              :ARG0 (p2 / i)
+              :ARG1 (p3 / and
+                        :op1 (p4 / phone
+                                 :quant 2
+                                 :ARG1-of (p5 / run-01
+                                              :location (p6 / line
+                                                            :ARG1-of (p7 / same-01))))
+                        :op2 (p8 / product
+                                 :wiki -
+                                 :name (p9 / name
+                                           :op1 "ADSL")
+                                 :ARG1-of (p10 / connect-01
+                                               :ARG2 (p11 / and
+                                                          :op1 (p12 / phone
+                                                                    :ARG1-of (p13 / include-91
+                                                                                  :ARG2 p4))
+                                                          :op2 (p14 / thing
+                                                                    :ARG0-of (p15 / filter-02)))))))
+    :ARG1 (p16 / get-01
+               :ARG0 p2
+               :ARG1 (p17 / noise
+                          :ARG0-of (p18 / bees-01))
+               :mod (p19 / still)
+               :concession (p20 / even-when
+                                :op1 (p21 / disconnect-01
+                                          :ARG0 p2
+                                          :ARG1 (p22 / phone
+                                                     :mod (p23 / other))
+                                          :manner (p24 / have-03
+                                                       :polarity -
+                                                       :ARG0 p2
+                                                       :ARG1 p17)))))
+
+# ::snt Indoor cats that are well cared for typically live 11-15 years .
+(p0 / live-01
+    :ARG0 (p1 / cat
+              :location (p2 / indoor)
+              :ARG1-of (p3 / care-03
+                           :ARG1-of (p4 / well-09)))
+    :ARG1 (p5 / between
+              :op1 (p6 / temporal-quantity
+                       :quant 11
+                       :unit (p7 / year))
+              :op2 (p8 / temporal-quantity
+                       :quant 15
+                       :unit (p9 / year)))
+    :ARG1-of (p10 / typical-02))
+
+# ::snt Both towns have airports that are served regularly from the larger cities such as Sao Paulo, Rio de Janeiro and Buenos Aires .
+(p0 / have-03
+    :ARG0 (p1 / town
+              :mod (p2 / both))
+    :ARG1 (p3 / airport
+              :ARG1-of (p4 / serve-01
+                           :ARG0 (p5 / city
+                                     :example (p6 / and
+                                                  :op1 (p7 / city
+                                                           :wiki "Sao Paulo"
+                                                           :name (p8 / name
+                                                                     :op1 "Sao"
+                                                                     :op2 "Paulo"))
+                                                  :op2 (p9 / city
+                                                           :wiki "Rio de Janeiro"
+                                                           :name (p10 / name
+                                                                      :op1 "Rio"
+                                                                      :op2 "de"
+                                                                      :op3 "Janeiro"))
+                                                  :op3 (p11 / city
+                                                            :wiki "Buenos Aires"
+                                                            :name (p12 / name
+                                                                       :op1 "Buenos"
+                                                                       :op2 "Aires")))
+                                     :ARG1-of (p13 / have-degree-91
+                                                   :ARG2 (p14 / large)
+                                                   :ARG3 (p15 / more)))
+                           :ARG1-of (p16 / regular-02))))
+
+# ::snt Although the origins of a movement that was confined largely to the literate culture of intellectual endeavor and patronage can be traced to the earlier part of the 14th century, many aspects of Italian culture and society remained largely Medieval; the Renaissance did not come into full swing until the end of the century .
+(p0 / multi-sentence
+    :snt1 (p1 / have-concession-91
+              :ARG1 (p2 / remain-01
+                        :ARG1 (p3 / aspect
+                                  :quant (p4 / many)
+                                  :part-of (p5 / and
+                                               :op1 (p6 / culture
+                                                        :mod (p7 / country
+                                                                 :wiki "Italy"
+                                                                 :name (p8 / name
+                                                                           :op1 "Italy")))
+                                               :op2 (p9 / society
+                                                        :mod p7)))
+                        :ARG3 (p10 / medieval
+                                   :degree (p11 / large)))
+              :ARG2 (p12 / possible-01
+                         :ARG1 (p13 / trace-02
+                                    :ARG1 (p14 / origin
+                                               :poss (p15 / movement-07
+                                                          :ARG1-of (p16 / confine-01
+                                                                        :ARG2 (p17 / culture
+                                                                                   :mod (p18 / literate)
+                                                                                   :consist-of (p19 / and
+                                                                                                    :op1 (p20 / endeavor-01
+                                                                                                              :mod (p21 / intellectual))
+                                                                                                    :op2 (p22 / patronage)))
+                                                                        :degree (p23 / large))))
+                                    :ARG2 (p24 / part
+                                               :part-of (p25 / date-entity
+                                                             :century 14)
+                                               :ARG1-of (p26 / have-degree-91
+                                                             :ARG2 (p27 / early)
+                                                             :ARG3 (p28 / more))))))
+    :snt2 (p29 / come-04
+               :polarity -
+               :ARG1 (p30 / event
+                          :wiki "Renaissance"
+                          :name (p31 / name
+                                     :op1 "Renaissance"))
+               :ARG2 (p32 / swing-02
+                          :ARG1 p30
+                          :ARG1-of (p33 / full-09))
+               :time (p34 / until
+                          :op1 (p35 / end-01
+                                    :ARG1 p25))))
+
+# ::snt Well, T.V. is a series of flickering pictures that are streamed together to make a moving picture .
+(p0 / series
+    :consist-of (p1 / picture
+                    :ARG0-of (p2 / flicker-01)
+                    :ARG1-of (p3 / stream-02
+                                 :purpose (p4 / make-01
+                                              :ARG1 (p5 / picture
+                                                        :ARG0-of (p6 / move-01)))
+                                 :manner (p7 / together)))
+    :domain (p8 / television)
+    :mod (p9 / well))
+
+# ::snt There has been a large Asian presence in the SF Bay Area for a long time--the Chinatown here was the largest population of chinese outside of China, there were lots of Japanese who'd been displaced during WWII .
+(p0 / and
+    :op1 (p1 / present-02
+             :ARG1 (p2 / person
+                       :mod (p3 / continent
+                                :wiki "Asia"
+                                :name (p4 / name
+                                          :op1 "Asia"))
+                       :mod (p5 / large))
+             :ARG2 (p6 / city
+                       :wiki "San Francisco"
+                       :name (p7 / name
+                                 :op1 "San"
+                                 :op2 "Francisco"
+                                 :op3 "Bay"
+                                 :op4 "Area"))
+             :ARG1-of (p8 / long-03))
+    :op2 (p9 / have-degree-91
+             :ARG1 (p10 / population
+                        :mod (p11 / ethnic-group
+                                  :wiki "Chinese people"
+                                  :name (p12 / name
+                                             :op1 "Chinese"))
+                        :location p6)
+             :ARG2 (p13 / large)
+             :ARG3 (p14 / most)
+             :ARG5 (p15 / population
+                        :location (p16 / outside
+                                       :op1 p11)))
+    :op3 (p17 / displace-01
+              :ARG1 (p18 / person
+                         :mod (p19 / country
+                                   :wiki "Japan"
+                                   :name (p20 / name
+                                              :op1 "Japan"))
+                         :quant (p21 / lot))
+              :time (p22 / war
+                         :wiki "World War II"
+                         :name (p23 / name
+                                    :op1 "WWII"))))
+
+# ::snt We also own two chickens that are kept in a run behind out garage/barn thing .
+(p0 / own-01
+    :ARG0 (p1 / we)
+    :ARG1 (p2 / chicken
+              :quant 2
+              :ARG1-of (p3 / keep-01
+                           :location (p4 / run
+                                         :location (p5 / behind
+                                                       :op1 (p6 / thing
+                                                                :mod (p7 / slash
+                                                                         :op1 (p8 / garage)
+                                                                         :op2 (p9 / barn)))))))
+    :mod (p10 / also))
+
+# ::snt Make sure there are plenty of litter boxes that are cleaned often .
+(p0 / ensure-01
+    :mode imperative
+    :ARG0 (p1 / you)
+    :ARG1 (p2 / box
+              :mod (p3 / litter)
+              :quant (p4 / plenty)
+              :ARG1-of (p5 / clean-01
+                           :frequency (p6 / often))))
+
+# ::snt You take a boat across the river, then spend a day biking, eating at a local restaurant, buying souvenirs and doing other things that are geared towards tourists .
+(p0 / and
+    :op1 (p1 / take-01
+             :ARG0 (p2 / you)
+             :ARG1 (p3 / boat)
+             :ARG3 (p4 / across
+                       :op1 (p5 / river)))
+    :op2 (p6 / spend-02
+             :ARG0 p2
+             :ARG1 (p7 / temporal-quantity
+                       :quant 1
+                       :unit (p8 / day))
+             :ARG2 (p9 / and
+                       :op1 (p10 / bike-01
+                                 :ARG0 p2)
+                       :op2 (p11 / eat-01
+                                 :ARG0 p2
+                                 :location (p12 / restaurant
+                                                :ARG1-of (p13 / local-02)))
+                       :op3 (p14 / buy-01
+                                 :ARG0 p2
+                                 :ARG1 (p15 / thing
+                                            :mod (p16 / other)
+                                            :ARG1-of (p17 / gear-01
+                                                          :ARG2 (p18 / person
+                                                                     :ARG0-of (p19 / tour-01))))))
+             :time (p20 / then)))
+
+# ::snt We had a great time and visited a location where they made coconut candies, visited a local restaurant which was attached to a fish farm, rode in modified quad bikes and had some tropical food at what appeared to be a local hangout .
+(p0 / and
+    :op1 (p1 / have-03
+             :ARG0 (p2 / we)
+             :ARG1 (p3 / time
+                       :mod (p4 / great)))
+    :op2 (p5 / visit-01
+             :ARG0 p2
+             :ARG1 (p6 / location
+                       :location-of (p7 / make-01
+                                        :ARG0 (p8 / they)
+                                        :ARG1 (p9 / candy
+                                                  :mod (p10 / coconut)))))
+    :op3 (p11 / visit-01
+              :ARG0 p2
+              :ARG1 (p12 / restaurant
+                         :ARG1-of (p13 / local-02)
+                         :ARG1-of (p14 / attach-01
+                                       :ARG2 (p15 / farm
+                                                  :mod (p16 / fish)))))
+    :op4 (p17 / ride-01
+              :ARG0 p2
+              :ARG1 (p18 / bike
+                         :mod (p19 / quad)
+                         :ARG1-of (p20 / modify-01)))
+    :op5 (p21 / have-03
+              :ARG0 p2
+              :ARG1 (p22 / food
+                         :mod (p23 / tropic)
+                         :quant (p24 / some))
+              :location (p25 / hang-out
+                             :ARG1-of (p26 / appear-02)
+                             :ARG1-of (p27 / local-02))))
+
+# ::snt In the winter, they will usually go deep underground and enter a hibernation-like state called brumation, which is characterized by a slowed metabolism and reduced activity .
+(p0 / and
+    :op1 (p1 / go-01
+             :ARG1 (p2 / they)
+             :ARG4 (p3 / underground
+                       :ARG1-of (p4 / deep-02))
+             :mod (p5 / usual))
+    :op2 (p6 / enter-01
+             :ARG0 p2
+             :ARG1 (p7 / state
+                       :ARG1-of (p8 / resemble-01
+                                    :ARG2 (p9 / sleep-02))
+                       :ARG1-of (p10 / call-01
+                                     :ARG2 (p11 / brumation))
+                       :ARG1-of (p12 / characterize-01
+                                     :ARG2 (p13 / and
+                                                :op1 (p14 / slow-down-03
+                                                          :ARG1 (p15 / consume-01))
+                                                :op2 (p16 / reduce-01
+                                                          :ARG1 (p17 / activity-06))))))
+    :time (p18 / date-entity
+               :season (p19 / winter)))
+
+# ::snt There is a very good book on the subject that was written by General Vo Nguyen Giap .
+(p0 / book
+    :ARG1-of (p1 / good-02
+                 :degree (p2 / very))
+    :topic (p3 / subject)
+    :ARG1-of (p4 / write-01
+                 :ARG0 (p5 / person
+                           :wiki "Vo Nguyen Giap"
+                           :name (p6 / name
+                                     :op1 "Vo"
+                                     :op2 "Nguyen"
+                                     :op3 "Giap")
+                           :ARG0-of (p7 / have-org-role-91
+                                        :ARG2 (p8 / general)))))
+
+# ::snt There is a splash fountain (no standing water) for little ones still in diapers; Next is a wading pool for those who are potty trained; Then a family pool; Finally there is a pool for adults only with kids not allowed .
+(p0 / and
+    :op1 (p1 / fountain
+             :ARG0-of (p2 / splash-01)
+             :ARG0-of (p3 / have-03
+                          :polarity -
+                          :ARG1 (p4 / water
+                                    :ARG1-of (p5 / stand-01)))
+             :beneficiary (p6 / one
+                              :mod (p7 / little)
+                              :ARG0-of (p8 / wear-01
+                                           :ARG1 (p9 / diaper)
+                                           :mod (p10 / still))))
+    :op2 (p11 / pool
+              :mod (p12 / wade-01)
+              :beneficiary (p13 / person
+                                :ARG1-of (p14 / train-01
+                                              :ARG2 (p15 / toilet-01
+                                                         :ARG0 p13)))
+              :time (p16 / next))
+    :op3 (p17 / pool
+              :mod (p18 / family)
+              :time (p19 / then))
+    :op4 (p20 / pool
+              :mod (p21 / adult)
+              :time (p22 / final)
+              :accompanier (p23 / kid
+                                :ARG1-of (p24 / allow-01
+                                              :polarity -
+                                              :mod (p25 / only)))))
+
+# ::snt The chiro/acupuncturist will be there to evaluate the horse for wobblers which is often caused by spinal compression and can be confused with EPM .
+(p0 / be-located-at-91
+    :ARG1 (p1 / slash
+              :op1 (p2 / chiro)
+              :op2 (p3 / acupuncturist))
+    :ARG2 (p4 / there)
+    :purpose (p5 / evaluate-01
+                 :ARG0 p1
+                 :ARG1 (p6 / horse)
+                 :ARG2 (p7 / wobble-01
+                           :ARG1-of (p8 / cause-01
+                                        :ARG0 (p9 / compress-01
+                                                  :ARG1 (p10 / spine))
+                                        :frequency (p11 / often))
+                           :ARG1-of (p12 / confuse-01
+                                         :ARG2 (p13 / disease
+                                                    :wiki "Erythropoietin"
+                                                    :name (p14 / name
+                                                               :op1 "EPM"))
+                                         :ARG1-of (p15 / possible-01)))))
+
+# ::snt In addition, the clothing is of much better quality than the clothing from hot topic, which is made as cheaply as possible by people living in horrible conditions in Asia .
+(p0 / and
+    :op2 (p1 / quality
+             :domain (p2 / clothing)
+             :ARG1-of (p3 / have-degree-91
+                          :ARG2 (p4 / good-02
+                                    :ARG1 p1)
+                          :ARG3 (p5 / more
+                                    :quant (p6 / much))
+                          :ARG4 (p7 / clothing
+                                    :source (p8 / topic
+                                                :ARG1-of (p9 / hot-04))
+                                    :ARG1-of (p10 / make-01
+                                                  :ARG0 (p11 / person
+                                                             :ARG0-of (p12 / live-01
+                                                                           :location (p13 / condition
+                                                                                          :mod (p14 / horrible))
+                                                                           :location (p15 / continent
+                                                                                          :wiki "Asia"
+                                                                                          :name (p16 / name
+                                                                                                     :op1 "Asia"))))
+                                                  :manner (p17 / cheap-02
+                                                               :ARG2-of (p18 / have-degree-91
+                                                                             :ARG1 p10
+                                                                             :ARG3 (p19 / equal)
+                                                                             :ARG4 (p20 / possible-01
+                                                                                        :ARG1 p10))))))))
+
+# ::snt Had a horrible experience with a manager here, Rachel McInnis, she was rude, inconsiderate and did not do the right thing for an item that was marked incorrectly.. .
+(p0 / experience-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / horrible)
+    :ARG2 (p3 / person
+              :wiki "Rachel McInnis"
+              :name (p4 / name
+                        :op1 "Rachel"
+                        :op2 "McInnis")
+              :ARG0-of (p5 / manage-01)
+              :location (p6 / here))
+    :ARG1-of (p7 / cause-01
+                 :ARG0 (p8 / and
+                           :op1 (p9 / rude-01
+                                    :ARG0 p3)
+                           :op2 (p10 / honest-01
+                                     :polarity -
+                                     :ARG0 p3)
+                           :op3 (p11 / do-02
+                                     :polarity -
+                                     :ARG0 p3
+                                     :ARG1 (p12 / thing
+                                                :ARG1-of (p13 / right-02))
+                                     :ARG2 (p14 / item
+                                                :ARG1-of (p15 / mark-02
+                                                              :ARG1-of (p16 / correct-02
+                                                                            :polarity -)))))))
+
+# ::snt He had a robe that was made back in the '60s .
+(p0 / have-03
+    :ARG0 (p1 / he)
+    :ARG1 (p2 / robe
+              :ARG1-of (p3 / make-01
+                           :time (p4 / before)
+                           :time (p5 / date-entity
+                                     :decade 1960))))
+
+# ::snt A great breakfast which was included every morning until 9:30am; yummy fresh Parisian croissants .
+(p0 / multi-sentence
+    :snt1 (p1 / breakfast
+              :mod (p2 / great)
+              :ARG2-of (p3 / include-01
+                           :frequency (p4 / rate-entity-91
+                                          :ARG4 (p5 / date-entity
+                                                    :dayperiod (p6 / morning)))
+                           :time (p7 / until
+                                     :op1 (p8 / date-entity
+                                              :time "9:30"))))
+    :snt2 (p9 / croissant
+              :mod (p10 / city
+                        :wiki "Paris"
+                        :name (p11 / name
+                                   :op1 "Paris"))
+              :mod (p12 / yummy)
+              :ARG1-of (p13 / fresh-04)))
+
+# ::snt I sent a graphic that would have been distorted if printed as it was .
+(p0 / send-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / graphic
+              :ARG1-of (p3 / distort-01
+                           :condition (p4 / print-01
+                                          :ARG1 p2))))
+
+# ::snt I've spoken to vendors who are used by them who had nothing good to say about the company as well and in fact were afraid to quote events against them even though they openly admitted that they felt Canadian Outback was pricing their entertainment out of the market and doing more to hurt their business than help them .
+(p0 / speak-01
+    :ARG0 (p1 / i)
+    :ARG1 (p2 / person
+              :ARG0-of (p3 / vend-01)
+              :ARG1-of (p4 / use-01
+                           :ARG0 (p5 / they))
+              :ARG0-of (p6 / say-01
+                           :ARG1 (p7 / nothing
+                                     :ARG1-of (p8 / good-02))
+                           :ARG3 p5
+                           :mod (p9 / as-well))
+              :ARG0-of (p10 / fear-01
+                            :ARG1 (p11 / quote-01
+                                       :ARG0 p2
+                                       :ARG1 (p12 / event)
+                                       :prep-against p5)
+                            :mod (p13 / in-fact)
+                            :concession (p14 / admit-01
+                                             :ARG0 p2
+                                             :ARG1 (p15 / feel-02
+                                                        :ARG0 p2
+                                                        :ARG1 (p16 / and
+                                                                   :op1 (p17 / price-01
+                                                                             :ARG0 (p18 / company
+                                                                                        :wiki "Outback"
+                                                                                        :name (p19 / name
+                                                                                                   :op1 "Outback")
+                                                                                        :mod (p20 / country
+                                                                                                  :wiki "Canada"
+                                                                                                  :name (p21 / name
+                                                                                                             :op1 "Canada")))
+                                                                             :ARG1 (p22 / entertain-01
+                                                                                        :ARG1 p2)
+                                                                             :ARG3 (p23 / out-06
+                                                                                        :ARG1 p18
+                                                                                        :ARG2 (p24 / market)))
+                                                                   :op2 (p25 / do-02
+                                                                             :ARG0 p18
+                                                                             :ARG1 (p26 / and
+                                                                                        :op1 (p27 / hurt-01
+                                                                                                  :ARG0 p18
+                                                                                                  :ARG1 (p28 / business
+                                                                                                             :poss p2))
+                                                                                        :op2 (p29 / help-01
+                                                                                                  :ARG0 p18
+                                                                                                  :ARG1 p2))
+                                                                             :ARG1-of (p30 / have-quant-91
+                                                                                           :ARG3 (p31 / more)
+                                                                                           :ARG4 p17))))
+                                             :ARG1-of (p32 / open-04)))))
+
+# ::snt I've read some of the reviews below and would like to state that yes, like any other doctors office there is sometimes a wait (depending on what other patients are being seen for) and some of the tests and procedures that are ran can be costly (just like they would be for any other medical tests elsewhere if you do not have insurance).. .
+(p0 / and
+    :op1 (p1 / read-01
+             :ARG0 (p2 / i)
+             :ARG1 (p3 / review-02
+                       :quant (p4 / some)
+                       :location (p5 / below)))
+    :op2 (p6 / like-02
+             :ARG0 p2
+             :ARG1 (p7 / state-01
+                       :ARG0 p2
+                       :ARG1 (p8 / and
+                                 :op1 (p9 / wait-01
+                                          :frequency (p10 / sometimes)
+                                          :ARG1-of (p11 / resemble-01
+                                                        :ARG2 (p12 / wait-01
+                                                                   :location (p13 / office
+                                                                                  :poss (p14 / doctor
+                                                                                             :mod (p15 / other)
+                                                                                             :mod (p16 / any)))))
+                                          :ARG0-of (p17 / depend-01
+                                                        :ARG1 (p18 / thing
+                                                                   :ARG1-of (p19 / see-01
+                                                                                 :ARG2 (p20 / patient
+                                                                                            :mod (p21 / other))))))
+                                 :op2 (p22 / possible-01
+                                           :ARG1 (p23 / costly
+                                                      :domain (p24 / and
+                                                                   :op1 (p25 / test-01)
+                                                                   :op2 (p26 / procedure)
+                                                                   :ARG1-of (p27 / include-91
+                                                                                 :ARG2 (p28 / and
+                                                                                            :op1 (p29 / test-01)
+                                                                                            :op2 (p30 / procedure)
+                                                                                            :ARG1-of (p31 / run-01)))
+                                                                   :quant (p32 / some))
+                                                      :ARG1-of (p33 / resemble-01
+                                                                    :ARG2 (p34 / cost-01
+                                                                               :ARG1 (p35 / test-01
+                                                                                          :mod (p36 / medicine)
+                                                                                          :mod (p37 / other)
+                                                                                          :mod (p38 / any)
+                                                                                          :location (p39 / elsewhere))
+                                                                               :condition (p40 / have-03
+                                                                                               :polarity -
+                                                                                               :ARG0 (p41 / you)
+                                                                                               :ARG1 (p42 / insure-02))))))))))
+
+# ::snt Then, when we moved out, we cleaned the apartment top to bottom, they came back and tried to charge us for two cleaning fees (and we never got our deposit back) and past utilities (that were already paid, we have check numbers and records of this) .
+(p0 / and
+    :op1 (p1 / clean-01
+             :ARG0 (p2 / we)
+             :ARG1 (p3 / apartment)
+             :manner (p4 / and
+                         :op1 (p5 / top)
+                         :op2 (p6 / bottom))
+             :time (p7 / move-01
+                       :ARG0 p2
+                       :ARG2 (p8 / out)))
+    :op2 (p9 / and
+             :op1 (p10 / come-01
+                       :ARG1 (p11 / they)
+                       :direction (p12 / back))
+             :op2 (p13 / try-01
+                       :ARG0 p11
+                       :ARG1 (p14 / charge-01
+                                  :ARG0 p11
+                                  :ARG1 (p15 / and
+                                             :op1 (p16 / fee
+                                                       :quant 2
+                                                       :mod (p17 / clean-01))
+                                             :op2 (p18 / utility
+                                                       :time (p19 / past)
+                                                       :ARG3-of (p20 / pay-01
+                                                                     :time (p21 / already))
+                                                       :ARG2-of (p22 / have-03
+                                                                     :ARG0 p2
+                                                                     :ARG1 (p23 / and
+                                                                                :op1 (p24 / number
+                                                                                          :mod (p25 / check))
+                                                                                :op2 (p26 / record-01
+                                                                                          :ARG1 p20)))))
+                                  :ARG2 p2))))
+
+# ::snt I'm very frustrated at this point- it would take all of 10 min for them to come by and replace the one board that is cracked (the crack is deep enough to stick a penny in it and it goes clear through) yet they do not want to take the time to bother with what once WAS a happy customer and has now become a dissatisfied customer .
+(p0 / frustrate-01
+    :ARG0 (p1 / and
+              :op1 (p2 / come-01
+                       :ARG1 (p3 / they)
+                       :ARG4 (p4 / by))
+              :op2 (p5 / replace-01
+                       :ARG0 p3
+                       :ARG1 (p6 / board
+                                 :quant 1
+                                 :ARG1-of (p7 / crack-02)
+                                 :ARG1-of (p8 / have-degree-91
+                                              :ARG2 (p9 / deep-02
+                                                        :ARG1 p7)
+                                              :ARG3 (p10 / enough)
+                                              :ARG6 (p11 / and
+                                                         :op1 (p12 / stick-01
+                                                                   :ARG1 (p13 / penny)
+                                                                   :ARG2 p6)
+                                                         :op2 (p14 / go-01
+                                                                   :ARG1 p13
+                                                                   :ARG4 (p15 / through)
+                                                                   :ARG1-of (p16 / clear-06))))))
+              :duration (p17 / temporal-quantity
+                             :quant 10
+                             :unit (p18 / minute)
+                             :mod (p19 / all))
+              :concession-of (p20 / want-01
+                                  :polarity -
+                                  :ARG0 p3
+                                  :ARG1 (p21 / take-01
+                                             :ARG0 p3
+                                             :ARG1 (p22 / time)
+                                             :purpose (p23 / bother-02
+                                                           :ARG0 p3
+                                                           :ARG1 (p24 / and
+                                                                      :op1 (p25 / customer
+                                                                                :ARG1-of (p26 / happy-01
+                                                                                              :time (p27 / once)))
+                                                                      :op2 (p28 / customer
+                                                                                :ARG1-of (p29 / dissatisfy-01
+                                                                                              :time (p30 / now))))))))
+    :ARG1 (p31 / i)
+    :degree (p32 / very)
+    :time (p33 / point
+               :mod (p34 / this)))
+
+# ::snt I then called the 800 number (which was answered) and inquired about last minute rates .
+(p0 / and
+    :op1 (p1 / call-02
+             :ARG0 (p2 / i)
+             :ARG1 (p3 / number
+                       :mod 800)
+             :ARG1-of (p4 / answer-01)
+             :time (p5 / then))
+    :op2 (p6 / inquire-01
+             :ARG0 p2
+             :ARG1 (p7 / rate
+                       :time (p8 / minute
+                                 :mod (p9 / last)))))
+
+# ::snt Service was average, but nothing special, and restaurants that are supposed to be excellent should do a better job of training their waitstaff to be communicative and friendly, not merely capable .
+(p0 / and
+    :op1 (p1 / contrast-01
+             :ARG1 (p2 / average-04
+                       :ARG1 (p3 / serve-01))
+             :ARG2 (p4 / special-02
+                       :polarity -
+                       :ARG1 p3))
+    :op2 (p5 / recommend-01
+             :ARG1 (p6 / do-02
+                       :ARG0 (p7 / restaurant
+                                 :ARG1-of (p8 / suppose-02
+                                              :ARG2 (p9 / excellent-02
+                                                        :ARG1 p7)))
+                       :ARG1 (p10 / job
+                                  :topic (p11 / train-01
+                                              :ARG0 p7
+                                              :ARG1 (p12 / and
+                                                         :op1 (p13 / communicate-01
+                                                                   :ARG0 p14)
+                                                         :op2 (p14 / friendly-01
+                                                                   :ARG1 p14)
+                                                         :ARG1-of (p15 / contrast-01
+                                                                       :ARG2 (p16 / capable-01
+                                                                                  :polarity -
+                                                                                  :ARG1 p14
+                                                                                  :mod (p17 / mere))))
+                                              :ARG2 (p18 / person
+                                                         :ARG0-of (p19 / wait-01)
+                                                         :poss p7))
+                                  :ARG1-of (p20 / have-degree-91
+                                                :ARG2 (p21 / good-02
+                                                           :ARG1 p10)
+                                                :ARG3 (p22 / more))))))
+

@@ -1,0 +1,714 @@
+(u_21 / recall-01  :ARG1 (u_11 / something  :ARG1-of (u_19 / block-01  :ARG0 (u_24 / person  :name (u_20 / _NAME_)  :ARG0-of (u_15 / have-org-role-91  :ARG1 (u_18 / army  :mod (u_17 / old)  :name (u_16 / _NAME_))  :ARG2 (u_13 / officer  :quant (u_25 / some  :op1 (u_14 / _NUMBER_))  :mod (u_12 / junior)))  :ARG1-of (u_22 / possible-01  :condition-of u_19))))  :ARG2 (u_26 / duty)  :mod (u_23 / recent))
+
+(u_48 / and  :op1 (u_46 / possible-01  :ARG1 (u_49 / do-02  :ARG1 (u_45 / nothing)  :ARG2 (u_47 / it)  :ARG0 (u_40 / we)))  :op2 (u_51 / live-01  :ARG0 (u_39 / person  :ARG0-of (u_43 / suggest-01  :ARG1 (u_37 / and  :op1 (u_41 / go-out-17  :ARG0 (u_50 / we  :ARG0-of (u_44 / fight-01  :op2-of u_37))))))  :location (u_38 / land  :mod (u_42 / dream-01))))
+
+(u_79 / and  :op1 (u_76 / targette-01  :ARG1 (u_77 / "\"they"))  :op2 (u_74 / shoot-01  :ARG0 (u_78 / sniper  :mod (u_73 / country  :name (u_66 / _NAME_)))  :ARG1 (u_63 / and  :op1 (u_69 / child)  :op2 (u_75 / pregnant)))  :op4 (u_64 / get-22  :ARG0 (u_65 / you  :ARG0-of (u_71 / hear-01  :ARG1-of u_64))  :mod (u_67 / all))  :op3 (u_68 / use-01  :ARG1 (u_70 / bomb  :mod (u_72 / cluster))))
+
+(u_103 / and  :op1 (u_102 / "overwhelming,"  :ARG1 (u_99 / urge-01  :ARG1 (u_90 / and  :op1 (u_98 / protect-01  :ARG1 (u_91 / they  :mod (u_92 / all)  :ARG1-of (u_96 / gather-01  :op2-of u_90))))  :ARG0-of (u_93 / make-02  :ARG1 (u_100 / appreciate-02  :ARG0 (u_101 / bless-01)  :degree (u_97 / more))  :op2-of u_103))  :mod (u_95 / almost))  :ARG1-of (u_94 / have-03))
+
+(u_125 / threaten-01  :ARG0 (u_117 / tactic  :poss (u_115 / movement-07  :mod (u_114 / country  :name (u_118 / _NAME_))  :mod (u_119 / free-04  :mod (u_127 / nation)))  :mod (u_120 / asymmetrical))  :ARG2 (u_124 / contrast-01  :ARG2 (u_128 / army  :polarity (u_113 / -)  :mod (u_123 / conventional)))  :mod (u_121 / big  :degree (u_129 / most))  :ARG1-of (u_122 / face-01  :ARG0 (u_116 / country  :name (u_126 / _NAME_))))
+
+(u_155 / support-01  :ARG0 (u_142 / country  :name (u_145 / _NAME_))  :ARG1 (u_143 / group  :location (u_153 / world-region  :name (u_144 / _NAME_))  :ARG0-of (u_149 / back-01  :ARG1 (u_154 / _NAME_))  :ARG2-of (u_147 / despite  :ARG1 u_155  :ARG2-of (u_151 / price-01  :ARG1-of (u_159 / pay-01  :ARG0 (u_150 / government-organization  :name (u_160 / _NAME_))  :purpose (u_157 / keep-02  :ARG1 (u_152 / happy-01)  :ARG0 (u_146 / person  :name (u_158 / _NAME_)  :name (u_156 / _NAME_)))))))  :mod (u_148 / still))
+
+(u_182 / contrast-01  :ARG1 (u_184 / doubt-01  :ARG1 (u_181 / thing  :ARG1-of (u_191 / regard-01  :ARG0 (u_183 / date  :topic (u_178 / person  :name (u_189 / _NAME_)))  :ARG2 (u_188 / day  :ARG1-of (u_192 / renew-01)  :ARG1-of (u_193 / await-01  :mod (u_190 / all)))))  :polarity (u_187 / -))  :ARG2 (u_179 / dread-01  :ARG0 (u_176 / other  :quant (u_174 / many  :mod (u_175 / country  :name (u_177 / _NAME_)))  :quant (u_185 / many))  :time (u_180 / already)  :ARG1-of (u_186 / same-01)))
+
+(u_213 / recommend-01  :ARG1 (u_203 / take-01  :ARG1 (u_212 / cue)  :ARG2 (u_204 / bomb-01  :mod (u_209 / another)  :ARG0-of (u_216 / want-01  :ARG1 (u_217 / person  :name (u_208 / _NAME_)  :mod (u_218 / pesky)  :ARG1-of (u_210 / _NAME_)  :ARG0-of (u_206 / have-org-role-91  :ARG1 (u_205 / government-organization  :name (u_219 / _NAME_))  :ARG2 (u_207 / operative)))  :mod (u_215 / some)  :mod (u_214 / foreign)))  :ARG0 (u_211 / He)))
+
+(u_241 / scour-01  :ARG0 (u_230 / person  :ARG0-of (u_233 / report-01))  :ARG1 (u_240 / state  :name (u_235 / _NAME_)  :ARG1-of (u_242 / search-01  :ARG0 (u_243 / or  :op1 (u_236 / person  :ARG0-of (u_238 / pilot-01))  :op2 (u_232 / anyone  :ARG0-of (u_245 / see-01  :ARG1 (u_237 / person  :name (u_239 / _NAME_))  :time (u_244 / serve-01  :ARG0 (u_234 / military  :name (u_246 / _NAME_)))  :ARG1-of (u_231 / remember-01  :ARG0 u_232  :ARG1-of (u_247 / possible-01)))))  :purpose-of u_241)))
+
+(u_265 / say-01  :ARG0 (u_264 / person  :name (u_266 / _NAME_)  :ARG0-of (u_256 / have-org-role-91  :ARG2 (u_255 / president)))  :ARG1 (u_260 / cause-01  :ARG0 (u_261 / work-01  :ARG2 (u_259 / person  :name (u_267 / _NAME_)))  :ARG1 (u_262 / transfer-01  :ARG2 (u_257 / military  :name (u_258 / _NAME_))))  :time (u_263 / always))
+
+(u_298 / leave-15  :ARG0 (u_297 / he)  :ARG1 (u_283 / house  :ARG1-of (u_287 / rent-01))  :ARG1-of (u_299 / disrepair--with  :ARG0 (u_295 / and  :op1 (u_296 / damage-01  :ARG1 (u_292 / wall)  :degree (u_291 / such))  :op2 (u_290 / chandelier  :polarity (u_282 / -))))  :ARG1-of (u_293 / grumble-01  :ARG0 (u_289 / family  :name (u_285 / _NAME_)  :ARG0-of (u_288 / own-01))  :mod (u_286 / still)  :topic (u_284 / bill-01  :ARG3 (u_294 / repair-01)  :ARG1-of (u_300 / pay-01))))
+
+(u_326 / say-01  :ARG0 (u_321 / person  :name (u_329 / _NAME_))  :ARG1 (u_315 / come-01  :ARG4 (u_314 / office)  :ARG1 (u_322 / person  :name (u_320 / _NAME_)  :ARG0-of (u_323 / offer-01  :ARG1 (u_324 / story  :topic (u_313 / drink-01  :time (u_328 / date-entity  :dayperiod (u_318 / night))  :ARG1-of (u_330 / do-02)))  :time-of u_315))  :ARG1-of (u_325 / friendly-01))  :mod (u_319 / cause-01  :ARG0-of (u_317 / starter  :ARG1 (u_327 / converse-01)  :mod (u_316 / kind-of)  :manner-of u_326)))
+
+(u_340 / contrast-01  :ARG2 (u_341 / mean-01  :ARG1 (u_342 / that)  :ARG1-of (u_346 / cause-01  :ARG0 (u_344 / tell-01  :ARG0 (u_347 / guy  :name (u_349 / _NAME_))  :ARG2 (u_343 / they))  :mod (u_345 / sort  :polarity (u_339 / -)  :mod (u_348 / thing)))  :ARG1-of (u_338 / resemble-01  :ARG2 u_340)))
+
+(u_366 / possible-01  :ARG1 (u_363 / smuggle-01  :ARG1 (u_360 / gun  :quant (u_357 / some)  :quant (u_369 / _NUMBER_)  :ARG1-of (u_358 / send-01  :ARG2 (u_370 / force  :mod (u_359 / country  :name (u_361 / _NAME_))  :mod (u_362 / security))  :ARG0 (u_367 / country  :name (u_368 / _NAME_))))  :ARG1-of (u_364 / fear-01  :time (u_365 / yesterday))))
+
+(u_378 / and  :op1 (u_392 / include-91  :ARG1 (u_379 / person  :mod (u_384 / even)  :mod (u_391 / some)  :ARG0-of (u_381 / criticize-01)  :ARG1-of (u_385 / strict  :degree (u_382 / most))  :ARG1-of (u_386 / mainstream-02)))  :op2 (u_390 / read-01  :ARG1 (u_388 / play  :ARG1 (u_380 / theory  :mod (u_387 / incompetence)))  :time (u_383 / always)  :mod (u_393 / _NAME_)  :mod (u_389 / again)))
+
+(u_417 / acknowledge-01  :ARG0 (u_418 / editorial  :source (u_424 / broadcast-program  :name (u_419 / _NAME_)  :location (u_431 / city  :name (u_425 / _NAME_))  :location (u_426 / city  :name (u_427 / _NAME_))  :name (u_428 / _NAME_)))  :ARG1 (u_423 / likely-01  :ARG1 (u_446 / contribute-01  :ARG0 (u_439 / and  :op1 (u_442 / believe-01  :mod (u_437 / conservative)  :ARG1-of (u_448 / free-04))  :op2 (u_422 / unwillingness  :ARG1 (u_440 / stir-up-03  :ARG1 (u_421 / nest)  :location (u_430 / medium  :mod (u_420 / nation))))  :mod (u_447 / all))  :ARG2 (u_432 / approach-02  :mod (u_441 / kid-glove)  :ARG1-of (u_445 / take-01  :ARG0 (u_429 / and  :op1 (u_443 / person  :ARG0-of (u_436 / legislate-01))  :op2 (u_416 / officer  :ARG2-of (u_434 / have-org-role-91  :ARG0 (u_433 / government-organization  :name (u_438 / enforce-01))))  :ARG0-of (u_444 / deal-01  :ARG2 (u_435 / polygamous)  :time-of u_445)))))))
+
+(u_471 / grow-up-04  :ARG1 (u_468 / girl  :mod (u_466 / Most  :ARG1-of (u_465 / include-91))  :ARG1-of (u_467 / meet-02  :ARG0 (u_469 / i)))  :ARG2 (u_457 / school  :name (u_462 / _NAME_)  :location (u_458 / city  :name (u_470 / _NAME_))  :location-of (u_459 / live-01  :ARG1-of (u_464 / separate-01  :ARG2 (u_463 / person  :ARG0-of (u_461 / have-rel-role-91  :ARG2 (u_460 / parent)))))))
+
+(u_476 / and  :ARG1 (u_475 / all  :domain (u_474 / have-to-do-with-04  :ARG1 (u_477 / it)  :ARG2 (u_479 / nothing)  :ARG0 (u_478 / i))))
+
+(u_500 / have-03  :ARG0 (u_505 / i)  :ARG1 (u_492 / way  :ARG1-of (u_496 / long-03)  :ARG1-of (u_502 / go-01  :purpose (u_507 / catch-up-04  :ARG1 (u_491 / and  :op1 (u_506 / die-01)  :op2 (u_503 / destroy-01)  :ARG1-of (u_501 / deal-out-03  :ARG0 (u_495 / religious-group  :name (u_493 / _NAME_))))  :ARG0 u_492)))  :mod (u_494 / last)  :mod (u_497 / Satanists)  :mod (u_498 / person  :ARG1-of (u_504 / _NAME_))  :mod (u_499 / _NAME_))
+
+(u_510 / and  :op1 (u_511 / this  :domain (u_514 / Everything  :ARG1-of (u_512 / claim-01  :ARG0 (u_516 / they))))  :op2 (u_515 / above  :op1 (u_513 / all)))
+
+(u_523 / amazed-01  :ARG0 (u_521 / spiel  :ARG1-of (u_520 / deliver-01  :ARG0 (u_522 / they)))  :ARG1 (u_524 / i))
+
+(u_559 / bother-01  :ARG0 (u_565 / person  :polarity (u_549 / -))  :ARG1 (u_548 / multi-sentence  :snt2 (u_544 / behave-01)  :snt1 (u_556 / subscribe-01  :ARG0 (u_563 / i)  :ARG1 (u_564 / notion)  :polarity (u_543 / -)))  :time (u_558 / single-out-04  :ARG1 (u_555 / group  :ARG1-of (u_553 / specific-02)  :consist-of (u_545 / person))  :ARG0 (u_562 / person  :ARG1-of (u_542 / pin-01  :ARG2 (u_561 / blame-01)  :purpose-of u_558)))  :ARG1-of (u_551 / cause-01  :ARG0 (u_546 / thing  :ARG1-of (u_552 / listen-01  :ARG0 (u_547 / we  :ARG0-of (u_557 / watch-01  :ARG1 u_546  :op1-of (u_554 / or  :op2 u_552)))))  :ARG1-of (u_550 / think-01  :manner (u_560 / massive))))
+
+(u_588 / and  :op1 (u_590 / fit  :ARG0 (u_597 / gun  :quant (u_594 / _NUMBER_)  :ARG1-of (u_604 / buy-01  :ARG1-of (u_591 / want-01))  :ARG1-of (u_607 / miss-01  :ARG1-of (u_596 / go-01  :ARG0 u_597  :time (u_600 / then)  :op2-of u_588)))  :ARG1 (u_602 / want-01  :ARG0 (u_595 / and  :op1 (u_598 / government-organization  :ARG0-of (u_599 / govern-01  :ARG1 (u_584 / country  :name (u_585 / _NAME_))))  :op2 (u_606 / medium)  :ARG0-of (u_605 / buy-01  :ARG1-of u_602))  :mod (u_601 / country  :name (u_603 / _NAME_)))  :mod (u_608 / hissy))  :time (u_589 / way  :location (u_586 / country  :name (u_592 / _NAME_)))  :mod (u_587 / _NAME_  :mod (u_593 / definite)))
+
+(u_615 / pretty-02  :ARG1 (u_614 / picture  :ARG1-of (u_613 / describe-01  :ARG0 (u_616 / i)  :location (u_612 / here)))  :polarity (u_611 / -))
+
+(u_674 / say-01  :ARG0 (u_659 / they)  :ARG1 (u_655 / follow-01  :ARG1 (u_650 / mailing-01  :ARG1 (u_651 / _NAME_))  :ARG2 (u_654 / pattern  :ARG1 (u_676 / letter  :ARG1-of (u_671 / send-01  :ARG2 (u_653 / branch  :mod (u_667 / newspaper)  :location (u_657 / and  :op2 (u_662 / target  :mod (u_661 / symbolize-01))  :op1 (u_658 / city  :name (u_663 / _NAME_))))  :time (u_665 / before  :op1 (u_664 / attack-01))  :year (u_656 / _NUMBER_)))))  :mod (u_673 / mean-01  :degree (u_670 / very))  :ARG0-of (u_652 / analyze-01  :ARG1 (u_666 / criminal-organization  :name (u_672 / _NAME_))  :time (u_668 / _NAME_)  :ARG0-of (u_649 / retire-01  :ARG1 (u_660 / government-organization  :name (u_644 / _NAME_))  :time (u_648 / recent))  :ARG0-of (u_675 / head-01  :ARG1 (u_647 / _NAME_)  :time (u_677 / once)))  :ARG1-of (u_645 / and  :ARG0-of (u_669 / warn-01  :ARG1 (u_646 / you))))
+
+(u_688 / need-01  :ARG0 (u_689 / authority  :ARG0-of (u_684 / focus-01  :ARG1 (u_692 / connect-01  :ARG1-of (u_687 / trace-02))  :ARG1-of u_688))  :location (u_686 / he)  :mod (u_683 / that  :ARG1-of (u_691 / recruit-01  :ARG0 (u_685 / or  :op2 (u_690 / person  :name (u_693 / _NAME_))))))
+
+(u_713 / know-01  :ARG0 (u_707 / hack-04  :ARG0 (u_704 / government-organization  :name (u_708 / _NAME_)))  :ARG1 (u_703 / message-01  :location (u_702 / laptop  :ARG1-of (u_710 / seize-01))  :ARG1-of (u_709 / draft-01)  :ARG1-of (u_714 / have-03  :ARG0 (u_706 / person  :name (u_705 / _NAME_)))  :ARG0-of (u_711 / sign-01  :ARG1 (u_712 / "\"khalid-01")))  :mode (u_701 / interrogative))
+
+(u_741 / say-01  :ARG0 (u_740 / person  :mod (u_732 / even)  :ARG0-of (u_738 / have-org-role-91  :ARG2 (u_739 / attorney)  :ARG1 (u_737 / government-organization  :name (u_746 / _NAME_))))  :ARG1 (u_753 / likely-01  :ARG1 (u_751 / resort-01  :ARG0 (u_744 / and  :op1 (u_749 / person  :name (u_742 / _NAME_)))  :ARG1 (u_736 / agent  :mod (u_747 / biology)  :mod (u_733 / chemical)  :ARG1-of (u_752 / possess-01))  :condition (u_750 / pressure-01  :mod (u_754 / extradite-01)  :ARG1-of (u_731 / face-01  :ARG0 (u_730 / person  :mod (u_734 / senior)  :ARG0-of (u_755 / lead-02  :ARG1 (u_745 / criminal-organization  :name (u_748 / _NAME_))))))))  :time (u_743 / date-entity  :year (u_735 / _NUMBER_)))
+
+(u_776 / read-01  :ARG0 (u_773 / you)  :ARG1 (u_768 / arrest-01)  :mod (u_774 / all)  :time (u_772 / time)  :name (u_780 / _NAME_  :ARG0-of (u_769 / have-rel-role-91  :ARG2 (u_766 / son  :ARG0-of (u_782 / receive-01  :ARG1 (u_781 / stipend)  :ARG2 (u_767 / organization  :name (u_779 / _NAME_))  :ARG1-of (u_777 / cause-01  :ARG0 (u_778 / poison-01  :ARG1 (u_770 / lead))  :mod (u_771 / _NAME_  :mod (u_775 / official))))))))
+
+(u_793 / reasonable-02  :ARG1 (u_791 / credit-01  :ARG1 (u_790 / state-01  :ARG1 (u_794 / get-01  :ARG1 (u_796 / lesion)  :time (u_800 / after  :op1 (u_797 / bump-01  :ARG1 (u_799 / suitcase  :ARG1-of (u_798 / carry-01  :location (u_792 / camp  :location (u_795 / country  :name (u_801 / _NAME_)))))))))))
+
+(u_821 / say-01  :ARG0 (u_830 / post-01)  :ARG1 (u_825 / express-01  :ARG0 (u_827 / she)  :ARG1 (u_819 / sentiment  :ARG1-of (u_836 / same-01))  :name (u_829 / _NAME_))  :ARG1-of (u_826 / connect-01  :ARG2 (u_828 / _NAME_  :ARG0 (u_818 / country  :name (u_832 / _NAME_))  :ARG1-of (u_834 / seek-01  :ARG1-of (u_822 / exchange-01  :ARG2 (u_833 / extradite-01  :ARG1 (u_823 / person  :name (u_820 / _NAME_)  :time (u_831 / _NUMBER_)  :ARG0-of (u_824 / plotter))  :ARG2 (u_835 / country  :name (u_837 / _NAME_))))))))
+
+(u_868 / save-01  :ARG0 (u_861 / We  :ARG0-of (u_867 / cause-01  :ARG1 u_868  :ARG1-of (u_864 / refund-01  :mod (u_869 / cash)  :ARG1-of (u_852 / give-01  :ARG2 (u_853 / company  :name (u_860 / _NAME_)  :mod (u_870 / other))  :ARG0 (u_862 / person  :name (u_855 / _NAME_)))))  :ARG0-of (u_857 / use-01  :ARG1 (u_859 / box  :ARG1-of (u_858 / use-01  :ARG0 (u_865 / anyone)  :polarity (u_856 / -)))  :manner-of u_868))  :ARG1 (u_854 / money  :ARG1-of (u_866 / real-04))  :quant (u_851 / _NUMBER_)  :mod (u_863 / this))
+
+(u_895 / like-02  :ARG1 (u_888 / talk-01  :ARG1 (u_883 / strategy-01  :topic (u_881 / diversification))  :manner (u_890 / detail-01  :degree (u_885 / more))  :manner (u_887 / or  :op2 (u_889 / meet-03  :time (u_893 / after  :op1 (u_891 / close-01  :ARG1 (u_892 / market)))  :ARG1-of (u_886 / quick-02))  :op1 (u_894 / dinner)))  :mod (u_884 / some)  :mode (u_882 / interrogative))
+
+(u_908 / like-02  :ARG0 (u_914 / i  :ARG0-of (u_907 / hedge-01  :ARG1 (u_906 / expose-01  :ARG1 (u_913 / option  :ARG1-of (u_909 / unexercise-01)  :ARG1-of (u_911 / vest-01))  :mod (u_905 / some))  :purpose-of u_908))  :ARG1 (u_910 / capable-01  :mod (u_904 / that))  :ARG1-of (u_912 / have-03))
+
+(u_924 / and  :op1 (u_933 / look-01  :ARG0 (u_925 / i  :ARG0-of (u_934 / think-01  :ARG1 (u_930 / possible-01  :ARG1 (u_931 / opportunity  :purpose (u_928 / buy-01  :ARG1 (u_929 / call-02  :ARG1-of (u_936 / sell-01  :ARG0 (u_927 / you))))))  :op2-of u_924))  :ARG1 (u_937 / pullback  :time (u_932 / recent)  :location (u_935 / state  :name (u_926 / _NAME_)))))
+
+(u_962 / contrast-01  :ARG1 (u_977 / think-01  :ARG0 (u_978 / i)  :ARG1 (u_963 / person  :name (u_961 / _NAME_)  :ARG1-of (u_964 / discuss-01  :ARG0 (u_960 / we)  :time (u_958 / before)))  :mod (u_982 / also)  :mod (u_959 / still)  :ARG1-of (u_966 / possible-01  :concession-of u_962))  :ARG2 (u_968 / and  :op1 (u_979 / have-03  :ARG0 (u_981 / you)  :ARG1 (u_965 / artist  :quant (u_967 / lot)  :mod (u_975 / other)  :ARG2-of (u_970 / interest-01)))  :op2 (u_974 / possible-01  :ARG1 (u_980 / remain-01  :ARG1 (u_969 / burner  :mod (u_976 / back))  :ARG1-of (u_971 / cause-01  :ARG0 (u_972 / have-03  :time (u_973 / already)))))))
+
+(u_1012 / know-01  :ARG0 (u_1007 / i)  :ARG1 (u_1018 / this  :ARG1-of (u_1025 / circulate-01  :purpose (u_1017 / comment-01  :ARG0 (u_1015 / controller  :ARG0 (u_1004 / business)  :mod (u_1014 / all)))  :ARG1-of (u_1013 / take-04  :ARG0 (u_1011 / person  :name (u_1020 / _NAME_))  :time (u_1016 / after  :ARG4-of (u_1019 / return-01)))))  :mod (u_1022 / last)  :time (u_1029 / after  :op1 (u_1010 / draft-01  :ARG0 (u_1006 / and  :op1 (u_1026 / you)  :op2 (u_1024 / person  :name (u_1009 / _NAME_)))  :ARG1 (u_1005 / point  :mod (u_1008 / this)  :mod (u_1028 / starting-01)  :purpose (u_1021 / standard  :mod (u_1023 / fundamental)  :mod (u_1027 / operating-01))))))
+
+(u_1035 / differ-02  :ARG1 (u_1036 / package  :mod (u_1033 / _NUMBER_))  :mod (u_1037 / only)  :ARG1-of (u_1038 / have-03  :ARG0 (u_1034 / we)))
+
+(u_1043 / differ-02  :ARG1 (u_1044 / package  :mod (u_1042 / _NUMBER_))  :mod (u_1045 / only)  :ARG1-of (u_1046 / have-03  :ARG0 (u_1047 / we)))
+
+(u_1052 / differ-02  :ARG1 (u_1053 / package  :mod (u_1051 / _NUMBER_))  :mod (u_1054 / only)  :ARG1-of (u_1055 / have-03  :ARG0 (u_1056 / we)))
+
+(u_1075 / modify-01  :ARG1 (u_1076 / document  :mod (u_1073 / this))  :ARG2 (u_1068 / change-01  :ARG1 (u_1069 / mark-up  :ARG1-of (u_1066 / fax-01  :ARG2 (u_1065 / person  :name (u_1074 / _NAME_))  :ARG0 (u_1072 / you)  :location (u_1067 / here)  :location (u_1070 / publication  :name (u_1071 / _NAME_))))))
+
+(u_1085 / relate-01  :ARG1 (u_1087 / this)  :ARG2 (u_1086 / problem  :ARG1-of (u_1084 / get-05  :ARG0 (u_1081 / he)  :location (u_1083 / around)))  :mode (u_1082 / interrogative))
+
+(u_1100 / use-01  :mode (u_1094 / imperative)  :ARG0 (u_1097 / one  :ARG1-of (u_1096 / send-01  :ARG0 (u_1093 / i)  :time (u_1098 / early  :degree (u_1102 / more))))  :ARG1 (u_1101 / file  :mod (u_1092 / this)  :ARG1-of (u_1099 / new-01))  :polite (u_1095 / "+"))
+
+(u_1115 / agree-01  :ARG0 (u_1122 / person  :name (u_1121 / _NAME_)  :ARG0-of (u_1125 / meet-03  :ARG1 (u_1116 / us)  :time (u_1117 / date-entity  :month (u_1113 / 9))  :purpose (u_1127 / brainstorm-01  :ARG1 (u_1129 / idea  :ARG1-of (u_1128 / generate-01))  :ARG0 u_1122)  :ARG1-of u_1115))  :op1-of (u_1114 / and  :op2 (u_1120 / give-01  :ARG1 (u_1118 / sense-01  :ARG1 (u_1126 / issue-02  :quant (u_1123 / some)  :ARG1-of (u_1124 / see-01)))  :mod (u_1119 / also))))
+
+(u_1150 / know-01  :ARG0 (u_1151 / i)  :ARG1 (u_1161 / address-02  :ARG0 (u_1159 / we)  :ARG1 (u_1153 / right-05  :ARG2 (u_1145 / agree-01  :mod (u_1148 / _NAME_))  :mod (u_1160 / audit-01))  :ARG0-of (u_1157 / cause-01  :ARG1 (u_1156 / possible-01  :ARG1 (u_1158 / matter-01  :ARG1 (u_1146 / this)  :polarity (u_1144 / -)  :mod (u_1152 / anyway)  :condition (u_1149 / right-05  :domain (u_1154 / have-03  :ARG1 (u_1155 / they)  :time (u_1147 / already))))))))
+
+(u_1193 / know-01  :ARG0 (u_1180 / i)  :ARG1 (u_1191 / address-02  :ARG0 (u_1189 / we)  :ARG1 (u_1183 / right-05  :ARG2 (u_1177 / agree-01  :mod (u_1179 / _NAME_))  :mod (u_1190 / audit-01))  :ARG0-of (u_1186 / cause-01  :ARG1 (u_1185 / possible-01  :ARG1 (u_1187 / matter-01  :ARG1 (u_1188 / this)  :polarity (u_1176 / -)  :mod (u_1181 / anyway)  :condition (u_1192 / right-05  :domain (u_1182 / have-03  :ARG1 (u_1184 / they)  :time (u_1178 / already))))))))
+
+(u_1211 / know-01  :ARG0 (u_1212 / i)  :ARG1 (u_1210 / address-02  :ARG0 (u_1223 / we)  :ARG1 (u_1218 / right-05  :ARG2 (u_1209 / agree-01  :mod (u_1214 / _NAME_))  :mod (u_1224 / audit-01))  :ARG0-of (u_1220 / cause-01  :ARG1 (u_1219 / possible-01  :ARG1 (u_1221 / matter-01  :ARG1 (u_1222 / this)  :polarity (u_1208 / -)  :mod (u_1215 / anyway)  :condition (u_1225 / right-05  :domain (u_1216 / have-03  :ARG1 (u_1217 / they)  :time (u_1213 / already))))))))
+
+(u_1260 / one  :ARG1-of (u_1273 / include-91  :ARG2 (u_1253 / dinner  :mod (u_1264 / high-02)  :ARG1-of (u_1249 / good-02  :degree (u_1262 / most))  :ARG1-of (u_1268 / have-03  :time (u_1263 / ever)))  :concession (u_1266 / possible-01  :ARG1 (u_1248 / do-02  :ARG0 (u_1258 / and  :op1 (u_1256 / person  :name (u_1247 / _NAME_))  :op2 (u_1272 / person  :name (u_1271 / _NAME_)))  :ARG1 (u_1270 / job  :ARG1-of (u_1269 / marvelous-03)))  :ARG1-of (u_1265 / testify-01  :ARG0 (u_1267 / i))))  :ARG0-of (u_1252 / gonna  :ARG1 (u_1250 / tell-01  :ARG1 (u_1251 / -)  :ARG2 (u_1261 / want-01  :ARG1 (u_1254 / get-01  :ARG1 (u_1255 / swell-01))  :polarity (u_1259 / -))  :polarity (u_1257 / -))))
+
+(u_1310 / and  :op2 (u_1311 / like-02  :ARG0 (u_1331 / we  :ARG0-of (u_1304 / add-02  :ARG1 (u_1306 / entity  :mod (u_1319 / all)  :name (u_1317 / _NAME_)  :mod (u_1321 / trade-01)  :ARG0-of (u_1320 / trade-01  :ARG1 (u_1325 / Entities  :ARG1-of (u_1322 / Specified-01))  :prep-under (u_1324 / person  :name (u_1326 / _NAME_))))  :ARG1-of u_1311))  :name (u_1305 / _NAME_))  :op1 (u_1318 / have-03  :ARG0 (u_1328 / company  :name (u_1330 / _NAME_))  :ARG1 (u_1327 / issue-02  :ARG0 (u_1329 / credit)  :quant (u_1309 / 1)))  :op3 (u_1312 / hesitant  :degree (u_1323 / somewhat)  :ARG1-of (u_1301 / cause-01  :ARG0 (u_1300 / possible-01  :ARG1 (u_1308 / roll-up-03  :ARG0 (u_1303 / swap  :mod (u_1313 / transact-01  :ARG1 (u_1307 / loan-01  :ARG1-of (u_1299 / structured-02))))  :ARG1 (u_1302 / default  :ARG1 (u_1314 / law  :name (u_1315 / _NAME_)))  :mod (u_1316 / potential))))))
+
+(u_1341 / recommend-01  :ARG1 (u_1339 / ignore-01  :ARG0 (u_1340 / you)  :ARG1 (u_1342 / sentiment  :poss (u_1338 / quote-01  :ARG1-of (u_1336 / send-01  :ARG0 (u_1337 / i))))))
+
+(u_1352 / possible-01  :ARG1 (u_1349 / do-02  :ARG0 (u_1350 / we  :ARG0-of (u_1347 / pass-on-14  :ARG1 (u_1351 / news  :mod (u_1346 / this))  :ARG1-of u_1349))  :mod (u_1348 / most)))
+
+(u_1359 / recommend-01  :ARG1 (u_1358 / tell-01  :ARG0 (u_1360 / we)  :ARG1 (u_1357 / anyone  :mod (u_1355 / else)))  :mode (u_1356 / interrogative))
+
+(u_1384 / date-entity  :op1 (u_1372 / and  :duration (u_1373 / multiple  :op1 (u_1387 / temporal-quantity  :unit (u_1375 / day))))  :op2 (u_1382 / "(assume"  :ARG1 (u_1370 / and  :op1 (u_1388 / work-01  :ARG0 (u_1385 / you  :ARG1-of (u_1374 / go-back-19  :ARG4 (u_1381 / work-01)  :time (u_1377 / day)  :time (u_1386 / after  :op1 (u_1378 / return-01))  :op2-of u_1370))  :ARG1 (u_1380 / leave-15  :ARG0 (u_1379 / we))  :time (u_1376 / day)))  :time (u_1383 / date-entity  :year (u_1371 / _NUMBER_))))
+
+(u_1397 / believe-01  :ARG1 (u_1402 / belong-01  :ARG0 (u_1400 / message-01  :ARG2-of (u_1399 / forward-01  :ARG1 (u_1401 / you)))  :ARG1 (u_1398 / company  :name (u_1404 / _NAME_))  :location (u_1403 / city  :name (u_1405 / _NAME_)))  :ARG2 (u_1396 / i)  :ARG0 (u_1406 / i))
+
+(u_1439 / and  :op1 (u_1428 / and  :op1 (u_1426 / look-01  :ARG0 (u_1442 / i  :ARG0-of (u_1446 / say-01  :ARG1 (u_1432 / person  :name (u_1444 / _NAME_))  :op2-of u_1428))  :ARG1 (u_1427 / Master  :mod (u_1425 / _NAME_))))  :op2 (u_1450 / and  :op1 (u_1447 / thing  :ARG2-of (u_1434 / name))  :op2 (u_1431 / _NAME_))  :op4 (u_1429 / our)  :op3 (u_1435 / question-01  :quant (u_1433 / few)  :mod (u_1445 / other))  :unit (u_1443 / cost-01  :quant (u_1430 / some)  :beneficiary (u_1437 / us))  :ARG1-of (u_1449 / cause-01  :ARG0 (u_1451 / recommend-01  :ARG1 (u_1440 / threshold  :mod (u_1441 / default  :mod (u_1448 / cross)))))  :ARG1-of (u_1438 / and  :polarity (u_1436 / -)))
+
+(u_1468 / attach-01  :ARG1 (u_1462 / page  :mod (u_1465 / cover-01  :mod (u_1466 / fax-01))  :mod (u_1472 / each)  :topic (u_1460 / and  :op2 (u_1464 / _NAME_)  :op1 (u_1471 / Nylon)  :mod (u_1463 / ISDAs  :ARG1-of (u_1461 / send-01  :ARG2 (u_1470 / you)  :ARG0 (u_1467 / i)  :mod (u_1469 / just))))))
+
+(u_1502 / propose-01  :ARG0 (u_1490 / i)  :ARG1 (u_1485 / call-03  :ARG1 (u_1489 / person  :name (u_1488 / _NAME_))  :ARG2 (u_1500 / we)  :ARG0 (u_1487 / you  :ARG0-of (u_1495 / discuss-01  :ARG1 (u_1497 / area  :mod (u_1496 / any)  :mod (u_1493 / "concern/confusion")  :ARG1-of (u_1494 / have-03  :ARG1-of (u_1491 / possible-01)))  :purpose-of u_1485))  :mod (u_1498 / conference)  :time (u_1499 / _NAME_))  :time (u_1492 / today  :location (u_1486 / city  :name (u_1501 / _NAME_))))
+
+(u_1509 / attached-01  :ARG1 (u_1510 / letter  :ARG1-of (u_1508 / send-01  :ARG2 (u_1514 / you)  :ARG0 (u_1513 / i)  :mod (u_1507 / original)  :time (u_1515 / _DATE_)  :mod (u_1512 / regard  :mod (u_1511 / this)))))
+
+(u_1527 / reflect-01  :ARG0 (u_1523 / thing  :mod (u_1520 / this)  :ARG1-of (u_1529 / draft-01))  :ARG1 (u_1522 / change-01  :ARG1-of (u_1521 / discuss-01  :ARG0 (u_1526 / we  :ARG0-of (u_1524 / call-03  :time-of u_1521))  :time (u_1528 / day  :mod (u_1525 / other)))))
+
+(u_1543 / and  :op1 (u_1558 / glad-02  :ARG0 (u_1556 / i  :ARG1 (u_1553 / person  :name (u_1552 / _NAME_)  :prep-with (u_1547 / folk))  :ARG0-of (u_1557 / get-01  :ARG1 (u_1545 / follow-up)  :quant (u_1542 / some)  :mod (u_1555 / as-well)  :ARG1-of (u_1561 / base-02  :ARG2 (u_1562 / chat  :time (u_1551 / _NAME_)  :time (u_1559 / date-entity  :weekday (u_1560 / _name_))))  :op2-of u_1543))  :ARG1 (u_1544 / want-01  :ARG0 (u_1549 / they  :ARG0-of (u_1548 / follow-up-00  :ARG1-of u_1544  :ARG1-of (u_1554 / push-02  :ARG0 (u_1546 / person  :name (u_1550 / _NAME_))  :subevent-of u_1544)))))  :ARG1-of (u_1563 / have-03))
+
+(u_1568 / need-01  :ARG0 (u_1567 / make-01  :ARG1 (u_1569 / _NAME_)  :ARG0-of (u_1570 / update-01  :ARG1 (u_1571 / number  :purpose (u_1572 / offer-01  :ARG1 (u_1566 / person  :name (u_1573 / _NAME_))))  :ARG1-of u_1568)))
+
+(u_1600 / and  :op1 (u_1589 / let-01  :mode (u_1586 / imperative)  :ARG0 (u_1587 / "it,"  :ARG0-of (u_1588 / possible-01  :ARG1 (u_1585 / and  :op1 (u_1599 / add-02  :ARG0 (u_1593 / we  :ARG1-of (u_1594 / change-01  :mod (u_1596 / any)  :mod (u_1597 / other)  :time (u_1590 / end-01  :mod (u_1595 / this))  :ARG1-of (u_1598 / like-02  :ARG0 u_1593)  :op2-of u_1585))))  :op2-of u_1600))  :ARG1 (u_1591 / know-01  :ARG0 (u_1592 / us)))  :ARG1-of (u_1601 / make-01))
+
+(u_1638 / want-01  :ARG0 (u_1619 / we  :ARG0-of (u_1616 / add-02  :ARG1 (u_1628 / rule-01  :poss (u_1625 / province  :mod (u_1618 / country  :name (u_1630 / _NAME_)))  :mod (u_1633 / swap-01)  :mod (u_1632 / equivalant)  :ARG1-of (u_1635 / new-01)  :ARG1-of (u_1631 / "\"eligible"))  :ARG1-of u_1638))  :purpose (u_1627 / review-01  :ARG1 (u_1620 / list  :mod (u_1622 / this)  :mod (u_1623 / law)  :ARG1-of (u_1624 / comply-01  :ARG1-of (u_1621 / need-01)))  :ARG0 (u_1629 / our)  :frequency (u_1634 / rate-entity-91  :ARG3 (u_1636 / temporal-quantity  :unit (u_1626 / year))))  :polarity (u_1617 / -)  :mode (u_1637 / interrogative))
+
+(u_1652 / let-01  :ARG1 (u_1658 / know-01  :ARG0 (u_1651 / you  :ARG1-of (u_1650 / think-01  :ARG0 (u_1656 / anything  :mod (u_1654 / else)  :ARG1-of (u_1655 / do-02  :ARG0 (u_1653 / i  :ARG0-of (u_1661 / strengthen-01  :ARG1 (u_1662 / file-01  :mod (u_1663 / overall)  :mod (u_1657 / apply-01)  :mod (u_1659 / next))  :purpose-of u_1655))  :ARG1-of (u_1660 / possible-01)))  :condition-of u_1652)))  :polite (u_1649 / "+"))
+
+(u_1678 / let-01  :ARG1 (u_1685 / know-01  :ARG0 (u_1677 / you  :ARG0-of (u_1683 / think-01  :ARG1 (u_1688 / anything  :mod (u_1686 / else)  :ARG1-of (u_1687 / do-02  :ARG0 (u_1682 / i  :ARG0-of (u_1679 / strengthen-01  :ARG1 (u_1680 / file  :mod (u_1681 / overall)  :mod (u_1689 / apply-01)  :mod (u_1690 / next))  :purpose-of u_1687))  :ARG1-of (u_1691 / possible-01)))  :ARG1-of (u_1684 / possible-01  :condition-of u_1678))))  :polite (u_1676 / "+"))
+
+(u_1705 / let-01  :ARG1 (u_1711 / know-01  :ARG0 (u_1704 / you  :ARG1-of (u_1703 / think-01  :ARG0 (u_1707 / anything  :mod (u_1716 / else)  :ARG1-of (u_1706 / do-02  :ARG0 (u_1715 / i  :ARG0-of (u_1712 / strengthen-01  :ARG1 (u_1713 / file  :mod (u_1714 / overall)  :mod (u_1708 / apply-01)  :mod (u_1709 / next))  :purpose-of u_1706))  :ARG1-of (u_1710 / possible-01)))  :condition-of u_1705)))  :polite (u_1702 / "+"))
+
+(u_1742 / propose-01  :ARG0 (u_1744 / i)  :ARG1 (u_1735 / add-02  :ARG1 (u_1737 / language  :ARG1-of (u_1736 / redline-01))  :ARG2 (u_1732 / and  :op1 (u_1748 / agree-01  :ARG1 (u_1733 / company  :name (u_1740 / _NAME_))  :ARG1-of (u_1741 / attach-01))  :op2 (u_1746 / agree-01  :ARG1 (u_1734 / rate  :ARG0-of (u_1747 / do-02  :ARG1 u_1746))  :quant (u_1731 / _NUMBER_)  :mod (u_1743 / other)  :ARG1-of (u_1730 / negotiate-01))))  :time (u_1749 / after  :op1 (u_1738 / discuss-01  :ARG1 (u_1739 / group  :mod (u_1745 / commerce)))))
+
+(u_1774 / and  :op1 (u_1762 / disregard-01  :mode (u_1760 / imperative)  :ARG0 (u_1761 / form  :ARG1-of (u_1769 / receive-01)  :ARG1-of (u_1767 / destroy-01  :op2-of u_1774))  :ARG1 (u_1766 / you))  :polite (u_1763 / "+")  :mod (u_1765 / form  :mod (u_1770 / any)  :ARG1-of (u_1771 / blank-02)  :ARG1-of (u_1773 / retrieve-01  :ARG2 (u_1764 / system  :mod (u_1772 / _NAME_))  :time (u_1768 / prior))))
+
+(u_1832 / begin-01  :ARG0 (u_1817 / we  :ARG0-of (u_1829 / develop-02  :ARG1 (u_1805 / tool  :mod (u_1824 / electronic)  :ARG0-of (u_1826 / allow-01  :ARG1 (u_1837 / provide-01  :ARG1 (u_1809 / summary-01  :ARG1 (u_1813 / and  :op1 (u_1807 / gas  :mod (u_1815 / organization  :name (u_1802 / _NAME_)))  :op2 (u_1827 / electric  :ARG1-of (u_1828 / possible-01)))  :ARG1-of (u_1808 / go-on-15))  :manner (u_1830 / format  :ARG1-of (u_1812 / link-01  :ARG2 (u_1825 / site  :mod (u_1803 / _NAME_)  :mod (u_1810 / intranet)  :ARG1-of (u_1804 / use-01  :ARG0 (u_1801 / person  :ARG0-of (u_1822 / trade-01))))  :ARG1-of (u_1811 / possible-01))))))  :ARG1-of (u_1816 / work-01  :ARG0 u_1817  :ARG1-of u_1832)))  :manner (u_1814 / outgrowth  :ARG1 (u_1819 / meet-03  :ARG0 (u_1831 / and  :op1 (u_1835 / person  :name (u_1823 / _NAME_))  :op2 (u_1833 / i))  :accompanier (u_1821 / and  :op1 (u_1836 / person  :name (u_1818 / _NAME_))  :op2 (u_1820 / person  :name (u_1806 / _NAME_))  :mod (u_1834 / _NAME_)))))
+
+(u_1848 / replace-01  :ARG0 (u_1849 / this)  :ARG1 (u_1846 / copy-01  :mod (u_1843 / paper)  :ARG1-of (u_1845 / get-01  :ARG0 (u_1844 / and  :op1 (u_1850 / you)  :op2 (u_1847 / person))  :time (u_1851 / current))))
+
+(u_1855 / matter  :domain (u_1857 / amr-unknown)  :mod (u_1854 / subject)  :ARG1-of (u_1856 / visit-01  :ARG0 (u_1859 / you  :ARG0-of (u_1858 / wish-01  :ARG1 u_1856))))
+
+(u_1865 / appreciate-02  :ARG1 (u_1867 / Anything)  :ARG1-of (u_1870 / possible-01  :ARG1-of (u_1872 / do-02  :ARG0 (u_1871 / you  :ARG0-of (u_1866 / help-01  :ARG1 (u_1869 / further-01  :ARG1 (u_1873 / goal  :poss (u_1868 / i)))  :ARG2-of u_1872)))))
+
+(u_1879 / appreciate-02  :ARG1 (u_1880 / Anything)  :ARG1-of (u_1884 / possible-01  :ARG1-of (u_1885 / do-02  :ARG0 (u_1886 / you  :ARG0-of (u_1881 / help-01  :ARG1 (u_1883 / further-01  :ARG1 (u_1887 / goal  :poss (u_1882 / i)))  :ARG2-of u_1885)))))
+
+(u_1893 / have-03  :ARG0 (u_1895 / you)  :ARG1 (u_1897 / _NAME_  :ARG1-of (u_1896 / use-01  :ARG0 (u_1899 / we)  :ARG1-of (u_1898 / possible-01)))  :mod (u_1892 / also)  :mode (u_1894 / interrogative))
+
+(u_1910 / have-03  :ARG0 (u_1911 / i)  :ARG1 (u_1907 / thing  :ARG2-of (u_1905 / copy-01  :ARG1 (u_1906 / document  :ARG1-of (u_1904 / give-01  :ARG2 (u_1909 / you)  :time (u_1912 / tomorrow)  :ARG1-of (u_1908 / possible-01))))))
+
+(u_1920 / approve-01  :ARG0 (u_1915 / person  :name (u_1921 / _NAME_))  :ARG1 (u_1917 / thing  :ARG1-of (u_1918 / draft-01)  :ARG1-of (u_1916 / receive-01  :ARG0 (u_1919 / you))))
+
+(u_1931 / guideline  :location (u_1928 / here)  :mod (u_1927 / trade-01)  :ARG1-of (u_1929 / develop-02  :ARG0 (u_1936 / i)  :example (u_1938 / and  :op3 (u_1935 / power  :name (u_1937 / _NAME_))  :op2 (u_1930 / company  :name (u_1934 / _NAME_))  :op1 (u_1932 / country  :name (u_1933 / _NAME_)))))
+
+(u_1955 / believe-01  :ARG0 (u_1956 / We)  :ARG1 (u_1953 / address-02  :ARG0 (u_1954 / it)  :ARG1 (u_1947 / and  :op1 (u_1952 / issue-02)  :op2 (u_1950 / concern-01)  :quant (u_1948 / many)  :ARG1-of (u_1949 / raise-01  :ARG0 (u_1951 / you)  :location (u_1946 / workshop)))))
+
+(u_1983 / ask-02  :ARG2 (u_1967 / and  :op1 (u_1968 / company  :name (u_1974 / _NAME_))  :op2 (u_1977 / person  :name (u_1975 / _NAME_))  :ARG0-of (u_1981 / supply-01  :ARG1 (u_1980 / detail-01  :ARG1 (u_1969 / contract  :ARG1-of (u_1978 / cut-02  :purpose (u_1971 / sell-01  :ARG1 (u_1979 / power)  :direction (u_1970 / forward)  :ARG0-of (u_1976 / lend-01)))))  :ARG1-of u_1983))  :ARG0 (u_1973 / person  :name (u_1972 / _NAME_)  :ARG0-of (u_1982 / have-org-role-91  :ARG1 u_1983)))
+
+(u_1999 / differ-02  :ARG1 (u_1992 / number  :mod (u_1998 / this))  :ARG2 (u_1993 / put-01  :ARG0 (u_1994 / you)  :ARG1 (u_1996 / one)  :mod (u_1991 / together)  :mod (u_1995 / _NAME_))  :degree (u_1997 / slight))
+
+(u_2007 / and  :op1 (u_2014 / thing  :ARG2-of (u_2012 / describe-01  :ARG1 (u_2015 / Job)))  :op2 (u_2010 / Accountabilities  :ARG1 (u_2013 / position  :ARG1-of (u_2008 / mention-01  :ARG2 (u_2005 / you)  :ARG0 (u_2006 / i)  :time (u_2016 / _NAME_)))  :mod (u_2011 / operation))  :location (u_2009 / here))
+
+(u_2022 / and  :op1 (u_2028 / _NAME_  :ARG1-of (u_2023 / approve-01)  :ARG1-of (u_2026 / fund-01  :ARG2 (u_2025 / _NAME_)))  :op2 (u_2024 / kilometer  :mod (u_2021 / at-most))  :mod (u_2027 / time))
+
+(u_2067 / question-01  :ARG0 (u_2054 / act-02  :ARG0 (u_2050 / person  :ARG0-of (u_2047 / have-org-role-91  :ARG2 (u_2049 / president)  :ARG1 (u_2046 / government-organization  :name (u_2048 / _NAME_))))  :manner (u_2056 / alone)  :time (u_2058 / step-01  :ARG1 (u_2053 / remove-01  :ARG1 (u_2057 / cap  :ARG1 (u_2044 / price-01)  :ARG1-of (u_2052 / key-02)  :ARG0-of (u_2064 / limit-01  :ARG1 (u_2055 / amount  :ARG1-of (u_2061 / charge-01  :ARG0 (u_2051 / generator  :ARG1 (u_2066 / power))  :ARG1-of (u_2059 / possible-01)))  :ARG3-of (u_2045 / design-01  :ARG1 u_2057))))))  :ARG1 (u_2065 / coup  :mod (u_2062 / _NAME_))  :mod (u_2063 / central)  :mod (u_2060 / behind))
+
+(u_2099 / begin-01  :ARG1 (u_2095 / vote-01  :ARG0 (u_2083 / member  :ARG2-of (u_2084 / have-org-role-91  :ARG1 (u_2081 / organization  :name (u_2085 / _NAME_))  :ARG0 (u_2098 / board)))  :ARG1 (u_2096 / restrict-01  :ARG1 (u_2079 / amount  :quant-of (u_2082 / money  :ARG1-of (u_2080 / charge-01  :ARG2 (u_2090 / power)  :ARG0 (u_2087 / person  :ARG0-of (u_2093 / produce-01  :ARG1 (u_2092 / electricity)))  :ARG1-of (u_2091 / possible-01))))  :mod (u_2094 / severe)))  :time (u_2088 / _DATE_)  :ARG1-of (u_2100 / know-02  :ARG2 (u_2089 / coup  :mod (u_2097 / palace))  :ARG2-of (u_2086 / become-01  :ARG1 u_2099)))
+
+(u_2108 / say-01  :ARG0 (u_2104 / person  :name (u_2111 / _NAME_)  :ARG0-of (u_2110 / believe-01  :ARG1 (u_2107 / address-01  :ARG0 (u_2106 / act-02  :ARG0 (u_2105 / we))  :ARG1 (u_2109 / severe))  :ARG1-of u_2108)))
+
+(u_2129 / contrast-01  :ARG1 (u_2137 / push-02  :ARG1 (u_2140 / person  :quant (u_2135 / some)  :ARG0-of (u_2128 / have-org-role-91  :ARG2 (u_2132 / member)  :ARG1 (u_2134 / board))))  :ARG2 (u_2139 / concern-01  :ARG1 (u_2138 / lead-03  :ARG2 (u_2127 / action  :mod (u_2133 / such))  :quant (u_2125 / more)))  :ARG0-of (u_2142 / have-04  :ARG1 (u_2141 / _NAME_))  :ARG1-of (u_2144 / say-01  :ARG0 (u_2143 / person  :name (u_2131 / _NAME_)  :ARG0-of (u_2145 / have-org-role-91  :ARG1 (u_2126 / organization  :name (u_2136 / _NAME_))  :ARG2 (u_2130 / spokesman)))))
+
+(u_2161 / leave-17  :ARG0 (u_2157 / or  :op1 (u_2156 / hardship  :polarity (u_2155 / -)  :mod (u_2158 / economy)  :prep-under (u_2169 / contract-02)))  :ARG1 (u_2168 / they  :ARG2-of (u_2167 / thing  :ARG1 u_2161  :ARG1-of (u_2164 / obligate-01  :ARG2 u_2168  :ARG0-of (u_2160 / cause-01  :ARG1 u_2168))))  :purpose (u_2159 / arbitrate-01)  :ARG0-of (u_2162 / issue-02  :mod (u_2170 / only))  :ARG2-of (u_2163 / _NAME_  :ARG0 (u_2166 / our)  :mod (u_2165 / only)))
+
+(u_2190 / possible-01  :ARG1 (u_2192 / tell-01  :ARG0 (u_2198 / you)  :ARG2 (u_2185 / _NAME_)  :time (u_2193 / by  :op1 (u_2199 / date-entity  :month (u_2183 / _NAME_)))  :polite (u_2195 / "+"))  :ARG1-of (u_2189 / include-91  :ARG0 (u_2197 / time  :ARG1-of (u_2196 / spend-01  :ARG0 (u_2191 / you)  :ARG3 (u_2184 / broadcast-program  :name (u_2186 / _NAME_))  :time (u_2201 / and  :op1 (u_2188 / date-entity  :month (u_2200 / _NAME_))  :op2 (u_2187 / date-entity  :month (u_2194 / 11)))))))
+
+(u_2229 / contrast-01  :ARG1 (u_2221 / know-01  :ARG0 (u_2232 / i)  :ARG1 (u_2234 / actin  :ARG0 (u_2235 / company  :name (u_2222 / _NAME_)  :ARG1-of (u_2237 / pende-01  :ARG2 u_2234))  :ARG1 (u_2219 / company  :name (u_2230 / _NAME_))  :mod (u_2236 / any)  :mod (u_2231 / faith  :ARG1-of (u_2233 / bad-07)))  :polarity (u_2217 / -))  :ARG2 (u_2223 / call-02  :ARG1 (u_2226 / person  :name (u_2225 / _NAME_)  :ARG0-of (u_2228 / manage-01  :ARG1 (u_2220 / litgation  :mod (u_2224 / domestic))  :location (u_2218 / here)))  :ARG1-of (u_2227 / have-03  :ARG0 u_2229)))
+
+(u_2245 / and  :op1 (u_2248 / read-01  :ARG0 (u_2247 / we  :ARG0-of (u_2253 / address-02  :ARG1 (u_2254 / thing  :mod (u_2249 / this)  :ARG1-of (u_2252 / allege-01))  :ARG1-of (u_2257 / appropriate-02)  :ARG1-of (u_2246 / need-01  :ARG0 u_2247  :ARG1-of (u_2256 / agree-01  :ARG0 u_2247  :op2-of u_2245))))  :ARG1 (u_2250 / material  :ARG1-of (u_2251 / send-01  :ARG0 (u_2255 / you)))))
+
+(u_2268 / or  :op1 (u_2279 / sue-02  :ARG1 (u_2271 / you  :ARG0-of (u_2278 / realize-01  :ARG1 (u_2270 / company  :name (u_2273 / _NAME_))  :mod (u_2274 / any)  :op2-of u_2268)  :ARG0-of (u_2276 / have-03  :ARG1 u_2268))  :mod (u_2283 / any)  :mod (u_2282 / faith  :ARG1-of (u_2280 / bad-07))  :ARG1-of (u_2281 / pende-01  :ARG2 (u_2277 / insurer  :mod (u_2285 / any)  :location (u_2284 / state  :name (u_2272 / _NAME_)))))  :name (u_2275 / _NAME_)  :mode (u_2269 / interrogative))
+
+(u_2296 / happy-01  :ARG0 (u_2295 / letter  :ARG1 (u_2294 / company  :name (u_2298 / _NAME_))  :ARG1-of (u_2291 / draft-01)  :ARG1-of (u_2290 / send-01  :ARG0 (u_2297 / i)))  :ARG1 (u_2293 / you)  :mode (u_2292 / interrogative))
+
+(u_2313 / pass-on-14  :ARG1 (u_2318 / request-01  :ARG0 (u_2317 / your)  :ARG1 (u_2314 / pleading  :ARG1-of (u_2324 / file-01  :ARG0 (u_2321 / person  :name (u_2320 / _NAME_)))  :ARG0-of (u_2316 / set-01  :ARG1 (u_2315 / position-02)  :topic (u_2328 / and  :op2 (u_2331 / remedy  :ARG1-of (u_2327 / seek-01))  :op1 (u_2325 / _NAME_  :ARG1 (u_2322 / contract  :mod (u_2330 / power))))))  :ARG2-of (u_2326 / connect-01  :ARG1 u_2313))  :ARG2 (u_2319 / person  :name (u_2329 / _NAME_))  :ARG0 (u_2323 / i))
+
+(u_2342 / have-03  :ARG0 (u_2341 / i)  :ARG1 (u_2339 / gather-01  :ARG0 (u_2337 / paralegal)  :ARG1 (u_2340 / pleading-01  :ARG1-of (u_2338 / request-01  :ARG0 (u_2336 / person  :name (u_2343 / _NAME_))))))
+
+(u_2358 / and  :op1 (u_2374 / respond-01  :ARG0 (u_2372 / company  :example (u_2364 / and  :op3 (u_2360 / company  :name (u_2363 / _NAME_))  :op2 (u_2373 / company  :name (u_2378 / _NAME_))  :op1 (u_2369 / company  :name (u_2376 / _NAME_))))  :ARG2 (u_2362 / We)  :manner (u_2377 / enthusiastic))  :op2 (u_2375 / pleased-02  :ARG1 (u_2371 / answer-01  :ARG0 (u_2361 / you)  :ARG1 (u_2370 / question-01  :ARG1 (u_2368 / point  :mod (u_2365 / this)  :mod (u_2380 / center)  :mod (u_2379 / educate-01))  :mod (u_2367 / any))  :ARG1-of (u_2366 / possible-01)))  :mode (u_2359 / interrogative))
+
+(u_2390 / relate-01  :ARG1 (u_2391 / have-purpose-91  :ARG1-of (u_2393 / real-04))  :ARG2 (u_2394 / serve-01  :ARG1-of (u_2392 / provide-01  :ARG0 (u_2397 / we  :ARG0-of (u_2395 / support-01  :ARG1 (u_2398 / thing  :mod (u_2389 / aspirational)  :ARG1-of (u_2396 / state-01  :ARG0 (u_2399 / Protocol)))  :purpose-of u_2392)))))
+
+(u_2419 / kid  :domain (u_2411 / this)  :ARG1-of (u_2420 / destroy-01  :ARG1-of (u_2415 / cause-01  :ARG0 (u_2416 / crapfest  :ARG2-of (u_2417 / become-01  :ARG1 (u_2423 / family  :mod (u_2410 / country  :name (u_2418 / _NAME_))))  :ARG1-of (u_2422 / hear-01  :ARG0 (u_2413 / you)  :time (u_2412 / post)  :mod (u_2414 / hippie)  :mod (u_2421 / again))))))
+
+(u_2426 / conspire-01  :domain (u_2428 / this)  :mod (u_2425 / insidious)  :ARG1-of (u_2427 / call-01  :ARG0 (u_2429 / i)))
+
+(u_2437 / tool  :domain (u_2442 / one)  :ARG1-of (u_2440 / special-02)  :ARG0-of (u_2436 / detect-01  :ARG1 (u_2441 / damage-01  :ARG1 (u_2443 / tile  :mod (u_2435 / protect-01))  :location (u_2438 / orbit-01)))  :ARG1-of (u_2439 / welcome-01  :ARG0 (u_2444 / crew  :name (u_2445 / _NAME_))))
+
+(u_2466 / say-01  :ARG0 (u_2461 / person  :name (u_2460 / _NAME_))  :ARG1 (u_2469 / indicate-01  :ARG0 (u_2456 / and  :op1 (u_2467 / research-01  :quant (u_2455 / "\"all"))  :op2 (u_2463 / prepare-02  :mod (u_2464 / all)  :ARG1-of (u_2465 / lead-up-05  :ARG2 (u_2468 / trip-03))))  :ARG1 (u_2458 / bear  :location (u_2457 / valley))  :polarity (u_2459 / -))  :location (u_2462 / we))
+
+(u_2480 / toss-01  :ARG1 (u_2489 / coin)  :ARG2 (u_2491 / call-01  :ARG1 (u_2483 / company  :ARG1-of (u_2486 / found-01))  :ARG2 (u_2481 / or  :name (u_2482 / _NAME_)))  :ARG0 (u_2479 / and  :op1 (u_2490 / person  :name (u_2492 / _NAME_))  :op2 (u_2484 / person  :name (u_2488 / _NAME_)))  :location (u_2487 / they)  :name (u_2485 / _NAME_))
+
+(u_2499 / and  :op1 (u_2510 / graphic  :domain (u_2511 / graphic)  :ARG1-of (u_2505 / good-02  :degree (u_2502 / most))  :ARG1-of (u_2512 / see-01  :ARG0 (u_2514 / i)  :time (u_2509 / ever)  :purpose (u_2504 / game  :mod (u_2506 / any))))  :op2 (u_2501 / game-01  :time (u_2508 / since  :op1 (u_2513 / war  :name (u_2503 / _NAME_))))  :polarity (u_2500 / say-01  :ARG1-of (u_2507 / doubt-01  :polarity (u_2515 / -))))
+
+(u_2518 / time  :mod (u_2521 / about)  :mod-of (u_2519 / get-05  :ARG0 (u_2522 / we)  :ARG1 (u_2520 / together)))
+
+(u_2533 / pass-05  :mode (u_2531 / imperative)  :ARG2 (u_2530 / and  :op1 (u_2534 / everyone)  :op2 (u_2532 / contact  :mod (u_2529 / all)  :mod (u_2535 / email)))  :ARG1 (u_2538 / this)  :ARG0 (u_2537 / you)  :polite (u_2536 / "+"))
+
+(u_2560 / email  :ARG1 (u_2552 / we)  :location (u_2551 / here)  :quant (u_2550 / some)  :ARG1-of (u_2564 / have-03  :purpose (u_2561 / information  :ARG0 (u_2557 / your)  :mod (u_2556 / just)))  :ARG1-of (u_2562 / thing  :ARG2 (u_2553 / flyer  :purpose (u_2555 / raiser  :ARG1 (u_2559 / fund-01)  :mod (u_2563 / Benefit)  :ARG1-of (u_2554 / hold-04  :mod (u_2558 / "June,"))))))
+
+(u_2587 / possible-01  :ARG0 (u_2575 / shoot-01  :ARG0 (u_2576 / we  :ARG0-of (u_2582 / pull-off-03  :ARG1 (u_2588 / this)  :ARG1-of u_2575)))  :ARG1 (u_2574 / and  :op1 (u_2586 / pass-01  :ARG0 (u_2580 / you  :ARG0-of (u_2585 / ask-02  :ARG2 (u_2577 / everyone  :ARG1-of (u_2581 / know-01)  :ARG1-of (u_2583 / forward-01  :ARG1-of u_2585))  :op2-of u_2574)  :ARG1-of (u_2578 / possible-01  :condition-of u_2574))  :ARG1 (u_2584 / information  :mod (u_2579 / this)))))
+
+(u_2600 / attach-01  :ARG0 (u_2599 / i)  :ARG1 (u_2595 / letter  :ARG0-of (u_2598 / explain-01  :ARG1 (u_2597 / benefit-01  :ARG1-of (u_2594 / sponsor-01  :ARG0 (u_2596 / we))))))
+
+(u_2611 / and  :op1 (u_2617 / run-01  :ARG1 (u_2614 / grant-01  :ARG1 (u_2624 / treat-03  :ARG0-of (u_2620 / saving-03  :ARG1 (u_2625 / live-01))  :ARG1-of (u_2615 / need-01))))  :op2 (u_2618 / need-01  :ARG0 (u_2613 / we  :ARG0-of (u_2619 / help-01  :ARG1 (u_2612 / continue-01  :ARG0 (u_2621 / she  :ARG0-of (u_2623 / receive-01  :ARG1 (u_2616 / treat-03  :mod (u_2622 / this))  :ARG1-of u_2612)))  :ARG1-of u_2618))))
+
+(u_2628 / event  :domain (u_2630 / this)  :ARG1-of (u_2629 / want-01  :ARG0 (u_2631 / you)  :polarity (u_2627 / -)))
+
+(u_2661 / say-01  :ARG0 (u_2672 / firm  :name (u_2660 / _NAME_)  :location (u_2673 / city  :name (u_2663 / _NAME_))  :mod (u_2662 / politics)  :ARG0-of (u_2682 / person  :ARG1 u_2661  :ARG1-of (u_2670 / price-01  :ARG2 (u_2664 / thing  :quant (u_2667 / 3)  :mod (u_2671 / market)))))  :ARG1 (u_2659 / work-out-02  :ARG0 (u_2675 / person  :ARG1-of (u_2654 / expert-01  :ARG2 (u_2669 / oil)))  :ARG1 (u_2658 / pay-01  :ARG0 (u_2655 / country  :name (u_2657 / _NAME_))  :ARG1 (u_2678 / thing  :ARG2-of (u_2665 / price-01  :ARG1 (u_2676 / invest-01  :ARG2 (u_2668 / country  :name (u_2674 / _NAME_))))  :ARG1-of (u_2656 / inflated-01  :mod (u_2666 / such))))  :ARG2-of (u_2681 / person  :ARG1 u_2661  :ARG2-of (u_2677 / cost-01  :ARG1 (u_2679 / oil  :ARG2-of (u_2680 / end-up-03))))))
+
+(u_2688 / possible-01  :ARG1 (u_2687 / try-01  :ARG0 (u_2689 / you)  :ARG1 (u_2686 / thing  :mod (u_2685 / another))))
+
+(u_2696 / imagine-01  :ARG1 (u_2697 / and  :op1 (u_2702 / sit-01  :ARG2 (u_2698 / top))  :op2 (u_2700 / place  :mod (u_2695 / peaceful  :degree (u_2701 / most))  :ARG1-of (u_2699 / think-01  :ARG1-of (u_2703 / possible-01)))))
+
+(u_2718 / true-01  :ARG1 (u_2715 / like-01  :ARG0 (u_2719 / person  :mod (u_2716 / some))  :ARG1 (u_2713 / way  :manner-of (u_2714 / think-01  :ARG1 (u_2711 / vote-01  :ARG0 (u_2712 / he)  :ARG1 (u_2709 / person  :name (u_2717 / _NAME_)))))  :polarity (u_2710 / -)))
+
+(u_2735 / contrast-01  :ARG1 (u_2728 / and  :op2 (u_2734 / seem-01  :ARG1 (u_2730 / outnumber-01  :ARG0-of (u_2729 / oppose-01  :ARG1-of (u_2731 / favor-01  :ARG0 u_2730)))))  :ARG2 (u_2732 / way  :manner-of (u_2738 / think-01  :ARG1 (u_2737 / he)))  :ARG0-of (u_2733 / like-01  :ARG1 (u_2736 / person  :mod (u_2727 / other))))
+
+(u_2759 / and  :op2 (u_2754 / idea  :domain (u_2758 / possible-01  :ARG1 (u_2755 / hold-01  :ARG0 (u_2756 / thing  :quant (u_2744 / 2)))  :condition (u_2751 / go-08  :ARG1 (u_2748 / branch  :quant (u_2753 / 1)  :mod (u_2750 / other)  :part-of (u_2747 / government-organization  :ARG0-of (u_2749 / govern-01)))))  :mod (u_2752 / basic)  :topic (u_2745 / _NAME_)  :ARG1-of (u_2757 / have-03  :ARG0 (u_2746 / we))))
+
+(u_2772 / send-01  :mode (u_2766 / imperative)  :ARG2 (u_2770 / everyone  :ARG1-of (u_2768 / know-01)  :ARG0-of (u_2769 / read-01  :ARG1-of (u_2765 / need-01  :ARG0 u_2770)))  :ARG1 (u_2771 / they)  :ARG0 (u_2773 / you  :ARG1-of (u_2774 / want-01  :condition-of u_2772))  :polite (u_2767 / "+"))
+
+(u_2785 / and  :op1 (u_2794 / paste-01  :ARG0 (u_2796 / i)  :ARG1 (u_2792 / email-01))  :op2 (u_2791 / have-03  :ARG1 (u_2800 / link-01  :ARG2 (u_2786 / website  :ARG0-of (u_2788 / play-01  :ARG1 (u_2787 / song  :mod (u_2789 / this)  :ARG1-of (u_2793 / create-01  :ARG0 (u_2798 / person  :ARG0-of (u_2799 / author-01  :ARG1 (u_2797 / email)))))  :manner (u_2795 / automatic)))))  :location (u_2790 / below))
+
+(u_2831 / and  :op1 (u_2822 / read-01  :ARG0 (u_2823 / i)  :ARG1 (u_2820 / story  :mod (u_2813 / Cat  :mod (u_2821 / Civet)))  :quant (u_2816 / while  :mod (u_2824 / little)))  :op2 (u_2814 / and  :op1 (u_2815 / re-read-01)  :op2 (u_2827 / go-02  :ARG4 (u_2817 / website  :accompanier (u_2833 / song  :ARG1-of (u_2829 / create-01  :ARG0 (u_2828 / person  :ARG0-of (u_2832 / author-01  :ARG1 (u_2825 / email-01)))))))  :time (u_2830 / email-01  :ARG0 (u_2826 / person  :ARG0-of (u_2819 / have-rel-role-91  :ARG2 (u_2818 / Mom))))))
+
+(u_2867 / cause-01  :ARG0 (u_2858 / post-01  :ARG0 (u_2859 / this)  :ord (u_2877 / ordinal-entity  :value (u_2869 / 1)))  :ARG1 (u_2860 / feel-01  :ARG1 (u_2862 / i)  :ARG2 (u_2879 / embarrassed-01  :ARG1 (u_2870 / song)  :degree (u_2857 / somewhat)))  :ARG1-of (u_2876 / contrast-01  :ARG2 (u_2873 / think-01  :ARG1 (u_2868 / fitting  :ARG1-of (u_2871 / cause-01  :ARG0 (u_2872 / tie-01  :ARG2 (u_2864 / suffer-01  :ARG0 (u_2874 / animal)  :mod (u_2878 / extreme)  :ARG1-of (u_2881 / contrast-01  :ARG2 (u_2880 / greed  :mod (u_2863 / abundance)  :mod (u_2861 / human)))  :ARG1-of (u_2882 / result-01  :ARG2 u_2872))  :ARG1-of (u_2883 / direct-02))))))  :ARG1-of (u_2875 / cause-01  :ARG0 (u_2866 / lack-01  :ARG1 (u_2865 / human))))
+
+(u_2899 / torment-01  :ARG1 (u_2894 / animal  :quant (u_2897 / multiple  :op1 (u_2892 / 1000)))  :purpose (u_2901 / promote-02  :ARG1 (u_2900 / thing  :mod (u_2896 / trivial  :degree (u_2902 / most))  :ARG2-of (u_2893 / interest-01  :ARG1 (u_2898 / we)))  :ARG0 (u_2903 / 1  :ARG1-of (u_2895 / include-91)))  :mod (u_2904 / whole))
+
+(u_2918 / and  :op1 (u_2929 / find-01  :ARG0 (u_2924 / i  :ARG1-of (u_2934 / try-01  :ARG1-of (u_2922 / decide-01  :ARG0 u_2924  :op2-of u_2918)))  :ARG1 (u_2932 / this)  :location (u_2921 / board  :mod (u_2930 / bulletin)))  :ARG0-of (u_2926 / and  :ARG1 (u_2923 / care-01  :ARG1 (u_2935 / thing  :ARG1-of (u_2925 / crap-01)  :ARG1-of (u_2927 / use-01)  :ARG1-of (u_2931 / pre-fabricated-01)  :ARG1-of (u_2919 / say-01  :ARG0 (u_2917 / message-01  :mod (u_2928 / this))  :mod (u_2933 / usual)))  :polarity (u_2920 / -))))
+
+(u_2942 / say-01  :ARG0 (u_2941 / i)  :ARG1 (u_2939 / work-09  :ARG1 (u_2940 / it))  :mod (u_2938 / all))
+
+(u_2962 / contrast-01  :ARG1 (u_2956 / change-01  :mode (u_2953 / imperative)  :ARG0 (u_2966 / you)  :ARG1 (u_2957 / anything  :ARG1-of (u_2965 / need-01)))  :ARG2 (u_2960 / try-01  :ARG1 (u_2964 / keep-01  :ARG1 (u_2954 / article  :mod (u_2963 / this))  :ARG1-of (u_2958 / close-10  :ARG2 (u_2961 / original)  :degree (u_2955 / equal)  :ARG1-of (u_2959 / possible-01)))))
+
+(u_2976 / contrast-01  :ARG1 (u_2975 / need-01  :ARG0 (u_2980 / you)  :ARG1 (u_2978 / and)  :mod (u_2973 / all))  :ARG2 (u_2981 / monetary-quantity  :quant-of (u_2977 / money  :quant (u_2974 / more)  :quant (u_2979 / more))))
+
+(u_3011 / possible-01  :ARG1 (u_2996 / want-01  :ARG0 (u_2997 / You  :ARG0-of (u_3000 / keep-01  :ARG1 (u_3004 / note  :ARG1-of (u_3006 / send-01  :ARG0 (u_2998 / person)))  :op2-of (u_3003 / and  :op1 (u_2999 / retain-01  :ARG0 u_2997  :ARG1 (u_3013 / and  :op1 (u_3008 / thing  :ARG2-of (u_2995 / name))  :op2 (u_3001 / address)  :mod (u_3002 / every)  :ARG1-of (u_3010 / send-01  :ARG2 (u_3009 / or  :op1 (u_3005 / computer)  :op2 (u_3012 / copy-01  :ARG1-of (u_3007 / hard-02))))))  :ARG1-of u_2996)))))
+
+(u_3019 / and  :op2 (u_3023 / It)  :op1 (u_3024 / obligate-01  :ARG2 (u_3020 / you)  :mod (u_3018 / all))  :op3 (u_3022 / "works!!"  :ARG1-of (u_3021 / real-04)))
+
+(u_3040 / obligate-01  :ARG1 (u_3035 / you  :ARG1-of (u_3032 / look-01  :ARG1-of (u_3033 / do-02  :ARG0 u_3035  :ARG2-of u_3040))  :ARG0-of (u_3031 / tell-01  :ARG1 u_3040  :ARG2 (u_3037 / publication  :name (u_3039 / _NAME_))))  :mod (u_3036 / _NAME_  :ARG0-of (u_3034 / coordinate-01  :ARG1 (u_3030 / recovery-01  :ARG1 (u_3038 / wolf)))))
+
+(u_3081 / say-01  :ARG0 (u_3073 / He)  :ARG1 (u_3078 / find-01  :ARG0 (u_3082 / scientist)  :ARG1 (u_3068 / strain  :ARG1-of (u_3074 / single-02)  :ARG0-of (u_3067 / belong-01  :ARG1 (u_3065 / or  :op2 (u_3072 / person  :ARG0-of (u_3070 / have-rel-role-91  :ARG2 (u_3069 / descend-01))))  :ARG2 (u_3059 / wolf  :ARG1-of (u_3060 / release-01  :ARG0 (u_3064 / agency)))  :polarity (u_3066 / -)  :quant (u_3063 / 1  :ARG1-of (u_3058 / include-91))))  :time (u_3075 / after  :op1 (u_3061 / test-01  :ARG1 (u_3057 / nucleic-acid  :name (u_3071 / _NAME_))  :location (u_3079 / _NAME_  :location (u_3062 / north)))  :duration (u_3080 / temporal-quantity  :quant (u_3076 / year)))  :polarity (u_3077 / -)))
+
+(u_3111 / contrast-01  :ARG1 (u_3107 / possible-01  :ARG1 (u_3102 / argue-01  :ARG0 (u_3119 / scientist  :ARG1-of (u_3117 / want-01  :ARG1-of u_3102))  :mod (u_3115 / all)  :op1-of (u_3116 / and  :op2 (u_3120 / warm-01  :ARG1 (u_3118 / planet)  :mod (u_3114 / or  :op2 (u_3110 / fahrenheit)  :op1 (u_3112 / celsius))))))  :ARG2 (u_3108 / wait-01  :ARG1 (u_3100 / and  :op1 (u_3104 / insect)  :op2 (u_3109 / animal))  :ARG2 (u_3103 / outcome)  :time (u_3106 / meanwhile)  :polarity (u_3101 / -)  :ARG1-of (u_3113 / person  :ARG0 u_3111  :ARG1-of (u_3105 / trend))))
+
+(u_3133 / show-01  :ARG0 (u_3135 / phenophase  :quant (u_3129 / _NUMBER_)  :ARG1-of (u_3131 / track-01  :ARG0 (u_3127 / person  :name (u_3137 / _NAME_))))  :ARG1 (u_3134 / respond-01  :ARG1-of (u_3132 / consistent-01  :ARG2 (u_3136 / warm-01)))  :quant (u_3128 / "1/2"  :ARG1-of (u_3130 / include-91)))
+
+(u_3173 / predict-01  :ARG0 (u_3156 / person  :ARG0-of (u_3170 / commentator)  :ARG0-of (u_3178 / he  :ARG1 u_3173  :ARG1-of (u_3163 / follow-01  :ARG2 (u_3181 / scene  :consist-of (u_3162 / and  :op2 (u_3158 / divide-02  :mod (u_3180 / race))  :op1 (u_3166 / poor))  :ARG1-of (u_3177 / reveal-01  :ARG0 (u_3161 / disaster)  :ARG1-of (u_3159 / believe-01)))  :mod (u_3160 / especially))))  :ARG1 (u_3165 / change-01  :ARG0 (u_3164 / natural-disaster  :name (u_3157 / _NAME_))  :ARG1 (u_3175 / way  :manner-of (u_3174 / perceive-01  :ARG1 (u_3168 / country  :name (u_3171 / _NAME_))  :location (u_3167 / and  :op2 (u_3176 / world)  :op1 (u_3169 / home))))  :mod (u_3172 / profound)  :ARG1-of (u_3179 / make-01  :ARG0 u_3173)))
+
+(u_3186 / interesting  :ARG2 (u_3185 / spin-03  :ARG1-of (u_3184 / take-01  :ARG0 (u_3187 / press)))  :time (u_3188 / always))
+
+(u_3191 / include-91  :ARG1 (u_3190 / thing  :domain (u_3192 / this)  :quant (u_3189 / some)))
+
+(u_3201 / and  :op1 (u_3204 / burst-out-03  :ARG1 (u_3202 / he  :ARG0-of (u_3214 / do-02  :ARG1 (u_3212 / keep-04  :ARG0 (u_3211 / mirth)  :ARG1 (u_3205 / smirk-01  :ARG1-of (u_3208 / control-01  :ARG1-of (u_3209 / bare))))  :mod (u_3206 / all)  :ARG1-of (u_3203 / possible-01  :op2-of u_3201))  :ARG0-of (u_3207 / laugh-01  :ARG2-of u_3204))  :mod (u_3213 / ironic)  :mod (u_3210 / almost)))
+
+(u_3222 / want-01  :ARG0 (u_3224 / event  :name (u_3227 / _NAME_)  :mod (u_3228 / this)  :ARG0-of (u_3221 / ask-01  :ARG2 u_3224  :ARG1 (u_3232 / do-02  :ARG1 (u_3223 / work-01  :ARG1-of (u_3230 / do-02  :duration (u_3229 / rest  :part-of (u_3233 / life))  :ARG1-of (u_3231 / want-01))))  :op2-of (u_3226 / and  :op1 (u_3225 / stock-01  :ARG0 u_3224  :ARG1 (u_3234 / career))  :ARG1-of u_3222))))
+
+(u_3243 / and  :op1 (u_3256 / come-04  :ARG1 (u_3255 / cycle  :mod (u_3247 / learn-01  :mod (u_3250 / school  :mod (u_3251 / knock  :ARG1-of (u_3248 / hard-02))))))  :op2 (u_3254 / start-01  :ARG1 (u_3252 / reap-01  :ARG1 (u_3245 / reward-01  :ARG1-of (u_3249 / leave-12  :ARG0 (u_3253 / this)  :location (u_3244 / wake))))  :time (u_3246 / now)))
+
+(u_3273 / and  :op1 (u_3271 / compare-01  :ARG1 (u_3270 / this)  :ARG2 (u_3275 / advancement  :ARG1-of (u_3276 / make-01))  :polarity (u_3267 / -))  :op2 (u_3268 / look-01  :ARG1 (u_3266 / and  :op1 (u_3272 / wonder-01)  :op2 (u_3269 / happy-01)  :mod (u_3265 / sheer))  :direction (u_3274 / back)))
+
+(u_3290 / last-01  :ARG1 (u_3292 / relation-03  :ARG1-of (u_3291 / begin-01  :ARG0 (u_3284 / you)  :time (u_3293 / now)))  :ARG2 (u_3289 / time  :ARG1-of (u_3287 / long-03  :degree (u_3288 / very)))  :duration (u_3285 / rest  :part-of (u_3286 / life)))
+
+(u_3303 / sure-02  :ARG1 (u_3298 / year  :domain (u_3300 / date-entity  :year (u_3297 / _NUMBER_))  :ARG1-of (u_3299 / forget-01  :ARG0 (u_3301 / you)  :polarity (u_3302 / -))))
+
+(u_3313 / and  :op1 (u_3317 / be-located-at-91  :ARG1 (u_3322 / around  :op1 (u_3324 / relieve-01  :ARG1-of (u_3326 / await-01  :ARG1-of (u_3328 / long-03))  :ARG1-of (u_3318 / need-01  :location (u_3314 / life  :mod (u_3327 / love))))))  :op2 (u_3315 / feel-01  :ARG0 (u_3316 / you  :ARG0-of (u_3319 / clear-06  :ARG1 (u_3323 / partnership  :ARG1-of (u_3325 / general-02))  :degree (u_3320 / much)  :ARG1-of u_3315))  :time (u_3321 / _NAME_)))
+
+(u_3343 / easy-05  :ARG1 (u_3339 / note-01  :ARG1 (u_3344 / uneasiness  :ARG1 (u_3341 / person  :name (u_3340 / _NAME_)))  :ARG0-of (u_3346 / get-02  :ARG1 (u_3338 / feel-01)  :polarity (u_3336 / -)  :location (u_3337 / in-front-of  :op1 (u_3342 / person  :name (u_3347 / _NAME_))  :location (u_3348 / film))  :time-of u_3343))  :mod (u_3345 / i))
+
+(u_3406 / and  :op2 (u_3405 / and  :ARG1 (u_3390 / you  :ARG0-of (u_3382 / declaration-01  :ARG1 (u_3396 / magazine  :ARG0-of (u_3399 / _NAME_))  :ARG0-of (u_3380 / say-01  :ARG1 (u_3379 / wear-01  :ARG1 (u_3381 / boot  :mod (u_3404 / world-region  :name (u_3392 / _NAME_)))  :mod (u_3385 / "\"sometimes")  :purpose (u_3391 / feel-01  :ARG1 (u_3386 / secure-02  :degree (u_3387 / more)))))  :op3-of u_3406)  :ARG0-of (u_3398 / make-01  :ARG1 (u_3412 / lyric  :topic (u_3397 / possible-01  :ARG1 (u_3410 / wear-01  :ARG1 (u_3401 / "\"You")  :op1-of (u_3389 / and  :op2 (u_3395 / collar)))))  :op1-of u_3406  :op1-of (u_3383 / he  :name-of u_3406)))  :ARG2 (u_3400 / hide-01  :ARG1 (u_3394 / thing  :quant (u_3388 / 1)  :ARG1-of (u_3403 / cripple-01  :time-of u_3400))  :polarity (u_3402 / -)))  :ARG1-of (u_3411 / cause-01  :ARG0 (u_3407 / trauma  :ARG1-of (u_3408 / leave-12  :ARG0 (u_3409 / relate-01  :ARG1 (u_3413 / homosexual)  :ARG2 (u_3384 / person  :name (u_3393 / _NAME_)))))))
+
+(u_3431 / result-01  :ARG2 (u_3443 / into  :ARG1 (u_3442 / escalation  :ARG1 (u_3426 / and  :op1 (u_3427 / country  :name (u_3436 / _NAME_))  :op2 (u_3428 / civilian))  :mod (u_3448 / dramatic))  :ARG2 (u_3440 / and  :op1 (u_3439 / require-01  :ARG1 (u_3433 / force  :ARG1-of (u_3441 / bunker-01  :ARG0 u_3433  :degree (u_3435 / further)  :ARG2-of u_3439)))  :op2 (u_3446 / find-01  :ARG0 (u_3444 / force  :ARG0-of (u_3432 / fight-01  :ARG1 (u_3429 / government-organization  :mod (u_3438 / very)  :ARG0-of (u_3434 / govern-01)  :ARG0-of (u_3445 / help-01  :ARG2 (u_3430 / power)  :ARG1-of (u_3449 / finish-02  :mod (u_3447 / just))))  :ARG2-of (u_3437 / require-01  :ARG1 u_3444  :ARG1-of u_3446)))))))
+
+(u_3466 / increase-01  :ARG0 (u_3467 / emit-01  :ARG1 (u_3472 / dioxide  :value (u_3469 / _NUMBER_)  :mod (u_3463 / carbon))  :mod (u_3474 / percentage)  :ARG0-of (u_3465 / _NAME_  :ARG1 u_3466))  :ARG1 (u_3462 / opium  :time (u_3473 / date-entity  :year (u_3460 / _NUMBER_)))  :duration (u_3461 / _NAME_)  :time (u_3471 / plan-01  :ARG0 (u_3470 / _NAME_))  :ARG1-of (u_3464 / increase-01  :ARG2 (u_3468 / percentage-entity  :value (u_3459 / _NUMBER_))))
+
+(u_3486 / amount  :ARG1-of (u_3483 / receive-01  :ARG2 (u_3492 / contribute-01  :ARG0 (u_3496 / industry  :op1-of (u_3482 / and  :op2 (u_3491 / fossil)  :op3 (u_3490 / mining))))  :ARG0 (u_3494 / and  :op1 (u_3493 / campaign-01  :ARG0 (u_3488 / person  :name (u_3489 / _NAME_))  :time (u_3495 / date-entity  :year (u_3485 / _NUMBER_)))  :op2 (u_3484 / organization  :name (u_3487 / _NAME_)))))
+
+(u_3502 / high-02  :ARG1 (u_3501 / percentage  :quant-of (u_3506 / oil  :ARG1-of (u_3504 / import-01  :ARG0 (u_3503 / country  :name (u_3507 / _NAME_)))))  :value (u_3505 / _NUMBER_)  :mod (u_3500 / record))
+
+(u_3516 / waste  :quant (u_3513 / _NUMBER_)  :quant (u_3519 / mass-quantity  :unit (u_3517 / ton))  :mod (u_3522 / toxic)  :ARG1-of (u_3520 / generate-01  :ARG0 (u_3524 / each  :ARG1 (u_3525 / temporal-quantity  :unit (u_3526 / year)))  :mod (u_3518 / big  :degree (u_3523 / most)  :mod (u_3515 / country  :name (u_3521 / _NAME_)))  :location (u_3514 / around  :op1 (u_3527 / world))))
+
+(u_3537 / -  :op1 (u_3540 / multi-sentence  :ARG2-of (u_3549 / value-01  :ARG1 (u_3550 / paint-02)  :ARG1-of (u_3542 / estimate-01)  :ARG0-of (u_3538 / receive-01  :ARG1 (u_3543 / have-org-role-91  :ARG0 (u_3539 / country  :name (u_3546 / _NAME_))  :ARG2 (u_3545 / ambassador))  :ARG2 (u_3547 / person  :name (u_3544 / _NAME_))))  :op1-of (u_3548 / and  :op2 (u_3552 / friend  :name (u_3553 / _NAME_)  :ARG2-of (u_3541 / have-rel-role-91  :ARG0 (u_3551 / family)))  :topic-of u_3537))  :op2 (u_3554 / "$1m"))
+
+(u_3561 / cut-02  :ARG1 (u_3558 / person  :name (u_3564 / _NAME_))  :ARG2 (u_3559 / budget-01  :ARG0 (u_3563 / government-organization  :name (u_3565 / _NAME_))  :ARG1 (u_3560 / terrorism)  :ARG1-of (u_3562 / exist-01)))
+
+(u_3579 / reward-01  :ARG1 (u_3580 / group  :ARG1 (u_3576 / veteran)  :ARG0-of (u_3582 / offer-01  :ARG1 u_3579  :ARG3 (u_3588 / anyone  :ARG0-of (u_3581 / confirm-01  :ARG1 (u_3586 / serve-01  :ARG0 (u_3585 / _NAME_)  :ARG1 (u_3577 / government-organization  :name (u_3578 / _NAME_)))  :ARG1-of (u_3583 / possible-01)))  :time (u_3584 / date-entity  :year (u_3574 / _NUMBER_))))  :time (u_3587 / date-entity  :year (u_3575 / _NUMBER_)))
+
+(u_3616 / number  :quant-of (u_3626 / minute  :quant (u_3623 / _NUMBER_)  :ARG0-of (u_3634 / "Bush,"))  :ARG0-of (u_3612 / that  :ARG1 (u_3631 / and  :op2 (u_3622 / _NAME_  :mod (u_3620 / assist-01)  :topic (u_3639 / defend-01)  :ARG0-of (u_3636 / Donald  :ARG1 (u_3613 / person  :name (u_3619 / president)  :topic (u_3624 / defend-01)  :ARG0-of (u_3637 / have-org-role-91  :ARG2 (u_3635 / president))))  :ARG0-of (u_3643 / have-org-role-91  :ARG1 (u_3641 / Policy-01  :ARG1 (u_3640 / defend-01))  :ARG2 (u_3633 / chairman  :time (u_3642 / former))))  :op1 (u_3630 / person  :mod (u_3632 / main)  :ARG0-of (u_3638 / proponent  :ARG1 (u_3618 / war  :location (u_3625 / country  :name (u_3629 / _NAME_)))))  :op3 (u_3611 / Chief  :ARG2-of (u_3628 / have-org-role-91  :ARG0 (u_3627 / government-organization  :name (u_3621 / _NAME_))))))  :ARG1-of (u_3614 / person  :ARG0 (u_3617 / multi-sentence  :location (u_3615 / combat-01))))
+
+(u_3657 / amount-01  :quant (u_3654 / _NUMBER_)  :ARG3-of (u_3662 / spend-01  :ARG0 (u_3665 / firm  :mod (u_3656 / country  :name (u_3661 / _NAME_))  :ARG1-of (u_3667 / confiscate-01  :ARG1-of u_3662)  :ARG1-of (u_3655 / _NAME_  :manner-of u_3662)  :ARG1-of (u_3658 / build-01  :purpose-of u_3662  :ARG1-of (u_3660 / same-01)))  :name (u_3666 / _NAME_)  :time (u_3670 / after  :op1 (u_3669 / prevent-01  :ARG0 (u_3668 / delay-01)  :ARG1 (u_3663 / firm  :mod (u_3664 / country  :name (u_3659 / _NAME_))  :ARG0-of (u_3671 / start-01  :ARG2-of u_3669))))))
+
+(u_3687 / end-01  :ARG1 (u_3684 / toll-01  :ARG1 (u_3686 / soldier  :mod (u_3683 / country  :name (u_3690 / _NAME_))  :location (u_3680 / country  :name (u_3679 / _NAME_)))  :mod (u_3685 / die-01))  :li (u_3681 / _NUMBER_)  :time (u_3689 / operation  :mod (u_3682 / _NAME_)  :mod (u_3688 / combat-01)))
+
+(u_3698 / Amount  :quant (u_3695 / _NUMBER_)  :ARG1-of (u_3696 / allocate-01  :ARG2 (u_3697 / security  :ARG1 (u_3700 / port))  :ARG0 (u_3694 / person  :name (u_3701 / _NAME_))  :time (u_3699 / date-entity  :year (u_3702 / _NUMBER_))))
+
+(u_3715 / save-01  :quant (u_3714 / _NUMBER_)  :ARG1-of (u_3729 / average-03)  :ARG1-of (u_3718 / receive-01  :ARG0 (u_3716 / person  :ARG0-of (u_3717 / have-org-role-91  :ARG2 (u_3726 / member)  :ARG1 (u_3723 / cabinet  :poss (u_3728 / person  :name (u_3724 / _NAME_)))))  :time (u_3731 / date-entity  :year (u_3732 / _NUMBER_))  :ARG2-of (u_3719 / result-01  :ARG1 (u_3727 / cut-02  :ARG1 (u_3722 / taxis-01  :ARG3 (u_3721 / and  :op1 (u_3720 / gain  :mod (u_3730 / capital))  :op2 (u_3725 / dividend)))))))
+
+(u_3740 / record  :domain (u_3747 / amount  :quant (u_3745 / _NAME_)  :quant-of (u_3742 / money  :mod (u_3738 / total-01)  :ARG1-of (u_3741 / hard-02)  :ARG1-of (u_3743 / campaign-01  :ARG0 (u_3744 / person  :name (u_3748 / _NAME_))  :time (u_3746 / date-entity  :year (u_3739 / _NUMBER_))))))
+
+(u_3758 / Amount  :time (u_3752 / date-entity  :year (u_3755 / _NUMBER_))  :ARG1-of (u_3756 / save-01  :ARG0 (u_3753 / person  :name (u_3760 / _NAME_))  :source (u_3759 / taxis-01)  :time (u_3757 / date-entity  :year (u_3754 / _NUMBER_))))
+
+(u_3768 / earn-01  :ARG1 (u_3781 / amount  :quant (u_3767 / _NAME_))  :ARG2 (u_3778 / profit-01  :ARG0 (u_3777 / option  :ARG1 (u_3770 / stock)))  :ARG0 (u_3774 / person  :name (u_3773 / _NAME_)  :ARG0-of (u_3772 / have-org-role-91  :ARG1 (u_3769 / company  :name (u_3775 / _NAME_))  :ARG2 (u_3771 / CEO)))  :quant (u_3776 / 1)  :mod (u_3780 / and  :duration (u_3779 / temporal-quantity  :unit (u_3782 / year))))
+
+(u_3790 / make-01  :ARG0 (u_3787 / person  :name (u_3797 / _NAME_)  :ARG0-of (u_3796 / sell-01  :ARG1 (u_3792 / share  :ARG0 (u_3791 / company  :name (u_3794 / _NAME_)))  :time (u_3795 / before  :op1 (u_3788 / bankrupt-01)  :mod (u_3789 / just))  :manner-of u_3790))  :ARG1 (u_3793 / company))
+
+(u_3805 / number  :quant (u_3811 / _NUMBER_)  :quant-of (u_3806 / minute  :ARG1-of (u_3808 / spend-02  :ARG0 (u_3813 / person  :name (u_3812 / _NAME_)  :ARG0-of (u_3818 / review-01  :ARG1 (u_3814 / case-03  :ARG1 (u_3807 / punish-01  :mod (u_3817 / capital))  :ARG1-of (u_3816 / governor  :ARG0 (u_3815 / state  :name (u_3809 / _NAME_))  :time-of u_3818))  :ARG2-of u_3808))))  :ARG1-of (u_3810 / average-03))
+
+(u_3829 / spend-01  :ARG3 (u_3822 / and  :op1 (u_3830 / aid-01  :mod (u_3821 / international))  :op2 (u_3825 / diplomacy))  :ARG0 (u_3823 / country  :name (u_3831 / _NAME_)  :mod (u_3827 / person  :name (u_3826 / _NAME_)))  :time (u_3828 / date-entity  :year (u_3824 / _NUMBER_)))
+
+(u_3841 / amount  :mod (u_3837 / _NAME_)  :ARG1-of (u_3842 / spend-01  :ARG0 (u_3840 / country  :name (u_3847 / _NAME_))  :ARG3 (u_3838 / and  :op1 (u_3843 / aid-01  :mod (u_3844 / international))  :op2 (u_3846 / diplomacy))  :time (u_3845 / date-entity  :year (u_3839 / _NUMBER_))))
+
+(u_3855 / Number  :time (u_3865 / vacation-01  :poss (u_3871 / person  :mod (u_3867 / any)  :time (u_3868 / history  :location (u_3856 / country  :name (u_3861 / _NAME_)))  :ARG0-of (u_3859 / have-org-role-91  :ARG2 (u_3858 / president)))  :li (u_3870 / _NUMBER_)  :mod (u_3869 / _NAME_  :degree (u_3862 / most)))  :quant-of (u_3857 / day  :mod (u_3864 / vacation-01)  :ARG1-of (u_3866 / take-01  :ARG0 (u_3860 / person  :name (u_3863 / _NAME_)))))
+
+(u_3876 / Number  :quant (u_3879 / _NUMBER_)  :quant (u_3877 / person  :mod (u_3880 / country  :name (u_3885 / _NAME_))  :ARG1-of (u_3883 / average-04))  :quant-of (u_3881 / day  :mod (u_3875 / vacation-01)  :ARG0-of (u_3878 / receive-01  :ARG1 (u_3882 / temporal-quantity  :unit (u_3884 / _NAME_)))))
+
+(u_3908 / Number  :time (u_3902 / day  :quant (u_3923 / _NUMBER_)  :mod (u_3907 / vacation-01)  :ARG1-of (u_3903 / take-01  :ARG0 (u_3906 / person  :name (u_3904 / _NAME_))  :time (u_3905 / _NAME_)))  :quant (u_3922 / 1)  :quant-of (u_3921 / receive-01  :ARG0 (u_3920 / he)  :ARG1 (u_3910 / brief-01  :duration (u_3919 / temporal-quantity  :unit (u_3924 / 10))  :mod (u_3912 / president)  :frequency (u_3915 / rate-entity-91  :ARG3 (u_3913 / temporal-quantity  :unit (u_3917 / day)))  :ARG0-of (u_3918 / head-01  :ARG1 (u_3916 / person  :name (u_3911 / _NAME_))  :ARG0-of (u_3925 / strike-01  :ARG1 (u_3909 / country  :name (u_3914 / _NAME_))  :ARG1-of (u_3926 / determine-01  :ARG0 u_3918))))))
+
+(u_3940 / Amount  :time (u_3941 / as  :op1 (u_3938 / date-entity  :year (u_3944 / 2006)))  :quant-of (u_3937 / person  :quant (u_3933 / _NAME_))  :ARG1-of (u_3936 / raise-01  :ARG0 (u_3934 / and  :op1 (u_3942 / Pioneers)  :op2 (u_3939 / Rangers))  :beneficiary (u_3935 / person  :name (u_3943 / _NAME_))))
+
+(u_3958 / and  :op1 (u_3962 / go-02  :ARG4 (u_3957 / search-01  :ARG1 (u_3960 / course))  :ARG0 (u_3954 / go-02  :ARG4 (u_3952 / organization  :name (u_3961 / _NAME_))  :ARG0 (u_3953 / you)  :ARG0-of (u_3956 / search-01  :mode (u_3951 / imperative)  :ARG1 (u_3959 / course  :ARG1-of (u_3963 / do-02  :ARG1-of (u_3955 / want-01)))  :op2-of u_3958))))
+
+(u_3972 / give-01  :ARG1 (u_3971 / add-02  :op2 (u_3973 / information  :mod (u_3979 / all)  :ARG1-of (u_3981 / need-01  :purpose (u_3978 / apply-01))))  :ARG2 (u_3974 / you)  :ARG0 (u_3975 / list-01  :ARG1 (u_3980 / university  :mod (u_3977 / all)  :ARG0-of (u_3976 / do-02  :ARG1 (u_3983 / course)))  :mod (u_3982 / comprehensive)))
+
+(u_4004 / fame-01  :ARG1 (u_3999 / country  :name (u_4003 / _NAME_)  :ARG0-of (u_4010 / accept-01  :ARG1 (u_4000 / person  :ARG1-of (u_4007 / resemble-01  :ARG2 (u_4005 / person  :mod (u_4006 / this)  :mod (u_4011 / country  :name (u_4016 / _NAME_)  :polarity (u_3998 / -))  :ARG1-of (u_4009 / mention-01  :ARG0 (u_4002 / i))  :ARG0-of (u_4017 / help-01  :ARG1 (u_4001 / plunge-01  :ARG1 (u_4018 / pit))  :ARG1-of (u_4013 / cause-01  :ARG0 (u_4012 / rot  :ARG0 (u_4015 / country)))))))  :ARG2-of u_4004  :ARG2-of (u_4008 / contrast-01  :ARG1 u_4004)))  :mod (u_4014 / in-fact))
+
+(u_4025 / crash-01  :ARG0 (u_4024 / company  :name (u_4029 / _NAME_))  :ARG1 (u_4022 / product  :name (u_4031 / _NAME_))  :instrument (u_4028 / rom  :quant (u_4023 / most)  :ARG1-of (u_4030 / custom-02)  :ARG1-of (u_4026 / install-01  :ARG0 (u_4027 / i))))
+
+(u_4055 / take-01  :ARG1 (u_4060 / photo-01  :ARG1 (u_4051 / subject  :ARG1-of (u_4059 / light-06  :degree (u_4069 / very))  :ARG1-of (u_4064 / plain)  :ARG1-of (u_4066 / close-06  :ARG2 (u_4057 / lens))))  :manner (u_4052 / use-01  :ARG1 (u_4049 / and  :op1 (u_4056 / exposure  :ARG1-of (u_4054 / long-03))  :op2 (u_4063 / aperture  :mod (u_4062 / small  :degree (u_4053 / most))  :ARG1-of (u_4070 / have-03)))  :ARG0 (u_4061 / you))  :mod (u_4065 / over)  :ARG1-of (u_4068 / by  :ARG0 (u_4067 / expose-01  :ARG1 (u_4058 / stop  :quant (u_4050 / couple)))))
+
+(u_4082 / contrast-01  :ARG2 (u_4083 / person  :ARG1 (u_4078 / cat  :domain (u_4080 / he)  :mod (u_4076 / "inside/outside")  :ARG1-of (u_4079 / own-01  :ARG0 (u_4084 / i)))  :ARG2 (u_4086 / rest  :quant (u_4077 / _NUMBER_)  :mod (u_4081 / 0nside))  :mod (u_4085 / "(only")))
+
+(u_4107 / have-condition-91  :ARG1 (u_4106 / possible-01  :ARG1 (u_4098 / or  :op1 (u_4108 / bother-01  :ARG1 (u_4099 / bird  :ARG1-of (u_4105 / injure-01  :ARG1-of (u_4100 / potential)  :op2-of u_4098)))  :condition (u_4103 / have-03  :ARG1 (u_4109 / fragrance  :ARG1-of (u_4101 / strong-02)  :ARG0-of (u_4110 / linger-01))  :ARG0 (u_4102 / anything  :ARG1-of (u_4111 / use-01  :ARG0 (u_4113 / you))))))  :ARG2 (u_4112 / or)  :mod (u_4104 / "http://www.solutions.com/jump.jsp?itemid=1361&itemtype=product&path=1%2c3%2c477&iproductid=1361"))
+
+(u_4129 / want-01  :ARG0 (u_4130 / i  :ARG0-of (u_4128 / buy-01  :ARG1 (u_4145 / laptop)  :ARG3 (u_4146 / possible-01  :ARG1 (u_4126 / and  :op1 (u_4143 / use-01  :ARG1 (u_4142 / dongle  :ARG0-of (u_4140 / use-01  :ARG1 (u_4134 / pc)))  :mod (u_4136 / just))  :op2 (u_4133 / put-01  :ARG1-of (u_4138 / straight-04)  :ARG1-of (u_4144 / resemble-01))))  :ARG2 (u_4135 / person  :ARG0-of (u_4132 / have-rel-role-91  :ARG2 (u_4131 / girlfriend)))  :ARG1-of u_4129))  :op1-of (u_4137 / and  :op2 (u_4139 / work-09  :manner (u_4141 / _NAME_))  :mode (u_4127 / interrogative)))
+
+(u_4159 / include-01  :ARG1 (u_4157 / thing  :quant (u_4153 / 2))  :ARG2 (u_4154 / or  :op1 (u_4155 / food)  :op2 (u_4158 / drink)  :quant (u_4160 / most)  :ARG1-of (u_4156 / get-01  :ARG0 (u_4151 / i)))  :mod (u_4152 / only))
+
+(u_4183 / possible-01  :ARG1 (u_4176 / list-01  :ARG0 (u_4182 / somebody)  :ARG1 (u_4174 / food  :mod (u_4175 / all)  :ARG2-of (u_4186 / include-01  :ARG1 (u_4173 / and  :op2 (u_4172 / number  :quant-of (u_4177 / piece  :mod (u_4184 / game)  :ARG1-of (u_4178 / get-01  :ARG0 (u_4181 / you)  :mod (u_4180 / FOOD)))))  :mod (u_4185 / game)))  :polite (u_4179 / "+")))
+
+(u_4201 / and  :op1 (u_4202 / scroll-01  :direction (u_4195 / down))  :op2 (u_4199 / show-01  :ARG0 (u_4200 / website  :mod (u_4196 / this))  :ARG1 (u_4198 / thing  :mod (u_4194 / each)  :ARG1-of (u_4197 / buy-01  :ARG0 (u_4204 / you)  :ARG1-of (u_4203 / possible-01)))))
+
+(u_4248 / and  :op1 (u_4245 / sure-02  :ARG0 (u_4229 / do-02  :ARG1 (u_4235 / or  :op1 (u_4231 / pour-01  :ARG1 (u_4233 / oil  :quant (u_4234 / some))  :ARG2 (u_4232 / wheel))  :op2 (u_4236 / put-01  :ARG1 (u_4237 / part  :ARG0-of (u_4242 / make-01  :ARG1 (u_4227 / noise)))  :ARG2 (u_4226 / edge)  :ARG0 (u_4225 / rubber  :mod (u_4240 / some))  :mod (u_4228 / even)))  :ARG1-of (u_4241 / need-01  :mod (u_4238 / all)  :op2-of u_4248))  :ARG1 (u_4239 / obligate-01  :ARG1 (u_4243 / you  :ARG0-of (u_4224 / buy-01  :ARG1 (u_4246 / another)  :ARG2-of u_4239))  :polarity (u_4247 / -)  :mod (u_4230 / even))  :degree (u_4244 / quite)))
+
+(u_4262 / possible-01  :ARG1 (u_4256 / change-01  :ARG0 (u_4261 / i)  :ARG1 (u_4257 / station  :mod (u_4255 / boarding-01))  :manner (u_4258 / amr-unknown)  :mod (u_4265 / ticket  :ARG1-of (u_4263 / book-01  :mod (u_4259 / month)  :time (u_4264 / back)  :source (u_4260 / counter)))))
+
+(u_4277 / possible-01  :ARG1 (u_4274 / have-03  :ARG0 (u_4276 / i)  :ARG1 (u_4272 / cage  :domain (u_4273 / this)  :polarity (u_4271 / _NAME_))  :ARG0-of (u_4270 / escape-01  :ARG2-of u_4277))  :mod (u_4269 / much  :degree (u_4275 / pretty-much)))
+
+(u_4287 / review-01  :ARG1 (u_4285 / 3  :ARG1-of (u_4283 / mention-01  :ARG0 (u_4284 / i)  :time (u_4286 / early  :degree (u_4288 / more))))  :polite (u_4282 / "+")  :mod (u_4281 / only))
+
+(u_4294 / -  :op1 (u_4299 / eat-01  :ARG0 (u_4301 / i)  :ARG1 (u_4300 / one  :ARG1-of (u_4302 / list-01  :ARG0 (u_4297 / you)))  :time (u_4303 / ever))  :op2 (u_4296 / know-01  :ARG1 (u_4298 / anyone))  :polarity (u_4295 / -))
+
+(u_4316 / obligate-01  :ARG2 (u_4320 / wary-01  :ARG0 (u_4314 / You)  :ARG1 (u_4317 / form-01  :ARG1 (u_4315 / mold)  :ARG2 (u_4313 / or  :op1 (u_4324 / toy)  :op2 (u_4318 / hide-away)  :mod (u_4319 / any)  :ARG1-of (u_4321 / have-03  :ARG0 (u_4323 / he)  :ARG1-of (u_4325 / possible-01)))))  :mod (u_4322 / also))
+
+(u_4345 / contrast-01  :ARG1 (u_4353 / good-02  :ARG1 (u_4350 / it)  :polarity (u_4340 / -))  :ARG2 (u_4348 / possible-01  :ARG1 (u_4339 / and  :op1 (u_4352 / keep-02  :ARG0 (u_4341 / you  :ARG1-of (u_4347 / pull-off-03  :op2-of u_4339))  :ARG1 (u_4349 / healthy)))  :condition (u_4343 / take-01  :ARG1 (u_4342 / give-01  :ARG1 (u_4344 / care-03  :mod (u_4355 / extra)  :ARG1-of (u_4346 / need-01  :ARG1-of (u_4351 / cause-01  :ARG0 u_4344))))  :ARG0 (u_4354 / time))))
+
+(u_4396 / -  :ARG0 (u_4395 / possible-01  :ARG1 (u_4386 / food  :mod (u_4390 / any)  :mode (u_4384 / interrogative)  :ARG1-of (u_4394 / specific-02)  :ARG1-of (u_4399 / find-01  :ARG0 (u_4393 / i)  :location (u_4385 / shop  :mod (u_4398 / any)  :mod (u_4400 / pet))  :ARG1-of (u_4401 / possible-01))))  :ARG1 (u_4378 / say-01  :ARG0 (u_4383 / person  :ARG0-of (u_4388 / have-rel-role-91  :ARG2 (u_4387 / mom)))  :ARG1 (u_4376 / possible-01  :ARG1 (u_4381 / sick-05  :ARG1 (u_4382 / bird)  :ARG1-of (u_4389 / eat-01  :polarity (u_4380 / -)  :condition-of u_4376  :ARG1-of (u_4375 / right-03))))  :ARG1-of (u_4377 / apparent)  :ARG2-of (u_4392 / contrast-01  :ARG1 u_4396  :degree (u_4397 / very)))  :ARG1-of (u_4391 / i  :ARG2 (u_4379 / _NAME_)))
+
+(u_4411 / have-condition-91  :condition (u_4418 / know-01  :ARG1 (u_4409 / put-01  :ARG1 (u_4410 / understand-01  :ARG0 (u_4414 / you)  :ARG1 (u_4417 / this))  :ARG2 (u_4416 / food  :mod (u_4408 / cat)  :ARG1-of (u_4413 / canned-01))  :ARG0 (u_4412 / they)  :mod (u_4415 / kind))))
+
+(u_4442 / include-91  :ARG1 (u_4444 / differ-02  :ARG1 (u_4428 / and  :op1 (u_4440 / battery  :mod (u_4432 / HD)  :ARG1-of (u_4438 / long-03  :degree (u_4436 / more)))  :op2 (u_4431 / processor  :ARG1-of (u_4430 / fast-02  :degree (u_4433 / more))  :ARG1-of (u_4439 / boast-01  :ARG0 (u_4435 / product  :name (u_4434 / _NAME_)))))  :quant (u_4429 / some)  :ARG1-of (u_4437 / major-02)  :ARG1-of (u_4443 / see-01  :ARG0 (u_4441 / i))))
+
+(u_4452 / add-02  :mode (u_4448 / imperative)  :ARG0 (u_4450 / water  :ARG1-of (u_4449 / put-01  :ARG0 (u_4447 / you)))  :ARG1 (u_4451 / aquasafe))
+
+(u_4465 / and  :ARG1-of (u_4463 / dive-01)  :ARG1-of (u_4458 / include-91  :ARG2 (u_4466 / thing  :quant (u_4459 / some)  :ARG1-of (u_4460 / do-02  :ARG0 (u_4464 / you  :ARG0-of (u_4462 / fun-01  :purpose-of u_4460))  :ARG1-of (u_4461 / possible-01)))))
+
+(u_4480 / think-01  :ARG0 (u_4476 / i)  :condition (u_4477 / have-03  :ARG1 (u_4487 / skill  :mod (u_4478 / particular)  :ARG1-of (u_4486 / need-01  :ARG0 (u_4479 / they)))  :ARG0 (u_4489 / you)  :op1-of (u_4475 / and  :op2 (u_4488 / offer-01  :ARG1 (u_4485 / job)  :time (u_4484 / before  :op1 (u_4483 / go-02))  :ARG1-of (u_4482 / firm-02))))  :manner (u_4481 / twice))
+
+(u_4514 / and  :op1 (u_4506 / have-03  :ARG0 (u_4510 / Ive)  :ARG1 (u_4508 / cat)  :duration (u_4505 / temporal-quantity  :unit (u_4512 / year)))  :op2 (u_4500 / and  :op2 (u_4513 / female  :age (u_4509 / temporal-quantity  :unit (u_4511 / year)))  :op1 (u_4515 / cat  :mod (u_4516 / old  :degree (u_4503 / most))  :ARG1-of (u_4507 / have-03  :time (u_4504 / ever)))  :op3 (u_4502 / exceptional))  :quant (u_4501 / 18))
+
+(u_4542 / and  :op1 (u_4533 / read-01  :ARG0 (u_4541 / i)  :ARG1 (u_4543 / package  :purpose (u_4536 / heater  :mod (u_4538 / tank)  :ARG1-of (u_4534 / buy-01  :purpose (u_4532 / tank  :mod (u_4545 / volume-quantity  :unit (u_4531 / gallon)  :quant (u_4529 / _NUMBER_))  :purpose (u_4535 / snake))))))  :op2 (u_4544 / say-01  :ARG1 (u_4539 / possible-01  :ARG1 (u_4540 / put-01  :ARG1 (u_4528 / or  :op1 (u_4537 / under)  :op2 (u_4530 / side))))))
+
+(u_4579 / contrast-01  :ARG1 (u_4581 / have-06  :ARG0 (u_4580 / i)  :ARG1 (u_4578 / party-01  :mod (u_4584 / dinner)  :time (u_4567 / night)))  :ARG2 (u_4566 / have-03  :ARG0 (u_4577 / person  :ARG0-of (u_4565 / have-rel-role-91  :ARG2 (u_4564 / cousin)))  :ARG1 (u_4563 / shower-01  :mod (u_4569 / bridal)  :ARG0-of (u_4573 / cause-01  :ARG1 (u_4575 / brunch))))  :ARG1-of (u_4572 / contrast-01  :ARG2 (u_4568 / and  :op1 (u_4582 / company  :name (u_4583 / _NAME_))  :op2 (u_4562 / company  :name (u_4576 / _NAME_))  :domain (u_4570 / place  :mod (u_4571 / only)  :ARG1-of (u_4574 / know-01)))))
+
+(u_4590 / thing  :domain (u_4595 / amr-unknown)  :quant (u_4589 / some)  :ARG1-of (u_4592 / fun-01)  :ARG1-of (u_4593 / do-02  :ARG0 (u_4588 / i)  :location (u_4594 / country  :name (u_4596 / _NAME_))  :ARG1-of (u_4591 / possible-01)))
+
+(u_4617 / cause-01  :ARG0 (u_4615 / be-located-at-91  :ARG2 (u_4605 / city  :name (u_4609 / _NAME_))  :duration (u_4607 / multiple  :op1 (u_4618 / temporal-quantity  :unit (u_4608 / _NAME_))))  :ARG1 (u_4616 / wonder-01  :ARG1 (u_4611 / possible-01  :ARG1 (u_4613 / do-02  :ARG0 (u_4610 / amr-unknown)  :ARG1 (u_4606 / thing  :quant (u_4604 / some)  :ARG1-of (u_4612 / fun-01)))))  :quant (u_4614 / 1))
+
+(u_4626 / possible-01  :ARG1 (u_4625 / do-02  :ARG0 (u_4627 / you  :ARG0-of (u_4628 / go-02  :ARG4 (u_4622 / beach)  :ARG1-of u_4625))  :location (u_4630 / country  :name (u_4631 / _NAME_)))  :mod (u_4624 / thing  :ARG1-of (u_4623 / good-02  :degree (u_4629 / most))))
+
+(u_4640 / go-02  :ARG4 (u_4638 / beach)  :ARG0 (u_4639 / thing  :mod (u_4634 / main))  :ARG1-of (u_4637 / do-02  :ARG0 (u_4635 / person)  :location (u_4636 / there)))
+
+(u_4659 / have-03  :ARG1 (u_4651 / screw-up-04  :mod (u_4655 / thing  :mod (u_4660 / kind)  :time (u_4661 / have-03  :ARG1 (u_4653 / _NAME_)  :ARG0 (u_4662 / person  :name (u_4654 / _NAME_))  :ARG1-of (u_4657 / instead-of-91  :ARG2 (u_4663 / soldier  :ARG1-of (u_4652 / charge-08  :ARG2 (u_4658 / you)  :mod (u_4664 / military)))  :mod (u_4656 / nothing  :polarity (u_4650 / -)))))))
+
+(u_4675 / mean-01  :ARG1 (u_4676 / horse  :ARG1-of (u_4672 / young  :degree (u_4678 / more)))  :ARG2 (u_4674 / horse  :ARG1-of (u_4673 / handle-01  :ARG0 (u_4671 / you)  :polarity (u_4670 / -)))  :polarity (u_4677 / -)  :time (u_4679 / always))
+
+(u_4686 / lie-01  :ARG0 (u_4684 / thing  :quant (u_4682 / 2)  :poss-of (u_4687 / egg  :ARG1-of u_4686))  :location (u_4688 / inside)  :location (u_4689 / cave  :ARG1-of (u_4683 / make-01  :ARG0 (u_4685 / you))))
+
+(u_4706 / contrast-01  :ARG1 (u_4703 / and  :ARG1 (u_4704 / you)  :degree (u_4708 / very)  :ARG1-of (u_4709 / you  :ARG2 u_4706))  :ARG2 (u_4705 / thing  :domain (u_4707 / get-05  :ARG1 (u_4699 / vet))  :ARG1-of (u_4702 / good-02  :degree (u_4701 / most)))  :ARG1-of (u_4711 / know-01  :ARG0 (u_4712 / i))  :ARG1-of (u_4710 / do-02  :ARG1-of (u_4700 / possible-01)))
+
+(u_4725 / have-03  :ARG1 (u_4721 / ruin-01  :ARG1 (u_4722 / shoot-02  :quant (u_4719 / few)  :mod (u_4718 / great))  :ARG1-of (u_4723 / cause-01  :ARG0 (u_4724 / something  :location (u_4720 / background)  :ARG1-of (u_4726 / notice-01  :polarity (u_4727 / -)  :time (u_4728 / at-first))))))
+
+(u_4757 / differ-02  :ARG1 (u_4759 / hold-04  :ARG1 (u_4756 / start-01  :ARG1 (u_4744 / tradition  :mod (u_4752 / this))  :time (u_4761 / after  :op1 (u_4760 / war  :mod (u_4755 / civil))))  :location (u_4745 / south  :location (u_4743 / country  :name (u_4750 / _NAME_))  :part-of (u_4748 / wake  :mod (u_4762 / night)))  :frequency (u_4751 / often)  :location (u_4742 / chapel)  :time (u_4758 / before  :time (u_4753 / night)))  :mod (u_4749 / only)  :ARG1-of (u_4746 / notable-02)  :ARG1-of (u_4747 / notice-01  :ARG0 (u_4754 / i)))
+
+(u_4784 / have-03  :ARG0 (u_4774 / we)  :ARG1 (u_4781 / custom  :domain (u_4782 / make-01  :ARG0 (u_4772 / and  :op1 (u_4787 / brack  :time (u_4780 / _NAME_))  :op2 (u_4778 / person  :name (u_4776 / _NAME_)))  :ARG1 (u_4786 / cake  :mod (u_4785 / sinnel)  :mod (u_4779 / ",barn"))  :purpose (u_4777 / Halloween))  :mod (u_4783 / country))  :name (u_4775 / name  :op1 (u_4771 / Britain))  :location (u_4773 / family))
+
+(u_4793 / and  :op1 (u_4799 / happy-01  :ARG1 (u_4795 / horse  :mod (u_4792 / all)  :ARG1-of (u_4794 / deliver-01  :time (u_4798 / since  :op1 (u_4797 / then)))  :ARG1-of (u_4800 / healthy  :op2-of u_4793)  :ARG1-of (u_4796 / arrive-01  :time-of u_4793))))
+
+(u_4817 / ensure-01  :ARG1 (u_4814 / and  :op1 (u_4811 / insure-02  :ARG1 (u_4810 / service  :mod (u_4818 / trailer)  :ARG1-of (u_4819 / use-01  :ARG0 (u_4820 / you))  :ARG0-of (u_4812 / know-01  :ARG1 (u_4815 / something  :topic (u_4808 / aid  :ord (u_4816 / ordinal-entity  :value (u_4809 / 1))))  :op2-of u_4814))  :polarity (u_4813 / -))))
+
+(u_4830 / way  :li (u_4826 / 2)  :mod (u_4825 / any)  :mode (u_4834 / interrogative)  :manner-of (u_4831 / customize-01  :ARG1 (u_4828 / place  :ARG4-of (u_4833 / go-02  :ARG0 (u_4832 / you)  :ARG1-of (u_4827 / wanna-01)))  :mod (u_4829 / sort-of)))
+
+(u_4842 / cause-01  :ARG1 (u_4846 / and  :ARG1 (u_4843 / DOUBLE-01  :ARG0 (u_4848 / you)  :ARG1 (u_4844 / it  :ARG2-of (u_4847 / price-01  :ARG1 u_4843  :mod (u_4841 / any))))  :frequency (u_4845 / at-least  :op1 (u_4849 / 90000))))
+
+(u_4884 / sure-02  :ARG0 (u_4885 / your  :ARG0-of (u_4876 / thing  :ARG1 u_4884  :ARG0-of (u_4879 / realize-01  :ARG1 (u_4882 / friendly-01  :ARG1 (u_4872 / _NAME_)  :ARG2 (u_4878 / pet  :mod (u_4888 / kind  :degree (u_4886 / almost)  :mod (u_4873 / all)))))))  :ARG1 (u_4870 / mean-01  :ARG1 (u_4887 / possible-01  :ARG1 (u_4874 / attack-01  :ARG0 (u_4877 / "roosters),rooster")  :ARG1 (u_4868 / or  :op1 (u_4881 / rabbit)  :op2 (u_4871 / anything  :ARG1-of (u_4880 / see-01)))  :polarity (u_4869 / -)))  :ARG2 (u_4889 / chicken  :mod (u_4875 / all))  :ARG0 (u_4883 / "hens(I"))  :polarity (u_4890 / -))
+
+(u_4911 / contrast-01  :ARG1 (u_4915 / melt-01  :ARG0 (u_4921 / i)  :ARG1 (u_4917 / bronze  :quant (u_4908 / amount  :mod (u_4918 / small)))  :location (u_4909 / crucible)  :instrument (u_4916 / torch  :mod (u_4924 / large)  :mod (u_4929 / propane)  :mod (u_4914 / large  :degree (u_4922 / more)  :quant (u_4920 / "(much")  :mod (u_4930 / plumber))))  :ARG2 (u_4913 / possible-01  :ARG1 (u_4912 / run-01  :ARG1 (u_4910 / cylinder  :mod (u_4919 / that)  :mod (u_4928 / propane)  :ARG1-of (u_4923 / buy-01  :ARG0 (u_4926 / you)  :mod (u_4925 / gas)  :ARG1-of (u_4927 / possible-01))))))
+
+(u_4949 / use-01  :ARG0 (u_4948 / i)  :ARG1 (u_4941 / propane  :ARG1-of (u_4952 / i  :ARG0 u_4949))  :accompanier (u_4950 / and  :op1 (u_4953 / blower)  :op2 (u_4946 / burner))  :mod (u_4943 / string-entity  :value (u_4940 / m))  :ARG0-of (u_4945 / build-01  :ARG1 (u_4944 / and  :op1 (u_4951 / thing  :name (u_4947 / _NAME_))  :op2 (u_4942 / "http://www.mikegigi.com/firehole.ht"))))
+
+(u_4960 / excited-01  :ARG0 (u_4958 / anybody  :ARG1-of (u_4957 / see-01))  :ARG1 (u_4961 / He)  :degree (u_4959 / really))
+
+(u_4984 / base-02  :ARG1 (u_4988 / this)  :ARG2 (u_4976 / walk-in)  :ARG1-of (u_4979 / cause-01  :ARG0 (u_4975 / want-01  :ARG0 (u_4983 / we  :ARG0-of (u_4986 / find-01  :ARG1 (u_4987 / place  :ARG0-of (u_4978 / look-02  :ARG1 (u_4982 / good-02))  :ARG0-of (u_4989 / rely-01  :ARG1 (u_4990 / picture)))  :ARG3-of (u_4977 / free-04  :ARG1 u_4983  :ARG1-of u_4975)))))  :ARG1-of (u_4980 / be-located-at-91  :ARG2 (u_4981 / spot  :ARG1-of (u_4985 / like-01))))
+
+(u_4997 / stay-01  :ARG1 (u_4996 / place  :location-of (u_4995 / person  :mod (u_4994 / fellow)  :ARG0-of (u_5001 / travel-01))  :ARG1-of (u_4998 / find-01  :medium (u_5002 / publication  :name (u_5003 / _NAME_))))  :location (u_4999 / city  :name (u_5000 / _NAME_)))
+
+(u_5036 / multi-sentence  :snt2 (u_5042 / possible-01  :ARG1 (u_5044 / help-01  :ARG0 (u_5041 / link  :location (u_5043 / below))  :ARG1 (u_5023 / find-01  :ARG1 (u_5029 / hotel  :location (u_5027 / and  :op2 (u_5028 / city  :name (u_5032 / _NAME_))  :op1 (u_5024 / city  :name (u_5025 / _NAME_)))  :ARG1-of (u_5037 / good-02)))))  :snt1 (u_5021 / possible-01  :ARG1 (u_5022 / find-01  :ARG0 (u_5020 / You)  :ARG1 (u_5035 / hotel  :mod (u_5034 / budget)  :ARG1-of (u_5040 / normal-02))  :mod (u_5033 / rate-entity-91  :ARG2 (u_5039 / temporal-quantity  :unit (u_5031 / night))  :ARG1 (u_5030 / monetary-quantity  :unit (u_5019 / dollar)  :quant (u_5026 / _NUMBER_)))  :location (u_5038 / city))))
+
+(u_5062 / depend-01  :ARG0 (u_5056 / space  :poss (u_5063 / you))  :ARG1 (u_5052 / monetary-quantity  :quant-of (u_5054 / money)  :ARG1-of (u_5060 / possible-01))  :mod (u_5057 / also)  :quant (u_5058 / monetary-quantity  :ARG1-of (u_5059 / handle-01  :ARG1-of (u_5055 / possible-01)))  :duration (u_5053 / time)  :ARG2-of (u_5064 / and  :ARG1 (u_5061 / et-cetera)))
+
+(u_5076 / and  :op1 (u_5078 / Get-01  :mode (u_5086 / imperative)  :ARG0 (u_5075 / you  :ARG0-of (u_5081 / take-01  :ARG1 (u_5083 / time)  :purpose (u_5087 / do-02  :ARG1 (u_5085 / thing  :quant (u_5074 / some)  :ARG1-of (u_5084 / enjoy-01))  :ARG0 u_5075)  :ARG1-of (u_5079 / ensure-01  :mode (u_5080 / imperative)  :ARG0 u_5075  :op2-of u_5076)))  :ARG1 (u_5082 / sleep-01  :quant (u_5077 / plenty))))
+
+(u_5102 / know-01  :ARG0 (u_5103 / i  :ARG0-of (u_5105 / register-01  :ARG1 (u_5099 / amount  :quant-of (u_5115 / paperwork  :ARG1-of (u_5109 / fill-01  :location (u_5101 / hospital)))  :ARG1-of (u_5116 / ridiculous-02))  :polarity (u_5114 / -)  :ARG1-of u_5102))  :polarity (u_5112 / -)  :op1-of (u_5100 / and  :op2 (u_5110 / suppose-02  :ARG1 (u_5104 / go-02  :ARG4 (u_5111 / hall  :mod (u_5108 / city))  :time (u_5113 / within  :op1 (u_5107 / now))  :time (u_5106 / day)))))
+
+(u_5125 / and  :op1 (u_5129 / walk-01  :ARG0 (u_5127 / you  :ARG0-of (u_5134 / present-01  :ARG1 (u_5133 / identification  :mod (u_5124 / all)  :ARG1-of (u_5126 / have-03  :purpose (u_5131 / prove-01  :ARG1 (u_5128 / identity)  :ARG0 u_5133)))  :op2-of u_5125))  :ARG2 (u_5132 / office  :mod (u_5135 / service))  :mod (u_5130 / just)))
+
+(u_5141 / -and  :op2 (u_5144 / stuff  :mod (u_5138 / just)  :quant (u_5140 / MORE)  :ARG1-of (u_5143 / like-01  :ARG0 (u_5139 / you)  :mod (u_5142 / _NAME_))))
+
+(u_5159 / remember-01  :ARG0 (u_5154 / and  :op1 (u_5155 / rush-01)  :op2 (u_5157 / fear-01  :ARG1 (u_5160 / house  :mod (u_5152 / whole))  :ARG1-of (u_5153 / long-03))  :ARG1-of (u_5158 / give-01  :ARG2 (u_5161 / time  :ARG1-of (u_5163 / need-01  :purpose (u_5162 / feel-01  :ARG1 (u_5156 / room))))  :ARG1-of u_5159)))
+
+(u_5177 / thing  :ARG0 (u_5178 / and  :quant (u_5176 / lot)  :quant (u_5185 / lot))  :domain (u_5189 / thing  :polarity (u_5184 / -))  :ARG1-of (u_5179 / same-01  :ARG2 (u_5181 / do-02  :ARG0 (u_5180 / i)  :ARG1 (u_5183 / "puppy...lot")  :mode (u_5187 / interrogative)  :op1-of (u_5191 / and  :op2 (u_5188 / "repition....right"  :quant (u_5186 / lot)  :quant (u_5190 / lot)))  :ARG1-of (u_5182 / do-02  :ARG0 u_5179))))
+
+(u_5197 / trick  :mod (u_5194 / any)  :mode (u_5195 / interrogative)  :ARG1-of (u_5196 / use-01  :ARG0 (u_5199 / i)  :ARG1-of (u_5198 / possible-01)))
+
+(u_5209 / tour  :domain (u_5212 / tour  :ARG1-of (u_5210 / find-01  :ARG0 (u_5208 / i)  :location (u_5207 / there)  :purpose (u_5214 / money  :degree (u_5213 / less))  :mode (u_5206 / interrogative)))  :mod (u_5204 / type  :mod (u_5205 / quality)  :ARG1-of (u_5211 / same-01)))
+
+(u_5254 / do-02  :ARG1 (u_5270 / Yoga  :purpose (u_5258 / rider))  :ARG2 (u_5245 / contrast-01  :ARG1 (u_5242 / help-01  :ARG0 (u_5241 / notice-01  :ARG1 (u_5244 / differ-02  :ARG1 (u_5274 / and  :op1 (u_5250 / balance)  :op2 (u_5272 / distribute-01  :ARG1 (u_5273 / weight)))  :mod (u_5243 / slight))))  :ARG2 (u_5265 / way  :manner-of (u_5263 / use-01  :ARG1 (u_5252 / and  :op1 (u_5246 / leg)  :op2 (u_5256 / back)))  :ARG1-of (u_5247 / real-04))  :polarity (u_5253 / -))  :ARG0 (u_5260 / i)  :quant (u_5268 / 3)  :ARG0-of (u_5248 / routine  :mod (u_5259 / distance-quantity  :unit (u_5264 / minute))  :ARG1-of (u_5267 / find-01  :medium (u_5269 / publication  :name (u_5257 / _NAME_))  :location (u_5262 / "(I")  :ARG1-of (u_5266 / call-01  :ARG2 (u_5251 / "\"Yoga")  :mod (u_5271 / back  :mod (u_5261 / horse))  :ARG1-of (u_5255 / think-01  :ARG0 u_5267)))  :ARG1-of (u_5249 / host-01  :ARG0 u_5254)))
+
+(u_5283 / seem-01  :ARG1 (u_5282 / hate-01  :ARG1 (u_5284 / She  :ARG0-of (u_5285 / ask-out-04  :ARG1 (u_5289 / i)  :time-of u_5282)))  :mod (u_5288 / also)  :ARG0-of (u_5287 / point  :ARG1 (u_5281 / say-01  :ARG1 (u_5286 / stop-01))))
+
+(u_5299 / contrast-01  :ARG2 (u_5301 / seem-01  :ARG1 (u_5298 / say-01  :ARG0 (u_5300 / article  :ARG1-of (u_5295 / read-01  :ARG0 (u_5297 / i)))  :ARG1 (u_5296 / contrary-01))))
+
+(u_5310 / intend-01  :ARG0 (u_5311 / Everybody  :location (u_5309 / university)  :ARG1-of (u_5316 / know-01  :ARG0 (u_5313 / i))  :ARG1-of (u_5318 / stay-01  :ARG3 (u_5312 / uni)  :duration (u_5317 / long-03)  :compared-to (u_5314 / possible-01)  :time (u_5321 / until  :op1 (u_5319 / available-02  :ARG2 (u_5320 / job)  :ARG1-of (u_5315 / actual-02)))  :ARG1-of u_5310)))
+
+(u_5335 / and  :op2 (u_5340 / dominate-01  :domain (u_5350 / bite-01  :ARG1 (u_5342 / scruff)))  :op1 (u_5345 / hurt-01  :ARG0 (u_5337 / male  :poss (u_5351 / your)  :ARG1-of (u_5349 / put-01  :ARG2 (u_5341 / place)  :purpose-of u_5345)))  :op3 (u_5346 / move-02  :ARG1 (u_5343 / bite-01  :ARG1 (u_5336 / belly))  :ARG1-of (u_5339 / use-01  :ARG0 (u_5348 / cat  :ARG0-of (u_5347 / hunt-01  :time-of u_5339))  :purpose (u_5334 / pull-01  :ARG2 (u_5338 / prey)  :ARG1 (u_5344 / gut)))))
+
+(u_5357 / give-01  :ARG1 (u_5356 / number  :quant-of (u_5359 / troop  :ARG1-of (u_5358 / request-01)))  :ARG2 (u_5361 / they)  :ARG0 (u_5362 / He)  :polarity (u_5360 / -)  :mod (u_5355 / they))
+
+(u_5380 / obligate-01  :ARG1 (u_5377 / he  :ARG0-of (u_5389 / allow-01  :ARG1 (u_5386 / and  :op1 (u_5378 / go-01  :ARG4 (u_5374 / and  :op1 (u_5390 / country  :name (u_5391 / _NAME_))  :op2 (u_5376 / country  :name (u_5381 / _NAME_)))  :ARG1 (u_5392 / military  :ARG0-of (u_5384 / finish-off-02  :ARG1 (u_5383 / force  :mod (u_5375 / political-movement  :name (u_5379 / _NAME_))  :ARG1-of (u_5385 / shattered-01))  :op2-of u_5386))))  :ARG2-of u_5380  :ARG1-of (u_5387 / do-02  :ARG0 u_5380  :purpose (u_5388 / win-01  :ARG1-of (u_5393 / complete-02)))))  :mod (u_5382 / all))
+
+(u_5407 / and  :op1 (u_5419 / have-03  :ARG0 (u_5409 / person  :mod (u_5408 / country  :name (u_5410 / _NAME_))  :ARG0-of (u_5418 / elect-01  :ARG1 (u_5411 / person  :name (u_5417 / _NAME_)  :ARG0-of (u_5415 / fix-02  :ARG1 (u_5420 / mess)  :ARG2-of u_5418))  :op2-of u_5407))  :ARG1 (u_5416 / any)  :polarity (u_5406 / -))  :ARG1-of (u_5421 / cause-01  :ARG0 (u_5423 / movement-07  :ARG1 (u_5414 / war)))  :ARG1-of (u_5425 / make-01  :ARG0 (u_5413 / person  :name (u_5412 / _NAME_))  :ARG1-of (u_5424 / resemble-01  :ARG2 (u_5422 / surrender-01))))
+
+(u_5440 / question-01  :ARG0 (u_5441 / he)  :ARG1 (u_5445 / mean-01  :ARG1 (u_5438 / that)  :ARG2 (u_5442 / give-01  :ARG1 (u_5444 / it)  :ARG2 (u_5439 / need-01  :ARG1 (u_5436 / "\"sun")  :ARG2-of (u_5443 / contrast-01  :ARG1 u_5442)))  :mode (u_5437 / interrogative))  :mod (u_5435 / only))
+
+(u_5448 / step  :domain (u_5450 / this)  :ARG1-of (u_5449 / use-01  :ARG0 (u_5447 / i)))
+
+(u_5460 / and  :op1 (u_5462 / treat-01  :ARG1 (u_5463 / put-01  :ARG1 (u_5468 / egg)  :ARG2 (u_5465 / water)  :time (u_5470 / then)  :ARG1-of (u_5459 / open-05  :ARG1-of (u_5466 / leave-14  :op2-of u_5460)))  :ARG2 (u_5464 / treat-03  :ARG1 (u_5461 / water))  :time (u_5467 / day)  :time (u_5469 / before)))
+
+(u_5476 / and  :op1 (u_5485 / offer-01  :ARG0 (u_5480 / cruise  :name (u_5483 / _NAME_))  :ARG1 (u_5481 / room  :mod (u_5475 / hour)))  :op2 (u_5484 / ready-02  :ARG1 (u_5478 / crew  :ARG0-of (u_5479 / serve-01  :ARG2 (u_5482 / you)  :ARG1-of (u_5477 / like-02)  :ARG2-of u_5484))))
+
+(u_5500 / down-03  :ARG0-of (u_5505 / have-03  :ARG1 (u_5503 / muscle  :mod (u_5494 / cheek)  :ARG1-of (u_5498 / atrophied-01)))  :ARG1-of (u_5495 / resort-01  :ARG0 (u_5502 / horse  :ARG1-of (u_5501 / post-01  :ARG0 (u_5496 / i)  :mod (u_5504 / _NAME_)))  :mod (u_5499 / ordinal-entity)  :duration (u_5497 / life)))
+
+(u_5511 / go-05  :ARG0 (u_5512 / i  :ARG0-of (u_5514 / pick-up-02  :ARG1 (u_5513 / horse  :ARG1-of (u_5510 / afford-01  :polarity (u_5509 / -)))  :ARG1-of u_5511))  :polarity (u_5515 / -))
+
+(u_5526 / differ-02  :ARG1 (u_5534 / seem-01  :ARG1 (u_5531 / worsen-01  :location (u_5523 / track  :mod (u_5527 / small  :degree (u_5528 / more)))))  :ARG2 (u_5533 / do-02  :ARG1 (u_5524 / horse  :mod (u_5530 / _NAME_))  :time (u_5529 / after))  :mod (u_5532 / only)  :ARG1-of (u_5535 / notice-01  :ARG0 (u_5525 / we)))
+
+(u_5549 / and  :op2 (u_5557 / great  :domain (u_5551 / professionalism  :ARG1-of (u_5558 / show-01  :ARG0 (u_5556 / he))))  :op1 (u_5562 / get-01  :ARG1 (u_5561 / computer)  :mod (u_5564 / back)  :mod (u_5565 / next))  :op3 (u_5554 / rate-01  :ARG1 (u_5552 / i)  :ARG3 (u_5555 / pcs  :quant (u_5548 / _NAME_))  :ARG1-of (u_5559 / cause-01  :ARG0 (u_5550 / low-04  :ARG1 (u_5560 / price-01)  :degree (u_5553 / more)  :compared-to (u_5563 / everyone)))))
+
+(u_5572 / and  :op1 (u_5570 / refer-01  :ARG0 (u_5576 / they  :ARG0-of (u_5575 / feel-01  :ARG1 (u_5578 / same-01)  :op2-of u_5572))  :ARG1 (u_5577 / everyone  :ARG1-of (u_5573 / know-02))  :location (u_5574 / here))  :mod (u_5571 / all))
+
+(u_5592 / and  :op2 (u_5594 / seem-01  :ARG1 (u_5607 / cooked-01  :ARG1 (u_5609 / warm-up-02  :ARG1 (u_5606 / food  :ARG1-of (u_5600 / serve-01  :ARG0 (u_5605 / they)))  :ARG4-of (u_5599 / rate-entity-91  :frequency-of u_5594))  :polarity (u_5591 / -)  :time (u_5603 / after  :op1 (u_5610 / order-01  :ARG0 (u_5608 / you))))  :op2-of (u_5596 / year  :op1 (u_5602 / temporal-quantity  :quant (u_5601 / _NUMBER_))  :quant-of u_5592))  :op1 (u_5597 / be-located-at-91  :ARG1 (u_5604 / i)  :ARG2 (u_5598 / here))  :op3 (u_5593 / and  :mod (u_5595 / _NUMBER_)))
+
+(u_5616 / and  :op1 (u_5624 / be-located-at-91  :ARG1 (u_5627 / He)  :op1-of (u_5629 / less-than  :quant-of u_5616))  :op2 (u_5623 / notch  :domain (u_5618 / work-01)  :mod (u_5620 / top))  :ARG1-of (u_5622 / include-91  :ARG2 (u_5626 / thing  :ARG2-of (u_5617 / price-01  :ARG1 (u_5628 / quote-01  :ARG2 (u_5625 / we)  :ARG1-of (u_5621 / cheap-02  :degree (u_5619 / most)))))))
+
+(u_5634 / purchase-01  :ARG0 (u_5635 / they)  :ARG1 (u_5632 / car  :domain (u_5633 / this)  :ord (u_5636 / ordinal-entity  :value (u_5631 / _NUMBER_))))
+
+(u_5643 / and  :op1 (u_5651 / -  :ARG1 (u_5645 / salesperson)  :time (u_5652 / ever  :location (u_5644 / line))  :degree (u_5648 / too  :time (u_5649 / always)))  :op2 (u_5646 / want-01  :ARG0 (u_5650 / person)  :ARG1 (u_5647 / sell-01)  :mod (u_5642 / all)))
+
+(u_5659 / contrast-01  :ARG2 (u_5662 / have-03  :ARG0 (u_5663 / location  :mod (u_5656 / this)  :ARG1-of (u_5660 / staff-01  :time (u_5665 / weekend)  :ARG1-of (u_5657 / bad-02  :degree (u_5664 / most))  :ARG1-of (u_5661 / see-01  :ARG0 u_5663  :time (u_5658 / ever))  :ARG1-of u_5662))))
+
+(u_5672 / meal  :purpose (u_5676 / money  :ARG1-of (u_5670 / find-01  :ARG0 (u_5669 / you)  :location (u_5673 / metro  :mod (u_5668 / all)  :part-of (u_5671 / city  :name (u_5675 / _NAME_)))))  :ARG1-of (u_5667 / good-02  :degree (u_5674 / most)))
+
+(u_5685 / possible-01  :ARG1 (u_5684 / say-01  :ARG0 (u_5683 / i  :ARG1-of (u_5681 / go-02  :ARG1-of (u_5682 / glad-02  :ARG0 u_5683  :ARG1-of u_5684)))  :mod (u_5680 / all)))
+
+(u_5707 / like-01  :ARG0 (u_5709 / i  :ARG1-of (u_5710 / i  :ARG2 u_5707))  :ARG1 (u_5718 / possible-01  :ARG1 (u_5716 / and  :op1 (u_5706 / do-02  :ARG0 (u_5702 / he  :ARG1-of (u_5711 / give-01  :ARG2 (u_5700 / and  :op1 (u_5708 / warranty  :ARG1-of (u_5705 / long-03  :degree (u_5714 / most)))  :op2 (u_5717 / price-01  :mod (u_5704 / even)  :ARG1-of (u_5701 / low-04  :degree (u_5703 / more))))  :op2-of u_5716))  :ARG1 (u_5720 / type  :mod (u_5715 / repair-01)  :ARG1-of (u_5719 / specific-02)  :ARG1-of (u_5712 / want-01)))))  :mod (u_5713 / just))
+
+(u_5734 / Someone  :mod (u_5739 / else)  :ARG1-of (u_5743 / find-01  :ARG0 (u_5740 / i))  :ARG0-of (u_5736 / say-01  :ARG1 (u_5742 / possible-01  :ARG1 (u_5747 / do-02  :ARG1 (u_5741 / it)))  :ARG1-of (u_5737 / contrast-01  :ARG2 (u_5746 / want-01  :ARG1 (u_5738 / and  :op1 (u_5749 / charge-01  :ARG1 (u_5745 / more))  :op2 (u_5748 / give-01  :ARG1 (u_5744 / warranty  :degree (u_5735 / less))))))))
+
+(u_5755 / think-01  :ARG0 (u_5757 / i)  :ARG1 (u_5761 / possible-01  :ARG1 (u_5758 / good-02  :ARG1 (u_5762 / they)  :degree (u_5763 / more)  :mod (u_5764 / even)  :compared-to (u_5759 / pair  :ARG1-of (u_5760 / use-01  :time (u_5765 / _NAME_)))))  :mode (u_5756 / expressive))
+
+(u_5805 / have-03  :ARG0 (u_5795 / They  :ARG1-of (u_5793 / be-located-at-91  :ARG2 u_5805  :time (u_5789 / ever)))  :ARG1 (u_5784 / tea  :ARG1-of (u_5787 / good-02  :degree (u_5785 / most))  :ARG1-of (u_5792 / resemble-01  :ARG2 (u_5804 / junk  :ARG1-of (u_5783 / get-01  :ARG2 (u_5797 / i)  :ARG0 (u_5799 / you)  :mod (u_5788 / grocery)))  :polarity (u_5782 / -)  :degree (u_5794 / at-all)  :quant (u_5796 / i)))  :mod (u_5803 / also)  :time (u_5786 / ever)  :mod (u_5790 / multi-sentence  :ARG0-of (u_5791 / stock-up-02  :time (u_5798 / there)  :ARG1-of (u_5801 / cause-01  :ARG0 (u_5800 / close-01  :time (u_5802 / _NAME_))))))
+
+(u_5812 / and  :op1 (u_5818 / visit-01  :ARG0 (u_5821 / i)  :ARG1 (u_5819 / showroom  :poss (u_5816 / they)  :mod (u_5822 / huge)  :location (u_5814 / city  :name (u_5820 / _NAME_))  :mod (u_5817 / lighting)))  :op2 (u_5815 / obligate-01  :mod (u_5811 / all)  :ARG1-of (u_5813 / say-01)))
+
+(u_5827 / and  :op1 (u_5832 / prepared-02  :ARG1 (u_5829 / Everything  :ARG1-of (u_5828 / order-01  :ARG0 (u_5830 / we))  :ARG1-of (u_5833 / present-01  :ARG1-of (u_5831 / perfect-02)  :op2-of u_5827))))
+
+(u_5837 / good-02  :ARG1 (u_5838 / and  :op1 (u_5841 / sear)  :op2 (u_5840 / tail  :mod (u_5836 / lobster)))  :degree (u_5843 / most)  :ARG1-of (u_5839 / have-03  :ARG0 (u_5842 / we)  :time (u_5844 / ever)))
+
+(u_5851 / and  :op1 (u_5856 / dessert)  :op2 (u_5853 / dessert  :ARG1-of (u_5849 / good-02  :degree (u_5858 / most))  :ARG1-of (u_5852 / have-03  :ARG0 (u_5855 / we)  :time (u_5859 / ever)))  :time (u_5857 / then)  :mod (u_5850 / down  :mod (u_5854 / hand)))
+
+(u_5866 / food  :mod (u_5864 / country  :name (u_5869 / _NAME_))  :ARG1-of (u_5862 / good-02  :degree (u_5867 / most))  :ARG1-of (u_5865 / have-03  :ARG0 (u_5868 / i)  :time (u_5863 / ever)))
+
+(u_5878 / and  :op1 (u_5884 / come-01  :ARG4 (u_5877 / call-02  :ARG0 (u_5879 / i))  :ARG1 (u_5876 / person  :name (u_5887 / _NAME_)  :ARG0-of (u_5881 / fix-02  :ARG1 (u_5883 / problem)  :ARG1-of (u_5886 / quick-02)  :ARG1-of (u_5880 / efficient-01)  :op2-of u_5878  :op2-of (u_5882 / and  :op1 u_5884  :manner-of u_5878)))  :time (u_5885 / day)))
+
+(u_5905 / prefer-01  :ARG1 (u_5904 / service  :mod (u_5899 / _NAME_)  :location (u_5895 / here))  :ARG2 (u_5896 / experience  :ARG0-of (u_5900 / have-03  :ARG1 (u_5894 / and  :op1 (u_5902 / office)  :op2 (u_5901 / firm)  :mod (u_5897 / big  :degree (u_5898 / more)))))  :ARG0 (u_5906 / i)  :degree (u_5903 / much))
+
+(u_5940 / contrast-01  :ARG1 (u_5922 / and  :op1 (u_5924 / get-01  :ARG1 (u_5925 / we)  :time (u_5937 / date-entity  :weekday (u_5938 / _name_)  :time (u_5930 / date-entity  :dayperiod (u_5931 / night)  :mod (u_5941 / only))))  :op2 (u_5926 / need-01  :ARG1 (u_5923 / cook-01  :degree (u_5936 / little))  :mod (u_5939 / just))  :ARG1-of (u_5927 / bad-07  :mod (u_5928 / usual))  :ARG1-of (u_5933 / be-temporally-at-91  :ARG2 u_5940  :degree (u_5934 / pretty)))  :ARG2 (u_5935 / one  :domain (u_5942 / pizza))  :ARG1-of (u_5929 / good-02  :mod (u_5932 / still)))
+
+(u_5956 / include-91  :ARG1 (u_5955 / pizza  :poss (u_5957 / they)  :mod (u_5949 / BBQ)  :mod (u_5954 / chicken))  :ARG2 (u_5952 / one  :ARG1-of (u_5950 / good-02  :degree (u_5958 / more))  :ARG1-of (u_5951 / have-03  :ARG0 (u_5953 / i)  :time (u_5959 / ever))))
+
+(u_5970 / steak  :domain (u_5973 / it)  :polarity (u_5968 / -)  :mod (u_5966 / end  :ARG1-of (u_5971 / high-02))  :mod (u_5975 / CUISINE  :quant (u_5976 / MORE)  :ARG1-of (u_5969 / enjoy-01  :ARG0 (u_5967 / person  :name (u_5977 / _NAME_))  :location (u_5972 / state  :name (u_5974 / _NAME_)))))
+
+(u_5984 / and  :op2 (u_5990 / give-01  :ARG0 (u_5989 / They  :ARG1-of (u_5991 / place-01  :ARG2 (u_5988 / position-02  :ARG1-of (u_5987 / keep-01  :duration (u_5985 / _NAME_)))  :op3-of u_5984)  :ARG0-of (u_5993 / interview-01  :op1-of u_5984))  :ARG1 (u_5986 / test-01  :medium (u_5992 / software  :ARG1-of (u_5994 / include-01)))))
+
+(u_6003 / and  :op1 (u_6011 / helpful-04  :ARG1 (u_6010 / staff  :ARG0-of (u_6001 / find-01  :ARG1 (u_6008 / dog  :ARG1-of (u_6007 / right-03))  :ARG2-of u_6011))  :degree (u_6002 / very))  :op2 (u_6004 / outstanding  :domain (u_6006 / care-03  :ARG1-of (u_6005 / receive-01  :ARG0 (u_6009 / pup)))))
+
+(u_6015 / dentist  :domain (u_6017 / you)  :name (u_6020 / _NAME_)  :ARG1-of (u_6014 / good-02  :degree (u_6019 / most))  :ARG1-of (u_6016 / have-03  :ARG0 (u_6018 / i)  :time (u_6021 / ever)))
+
+(u_6033 / make-02  :ARG0 (u_6031 / lack-01)  :ARG1 (u_6029 / agency  :domain (u_6032 / this)  :mod (u_6028 / rent-02)  :ARG1-of (u_6027 / bad-07  :degree (u_6034 / most))  :ARG1-of (u_6030 / use-01  :ARG0 (u_6037 / i)))  :ARG1-of (u_6036 / couple-01  :ARG2 (u_6035 / distain)))
+
+(u_6062 / contrast-01  :ARG1 (u_6052 / find-01  :ARG0 (u_6051 / i)  :ARG1 (u_6061 / satisfactory-02  :ARG1 (u_6060 / thing  :mod (u_6050 / initial)  :ARG1-of (u_6054 / selection))))  :ARG2 (u_6056 / thing  :ARG1 (u_6057 / compose-01  :ARG1 (u_6053 / fly-01  :ARG1 (u_6049 / wine)  :ARG1-of (u_6059 / choose-01  :ARG0 (u_6058 / we)))  :manner (u_6055 / poor))))
+
+(u_6067 / time  :ARG1-of (u_6065 / easy-05  :degree (u_6071 / most))  :ARG1-of (u_6066 / have-03  :ARG0 (u_6069 / i  :ARG0-of (u_6068 / purchase-01  :ARG1 (u_6070 / car)  :time-of u_6066))  :time (u_6072 / ever)))
+
+(u_6090 / contrast-01  :ARG1 (u_6096 / get-01  :ARG0 (u_6095 / they)  :ARG1 (u_6089 / car  :mod (u_6088 / exact)  :ARG1-of (u_6098 / win-01  :ARG0 (u_6097 / i)  :unit (u_6091 / dollar)  :ARG1-of (u_6099 / want-01))))  :ARG2 (u_6094 / take-out-11  :ARG0 (u_6101 / man  :mod (u_6093 / sell-01))  :ARG1 (u_6087 / lunch)  :mod (u_6102 / also))  :time (u_6086 / after  :op1 (u_6092 / now))  :direction (u_6085 / out)  :ARG1-of (u_6100 / excellent-02))
+
+(u_6124 / -  :op1 (u_6120 / get-01  :ARG1 (u_6132 / excuse-01  :mod (u_6135 / usual)  :polarity (u_6129 / _NAME_)  :ARG1-of (u_6131 / give-01  :ARG2 (u_6143 / guy  :ARG0-of (u_6140 / inspect-01))  :ARG0 (u_6145 / shop  :mod (u_6144 / other))  :time (u_6133 / always)  :polarity (u_6130 / -)  :location (u_6136 / here)))  :time (u_6146 / "sticker...and"  :op1 (u_6134 / obligate-01  :ARG1 (u_6122 / i  :ARG1-of (u_6127 / wait-01  :ARG2 (u_6137 / inspect-01  :frequency (u_6138 / rate-entity-91  :ARG3 (u_6142 / temporal-quantity  :unit (u_6141 / year))))  :ARG1-of (u_6139 / long-03)  :ARG2-of u_6134))  :mod (u_6128 / also)  :time (u_6121 / ever)))  :time (u_6126 / ever)  :ARG0-of (u_6123 / exemplify-01))  :quant (u_6125 / 1))
+
+(u_6149 / find-01  :ARG1 (u_6152 / value-01  :ARG1-of (u_6148 / good-02  :degree (u_6153 / most)))  :source (u_6150 / restaurant  :mod (u_6151 / country  :name (u_6154 / _NAME_))))
+
+(u_6173 / reccomend-01  :ARG0 (u_6175 / i)  :ARG1 (u_6166 / anyone  :ARG0-of (u_6171 / see-01  :ARG1 (u_6163 / and  :op1 (u_6178 / person  :name (u_6177 / _NAME_))  :op2 (u_6169 / person  :name (u_6168 / _NAME_)))  :ARG1-of (u_6165 / go-05  :ARG0 u_6166  :purpose (u_6172 / see-01  :ARG1 (u_6174 / procedure  :mod (u_6170 / all)  :quant (u_6164 / many)  :ARG1-of (u_6167 / offer-01  :ARG1-of (u_6176 / obligate-01)))  :ARG0 u_6166)  :ARG2-of u_6173))))
+
+(u_6184 / like-02  :ARG0 (u_6186 / We  :ARG0-of (u_6183 / thank-01  :ARG1 (u_6190 / you)  :ARG2 (u_6187 / job  :mod (u_6182 / roofing-01))  :ARG1-of u_6184))  :ARG1-of (u_6185 / do-02  :location (u_6189 / home  :poss (u_6188 / our))))
+
+(u_6200 / like-01  :ARG0 (u_6203 / We)  :ARG1 (u_6197 / check-01  :ARG0 (u_6195 / person  :name (u_6204 / _NAME_))  :ARG1 (u_6198 / job)  :frequency (u_6196 / rate-entity-91  :ARG3 (u_6199 / temporal-quantity  :unit (u_6202 / 1))))  :mod (u_6201 / also))
+
+(u_6209 / good-02  :ARG1 (u_6214 / Food  :poss (u_6211 / they))  :degree (u_6212 / more)  :compared-to (u_6208 / anything  :ARG1-of (u_6210 / taste-01  :ARG0 (u_6213 / i)  :time (u_6215 / ever))))
+
+(u_6239 / contrast-01  :ARG1 (u_6228 / charge-01  :ARG1 (u_6232 / day  :ARG1-of (u_6233 / book-01))  :ARG2 (u_6238 / you)  :ARG0 (u_6231 / they)  :mod (u_6235 / still))  :ARG2 (u_6240 / worth-02  :ARG2 (u_6241 / get-05  :ARG1 (u_6234 / out-06  :ARG2 (u_6229 / hole  :mod (u_6230 / this)  :mod (u_6237 / crap-01))  :mod (u_6236 / hell))))  :polarity (u_6227 / -))
+
+(u_6251 / include-91  :ARG1 (u_6249 / _NAME_)  :ARG2 (u_6250 / service  :ARG1-of (u_6247 / good-02  :degree (u_6252 / most))  :ARG0-of (u_6248 / towing-01)  :ARG1-of (u_6254 / use-01  :ARG0 (u_6253 / i))))
+
+(u_6267 / and  :op1 (u_6266 / arrive-01  :ARG1 (u_6264 / they  :ARG0-of (u_6263 / tow-01  :ARG1 (u_6273 / car)  :ARG2 (u_6271 / destination  :ARG1-of (u_6268 / need-01))  :op2-of u_6267))  :manner (u_6270 / on-time))  :ord (u_6265 / ordinal-entity  :value (u_6262 / 1))  :time (u_6269 / use-01  :ARG1 (u_6272 / they)  :ARG0 (u_6274 / i)))
+
+(u_6293 / and  :op1 (u_6283 / and  :op1 (u_6295 / friendly-01  :ARG1 (u_6285 / mechanic  :mod (u_6289 / auto)  :ARG0-of (u_6290 / work-01  :ARG1 (u_6284 / company  :name (u_6288 / _NAME_)))  :ARG0-of (u_6294 / answer-01  :ARG1 (u_6286 / question-01  :ARG0 (u_6292 / i)  :mod (u_6287 / any))  :op2-of u_6293)  :ARG0-of (u_6291 / informative  :op2-of u_6283))  :degree (u_6296 / very))))
+
+(u_6317 / contrast-01  :ARG1 (u_6323 / cut-02  :ARG1 (u_6322 / it)  :ARG1-of (u_6327 / good-02))  :ARG2 (u_6311 / comment-01  :ARG3 (u_6309 / hair)  :ARG0 (u_6307 / and  :op1 (u_6326 / person  :ARG0-of (u_6324 / have-rel-role-91  :ARG2 (u_6325 / wife)))  :op2 (u_6315 / person  :ARG0-of (u_6312 / have-rel-role-91  :ARG2 (u_6310 / friend))))  :frequency (u_6319 / rate-entity-91  :ARG4 (u_6321 / "leave...saye-01"  :ARG1 (u_6318 / look-02  :ARG1-of (u_6316 / good-02  :degree (u_6313 / most))  :ARG1-of (u_6320 / have-03  :time (u_6314 / ever))))))  :quant (u_6308 / i))
+
+(u_6336 / cooperate-01  :ARG0 (u_6337 / He)  :ARG1 (u_6338 / opt-01)  :degree (u_6343 / incredible)  :ARG0-of (u_6335 / give-01  :ARG1 (u_6339 / opine-01  :ARG1 (u_6341 / treat-03  :ARG1-of (u_6342 / differ-02)  :ARG1-of (u_6340 / choose-01)))  :ARG2 (u_6344 / i)))
+
+(u_6350 / eat-01  :time (u_6349 / and  :op1 (u_6351 / ordinal-entity  :value (u_6347 / 1))  :op2 (u_6348 / last)))
+
+(u_6360 / keep-02  :ARG0 (u_6358 / We  :mod (u_6355 / both)  :ARG0-of (u_6361 / find-01  :ARG1 (u_6359 / something  :ARG1-of (u_6356 / like-01))  :ARG1-of (u_6357 / try-01  :ARG0 u_6358  :ARG1-of u_6360))))
+
+(u_6380 / multi-sentence  :snt2 (u_6377 / and  :op1 (u_6393 / give-up-07  :ARG0 (u_6387 / thing  :mod (u_6382 / only))  :ARG1 (u_6396 / keep-02  :ARG0 (u_6391 / he  :ARG0-of (u_6392 / try-01  :ARG1-of u_6396)))  :mod (u_6398 / final)  :ARG1-of (u_6388 / find-01  :ARG0 (u_6395 / i)  :mod (u_6397 / edible)))  :op2 (u_6383 / find-01  :ARG1 (u_6385 / okay-04  :ARG1 (u_6394 / wanton  :ARG1-of (u_6386 / fried-01)))))  :snt3 (u_6384 / awful  :domain (u_6379 / bowl  :mod (u_6378 / country  :name (u_6381 / _NAME_))))  :snt1 (u_6399 / i)  :ARG1-of (u_6390 / and  :ARG2 (u_6389 / potato)))
+
+(u_6406 / and  :domain (u_6409 / support-01  :mod (u_6403 / kind)  :ARG1-of (u_6407 / provide-01  :ARG0 (u_6405 / they)))  :mod (u_6404 / thing  :ARG1-of (u_6408 / simple-02)))
+
+(u_6415 / and  :op2 (u_6416 / gnocchi)  :op1 (u_6417 / pasta)  :op3 (u_6422 / "(and"  :op1 (u_6418 / eat-01))  :ARG1-of (u_6413 / good-02  :degree (u_6420 / most)  :mod (u_6414 / Hands-down))  :ARG1-of (u_6419 / eat-01  :time (u_6421 / ever)))
+
+(u_6458 / pleased-01  :ARG0 (u_6439 / and  :op1 (u_6450 / sign)  :op2 (u_6441 / banner  :mod (u_6445 / pop-up))  :ARG1-of (u_6454 / supply-01  :ARG2 (u_6452 / business  :mod (u_6448 / class  :ord (u_6444 / ordinal-entity  :value (u_6440 / 1))  :ARG1-of (u_6451 / before))  :mod (u_6456 / family)  :ARG1-of (u_6453 / run-01  :ARG0 (u_6460 / and  :op1 (u_6449 / person  :name (u_6446 / _NAME_))  :op2 (u_6455 / person  :name (u_6443 / _NAME_)  :ARG0-of (u_6442 / have-rel-role-91  :ARG2 (u_6459 / husband))))))  :ARG0 (u_6461 / she)))  :ARG1 (u_6457 / i)  :degree (u_6447 / extreme))
+
+(u_6476 / say-01  :ARG0 (u_6481 / i)  :ARG1 (u_6473 / thing  :quant (u_6471 / enough)  :topic (u_6472 / and  :op2 (u_6478 / thing  :ARG1-of (u_6480 / wonderful-03))  :op1 (u_6475 / person  :name (u_6474 / _NAME_))  :ARG0-of (u_6483 / do-02  :ARG1 (u_6484 / and  :op1 (u_6482 / Gracee)  :op2 (u_6485 / dog))))  :ARG1-of (u_6479 / good-02))  :polarity (u_6477 / -))
+
+(u_6489 / serve-01  :mod (u_6487 / d)  :ARG1-of (u_6486 / bad-07  :degree (u_6490 / most))  :ARG1-of (u_6488 / experience-01  :time (u_6491 / ever)))
+
+(u_6511 / deserve-01  :ARG0 (u_6504 / atmosphere  :mod (u_6508 / alone))  :ARG1 (u_6505 / monetary-quantity  :unit (u_6506 / star)  :quant (u_6503 / _NUMBER_))  :ARG2-of (u_6512 / up  :ARG1 (u_6510 / food)  :polarity (u_6507 / -)  :mod (u_6509 / par-01  :topic (u_6516 / and  :op2 (u_6517 / reputation  :ARG1-of (u_6518 / carry-01  :ARG0 (u_6515 / restaurant)))  :op1 (u_6514 / tag-01  :mod (u_6513 / price-01))))))
+
+(u_6546 / contrast-01  :ARG1 (u_6541 / understand-01  :domain (u_6531 / person  :ARG0-of (u_6536 / server)  :ARG1-of (u_6545 / have-03  :ARG0 (u_6544 / we))))  :ARG2 (u_6532 / proper  :polarity (u_6529 / -)  :degree (u_6542 / equal)  :compared-to (u_6530 / recommend-01  :ARG1 (u_6539 / act-01  :ARG1 (u_6538 / talk-01  :ARG2 (u_6537 / person  :ARG0-of (u_6534 / have-rel-role-91  :ARG2 (u_6533 / friend)))  :ARG1-of (u_6535 / instead-of-91  :ARG2 (u_6547 / person  :ARG0-of (u_6540 / have-rel-role-91  :ARG2 (u_6543 / customer)))))))))
+
+(u_6553 / give-01  :ARG1 (u_6555 / experience  :ARG1-of (u_6554 / forget-01  :time (u_6558 / ever)))  :ARG2 (u_6556 / you)  :ARG0 (u_6551 / person  :name (u_6559 / _NAME_))  :polarity (u_6552 / -)  :polarity (u_6557 / -))
+
+(u_6570 / and  :op1 (u_6582 / go-01  :ARG0 (u_6572 / crew  :location (u_6574 / organization  :name (u_6573 / _NAME_))  :ARG1-of (u_6580 / give-01  :ARG2 (u_6581 / car  :ARG1-of (u_6579 / drive-01  :location (u_6571 / anywhere)  :ARG1-of (u_6586 / possible-01))  :ARG1-of (u_6583 / own-01  :ARG1-of (u_6584 / enjoy-01  :mod (u_6585 / final))))  :mod (u_6575 / back)  :op2-of u_6570))  :ARG1 (u_6577 / call-01  :ARG1 (u_6576 / duty))  :mod (u_6578 / over)))
+
+(u_6609 / contrast-01  :ARG1 (u_6608 / list-01  :ARG0 (u_6606 / It)  :ARG1 (u_6605 / breakfast  :ARG1-of (u_6607 / hot-05)))  :ARG2 (u_6602 / this)  :ARG1-of (u_6618 / mean-01  :ARG2 (u_6601 / add-02  :ARG1 (u_6617 / thing  :ARG0-of (u_6610 / make-01  :ARG1 (u_6612 / waffle)))  :ARG2 (u_6616 / affair-02  :mod (u_6603 / common)  :mod (u_6604 / continental))  :ARG0 (u_6613 / they)  :location (u_6614 / hotel  :quant (u_6600 / most)  :ARG1-of (u_6615 / cheap-02)))  :mod (u_6611 / all)))
+
+(u_6637 / obligate-01  :ARG1 (u_6636 / you)  :ARG2 (u_6633 / add-02  :ARG1 (u_6635 / pepper  :quant (u_6630 / lot  :mod (u_6628 / whole)))  :mod (u_6631 / all)  :ARG1-of (u_6629 / do-02  :ARG0 u_6637  :purpose (u_6639 / make-01  :ARG1 (u_6638 / _NAME_  :ARG1-of (u_6632 / authentic-02))  :ARG0 (u_6634 / it)))))
+
+(u_6643 / Trees  :mod (u_6644 / festival  :name (u_6647 / _NAME_))  :ARG1-of (u_6641 / good-02  :degree (u_6645 / most))  :ARG1-of (u_6642 / see-01  :time (u_6646 / ever)))
+
+(u_6663 / determine-01  :ARG0 (u_6660 / government-organization  :name (u_6662 / _NAME_))  :ARG1 (u_6656 / and  :op1 (u_6668 / -  :ARG1 (u_6659 / work-01  :quant (u_6655 / much)  :ARG1-of (u_6664 / fix-02  :ARG1-of (u_6658 / need-01  :ARG0 u_6659  :unit (u_6670 / i  :mod (u_6669 / only))  :op2-of u_6656)))))  :ARG1-of (u_6665 / do-02  :ARG1-of (u_6666 / need-01  :ARG1-of (u_6667 / say-01  :ARG0 (u_6657 / person  :ARG0-of (u_6661 / deal-01))))))
+
+(u_6677 / time  :time (u_6679 / feel-01  :ARG1 (u_6674 / condescending-01  :ARG0 (u_6676 / you  :ARG0-of u_6679))  :mod (u_6678 / next))  :time-of (u_6675 / i  :polarity (u_6673 / -)))
+
+(u_6695 / and  :op2 (u_6711 / outshine-01  :ARG0 (u_6696 / flower  :ARG1-of (u_6702 / recieve-01  :name (u_6698 / _NAME_))))  :op1 (u_6712 / attend-01  :ARG0 (u_6713 / i)  :ARG1 (u_6706 / funeral  :quant (u_6694 / several))  :time (u_6704 / late)  :ARG2-of (u_6697 / fortunate-01  :polarity (u_6705 / -)))  :op3 (u_6708 / i)  :quant (u_6700 / I  :mod (u_6699 / all))  :ARG1-of (u_6710 / person  :mod (u_6707 / all))  :ARG1-of (u_6709 / hope-01)  :ARG0-of (u_6703 / multi-sentence  :ARG1 (u_6701 / flower)))
+
+(u_6736 / do-02  :ARG0 (u_6732 / let-01  :ARG0 (u_6731 / i)  :ARG1 (u_6738 / rape-01  :ARG1 (u_6726 / child))  :ARG1-of (u_6740 / cause-01  :ARG0 (u_6739 / pay-01  :polarity (u_6725 / -))))  :ARG1 (u_6741 / thing  :ARG1-of (u_6742 / stick-01)  :ARG2-of (u_6733 / get-05  :ARG1 (u_6734 / person  :ARG0-of (u_6728 / have-rel-role-91  :ARG2 (u_6727 / parent)))  :condition-of u_6736))  :mod (u_6729 / last)  :ARG0-of (u_6730 / cause-01  :ARG1 (u_6737 / pay-01  :ARG0 (u_6735 / they))))
+
+(u_6758 / and  :op1 (u_6756 / come-01  :ARG1 (u_6754 / i  :ARG0-of (u_6751 / tell-01  :ARG1 (u_6755 / stain-01  :location (u_6752 / purse  :mod (u_6749 / leather)  :ARG1-of (u_6753 / new-01)))  :ARG2 (u_6750 / she)  :op2-of u_6758)  :ARG0-of (u_6757 / alteration-01  :purpose-of u_6756))))
+
+(u_6768 / infer-01  :ARG1 (u_6769 / reason  :ARG1 (u_6767 / like-01  :ARG0 (u_6770 / person  :quant (u_6763 / many  :degree (u_6765 / so)))  :ARG1 (u_6766 / it)  :location (u_6764 / there))))
+
+(u_6783 / take-01  :ARG0 (u_6782 / they  :ARG0-of (u_6788 / make-02  :ARG1 (u_6793 / painless  :compared-to (u_6784 / possible-01))  :op2-of (u_6781 / and  :op1 (u_6786 / go-01  :ARG0 u_6782  :ARG1 (u_6785 / step  :mod (u_6787 / each)))  :time (u_6791 / after  :op1 (u_6795 / find-01  :ARG1 (u_6789 / car  :ARG1-of (u_6794 / want-01  :ARG0 (u_6796 / i)))))  :ARG2-of u_6783)))  :ARG1 (u_6790 / time)  :degree (u_6792 / equal))
+
+(u_6823 / cause-01  :ARG0 (u_6837 / person  :ARG1 (u_6827 / number  :quant (u_6825 / _NUMBER_)))  :ARG1 (u_6831 / obligate-01  :ARG1 (u_6816 / do-02  :ARG0 (u_6838 / we  :ARG0-of (u_6840 / "right...look-00"  :ARG1 u_6816))  :ARG1 (u_6821 / something)  :location (u_6826 / certificate  :mod (u_6835 / all)  :mod (u_6841 / this)  :ARG1-of (u_6839 / say-01)))  :ARG2-of (u_6833 / person  :ARG1 u_6823))  :ARG1-of (u_6830 / have-rel-role-91  :ARG1-of (u_6818 / get-01  :ARG0 (u_6817 / i)  :mod (u_6819 / year  :topic (u_6836 / pitch-01  :ARG1 (u_6820 / sell-01)  :quant (u_6822 / 2)))))  :op1-of (u_6829 / and  :op2 (u_6828 / show-up-02  :ARG1 (u_6834 / construct-01  :mod (u_6824 / person  :name (u_6832 / _NAME_))))))
+
+(u_6854 / find-01  :ARG0 (u_6853 / you)  :ARG1 (u_6858 / someone  :ARG1-of (u_6851 / trust-02)  :ARG0-of (u_6857 / hear-01  :ARG1-of (u_6850 / actual-02))  :ARG0-of (u_6856 / do-02  :ARG1 (u_6855 / job)  :ARG2-of (u_6849 / right-06)  :ARG1-of (u_6852 / want-01  :ARG0 u_6858))))
+
+(u_6861 / and  :op1 (u_6864 / warn-01  :ARG0 (u_6863 / person  :ARG0-of (u_6868 / own-01))  :ARG1 (u_6862 / salsa  :domain (u_6866 / it)  :ARG1-of (u_6860 / good-02  :degree (u_6867 / most)  :time (u_6869 / ever))))  :op2 (u_6865 / right-06))
+
+(u_6877 / and  :op2 (u_6884 / park-01  :mod (u_6886 / last))  :op1 (u_6885 / wait-01  :ARG1 (u_6889 / i)  :ARG2 (u_6888 / pickup)  :location (u_6879 / city  :name (u_6882 / _NAME_))  :ARG1-of (u_6878 / long-03  :degree (u_6881 / more)))  :op3 (u_6887 / lose-02  :ARG1 (u_6880 / key  :mod (u_6883 / car))))
+
+(u_6896 / and  :op1 (u_6900 / arrive-01  :ARG4 (u_6905 / about  :op1 (u_6902 / _NUMBER_))  :ARG1 (u_6899 / We  :ARG0-of (u_6903 / find-01  :ARG1 (u_6898 / do  :ARG1-of (u_6897 / like-01  :degree (u_6904 / really)))  :op2-of u_6896))  :time (u_6906 / date-entity  :weekday (u_6901 / _name_))))
+
+(u_6915 / and  :op2 (u_6924 / tell-01  :ARG1 (u_6916 / leave-11)  :ARG1-of (u_6921 / cause-01  :ARG0 (u_6918 / wait-01  :ARG1 (u_6927 / person  :mod (u_6919 / other)))))  :op1 (u_6923 / place  :domain (u_6926 / this)  :mod (u_6922 / only)  :ARG0-of (u_6925 / eat-01  :time (u_6920 / ever)))  :op3 (u_6917 / i))
+
+(u_6940 / contrast-01  :ARG1 (u_6955 / receive-01  :ARG1 (u_6941 / queen  :ARG1-of (u_6950 / single-02)  :ARG1-of (u_6949 / "\"reserve-01"))  :mod (u_6948 / still)  :polarity (u_6939 / -)  :ARG2-of (u_6953 / move-01  :ARG0 u_6940))  :ARG2 (u_6943 / we)  :ARG0 (u_6945 / our)  :time (u_6952 / find-01  :ARG1 (u_6951 / someone  :location (u_6954 / desk)  :ARG0-of (u_6944 / speak-01  :ARG1-of (u_6942 / possible-01)))  :ARG0 (u_6947 / i)  :time (u_6946 / final)))
+
+(u_6975 / contrast-01  :ARG1 (u_6969 / call-02  :ARG0 (u_6968 / i  :ARG0-of (u_6977 / get-01  :ARG1 (u_6976 / estimate-01)  :purpose-of u_6969))  :ARG1 (u_6973 / business  :quant (u_6965 / few)  :location (u_6966 / area)  :ARG1-of (u_6972 / differ-02)))  :ARG2 (u_6967 / reasonable-02  :degree (u_6974 / very))  :ARG1-of (u_6971 / cheap-02  :degree (u_6970 / most)  :ARG1-of (u_6978 / find-01)))
+
+(u_7011 / get-04  :ARG0 (u_7009 / part  :ARG1-of (u_6998 / good-02  :degree (u_6995 / most)))  :ARG1 (u_6993 / remodel-01  :ARG1 (u_7012 / bathroom  :mod (u_7005 / whole))  :ARG2 (u_6994 / price-01  :ARG1-of (u_7001 / same-01)  :ARG1-of (u_6999 / quote-01  :ARG0 (u_6997 / "company'"  :mod (u_6996 / other)  :ARG0-of (u_7007 / fix-02  :ARG1 (u_7008 / and  :op1 (u_7003 / tile  :mod (u_7002 / shower))  :op2 (u_7000 / fixture))  :mod (u_7010 / just)  :purpose-of u_6999))))  :ARG0 (u_7006 / i)  :degree (u_7004 / about)))
+
+(u_7015 / spend-01  :ARG1 (u_7016 / remodeling-01  :time (u_7018 / ever))  :ARG3 (u_7019 / money  :ARG1-of (u_7014 / good-02  :degree (u_7017 / most))))
+
+(u_7035 / find-01  :ARG0 (u_7034 / i  :ARG0-of (u_7029 / drive-01  :direction (u_7032 / back)  :time-of u_7035))  :ARG1 (u_7027 / leakage-01  :ARG1 (u_7028 / window  :mod (u_7025 / rear))  :quant (u_7026 / some)  :ARG1-of (u_7031 / have-03  :ARG0 u_7035))  :time (u_7030 / date-entity  :dayperiod (u_7033 / night)))
+
+(u_7056 / and  :op1 (u_7051 / perfectionist  :domain (u_7049 / person  :name (u_7048 / _NAME_))  :mod (u_7059 / dental)  :ARG1-of (u_7055 / clear-06))  :op2 (u_7047 / pride-01  :ARG0 (u_7045 / and  :op1 (u_7053 / work-01  :ARG1-of (u_7058 / do-02))  :op2 (u_7046 / reputation  :ARG1-of (u_7052 / establish-01)))  :ARG1-of (u_7050 / clear-06))  :ARG0-of (u_7057 / _NAME_  :ARG1 (u_7054 / dental)))
+
+(u_7070 / and  :op1 (u_7082 / involved-01  :ARG1 (u_7081 / care-01  :polarity (u_7069 / -)  :quant (u_7074 / ounce  :quant (u_7075 / 1))))  :op2 (u_7077 / warn-01  :ARG1 (u_7072 / anyone  :ARG1-of (u_7071 / warn-01  :ARG2 (u_7076 / lack-01  :ARG1 (u_7078 / serve-01)  :ARG1-of (u_7073 / complete-02))  :ARG0 (u_7079 / i)  :ARG1-of (u_7080 / possible-01)))))
+
+(u_7088 / negative-02  :ARG0 (u_7089 / house-01)  :ARG1 (u_7092 / place  :mod (u_7087 / this))  :mod (u_7090 / only)  :ARG1-of (u_7091 / have-03  :ARG0 (u_7093 / i)))
+
+(u_7107 / possible-01  :ARG1 (u_7103 / take-01  :ARG0 (u_7106 / i)  :ARG1 (u_7104 / it)  :mod (u_7101 / only))  :ARG1-of (u_7109 / cause-01  :ARG0 (u_7105 / seat-01  :ARG0 (u_7110 / they)  :ARG1 (u_7111 / person  :ARG1-of (u_7108 / know-01  :ord (u_7112 / ordinal-entity  :value (u_7102 / 1)))))))
+
+(u_7127 / possible-01  :ARG1 (u_7123 / say-01  :ARG0 (u_7126 / i)  :ARG1 (u_7121 / much  :polarity (u_7122 / -)  :ARG2-of (u_7128 / except-01  :ARG1 (u_7125 / disappoint-01  :ARG1 (u_7124 / experience-01  :mod (u_7120 / this))  :degree (u_7129 / very))))))
+
+(u_7150 / contrast-01  :ARG1 (u_7145 / want-01  :ARG0 (u_7153 / i  :ARG0-of (u_7144 / waste-01  :ARG1 (u_7154 / time)  :ARG2 (u_7152 / route  :mod (u_7147 / and)  :ARG1-of (u_7155 / set-02))  :ARG1-of u_7145))  :polarity (u_7148 / -))  :ARG2 (u_7156 / want-01  :ARG1 (u_7159 / take-on-09  :ARG1 (u_7146 / something  :ARG1-of (u_7149 / handle-01  :polarity (u_7143 / -))  :ARG1-of (u_7142 / strain-01  :ARG2 (u_7158 / exhaustion)  :mod (u_7151 / just)  :purpose-of u_7159)))  :polarity (u_7157 / -)))
+
+(u_7173 / rude  :ARG0 (u_7169 / staff  :mod (u_7166 / office))  :ARG1 (u_7168 / bilk-01  :ARG1 (u_7170 / i)  :ARG2 (u_7171 / money))  :mod (u_7172 / cause-01  :polarity (u_7167 / -))  :mod (u_7174 / boot-01))
+
+(u_7178 / work-01  :ARG0 (u_7179 / you  :mod (u_7177 / guy)  :ARG0-of (u_7181 / do-02  :ARG1 u_7178))  :mod (u_7180 / grimy))
+
+(u_7199 / and  :op1 (u_7218 / stay-01  :ARG1 (u_7200 / person  :ARG1-of (u_7221 / compare-01  :ARG2 (u_7220 / resort  :mod (u_7210 / big)  :ARG1-of (u_7212 / stay-01))  :mod (u_7213 / even))  :ARG1-of (u_7214 / say-01  :ARG2-of (u_7209 / obligate-01  :ARG1 u_7200  :op2-of u_7199)))  :ARG3 (u_7216 / motel  :mod (u_7202 / this)  :mod (u_7203 / fabulous)  :mod (u_7201 / little))  :time (u_7208 / year))  :ARG1-of (u_7215 / include-91  :ARG2 (u_7206 / experience-01  :ARG1 (u_7205 / lodging  :ARG0-of (u_7217 / have-03  :ARG1 u_7206  :time (u_7204 / ever)  :location (u_7198 / country-region  :name (u_7219 / _NAME_))))  :ARG1-of (u_7211 / good-02  :degree (u_7207 / most)))))
+
+(u_7256 / contrast-01  :ARG1 (u_7249 / speak-01  :ARG0 (u_7260 / i)  :ARG1 (u_7247 / they)  :polarity (u_7240 / -))  :ARG2 (u_7253 / and  :op1 (u_7246 / interest-01  :ARG1 (u_7259 / you)  :ARG2 (u_7239 / or  :op1 (u_7255 / test-01)  :op2 (u_7245 / appointment)  :mod (u_7244 / any)  :ARG1-of (u_7257 / recommend-01  :ARG0 (u_7258 / they)))  :mod (u_7248 / likely-01)  :mod (u_7251 / us)  :ARG1-of (u_7243 / good-02  :degree (u_7242 / most)))  :op2 (u_7254 / capable-01  :ARG1 (u_7252 / decline-01  :ARG1 (u_7241 / anything  :ARG1-of (u_7250 / suggest-01))))))
+
+(u_7302 / and  :op2 (u_7286 / get-04  :ARG0 (u_7293 / he)  :ARG1 (u_7300 / set-up-03))  :op1 (u_7304 / get-05  :ARG1 (u_7295 / We)  :ARG2 (u_7292 / talk-01))  :op3 (u_7299 / and  :op1 (u_7297 / drive-01  :ARG0 (u_7288 / person  :name (u_7287 / _NAME_))  :ARG1-of (u_7291 / test-01))  :op2 (u_7289 / fall-07  :ARG1 (u_7283 / heel)  :degree (u_7303 / head)  :topic (u_7281 / car  :mod (u_7301 / this))))  :mod (u_7298 / i)  :quant (u_7282 / 1  :ARG1-of (u_7284 / keep-02  :mod (u_7290 / all)))  :ARG1-of (u_7285 / and  :ARG2 (u_7296 / obligate-01  :ARG1 (u_7294 / have-03))))
+
+(u_7325 / and  :op1 (u_7343 / cheap-02)  :op2 (u_7327 / multi-sentence  :ARG1 (u_7322 / thing  :mod (u_7326 / only)  :ARG1-of (u_7332 / try-01  :ARG0 (u_7330 / we)  :concession (u_7324 / say-01  :ARG0 (u_7342 / i)  :ARG1 (u_7341 / and  :op2 (u_7333 / value-01  :mod (u_7329 / great))  :op1 (u_7334 / worth-02  :mod (u_7336 / well))  :op3 (u_7340 / get-01  :ARG1 (u_7331 / vegetarian)  :time (u_7323 / ever)))))))  :domain (u_7337 / roll  :mod (u_7335 / potato  :ARG1-of (u_7328 / sweet-02))  :mod (u_7338 / tempura))  :mod (u_7339 / great)  :ARG1-of (u_7344 / actual-02))
+
+(u_7364 / start-01  :ARG1 (u_7363 / quality  :mod (u_7365 / poor))  :ARG2 (u_7357 / receptionist  :mod-of (u_7353 / and  :op1 (u_7359 / patient-01  :domain (u_7358 / staff)  :degree (u_7360 / very))  :op2 (u_7362 / lack-01  :ARG1 (u_7355 / efficient-01  :ARG1-of (u_7361 / love-01  :ARG0 (u_7366 / i)  :time (u_7356 / once)  :location (u_7354 / office)))))))
+
+(u_7387 / tell-01  :ARG0 (u_7400 / they)  :ARG1 (u_7388 / obligate-01  :ARG1 (u_7383 / you  :ARG0-of (u_7390 / pay-01  :ARG1 (u_7384 / toll  :mod (u_7389 / all)  :ARG1-of (u_7391 / pay-01)  :ARG1-of (u_7392 / come-01  :source (u_7382 / city  :name (u_7385 / _NAME_))))  :ARG2-of u_7388)))  :time (u_7396 / arrive-01  :ARG1 (u_7401 / guy)  :quant (u_7381 / _NUMBER_)  :quant (u_7399 / 40))  :op1-of (u_7397 / and  :op2 (u_7386 / monetary-quantity  :quant (u_7395 / _NUMBER_)  :mod (u_7393 / extra)  :purpose (u_7398 / drive-01  :direction (u_7394 / back)  :source (u_7402 / destination)))))
+
+(u_7418 / tell-01  :ARG2 (u_7412 / and  :ARG1 (u_7413 / design-01  :mod (u_7408 / basic)  :polarity (u_7410 / -))  :ARG0-of (u_7415 / work-01  :ARG1-of (u_7416 / possible-01  :ARG1-of u_7418)))  :ARG0 (u_7414 / i)  :time (u_7411 / get-05  :ARG1 (u_7409 / we)  :ARG2 (u_7417 / budget-01)))
+
+(u_7434 / and  :op1 (u_7452 / experience-01  :ARG1 (u_7436 / i  :ARG1-of (u_7435 / same-01  :ARG3 (u_7446 / price-01  :ARG1-of (u_7447 / charge-01  :ARG0 (u_7449 / he)))  :ARG2 (u_7440 / price-01  :ARG1 (u_7448 / guy  :mod (u_7442 / tire))  :ARG2 (u_7444 / put-01  :ARG1 (u_7450 / tire  :mod (u_7439 / other)  :mod (u_7443 / rear))))  :op2-of u_7434)  :ARG0-of (u_7453 / have-03  :ARG1 u_7452  :polarity (u_7433 / -)  :time (u_7438 / ever)))  :mod (u_7445 / serve-01)  :ARG1-of (u_7441 / good-02  :degree (u_7437 / most)))  :ARG1-of (u_7454 / and  :mod (u_7451 / just)))
+
+(u_7489 / contrast-01  :ARG1 (u_7487 / choose-01  :ARG0 (u_7488 / i)  :ARG1 (u_7480 / contrast-01))  :ARG2 (u_7477 / approach-01  :ARG1 (u_7481 / policy-01  :ARG1 (u_7473 / hotel  :ARG1-of (u_7471 / push-02  :ARG2 (u_7483 / thing  :ARG1-of (u_7479 / responsible-03)  :ARG1-of (u_7482 / local-02))  :purpose-of u_7481)))  :ARG2 (u_7476 / desk  :mod (u_7475 / front))  :ARG2-of (u_7490 / contrast-01  :ARG1 u_7489))  :ARG1-of (u_7484 / mention-01  :ARG0 (u_7491 / sleep-01  :mod (u_7478 / night  :ARG1-of (u_7486 / good-02))  :ARG3-of (u_7474 / pay-01)  :ARG1-of (u_7492 / get-01  :polarity (u_7472 / -)))  :polarity (u_7485 / -)))
+
+(u_7512 / notice-01  :ARG0 (u_7510 / you  :ARG1-of (u_7509 / arrive-01  :ARG4 (u_7517 / location)  :time-of u_7512))  :ARG1 (u_7515 / and  :op1 (u_7506 / go-01  :ARG4 (u_7513 / door)  :ARG1 (u_7505 / line  :ARG1-of (u_7511 / wait-01)  :ARG1-of (u_7519 / spill-01  :ARG2 (u_7518 / lot  :mod (u_7508 / parking))  :op2-of u_7515))  :mod (u_7514 / literal)  :direction (u_7503 / out)))  :ord (u_7507 / ordinal-entity  :value (u_7504 / 1))  :mod (u_7516 / thing))
+
+(u_7532 / know-01  :ARG0 (u_7535 / we)  :ARG1 (u_7534 / treat-01)  :time (u_7539 / after)  :manner (u_7530 / and  :op2 (u_7538 / see-01  :ARG1 (u_7537 / item  :poss (u_7536 / they)  :mod (u_7528 / menu)  :ARG1-of (u_7529 / new-01)))  :op1 (u_7533 / look-01  :ARG1 (u_7531 / menu))))
+
+(u_7557 / plus  :op1 (u_7553 / low-04  :ARG1 (u_7562 / thing  :ARG2-of (u_7552 / price-01))  :degree (u_7555 / more)  :compared-to (u_7565 / anticipate-01  :ARG0 (u_7564 / i))  :ARG1-of (u_7570 / actual-02))  :op2 (u_7566 / "places,"  :mod (u_7556 / other))  :op4 (u_7563 / and)  :op3 (u_7561 / show-01  :ARG0 (u_7559 / he)  :ARG1 (u_7554 / work-01  :ARG1-of (u_7560 / do-02))  :time (u_7569 / come-01  :ARG1 (u_7568 / pick-up-04  :ARG1 (u_7567 / car))))  :ARG1-of (u_7558 / monetary-quantity  :ARG2-of (u_7571 / use-02)))
+
+(u_7585 / take-10  :ARG1 (u_7588 / try-01  :ARG1 (u_7589 / get-01  :ARG1 (u_7578 / and  :op1 (u_7590 / towel)  :op2 (u_7581 / linen)  :mod (u_7583 / all)  :ARG1-of (u_7584 / request-01  :ARG0 (u_7586 / we))))  :quant (u_7579 / _NUMBER_))  :location (u_7580 / room  :ord (u_7582 / ordinal-entity  :value (u_7587 / 2))))
+
+(u_7592 / bad-07  :ARG1 (u_7595 / ha  :time (u_7598 / ever))  :degree (u_7597 / most)  :degree (u_7593 / person  :mod (u_7594 / country  :name (u_7596 / _NAME_))))
+
+(u_7604 / food  :domain (u_7609 / this)  :mod (u_7606 / country  :name (u_7611 / _NAME_))  :ARG1-of (u_7602 / bad-07  :degree (u_7610 / most))  :ARG1-of (u_7607 / have-03  :ARG0 (u_7603 / i)  :degree (u_7608 / far)  :time (u_7605 / ever)))
+
+(u_7620 / include-91  :ARG2 (u_7619 / experience-01  :ARG1-of (u_7615 / bad-02  :degree (u_7622 / most))  :ARG1-of (u_7618 / have-03  :ARG0 (u_7616 / shop  :mod (u_7621 / repair-01  :ARG1 (u_7617 / auto)))  :time (u_7623 / ever))))
+
+(u_7630 / go-out-17  :ARG1 (u_7631 / compressor  :ord (u_7634 / ordinal-entity  :value (u_7628 / 3))  :ARG1-of (u_7629 / put-01  :ARG2 (u_7633 / car)  :ARG0 (u_7627 / he)))  :mod (u_7632 / of-course))
+
+(u_7644 / ask-01  :ARG0 (u_7643 / i)  :ARG1 (u_7645 / possible-01  :ARG1 (u_7640 / copy-01  :ARG0 (u_7646 / they)  :ARG1 (u_7642 / piece  :ARG1-of (u_7641 / drop-off-03)))))
+
+(u_7661 / say-01  :ARG0 (u_7656 / They)  :ARG1 (u_7655 / make-01  :ARG1 (u_7657 / it)  :ARG1-of (u_7658 / resemble-01  :ARG2 (u_7662 / one  :ARG1-of (u_7663 / replace-01  :ARG0 (u_7659 / i)  :ARG0-of (u_7660 / need-01  :ARG1 u_7662)))  :mod (u_7664 / exact))))
+
+(u_7671 / ask-02  :ARG0 (u_7677 / i  :ARG1-of (u_7674 / return-01  :ARG1-of (u_7675 / amend-01  :ARG0 u_7677  :purpose (u_7673 / apply-02  :ARG1 (u_7679 / credit  :ARG2-of (u_7672 / become-01  :time (u_7680 / just))  :ARG1-of (u_7676 / qualify-02))  :ARG0 u_7677)  :ARG1-of u_7671)))  :time (u_7678 / then))
+
+(u_7686 / buy-01  :ARG1 (u_7689 / furniture  :ARG1-of (u_7687 / own-01)  :ARG2-of (u_7688 / include-91  :ARG3 (u_7694 / about  :op1 (u_7692 / half)  :ARG2-of u_7686)  :ARG1 u_7686))  :ARG0 (u_7690 / i)  :mod (u_7685 / he)  :source (u_7693 / place  :mod (u_7691 / this)))
+
+(u_7721 / and  :op1 (u_7724 / come-01  :ARG1 (u_7719 / i)  :ARG2 (u_7710 / receipt  :ARG1-of (u_7711 / provide-01  :ARG0 (u_7715 / person  :name (u_7713 / _NAME_))  :time (u_7725 / up-to)))  :direction (u_7708 / back))  :op2 (u_7714 / contrast-01  :ARG1 (u_7723 / take-10  :ARG0 (u_7722 / guy  :ARG0-of (u_7717 / copy-01  :ARG1 (u_7720 / temporal-quantity  :unit (u_7712 / forever)  :ARG1-of u_7723)  :purpose-of u_7723)))  :ARG2 (u_7716 / say-01  :ARG1 (u_7718 / care-03  :ARG1 (u_7709 / situation)))))
+
+(u_7733 / and  :op1 (u_7741 / trust-01  :ARG0 (u_7737 / i  :ARG0-of (u_7734 / handle-01  :ARG1 (u_7736 / this)  :ARG1-of (u_7740 / possible-01  :ARG1-of (u_7735 / believe-01  :ARG0 u_7737  :op2-of u_7733))))  :ARG1 (u_7743 / you))  :op1-of (u_7739 / and  :op2 (u_7738 / obligate-01  :ARG2 (u_7742 / reciprocate-01)  :mod (u_7732 / all))))
+
+(u_7760 / and  :op1 (u_7767 / authentic-02  :ARG1 (u_7763 / Everything  :ARG1-of (u_7771 / get-01  :ARG0 (u_7768 / we)  :location (u_7762 / there))  :ARG1-of (u_7774 / tasting-02  :ARG1-of (u_7778 / good-02  :degree (u_7764 / more))  :op2-of u_7760))  :degree (u_7773 / more)  :compared-to (u_7781 / restaurant  :mod (u_7766 / any)  :mod (u_7779 / other)  :mod (u_7777 / country  :name (u_7765 / _NAME_))  :location (u_7769 / area  :name (u_7775 / _NAME_)))  :op1-of (u_7780 / to--and  :op2 (u_7770 / trust-01  :ARG0 (u_7776 / be-located-at-91  :quant (u_7761 / lot)))  :location-of u_7760))  :location (u_7772 / we))
+
+(u_7792 / have-03  :ARG0 (u_7790 / They)  :ARG1 (u_7789 / Soup  :mod (u_7787 / Drop  :mod (u_7795 / Egg))  :ARG1-of (u_7786 / good-02  :degree (u_7791 / most))  :ARG1-of (u_7788 / taste-01  :ARG0 (u_7793 / i)  :time (u_7794 / ever))))
+
+(u_7799 / and  :op2 (u_7801 / perfect-02  :ARG1 (u_7802 / entree  :mod (u_7798 / every)  :ARG1-of (u_7800 / order-01  :ARG0 (u_7803 / we)))))
+
+(u_7816 / reasonable-02  :ARG1 (u_7814 / thing  :ARG2-of (u_7811 / price-01  :ARG1 (u_7815 / they)))  :ARG2 (u_7809 / amount  :quant-of (u_7812 / food)  :ARG1-of (u_7810 / receive-01  :ARG0 (u_7813 / you)))  :degree (u_7817 / extreme))
+
+(u_7846 / cause-01  :ARG0 (u_7844 / figure-01  :ARG1 (u_7857 / i))  :ARG1 (u_7851 / take-01  :ARG1 (u_7836 / time  :purpose (u_7854 / let-01  :ARG1 (u_7852 / thing  :time (u_7850 / have-03  :ARG1 (u_7840 / your  :ARG0-of (u_7847 / treat-01  :ARG1 (u_7856 / customer)  :ARG2 u_7852))))  :ARG0 (u_7853 / know-01  :ARG1 (u_7841 / everyone))  :ARG1-of (u_7855 / possible-01)))  :condition (u_7845 / want-01  :ARG0 (u_7849 / they  :ARG0-of (u_7838 / take-01  :ARG1 (u_7843 / time)  :purpose (u_7839 / fix-02  :ARG1 (u_7848 / fence  :ARG1-of (u_7837 / instal-01)))  :ARG1-of u_7845))  :polarity (u_7835 / -)))  :time (u_7842 / once))
+
+(u_7879 / likely-01  :ARG0 (u_7874 / think-01  :ARG0 (u_7881 / "(you"  :ARG1-of (u_7868 / explain-01  :ARG2 (u_7867 / condiment  :ARG1-of u_7874)  :polarity (u_7866 / -)  :condition-of u_7874)))  :ARG1 (u_7872 / plate  :domain (u_7873 / salads  :mod (u_7870 / _NAME_))  :mod (u_7876 / small  :degree (u_7871 / most))  :ARG1-of (u_7875 / see-01  :time (u_7869 / ever))  :ARG1-of (u_7878 / place-01  :ARG2 (u_7877 / in-front-of)))  :degree (u_7880 / most))
+
+(u_7889 / glob  :domain (u_7894 / duck)  :consist-of (u_7895 / fat  :mod (u_7887 / chewy))  :ARG1-of (u_7896 / resemble-01  :ARG2 (u_7891 / delicacy  :mod (u_7892 / crispy)  :ARG1-of (u_7893 / represent-01  :mod (u_7898 / usual)  :location (u_7890 / establishment  :mod (u_7897 / other))))  :polarity (u_7888 / -)))
+
+(u_7938 / cause-01  :ARG0 (u_7928 / know-01  :ARG0 (u_7936 / she)  :ARG1 (u_7927 / thing  :mod (u_7939 / any)  :ARG2-of (u_7937 / name-01))  :polarity (u_7934 / -)  :ARG1-of (u_7942 / suppose-01))  :ARG1 (u_7933 / and  :op2 (u_7948 / disagree-01)  :op1 (u_7941 / know-01  :ARG1 (u_7925 / i)  :manner (u_7944 / know-01))  :op3 (u_7924 / say-01  :ARG1 (u_7943 / come-03  :ARG1 (u_7935 / bodice)  :ARG1-of (u_7929 / low-04  :degree (u_7930 / cause-01))))  :time (u_7949 / after  :op1 (u_7922 / tell-01  :ARG1 (u_7923 / and  :op1 (u_7931 / designer)  :op2 (u_7926 / name  :mod (u_7940 / dress))))))  :mod (u_7945 / one  :ARG1-of (u_7932 / refer-01))  :mod (u_7946 / one  :ARG1-of (u_7947 / have-03)))
+
+(u_7965 / and  :op1 (u_7974 / take-01  :ARG1 (u_7966 / she  :ARG1-of (u_7973 / mean-01  :polarity (u_7964 / -)  :op2-of u_7965)))  :condition (u_7968 / want-01  :ARG1 (u_7967 / and  :op1 (u_7979 / "\"tell-01"  :ARG1 (u_7971 / customer  :ARG1-of (u_7969 / force-01  :ARG2 (u_7980 / approach-02  :ARG1 (u_7977 / dress)  :ARG0-of (u_7972 / get-04  :ARG1 (u_7970 / nowhere)  :ARG1-of (u_7981 / obvious-01)  :ARG1-of (u_7975 / likely-01)))  :ARG1-of (u_7982 / try-01  :ARG0 u_7971  :op2-of u_7967)))  :ARG2 (u_7978 / wrong-02)))  :ARG0 (u_7976 / you)))
+
+(u_8017 / feel-01  :ARG0 (u_8019 / i)  :ARG1 (u_8002 / and  :op1 (u_8014 / honest-01  :ARG1 (u_8020 / person  :name (u_8004 / _NAME_))  :polarity (u_8013 / -))  :op2 (u_8018 / trust-01  :ARG1 (u_8023 / lace-up-02  :ARG0 (u_8015 / trust-02  :ARG2 (u_8003 / gown  :ARG1-of (u_8012 / wear-01  :time (u_8005 / day  :poss (u_8016 / life)  :mod (u_8008 / important  :degree (u_8010 / most)))))  :mod (u_8006 / let-alone)  :ARG2-of u_8018)  :ARG1 (u_8022 / gown  :mod (u_8024 / another)))  :polarity (u_8001 / -))  :ARG2-of (u_8009 / resemble-01  :ARG1 u_8017))  :degree (u_8011 / much  :degree (u_8021 / very))  :polarity (u_8007 / -))
+
+(u_8037 / contrast-01  :ARG1 (u_8041 / go-02  :ARG0 (u_8040 / i)  :polarity (u_8039 / -))  :ARG2 (u_8042 / find-01  :ARG1 (u_8038 / tire  :mod (u_8033 / particular)  :ARG1-of (u_8036 / use-01  :location (u_8035 / stock)  :location (u_8043 / anywhere  :mod (u_8044 / else))))  :polarity (u_8034 / -)))
+
+(u_8055 / "(and"  :condition (u_8061 / return-01  :ARG1 (u_8056 / i)  :time (u_8060 / ever)  :location (u_8054 / there)  :polarity (u_8053 / again)  :ARG1-of (u_8065 / doubt-01  :ARG0 (u_8059 / quality  :poss (u_8057 / work-01  :ARG1-of (u_8062 / perform-02  :ARG0 (u_8067 / they)  :ARG1-of (u_8063 / actual-02))))  :time (u_8058 / now)  :quant (u_8064 / some)  :ARG1-of (u_8066 / serious-02))))
+

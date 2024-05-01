@@ -1,0 +1,3733 @@
+# ::snt His military intelligence has captured major figures like Abu Zubayda and Khalid Shaykh Muhammad, as well as nearly 500 other al-Qaeda operatives, over 400 of whom the Pakistanis have turned over to the US .
+(z1 / capture-01
+      :ARG0 (z2 / intelligence
+            :mod (z3 / military)
+            :poss (z4 / he))
+      :ARG1 (z5 / and
+            :op1 (z6 / figure
+                  :ARG1-of (z7 / major-02)
+                  :example (z8 / and
+                        :op1 (z9 / person
+                              :name (z10 / name
+                                    :op1 "Abu"
+                                    :op2 "Zubayda"))
+                        :op2 (z11 / person
+                              :name (z12 / name
+                                    :op1 "Khalid"
+                                    :op2 "Shaykh"
+                                    :op3 "Muhammad"))))
+            :op2 (z13 / person
+                  :ARG0-of (z14 / have-org-role-91
+                        :ARG1 (z15 / criminal-organization
+                              :name (z16 / name
+                                    :op1 "al-Qaeda"))
+                        :ARG2 (z17 / operative))
+                  :quant (z18 / nearly
+                        :op1 500)
+                  :mod (z19 / other)
+                  :ARG2-of (z20 / include-91
+                        :ARG1 (z21 / person
+                              :quant (z22 / over
+                                    :op1 400)
+                              :ARG1-of (z23 / turn-over-12
+                                    :ARG0 (z24 / person
+                                          :mod (z25 / country
+                                                :name (z26 / name
+                                                      :op1 "Pakistan")))
+                                    :ARG2 (z27 / country
+                                          :name (z28 / name
+                                                :op1 "US"))))))))
+
+# ::snt It is estimated to have some 5,000 armed fighters, and they have pursued attacks against Israeli forces to compel them to withdraw from the Shebaa Farms, a sliver of Syrian territory that Israel annexed after the 1967 war .
+(z1 / and
+      :op1 (z2 / estimate-01
+            :ARG1 (z3 / have-03
+                  :ARG0 (z4 / it)
+                  :ARG1 (z5 / person
+                        :ARG0-of (z6 / fight-01)
+                        :ARG1-of (z7 / arm-01)
+                        :quant (z8 / some
+                              :op1 5000))))
+      :op2 (z9 / pursue-01
+            :ARG0 z5
+            :ARG1 (z10 / attack-01
+                  :ARG0 z5
+                  :ARG1 (z11 / force
+                        :mod (z12 / country
+                              :name (z13 / name
+                                    :op1 "Israel"))))
+            :purpose (z14 / compel-01
+                  :ARG0 z5
+                  :ARG1 z11
+                  :ARG2 (z15 / withdraw-01
+                        :ARG0 z11
+                        :ARG1 z11
+                        :ARG2 (z16 / country-region
+                              :name (z17 / name
+                                    :op1 "Shebaa"
+                                    :op2 "Farms")
+                              :ARG1-of (z18 / mean-01
+                                    :ARG2 (z19 / sliver
+                                          :domain (z20 / territory
+                                                :mod (z21 / country
+                                                      :name (z22 / name
+                                                            :op1 "Syria"))
+                                                :ARG1-of (z23 / annex-01
+                                                      :ARG0 z12
+                                                      :time (z24 / after
+                                                            :op1 (z25 / war
+                                                                  :name (z26 / name
+                                                                        :op1 "1967"
+                                                                        :op2 "War"))))))))))))
+
+# ::snt Kumaratunga's India tour preceded a three-day visit to Sri Lanka by Norwegian Foreign Minister Jan Petersen in a new bid to revive the peace talks that were supposed to follow a ceasefire that Oslo successfully brokered in February 2002 .
+(z1 / precede-01
+      :ARG1 (z2 / tour-01
+            :ARG0 (z3 / person
+                  :name (z4 / name
+                        :op1 "Kumaratunga"))
+            :ARG1 (z5 / country
+                  :name (z6 / name
+                        :op1 "India")))
+      :ARG2 (z7 / visit-01
+            :ARG0 (z8 / person
+                  :name (z9 / name
+                        :op1 "Jan"
+                        :op2 "Petersen")
+                  :ARG0-of (z10 / have-org-role-91
+                        :ARG1 (z11 / country
+                              :name (z12 / name
+                                    :op1 "Norway"))
+                        :ARG2 (z13 / minister
+                              :topic (z14 / foreign)))))
+      :ARG1 (z15 / country
+            :name (z16 / name
+                  :op1 "Sri"
+                  :op2 "Lanka"))
+      :duration (z17 / temporal-quantity
+            :quant 3
+            :unit (z18 / day))
+      :purpose (z19 / bid-03
+            :ARG0 z8
+            :ARG1 (z20 / revive-01
+                  :ARG0 z8
+                  :ARG1 (z21 / talk-01
+                        :ARG1 (z22 / peace)
+                        :ARG1-of (z23 / suppose-02
+                              :ARG2 (z24 / follow-01
+                                    :ARG1 z21
+                                    :ARG2 (z25 / cease-01
+                                          :ARG1 (z26 / fire-01)
+                                          :ARG1-of (z27 / break-01
+                                                :ARG0 (z28 / city
+                                                      :name (z29 / name
+                                                            :op1 "Oslo"))
+                                                :ARG1-of (z30 / succeed-01)
+                                                :time (z31 / date-entity
+                                                      :month 2
+                                                      :year 2002)))))))
+            :ARG1-of (z32 / new-01)))
+
+# ::snt While most U.S. secretaries of state -- save perhaps Dean Rusk -- have gobbled up credit for outcomes that they had little to do with, few have been as brazen as Colin Powell .
+(z1 / contrast-01
+      :ARG1 (z2 / gobble-up-02
+            :ARG0 (z3 / person
+                  :ARG0-of (z4 / have-org-role-91
+                        :ARG1 (z5 / country
+                              :name (z6 / name
+                                    :op1 "U.S."))
+                        :ARG2 (z7 / secretary
+                              :topic (z8 / foreign)))
+                  :quant (z9 / most)
+                  :ARG2-of (z10 / except-01
+                        :ARG1 (z11 / person
+                              :name (z12 / name
+                                    :op1 "Dean"
+                                    :op2 "Rusk")
+                              :ARG1-of (z13 / possible-01)))))
+      :ARG1 (z14 / credit-01
+            :ARG1 z3
+            :ARG2 (z15 / outcome
+                  :ARG2-of (z16 / have-to-do-with-04
+                        :ARG0 z3
+                        :ARG1 z3
+                        :ARG2 (z17 / little)))))
+
+# ::snt This, Pakistan's lobbyist in Washington Christina Rocca has been told, is the "minimum" that the Pakistan army will accept .
+(z1 / tell-01
+      :ARG1 (z2 / minimum
+            :ARG1-of (z3 / accept-01
+                  :ARG0 (z4 / army
+                        :mod (z5 / country
+                              :name (z6 / name
+                                    :op1 "Pakistan"))))
+            :domain (z7 / this))
+      :ARG2 (z8 / person
+            :name (z9 / name
+                  :op1 "Christina"
+                  :op2 "Rocca")
+            :ARG0-of (z10 / lobby-01
+                  :ARG1 z5
+                  :location (z11 / city
+                        :name (z12 / name
+                              :op1 "Washington")))))
+
+# ::snt The reason for this is that India is emerging as an alternative investment destination to China, hence the favor that the generals in Islamabad do to their trusty supplier of nukes and missiles by creating a scare about war involving India when in fact the real flashpoints are the Taiwan Straits and North Korea .
+(z1 / cause-01
+      :ARG0 (z2 / emerge-01
+            :ARG0 (z3 / country
+                  :name (z4 / name
+                        :op1 "India"))
+            :ARG1 (z5 / destination
+                  :mod (z6 / invest-01
+                        :mod (z7 / alternative)))
+            :beneficiary (z8 / country
+                  :name (z9 / name
+                        :op1 "China"))
+            :ARG0-of (z10 / cause-01
+                  :ARG1 (z11 / favor
+                        :ARG1-of (z12 / do-02
+                              :ARG0 (z13 / person
+                                    :ARG0-of (z14 / have-org-role-91
+                                          :ARG1 (z15 / government-organization
+                                                :ARG0-of (z16 / govern-01)
+                                                :location (z17 / city
+                                                      :name (z18 / name
+                                                            :op1 "Islamabad")))
+                                          :ARG2 (z19 / general)))
+                              :ARG2 (z20 / country
+                                    :ARG0-of (z21 / supply-01
+                                          :ARG1 (z22 / and
+                                                :op1 (z23 / nuke)
+                                                :op2 (z24 / missile))
+                                          :ARG2 z13
+                                          :ARG1-of (z25 / trust-02
+                                                :ARG0 z13)))
+                              :manner (z26 / create-01
+                                    :ARG0 z13
+                                    :ARG1 (z27 / scare-01
+                                          :ARG0 (z28 / war
+                                                :ARG2-of (z29 / involve-01
+                                                      :ARG1 z3))))
+                              :time (z30 / flashpoint
+                                    :ARG1-of (z31 / real-04)
+                                    :domain (z32 / and
+                                          :op1 (z33 / strait
+                                                :name (z34 / name
+                                                      :op1 "Taiwan"
+                                                      :op2 "Straits"))
+                                          :op2 (z35 / country
+                                                :name (z36 / name
+                                                      :op1 "North"
+                                                      :op2 "Korea")))
+                                    :mod (z37 / in-fact)))))))
+
+# ::snt After asking me which tribe I belong to (thus assessing my sectarian background) he started hurling abuses at the Shia, calling them Persians, Majoos (fire worshippers), rabid dogs and a handful of other descriptions that I can't mention here .
+(z1 / start-01
+      :ARG0 (z2 / he)
+      :ARG1 (z3 / and
+            :op1 (z4 / hurl-01
+                  :ARG0 z2
+                  :ARG1 (z5 / abuse-01
+                        :ARG0 z2
+                        :ARG1 (z6 / religious-group
+                              :name (z7 / name
+                                    :op1 "Shia"))))
+            :op2 (z8 / call-01
+                  :ARG0 z2
+                  :ARG1 z6
+                  :ARG2 (z9 / and
+                        :op1 (z10 / person
+                              :mod (z11 / country
+                                    :name (z12 / name
+                                          :op1 "Persia")))
+                        :op2 (z13 / person
+                              :mod (z14 / religious-group
+                                    :name (z15 / name
+                                          :op1 "Majoos"))
+                              :ARG1-of (z16 / mean-01
+                                    :ARG2 (z17 / person
+                                          :ARG0-of (z18 / worship-01
+                                                :ARG1 (z19 / fire)))))
+                        :op3 (z20 / dog
+                              :mod (z21 / rabies))
+                        :op4 (z22 / description
+                              :mod (z23 / other)
+                              :quant (z24 / handful)
+                              :ARG1-of (z25 / mention-01
+                                    :ARG0 (z26 / i)
+                                    :ARG1-of (z27 / possible-01
+                                          :polarity -)
+                                    :location (z28 / here))))))
+      :time (z29 / after
+            :op1 (z30 / ask-01
+                  :ARG0 z2
+                  :ARG1 (z31 / tribe
+                        :ARG1-of (z32 / belong-01
+                              :ARG0 z26))
+                  :ARG2 z26
+                  :ARG0-of (z33 / cause-01
+                        :ARG1 (z34 / assess-01
+                              :ARG1 (z35 / background
+                                    :mod (z36 / sectarian)
+                                    :poss z26))))))
+
+# ::snt They happened in the Philippines which, like Pakistan, is an important and vulnerable node for the business which intelligence agencies and terrorist organizations conduct with each other .
+(z1 / event
+      :location (z2 / country
+            :name (z3 / name
+                  :op1 "Philippines")
+            :location-of (z4 / node
+                  :ARG1-of (z5 / important-01)
+                  :ARG1-of (z6 / vulnerable-01)
+                  :domain (z7 / business
+                        :ARG1-of (z8 / conduct-01
+                              :ARG0 (z9 / and
+                                    :op1 (z10 / agency
+                                          :mod (z11 / intelligence))
+                                    :op2 (z12 / organization
+                                          :mod (z13 / terrorism)))
+                              :ARG3 z2))
+                  :ARG1-of (z14 / resemble-01
+                        :ARG2 (z15 / country
+                              :name (z16 / name
+                                    :op1 "Pakistan"))))))
+
+# ::snt The bombings implicated Muslims, and exacerbated regional tensions which the Bush regime and its friends wearing the brass in the Philippine military sought to exploit .
+(z1 / and
+      :op1 (z2 / implicate-01
+            :ARG0 (z3 / bomb-01)
+            :ARG1 (z4 / person
+                  :mod (z5 / religious-group
+                        :name (z6 / name
+                              :op1 "Muslim"))))
+      :op2 (z7 / exacerbate-01
+            :ARG0 z3
+            :ARG1 (z8 / tension
+                  :mod (z9 / region)
+                  :ARG1-of (z10 / exploit-01
+                        :ARG0 (z11 / and
+                              :op1 (z12 / regime
+                                    :mod (z13 / person
+                                          :name (z14 / name
+                                                :op1 "Bush")))
+                              :op2 (z15 / person
+                                    :ARG0-of (z16 / wear-01
+                                          :ARG1 (z17 / brass)
+                                          :location (z18 / military
+                                                :mod (z19 / country
+                                                      :name (z20 / name
+                                                            :op1 "Philippines"))))
+                                    :ARG0-of (z21 / have-rel-role-91
+                                          :ARG1 z12
+                                          :ARG2 (z22 / friend)))))
+                  :ARG1-of (z23 / seek-01
+                        :ARG0 z11))))
+
+# ::snt At the same time the US remains oblivious of the serious problems and political fallout which the army is facing in its operations in Waziristan .
+(z1 / remain-01
+      :ARG1 (z2 / country
+            :name (z3 / name
+                  :op1 "US"))
+      :ARG3 (z4 / oblivious
+            :topic (z5 / and
+                  :op1 (z6 / problem
+                        :ARG1-of (z7 / serious-02))
+                  :op2 (z8 / fallout
+                        :mod (z9 / politics))
+                  :ARG1-of (z10 / face-01
+                        :ARG0 (z11 / army)
+                        :topic (z12 / operation
+                              :poss z11
+                              :location (z13 / country-region
+                                    :name (z14 / name
+                                          :op1 "Waziristan")))))))
+
+# ::snt The debate that a handful of Texas multi-millionnaires close to the Bush family have cleverly manufactured over John Kerry's war record is absurd in every way .
+(z1 / absurd
+      :domain (z2 / debate-01
+            :ARG1 (z3 / manufacture-01
+                  :ARG0 (z4 / millionaire
+                        :quant (z5 / handful)
+                        :mod (z6 / state
+                              :name (z7 / name
+                                    :op1 "Texas"))
+                        :ARG1-of (z8 / close-10
+                              :ARG2 (z9 / family
+                                    :name (z10 / name
+                                          :op1 "Bush"))))
+                  :ARG1-of (z11 / clever-01))
+            :topic (z12 / record
+                  :mod (z13 / war)
+                  :poss (z14 / person
+                        :name (z15 / name
+                              :op1 "John"
+                              :op2 "Kerry")))))
+
+# ::snt The charges that they have put some vets up to making against Kerry are false and can be demonstrated by the historical record to be false .
+(z1 / and
+      :op1 (z2 / false
+            :domain (z3 / charge-05
+                  :ARG0 (z4 / they)
+                  :ARG1 (z5 / veteran
+                        :quant (z6 / some))
+                  :ARG2 (z7 / oppose-01
+                        :ARG0 z5
+                        :ARG1 (z8 / person
+                              :name (z9 / name
+                                    :op1 "Kerry")))
+                  :ARG1-of (z10 / put-up-11
+                        :ARG0 z4)))
+      :op2 (z11 / possible-01
+            :ARG1 (z12 / demonstrate-01
+                  :ARG0 (z13 / record
+                        :mod (z14 / history))
+                  :ARG1 (z15 / false
+                        :domain z3))))
+
+# ::snt And of all the people who the county is getting to find a replacement...is none other than Lee Brown, the original supervisor of the Atlanta PD, who was in office during the murders and the subsequent investigation .
+(z1 / include-91
+      :ARG1 (z2 / person
+            :name (z3 / name
+                  :op1 "Lee"
+                  :op2 "Brown")
+            :ARG0-of (z4 / supervise-01
+                  :ARG1 (z5 / government-organization
+                        :name (z6 / name
+                              :op1 "Atlanta"
+                              :op2 "PD"))
+                  :mod (z7 / original))
+            :ARG0-of (z8 / have-org-role-91
+                  :ARG1 (z9 / office)
+                  :time (z10 / and
+                        :op1 (z11 / murder-01)
+                        :op2 (z12 / investigate-01
+                              :time (z13 / subsequent))))
+            :mod (z14 / other
+                  :polarity -))
+      :ARG2 (z15 / person
+            :mod (z16 / all)
+            :ARG0-of (z17 / find-01
+                  :ARG1 (z18 / replace-01)
+                  :ARG1-of (z19 / get-22
+                        :ARG0 (z20 / county)))))
+
+# ::snt Now, FLDS leader Warren Jeffs has been added to the FBI's list of "Ten Most Wanted Fugitives," a move that caps law enforcement's dramatic change of approach toward the polygamous group in recent years...[because of] the impact that the group's practices, law enforcement officials say, are having on the most vulnerable within the sect, particularly children and women .
+(z1 / add-02
+      :ARG1 (z2 / person
+            :name (z3 / name
+                  :op1 "Warren"
+                  :op2 "Jeffs")
+            :ARG0-of (z4 / lead-02
+                  :ARG1 (z5 / sect
+                        :name (z6 / name
+                              :op1 "FLDS"))))
+      :ARG2 (z7 / list-01
+            :ARG0 (z8 / government-organization
+                  :name (z9 / name
+                        :op1 "FBI"))
+            :ARG1 (z10 / fugitive
+                  :quant 10
+                  :ARG1-of (z11 / have-degree-91
+                        :ARG2 (z12 / want-01
+                              :ARG0 z10)
+                        :ARG3 (z13 / most))))
+      :ARG0-of (z14 / cap-02
+            :ARG1 (z15 / change-01
+                  :ARG0 (z16 / person
+                        :ARG0-of (z17 / enforce-01
+                              :ARG1 (z18 / law)))
+                  :ARG1 (z19 / approach-02
+                        :ARG0 z16
+                        :ARG1 z5
+                        :mod (z20 / dramatic))
+                  :time (z21 / year
+                        :mod (z22 / recent)))
+            :ARG1-of (z23 / cause-01
+                  :ARG0 (z24 / impact-01
+                        :ARG0 (z25 / practice-01
+                              :ARG0 z5)
+                        :ARG1 (z26 / person
+                              :ARG1-of (z27 / include-91
+                                    :ARG2 z5)
+                              :ARG2-of (z28 / include-91
+                                    :ARG1 (z29 / and
+                                          :op1 (z30 / child)
+                                          :op2 (z31 / woman)
+                                          :mod (z32 / particular)))
+                              :ARG1-of (z33 / have-degree-91
+                                    :ARG2 (z34 / vulnerable-01
+                                          :ARG1 z26)
+                                    :ARG3 (z35 / most))))
+                  :ARG1-of (z36 / say-01
+                        :ARG0 (z37 / person
+                              :ARG0-of (z38 / have-org-role-91
+                                    :ARG1 z16
+                                    :ARG2 (z39 / official)))))))
+
+# ::snt You may regard my views as those of the proverbial taxi driver, which you are supposed to question, when you visit a country .
+(z1 / possible-01
+      :ARG1 (z2 / regard-01
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / view-02
+                  :ARG0 (z5 / i))
+            :ARG2 (z6 / view-02
+                  :ARG0 (z7 / person
+                        :ARG0-of (z8 / drive-01
+                              :ARG1 (z9 / taxi))
+                        :mod (z10 / proverbial)
+                        :ARG1-of (z11 / question-01
+                              :ARG0 z3
+                              :ARG2-of (z12 / suppose-02
+                                    :ARG1 z3)))))
+      :time (z13 / visit-01
+            :ARG0 z3
+            :ARG1 (z14 / country)))
+
+# ::snt There is a risk that observers underestimate the time that Al Qaeda has had to make progress in such recruitment and research and development .
+(z1 / risk-01
+      :ARG2 (z2 / underestimate-01
+            :ARG0 (z3 / person
+                  :ARG0-of (z4 / observe-01))
+            :ARG1 (z5 / time
+                  :time-of (z6 / obligate-01
+                        :ARG1 (z7 / criminal-organization
+                              :name (z8 / name
+                                    :op1 "Al"
+                                    :op2 "Qaeda"))
+                        :ARG2 (z9 / progress-01
+                              :ARG1 (z10 / and
+                                    :op1 (z11 / recruit-01)
+                                    :op2 (z12 / research-01)
+                                    :op3 (z13 / develop-02)
+                                    :mod (z14 / such)))))))
+
+# ::snt There still is a very hot pursuit of the "Atta-level" Floridian, Adnan El Shukrijumah, who Siddiqui is thought to have known and been assisting .
+(z1 / pursue-01
+      :ARG1 (z2 / person
+            :name (z3 / name
+                  :op1 "Adnan"
+                  :op2 "El"
+                  :op3 "Shukrijumah")
+            :mod (z4 / state
+                  :name (z5 / name
+                        :op1 "Florida")
+                  :mod (z6 / level
+                        :mod (z7 / atta)))
+            :ARG1-of (z8 / know-02
+                  :ARG0 (z9 / person
+                        :name (z10 / name
+                              :op1 "Siddiqui"))
+                  :ARG1-of (z11 / think-01))
+            :ARG1-of (z12 / assist-01
+                  :ARG0 z9
+                  :ARG1-of z11)))
+
+# ::snt (His conclusion may have been based on the fake mobile biolab plans foisted upon the US by the Chalabi associate "Curveball", which Alibek divined to be identical to Russian mobile lab design) .
+(z1 / possible-01
+      :ARG1 (z2 / base-02
+            :ARG1 (z3 / conclude-01
+                  :ARG0 (z4 / he))
+            :ARG2 (z5 / plan-01
+                  :ARG1 (z6 / lab
+                        :ARG1-of (z7 / mobile-02)
+                        :mod (z8 / biotechnology))
+                  :ARG1-of (z9 / fake-02)
+                  :ARG1-of (z10 / foist-01
+                        :ARG0 (z11 / person
+                              :name (z12 / name
+                                    :op1 "Curveball")
+                              :ARG1-of (z13 / associate-01
+                                    :ARG2 (z14 / person
+                                          :name (z15 / name
+                                                :op1 "Chalabi"))))
+                        :ARG2 (z16 / country
+                              :name (z17 / name
+                                    :op1 "US"))
+                        :ARG1-of (z18 / define-01
+                              :ARG0 (z19 / person
+                                    :name (z20 / name
+                                          :op1 "Alibek"))
+                              :ARG2 (z21 / identical-01
+                                    :ARG1 z5
+                                    :ARG2 (z22 / design-01
+                                          :ARG0 (z23 / country
+                                                :name (z24 / name
+                                                      :op1 "Russia"))
+                                          :ARG1 z6)))))))
+
+# ::snt A May 2001 letter that Zawahiri sent to Egyptian Islamic Jihad members abroad establish that Zawahiri used "school" as a code word for the Egyptian militant islamists in his correspondence .
+(z1 / establish-01
+      :ARG0 (z2 / letter
+            :time (z3 / date-entity
+                  :month 5
+                  :year 2001)
+            :ARG1-of (z4 / send-01
+                  :ARG0 (z5 / person
+                        :name (z6 / name
+                              :op1 "Zawahiri"))
+                  :ARG2 (z7 / person
+                        :ARG0-of (z8 / have-org-role-91
+                              :ARG1 (z9 / criminal-organization
+                                    :name (z10 / name
+                                          :op1 "Islamic"
+                                          :op2 "Jihad")
+                                    :mod (z11 / country
+                                          :name (z12 / name
+                                                :op1 "Egypt")))
+                              :ARG2 (z13 / member))
+                        :location (z14 / abroad)))))
+
+# ::snt Please send us the list of the curves that you will need to revalue our international assets for the August Board meeting .
+(z1 / send-01
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / list
+            :consist-of (z4 / curve
+                  :ARG1-of (z5 / need-01
+                        :ARG0 z2
+                        :purpose (z6 / value-01
+                              :ARG0 z2
+                              :ARG1 (z7 / asset
+                                    :mod (z8 / international)
+                                    :poss (z9 / we))
+                              :purpose (z10 / meet-03
+                                    :ARG0 (z11 / organization
+                                          :name (z12 / name
+                                                :op1 "Board"))
+                                    :time (z13 / date-entity
+                                          :month 8)))))))
+
+# ::snt Just a quick message to follow up on the email that I sent you recently inviting you to speak at our forthcoming congress, Risk 2001 Australia, which is taking place in Sydney on 20 & 21 August 2001 .
+(z1 / thing
+      :ARG1-of (z2 / message-01)
+      :purpose (z3 / follow-up-03
+            :ARG1 (z4 / email
+                  :ARG1-of (z5 / send-01
+                        :ARG0 (z6 / i)
+                        :ARG2 (z7 / you)
+                        :time (z8 / recent)
+                        :purpose (z9 / invite-01
+                              :ARG0 z6
+                              :ARG1 z7
+                              :ARG2 (z10 / speak-01
+                                    :ARG0 z7
+                                    :location (z11 / conference
+                                          :name (z12 / name
+                                                :op1 "Risk"
+                                                :op2 2001
+                                                :op3 "Australia")
+                                          :poss (z13 / we)
+                                          :mod (z14 / forthcoming)
+                                          :time (z15 / and
+                                                :op1 (z16 / date-entity
+                                                      :year 2001
+                                                      :month 8
+                                                      :day 20)
+                                                :op2 (z17 / date-entity
+                                                      :year 2001
+                                                      :month 8
+                                                      :day 21))
+                                          :location (z18 / city
+                                                :name (z19 / name
+                                                      :op1 "Sydney")))))))))
+
+# ::snt I would have interest in meeting if you can present unique investment opportunities that I don't have access to now .
+(z1 / interest-01
+      :ARG1 (z2 / i)
+      :ARG2 (z3 / meet-03
+            :ARG0 z2)
+      :condition (z4 / possible-01
+            :ARG1 (z5 / present-01
+                  :ARG0 (z6 / you)
+                  :ARG1 (z7 / opportunity
+                        :mod (z8 / invest-01)
+                        :ARG1-of (z9 / unique-01)
+                        :ARG2-of (z10 / access-01
+                              :polarity -
+                              :ARG0 z2
+                              :time (z11 / now))))))
+
+# ::snt Secondly, he will still out price performers that you have in the same job group that are excellent and strong performers respectively eg. Paul Thomas, Jason Choate, Todd DeCook and Peter Makkai .
+(z1 / outprice-01
+      :li 2
+      :ARG0 (z2 / he)
+      :ARG1 (z3 / person
+            :ARG0-of (z4 / perform-01)
+            :ARG1-of (z5 / have-03
+                  :ARG0 (z6 / you))
+            :ARG1-of (z7 / include-91
+                  :ARG2 (z8 / group
+                        :mod (z9 / job)
+                        :ARG1-of (z10 / same-01)))
+            :ARG0-of (z11 / excel-01)
+            :ARG1-of (z12 / strong-02)
+            :example (z13 / and
+                  :op1 (z14 / person
+                        :name (z15 / name
+                              :op1 "Paul"
+                              :op2 "Thomas"))
+                  :op2 (z16 / person
+                        :name (z17 / name
+                              :op1 "Jason"
+                              :op2 "Choate"))
+                  :op3 (z18 / person
+                        :name (z19 / name
+                              :op1 "Todd"
+                              :op2 "DeCook"))
+                  :op4 (z20 / person
+                        :name (z21 / name
+                              :op1 "Peter"
+                              :op2 "Makkai")))))
+
+# ::snt My concept is that overtime I would like to own one of all the following artists and they are all depending when I find something that we really like .
+(z1 / and
+      :op1 (z2 / like-02
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / own-01
+                  :ARG0 z3
+                  :ARG1 (z5 / artist
+                        :quant 1
+                        :ARG1-of (z6 / include-91
+                              :ARG2 (z7 / artist
+                                    :ARG1-of (z8 / follow-01)
+                                    :mod (z9 / all)))))
+            :time (z10 / overtime))
+      :op2 (z11 / depend-01
+            :ARG0 z7
+            :ARG1 (z12 / time
+                  :time-of (z13 / find-01
+                        :ARG0 z3
+                        :ARG1 (z14 / something
+                              :ARG1-of (z15 / like-01
+                                    :ARG0 (z16 / we)
+                                    :degree (z17 / really))))))
+      :ARG1-of (z18 / concept-01
+            :ARG0 z3))
+
+# ::snt They are kind of in rank order but as I stated if I find the piece that I like we will purchase it .
+(z1 / contrast-01
+      :ARG1 (z2 / order-03
+            :ARG1 (z3 / they)
+            :ARG2 (z4 / rank)
+            :degree (z5 / kind-of))
+      :ARG2 (z6 / purchase-01
+            :ARG0 (z7 / we)
+            :ARG1 (z8 / piece
+                  :ARG1-of (z9 / like-01
+                        :ARG0 (z10 / i)))
+            :condition (z11 / find-01
+                  :ARG0 z10
+                  :ARG1 z8)
+            :ARG1-of (z12 / state-01
+                  :ARG0 z10)))
+
+# ::snt By the way, I am interested in re-looking at a Picasso (although we have 2) that your gallery had a couple of years ago .
+(z1 / have-concession-91
+      :ARG1 (z2 / interest-01
+            :ARG1 (z3 / i)
+            :ARG2 (z4 / look-01
+                  :ARG0 z3
+                  :ARG1 (z5 / person
+                        :name (z6 / name
+                              :op1 "Picasso"))
+                  :mod (z7 / again))))
+
+# ::snt Please leave as a word document and make any changes and additions that you think necessary .
+(z1 / and
+      :polite +
+      :op1 (z2 / leave-02
+            :mode imperative
+            :ARG0 (z3 / you)
+            :prep-as (z4 / document
+                  :mod (z5 / word)))
+      :op2 (z6 / and
+            :op1 (z7 / change-01
+                  :mode imperative
+                  :ARG0 z3)
+            :op2 (z8 / add-02
+                  :mode imperative
+                  :polite +
+                  :ARG0 z3)
+            :mod (z9 / any)
+            :ARG1-of (z10 / need-01
+                  :ARG1-of (z11 / think-01
+                        :ARG0 z3))))
+
+# ::snt 1. The pricing that we have given CRRA is specific to FuelCell Energy and would not be meaningful without listing the manufacturer (i.e., ONSI would be a lot more money) .
+(z1 / and
+      :li 1
+      :op1 (z2 / specific-02
+            :ARG1 (z3 / price-01
+                  :ARG1-of (z4 / give-01
+                        :ARG0 (z5 / we)
+                        :ARG2 (z6 / law
+                              :name (z7 / name
+                                    :op1 "CRRA"))))
+            :ARG2 (z8 / energy
+                  :mod (z9 / fuelcell)))
+      :op2 (z10 / meaningful-05
+            :polarity -
+            :ARG0 z3
+            :condition (z11 / list-01
+                  :polarity -
+                  :ARG1 (z12 / company
+                        :ARG0-of (z13 / manufacture-01)
+                        :example (z14 / have-quant-91
+                              :ARG1 (z15 / company
+                                    :name (z16 / name
+                                          :op1 "ONSI"))
+                              :ARG2 (z17 / money)
+                              :ARG3 (z18 / more
+                                    :quant (z19 / lot)))))))
+
+# ::snt Is that Microwave that you gave Dan really expensive ?
+(z1 / expensive
+      :polarity (z2 / amr-unknown)
+      :domain (z3 / microwave
+            :ARG1-of (z4 / give-01
+                  :ARG0 (z5 / you)
+                  :ARG2 (z6 / person
+                        :name (z7 / name
+                              :op1 "Dan"))))
+      :degree (z8 / really))
+
+# ::snt I wanted to follow up with you regarding the creation and approval of ISDA Confirmations for the following equity trades that I understand Laurel had discussed with you previously .
+(z1 / want-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / follow-up-03
+            :ARG0 z2
+            :ARG1 (z4 / you)
+            :topic (z5 / and
+                  :op1 (z6 / create-01
+                        :ARG1 (z7 / confirm-01
+                              :ARG0 (z8 / organization
+                                    :name (z9 / name
+                                          :op1 "ISDA"))
+                              :ARG1 (z10 / trade-01
+                                    :ARG1 (z11 / equity)
+                                    :ARG1-of (z12 / follow-01)
+                                    :ARG1-of (z13 / discuss-01
+                                          :ARG0 (z14 / person
+                                                :name (z15 / name
+                                                      :op1 "Laurel"))
+                                          :ARG2 z4
+                                          :time (z16 / previous)
+                                          :ARG1-of (z17 / understand-01
+                                                :ARG0 z2)))))
+                  :op2 (z18 / approve-01
+                        :ARG1 z7))))
+
+# ::snt I was planning to be on vacation anyway, but I may have some accessibility challenges in Ft. Worth which I would not have had otherwise .
+(z1 / contrast-01
+      :ARG1 (z2 / plan-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / vacation-01
+                  :ARG0 z3)
+            :mod (z5 / anyway))
+      :ARG2 (z6 / possible-01
+            :ARG1 (z7 / have-03
+                  :ARG0 z3
+                  :ARG1 (z8 / challenge-01
+                        :ARG0 (z9 / city
+                              :name (z10 / name
+                                    :op1 "Ft."
+                                    :op2 "Worth"))
+                        :ARG1 z3
+                        :ARG2 (z11 / access-01
+                              :ARG0 z3)
+                        :quant (z12 / some)
+                        :ARG1-of (z13 / have-03
+                              :polarity -
+                              :ARG0 z3
+                              :condition (z14 / have-polarity-91
+                                    :ARG2 -
+                                    :ARG1 z7))))))
+
+# ::snt I was planning to be on vacation anyway, but I may have some accessibility challenges in Ft. Worth which I would not have had otherwise .
+(z1 / contrast-01
+      :ARG1 (z2 / plan-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / vacation-01
+                  :ARG0 z3)
+            :mod (z5 / anyway))
+      :ARG2 (z6 / possible-01
+            :ARG1 (z7 / have-03
+                  :ARG0 z3
+                  :ARG1 (z8 / challenge-01
+                        :ARG0 (z9 / city
+                              :name (z10 / name
+                                    :op1 "Ft."
+                                    :op2 "Worth"))
+                        :ARG1 z3
+                        :ARG2 (z11 / access-01
+                              :ARG0 z3)
+                        :quant (z12 / some)
+                        :ARG1-of (z13 / have-03
+                              :polarity -
+                              :ARG0 z3
+                              :condition (z14 / have-polarity-91
+                                    :ARG2 -
+                                    :ARG1 z7))))))
+
+# ::snt I was planning to be on vacation anyway, but I may have some accessibility challenges in Ft. Worth which I would not have had otherwise .
+(z1 / contrast-01
+      :ARG1 (z2 / plan-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / vacation-01
+                  :ARG0 z3)
+            :mod (z5 / anyway))
+      :ARG2 (z6 / possible-01
+            :ARG1 (z7 / have-03
+                  :ARG0 z3
+                  :ARG1 (z8 / challenge-01
+                        :ARG0 (z9 / city
+                              :name (z10 / name
+                                    :op1 "Ft."
+                                    :op2 "Worth"))
+                        :ARG1 z3
+                        :ARG2 (z11 / access-01
+                              :ARG0 z3)
+                        :quant (z12 / some)
+                        :ARG1-of (z13 / have-03
+                              :polarity -
+                              :ARG0 z3
+                              :condition (z14 / have-polarity-91
+                                    :ARG2 -
+                                    :ARG1 z7))))))
+
+# ::snt Recently Charles Miller and David Dewhurst sent you an invitation to a reception which they are hosting on Wed. 6/14 at 5:00 PM to be held at the Houston Petroleum Club .
+(z1 / invite-01
+      :ARG0 (z2 / and
+            :op1 (z3 / person
+                  :name (z4 / name
+                        :op1 "Charles"
+                        :op2 "Miller"))
+            :op2 (z5 / person
+                  :name (z6 / name
+                        :op1 "David"
+                        :op2 "Dewhurst")))
+      :ARG1 (z7 / you)
+      :ARG2 (z8 / reception
+            :ARG1-of (z9 / host-01
+                  :ARG0 z2
+                  :time (z10 / date-entity
+                        :month 6
+                        :day 14
+                        :time "17:00"
+                        :weekday (z11 / wednesday)))
+            :ARG1-of (z12 / hold-04
+                  :location (z13 / sports-facility
+                        :name (z14 / name
+                              :op1 "Houston"
+                              :op2 "Petroleum"
+                              :op3 "Club"))))
+      :time (z15 / recent))
+
+# ::snt By return email, please verify that you received this message and let us know if there is another email address that you prefer us to use .
+(z1 / and
+      :polite +
+      :op1 (z2 / verify-01
+            :mode imperative
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / receive-01
+                  :ARG0 z3
+                  :ARG1 (z5 / thing
+                        :ARG1-of (z6 / message-01)
+                        :mod (z7 / this))))
+      :op2 (z8 / let-know-07
+            :mode imperative
+            :ARG0 z3
+            :ARG1 (z9 / we)
+            :ARG2 (z10 / truth-value
+                  :polarity-of (z11 / email
+                        :mod (z12 / another)
+                        :ARG1-of (z13 / use-01
+                              :ARG0 z3
+                              :ARG1-of (z14 / prefer-01
+                                    :ARG0 z3))))))
+
+# ::snt I am following up regarding the status of our comments to the form of guaranty for Pemex that you provided to Lucy Ortiz .
+(z1 / follow-up-03
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / status
+            :poss (z4 / thing
+                  :ARG1-of (z5 / comment-01
+                        :ARG0 (z6 / we)))
+            :prep-to (z7 / form
+                  :mod (z8 / guaranty
+                        :beneficiary (z9 / company
+                              :name (z10 / name
+                                    :op1 "Pemex"))
+                        :ARG1-of (z11 / provide-01
+                              :ARG0 (z12 / you)
+                              :ARG2 (z13 / person
+                                    :name (z14 / name
+                                          :op1 "Lucy"
+                                          :op2 "Ortiz")))))))
+
+# ::snt Did you get a chance to find those GTC's for ENA that you can forward this way ?
+(z1 / chance-02
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / find-01
+            :ARG0 z2
+            :ARG1 (z4 / company
+                  :name (z5 / name
+                        :op1 "GTC")
+                  :mod (z6 / that)
+                  :beneficiary (z7 / company
+                        :name (z8 / name
+                              :op1 "ENA"))
+                  :ARG1-of (z9 / forward-01
+                        :ARG0 z2
+                        :ARG1-of (z10 / possible-01)
+                        :manner (z11 / way
+                              :mod (z12 / this))))))
+
+# ::snt Given the above, if you have adequate protection for the word ENRON (which covers the services that you offer on-line as well as your core activities), I'd say that another application for the words ENRON ONLINE is probably unnecessary .
+(z1 / say-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / need-01
+            :polarity -
+            :ARG1 (z4 / application
+                  :mod (z5 / another)
+                  :purpose (z6 / word
+                        :mod (z7 / online)))
+            :mod (z8 / probable))
+      :condition (z9 / protect-01
+            :ARG1 (z10 / word
+                  :mod (z11 / company
+                        :name (z12 / name
+                              :op1 "ENRON"))
+                  :ARG0-of (z13 / cover-01
+                        :ARG1 (z14 / and
+                              :op1 (z15 / serve-01
+                                    :ARG1-of (z16 / offer-01
+                                          :ARG0 (z17 / you)
+                                          :medium (z18 / online)))
+                              :op2 (z19 / activity-06
+                                    :ARG0 z17
+                                    :mod (z20 / core)))))
+            :mod (z21 / adequate)))
+
+# ::snt Full reconciliation of contracts within the OBSF to Barclays documentation ( thereby substantiating existence of stock that we have option to purchase ) and to AS400 Barclays accoun t
+(z1 / reconcile-01
+      :ARG1 (z2 / contract-02
+            :ARG0 (z3 / organization
+                  :name (z4 / name
+                        :op1 "OBSF")))
+      :ARG2 (z5 / documentation
+            :mod (z6 / company
+                  :name (z7 / name
+                        :op1 "Barclays")))
+      :ARG1-of (z8 / full-09)
+      :ARG0-of (z9 / substantiate-01
+            :ARG1 (z10 / exist-01
+                  :ARG1 (z11 / stock
+                        :ARG1-of (z12 / purchase-01
+                              :ARG0 (z13 / we)
+                              :ARG2-of (z14 / opt-01
+                                    :ARG0 z13
+                                    :ARG1-of (z15 / possible-01)))))))
+
+# ::snt Please send me an excel spreadsheet which depicts the value that you see associated with the heat rate spread option .
+(z1 / send-01
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / spreadsheet
+            :mod (z4 / excel)
+            :ARG0-of (z5 / depict-01
+                  :ARG1 (z6 / thing
+                        :ARG2-of (z7 / value-01)
+                        :ARG1-of (z8 / associate-01
+                              :ARG2 (z9 / option
+                                    :mod (z10 / spread-02
+                                          :ARG1 (z11 / rate
+                                                :mod (z12 / heat)))))
+                        :ARG1-of (z13 / see-01
+                              :ARG0 z2)))))
+
+# ::snt Please send me the current fuel curve that you are converting to $/MWh to value the deal ?
+(z1 / send-01
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / curve
+            :mod (z4 / fuel)
+            :time (z5 / current)
+            :ARG1-of (z6 / convert-01
+                  :ARG0 z2
+                  :ARG2 (z7 / rate-entity-91
+                        :ARG1 (z8 / monetary-quantity
+                              :quant 1
+                              :unit (z9 / dollar))
+                        :ARG2 (z10 / energy-quantity
+                              :quant 1
+                              :unit (z11 / milliliter)))
+                  :purpose (z12 / value-01
+                        :ARG0 z2
+                        :ARG1 (z13 / deal))))
+      :ARG2 (z14 / i))
+
+# ::snt Article 6 of the Gallup Compression Services Agreement (which I am sending to you separately) with ECS obligates ECS to "work in good faith with CDEC" to establish an automated system that would automatically have alerted us to peak loading conditions on CDEC's system .
+(z1 / obligates-01
+      :ARG0 (z2 / article
+            :mod 6
+            :part-of (z3 / treaty
+                  :name (z4 / name
+                        :op1 "Gallup"
+                        :op2 "Compression"
+                        :op3 "Services"
+                        :op4 "Agreement")
+                  :accompanier (z5 / thing
+                        :name (z6 / name
+                              :op1 "ECS"))
+                  :ARG1-of (z7 / send-01
+                        :ARG0 (z8 / i)
+                        :ARG2 (z9 / you)
+                        :ARG1-of (z10 / separate-01))))
+      :ARG1 z5
+      :ARG2 (z11 / work-01
+            :ARG0 z5
+            :ARG1 (z12 / establish-01
+                  :ARG0 z5
+                  :ARG1 (z13 / system
+                        :ARG1-of (z14 / automate-01)
+                        :ARG0-of (z15 / alert-01
+                              :ARG1 (z16 / we)
+                              :ARG2 (z17 / condition
+                                    :mod (z18 / load-01)
+                                    :ARG1-of (z19 / peak-01)
+                                    :location (z20 / system
+                                          :poss z5))
+                              :manner (z21 / automatic)))
+                  :manner (z22 / faith
+                        :ARG1-of (z23 / good-02)))
+            :ARG3 z5))
+
+# ::snt We will fight with them about who owes the $200k that James mentions below based on their failure to "assist" us in managing the cost .
+(z1 / fight-01
+      :ARG0 (z2 / we)
+      :ARG1 (z3 / they)
+      :ARG2 (z4 / person
+            :ARG0-of (z5 / owe-01
+                  :ARG1 (z6 / monetary-quantity
+                        :quant 200000
+                        :unit (z7 / dollar)
+                        :ARG1-of (z8 / mention-01
+                              :ARG0 (z9 / person
+                                    :name (z10 / name
+                                          :op1 "James"))
+                              :location (z11 / below)))))
+      :ARG1-of (z12 / base-02
+            :ARG2 (z13 / fail-01
+                  :ARG1 z3
+                  :ARG2 (z14 / assist-01
+                        :ARG0 z3
+                        :ARG1 z2
+                        :ARG2 (z15 / manage-01
+                              :ARG0 z3
+                              :ARG1 (z16 / cost))))))
+
+# ::snt Additional cost will be incurred for the remainder of this year, that I have not been able to review yet .
+(z1 / incur-01
+      :ARG1 (z2 / cost-01
+            :mod (z3 / additional)
+            :ARG1-of (z4 / review-01
+                  :ARG0 (z5 / i)
+                  :ARG1-of (z6 / possible-01
+                        :polarity -
+                        :time (z7 / yet))))
+      :duration (z8 / remainder
+            :part-of (z9 / year
+                  :mod (z10 / this))))
+
+# ::snt This particular chair is designed to help with back problems, which she has .
+(z1 / design-01
+      :ARG1 (z2 / chair
+            :mod (z3 / particular)
+            :mod (z4 / this))
+      :ARG3 (z5 / help-01
+            :ARG0 z2
+            :ARG1 (z6 / problem
+                  :mod (z7 / back)
+                  :ARG1-of (z8 / have-03
+                        :ARG0 (z9 / she)))))
+
+# ::snt This particular chair is designed to help with back problems, which she has .
+(z1 / design-01
+      :ARG1 (z2 / chair
+            :mod (z3 / particular)
+            :mod (z4 / this))
+      :ARG3 (z5 / help-01
+            :ARG0 z2
+            :ARG1 (z6 / problem
+                  :mod (z7 / back)
+                  :ARG1-of (z8 / have-03
+                        :ARG0 (z9 / she)))))
+
+# ::snt I believe you got a copy of the John Sommer letter to producers dated Jan 6 that MKM's spies intercepted .
+(z1 / believe-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / get-01
+            :ARG0 (z4 / you)
+            :ARG1 (z5 / thing
+                  :ARG2-of (z6 / copy-01
+                        :ARG1 (z7 / letter
+                              :mod (z8 / person
+                                    :name (z9 / name
+                                          :op1 "John"
+                                          :op2 "Sommer"))
+                              :ARG2 (z10 / person
+                                    :ARG0-of (z11 / produce-01))
+                              :ARG1-of (z12 / date-01
+                                    :ARG2 (z13 / date-entity
+                                          :day 6
+                                          :month 1))
+                              :ARG1-of (z14 / intercept-01
+                                    :ARG0 (z15 / person
+                                          :ARG0-of (z16 / have-org-role-91
+                                                :ARG1 (z17 / company
+                                                      :name (z18 / name
+                                                            :op1 "MKM"))
+                                                :ARG3 (z19 / spy-01)))))))))
+
+# ::snt Let me know if this is the appropriate steps that you would like to see .
+(z1 / let-know-07
+      :mode imperative
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / i)
+      :ARG2 (z4 / truth-value
+            :polarity-of (z5 / step-01
+                  :ARG1-of (z6 / appropriate-02)
+                  :ARG1-of (z7 / see-01
+                        :ARG0 z2
+                        :ARG1-of (z8 / like-02
+                              :ARG0 z2))
+                  :mod (z9 / this))))
+
+# ::snt My suggestion is that Global Counterparty use the same name that the customer has signed on the EnronOnline Password Application -- my understanding is that the EnronOnline team returns inappropriate Applications to the customer until they are correctly completed .
+(z1 / and
+      :op1 (z2 / suggest-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / use-01
+                  :ARG0 (z5 / company
+                        :name (z6 / name
+                              :op1 "Global"
+                              :op2 "Counterparty"))
+                  :ARG1 (z7 / name
+                        :ARG1-of (z8 / same-01
+                              :ARG2 (z9 / name
+                                    :ARG2-of (z10 / sign-01
+                                          :ARG0 (z11 / customer)
+                                          :ARG1 (z12 / application
+                                                :mod (z13 / password)
+                                                :mod (z14 / company
+                                                      :name (z15 / name
+                                                            :op1 "EnronOnline"))))))))))
+
+# ::snt Let me know if this is the appropriate steps that you would like to see .
+(z1 / let-know-07
+      :mode imperative
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / i)
+      :ARG2 (z4 / truth-value
+            :polarity-of (z5 / step-01
+                  :ARG1-of (z6 / appropriate-02)
+                  :ARG1-of (z7 / see-01
+                        :ARG0 z2
+                        :ARG1-of (z8 / like-02
+                              :ARG0 z2))
+                  :mod (z9 / this))))
+
+# ::snt Please review the attached memo to verify that I have identified all of the products that you are interested in trading in Brazil .
+(z1 / review-01
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / memo
+            :ARG1-of (z4 / attach-01))
+      :purpose (z5 / verify-01
+            :ARG0 z2
+            :ARG1 (z6 / identify-01
+                  :ARG0 (z7 / i)
+                  :ARG1 (z8 / product
+                        :mod (z9 / all)
+                        :ARG1-of (z10 / trade-01
+                              :ARG0 z2
+                              :ARG2-of (z11 / interest-01
+                                    :ARG1 z2
+                                    :location (z12 / country
+                                          :name (z13 / name
+                                                :op1 "Brazil"))))))))
+
+# ::snt I have attempted to incorporate the changes that Jim has incorporated in our long form power agreement which ENA has suggested to date into the short form .
+(z1 / attempt-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / incorporate-02
+            :ARG0 z2
+            :ARG1 (z4 / change-01
+                  :ARG1-of (z5 / incorporate-02
+                        :ARG0 (z6 / person
+                              :name (z7 / name
+                                    :op1 "Jim"))
+                        :ARG2 (z8 / agree-01
+                              :ARG0 (z9 / we)
+                              :ARG1 (z10 / power)
+                              :mod (z11 / form
+                                    :ARG1-of (z12 / long-03))
+                              :ARG1-of (z13 / suggest-01
+                                    :ARG0 (z14 / organization
+                                          :name (z15 / name
+                                                :op1 "ENA"))
+                                    :time (z16 / to-date))))))
+      :ARG2 (z17 / form
+            :ARG1-of (z18 / short-07)))
+
+# ::snt Does Attachment A to the Select EEI Master need to be updated or is the version that you sent to me the current version ?
+(z1 / amr-choice
+      :op1 (z2 / need-01
+            :ARG1 (z3 / update-01
+                  :ARG1 (z4 / attachment
+                        :mod "A"
+                        :prep-to (z5 / product
+                              :name (z6 / name
+                                    :op1 "Select"
+                                    :op2 "EEI"
+                                    :op3 "Master")))))
+      :op2 (z7 / version
+            :time (z8 / current)
+            :domain (z9 / version
+                  :ARG1-of (z10 / send-01
+                        :ARG0 (z11 / you)
+                        :ARG2 (z12 / i)))))
+
+# ::snt I spoke to Bob Bruce this morning - we're all set on the language in the Schedule to the ISDA, and there is a minor credit/billing issue in Paragraph 13 related to the timing of transfer of interest on collateral that Val will discuss with Ed as well .
+(z1 / speak-01
+      :ARG0 (z2 / i)
+      :ARG2 (z3 / person
+            :name (z4 / name
+                  :op1 "Bob"
+                  :op2 "Bruce"))
+      :time (z5 / date-entity
+            :dayperiod (z6 / morning)
+            :mod (z7 / today))
+      :ARG1-of (z8 / cause-01
+            :ARG0 (z9 / and
+                  :op1 (z10 / set-02
+                        :ARG1 (z11 / we
+                              :mod (z12 / all))
+                        :ARG2 (z13 / language
+                              :location (z14 / schedule
+                                    :mod (z15 / organization
+                                          :name (z16 / name
+                                                :op1 "ISDA")))))
+                  :op2 (z17 / be-located-at-91
+                        :ARG1 (z18 / issue-02
+                              :ARG0 (z19 / and
+                                    :op1 (z20 / credit)
+                                    :op2 (z21 / bill))
+                              :ARG1-of (z22 / minor-01)
+                              :ARG1-of (z23 / relate-01
+                                    :ARG2 (z24 / time-02
+                                          :ARG1 (z25 / transfer-01
+                                                :ARG1 (z26 / interest)
+                                                :ARG2 (z27 / collateral))))
+                              :ARG1-of (z28 / discuss-01
+                                    :ARG0 (z29 / person
+                                          :name (z30 / name
+                                                :op1 "Val"))
+                                    :ARG2 (z31 / person
+                                          :name (z32 / name
+                                                :op1 "Ed"))
+                                    :mod (z33 / as-well)))
+                        :ARG2 (z34 / paragraph
+                              :mod 13)))))
+
+# ::snt Is there some specific concern that we can address ?
+(z1 / concern-01
+      :polarity (z2 / amr-unknown)
+      :ARG1-of (z3 / specific-02)
+      :mod (z4 / some)
+      :ARG1-of (z5 / address-02
+            :ARG0 (z6 / we)
+            :ARG1-of (z7 / possible-01)))
+
+# ::snt If you think that May 1 may be difficult due to receiving the parts/materials on a timely basis because of the issues that vendors may have with us because of recent Enron events, please let me know .
+(z1 / let-know-07
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / i)
+      :ARG2 (z4 / think-01
+            :ARG0 z2
+            :ARG1 (z5 / possible-01
+                  :ARG1 (z6 / difficult
+                        :domain (z7 / date-entity
+                              :day 1
+                              :month 5)
+                        :ARG1-of (z8 / cause-01
+                              :ARG0 (z9 / receive-01
+                                    :ARG1 (z10 / slash
+                                          :op1 (z11 / part)
+                                          :op2 (z12 / material))
+                                    :frequency (z13 / basis
+                                          :ARG1-of (z14 / timely-03))
+                                    :ARG1-of (z15 / cause-01
+                                          :ARG0 (z16 / possible-01
+                                                :ARG1 (z17 / issue-02
+                                                      :ARG0 (z18 / we)
+                                                      :ARG1 (z19 / company
+                                                            :ARG0-of (z20 / vend-01))
+                                                      :ARG1-of (z21 / cause-01
+                                                            :ARG0 (z22 / event
+                                                                  :mod (z23 / company
+                                                                        :name (z24 / name
+                                                                              :op1 "Enron"))
+                                                                  :time (z25 / recent))))))))))))
+
+# ::snt If you think that May 1 may be difficult due to receiving the parts/materials on a timely basis because of the issues that vendors may have with us because of recent Enron events, please let me know .
+(z1 / let-know-07
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / i)
+      :ARG2 (z4 / think-01
+            :ARG0 z2
+            :ARG1 (z5 / possible-01
+                  :ARG1 (z6 / difficult
+                        :domain (z7 / date-entity
+                              :day 1
+                              :month 5)
+                        :ARG1-of (z8 / cause-01
+                              :ARG0 (z9 / receive-01
+                                    :ARG1 (z10 / slash
+                                          :op1 (z11 / part)
+                                          :op2 (z12 / material))
+                                    :frequency (z13 / basis
+                                          :ARG1-of (z14 / timely-03))
+                                    :ARG1-of (z15 / cause-01
+                                          :ARG0 (z16 / possible-01
+                                                :ARG1 (z17 / issue-02
+                                                      :ARG0 (z18 / we)
+                                                      :ARG1 (z19 / company
+                                                            :ARG0-of (z20 / vend-01))
+                                                      :ARG1-of (z21 / cause-01
+                                                            :ARG0 (z22 / event
+                                                                  :mod (z23 / company
+                                                                        :name (z24 / name
+                                                                              :op1 "Enron"))
+                                                                  :time (z25 / recent))))))))))))
+
+# ::snt You made a choice to be a mommy, you dont get a break until they move out, thats the choice that you madea and that's life .
+(z1 / and
+      :op1 (z2 / choose-01
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / have-rel-role-91
+                  :ARG0 z3
+                  :ARG2 (z5 / mommy)))
+      :op2 (z6 / get-01
+            :polarity -
+            :ARG0 z3
+            :ARG1 (z7 / break-19)
+            :time (z8 / until
+                  :op1 (z9 / move-01
+                        :ARG0 (z10 / they)
+                        :ARG2 (z11 / out))))
+      :op3 (z12 / choose-01
+            :ARG0 z3
+            :ARG1 z4)
+      :op4 (z13 / life
+            :domain z6))
+
+# ::snt Let me put it this way - If you have watched TV recently, crossed a modern bridge, flown in an airplane, recieved any form of modern medicine, did any mathematics, drove a car, used a cellular phone, etc. then you have somehow directly reaped the rewards which NASA has returned to us .
+(z1 / let-01
+      :mode imperative
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / put-02
+            :ARG0 (z4 / i)
+            :ARG1 (z5 / it)
+            :ARG2 (z6 / have-condition-91
+                  :ARG1 (z7 / reap-01
+                        :ARG0 z2
+                        :ARG1 (z8 / reward-01
+                              :ARG1 z2
+                              :ARG1-of (z9 / return-02
+                                    :ARG0 (z10 / research-institute
+                                          :name (z11 / name
+                                                :op1 "NASA"))
+                                    :ARG2 (z12 / we)))
+                        :manner (z13 / somehow)
+                        :ARG1-of (z14 / direct-02))
+                  :ARG2 (z15 / or
+                        :op1 (z16 / watch-01
+                              :ARG0 z2
+                              :ARG1 (z17 / television)
+                              :time (z18 / recent))
+                        :op2 (z19 / cross-02
+                              :ARG0 z2
+                              :ARG1 (z20 / bridge
+                                    :ARG1-of (z21 / modern-02)))
+                        :op3 (z22 / fly-01
+                              :ARG1 z2
+                              :instrument (z23 / airplane))
+                        :op4 (z24 / receive-01
+                              :ARG0 z2
+                              :ARG1 (z25 / medicine
+                                    :mod (z26 / form
+                                          :mod (z27 / any)
+                                          :mod (z28 / modern))))
+                        :op5 (z29 / mathematics
+                              :mod (z30 / any))
+                        :op6 (z31 / drive-01
+                              :ARG0 z2
+                              :ARG1 (z32 / car))
+                        :op7 (z33 / use-01
+                              :ARG0 z2
+                              :ARG1 (z34 / phone
+                                    :mod (z35 / cell)))
+                        :op8 (z36 / et-cetera)))))
+
+# ::snt That band is involved in a local competition which promises a $5000 first prize, which they would like to win in order to donate it to the benefit fund which they have started .
+(z1 / involve-01
+      :ARG1 (z2 / band
+            :mod (z3 / that))
+      :ARG2 (z4 / compete-02
+            :ARG0-of (z5 / promise-01
+                  :ARG1 (z6 / prize
+                        :mod (z7 / monetary-quantity
+                              :quant 5000
+                              :unit (z8 / dollar))
+                        :ARG2-of (z9 / win-01
+                              :ARG0 z2
+                              :ARG1-of (z10 / like-02
+                                    :ARG0 z2
+                                    :purpose (z11 / donate-01
+                                          :ARG0 z2
+                                          :ARG1 z6
+                                          :ARG2 (z12 / fund
+                                                :mod (z13 / benefit)
+                                                :ARG1-of (z14 / start-01
+                                                      :ARG0 z2)))))
+                        :ord (z15 / ordinal-entity
+                              :value 1)))
+            :ARG1-of (z16 / local-02)))
+
+# ::snt I am sending you some info that I have passed along regarding the effort to win the cash for the fund raising benefit .
+(z1 / send-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / information
+            :quant (z4 / some)
+            :ARG1-of (z5 / pass-on-09
+                  :ARG0 z2
+                  :ARG2 (z6 / you))
+            :topic (z7 / effort-01
+                  :ARG1 (z8 / win-01
+                        :ARG1 (z9 / cash
+                              :purpose (z10 / benefit-01
+                                    :ARG0 (z11 / raise-02
+                                          :ARG1 (z12 / fund))))))))
+
+# ::snt The winner of this competition will receive $5000, which Beyond Control hopes to win in order to donate it to the Abby Freeman fund .
+(z1 / receive-01
+      :ARG0 (z2 / person
+            :ARG0-of (z3 / win-01
+                  :ARG1 (z4 / compete-02
+                        :mod (z5 / this))))
+      :ARG1 (z6 / monetary-quantity
+            :quant 5000
+            :unit (z7 / dollar)
+            :ARG1-of (z8 / win-01
+                  :ARG0 (z9 / company
+                        :name (z10 / name
+                              :op1 "Beyond"
+                              :op2 "Control"))
+                  :ARG1-of (z11 / hope-01
+                        :ARG0 z9
+                        :purpose (z12 / donate-01
+                              :ARG0 z9
+                              :ARG1 z6
+                              :ARG2 (z13 / fund
+                                    :mod (z14 / person
+                                          :name (z15 / name
+                                                :op1 "Abby"
+                                                :op2 "Freeman"))))))))
+
+# ::snt Since President Hu ordered state-owned oil firms to "go abroad" to ensure supply, they have begun drilling for gas in the East China Sea, just west of the line that Japan regards as its border .
+(z1 / begin-01
+      :ARG0 (z2 / firm
+            :mod (z3 / oil)
+            :ARG1-of (z4 / own-01
+                  :ARG0 (z5 / state)))
+      :ARG1 (z6 / drill-01
+            :ARG0 z2
+            :ARG1 (z7 / gas)
+            :location (z8 / sea
+                  :name (z9 / name
+                        :op1 "East"
+                        :op2 "China"
+                        :op3 "Sea")
+                  :location (z10 / relative-position
+                        :op1 (z11 / line
+                              :ARG2-of (z12 / border-01
+                                    :ARG1 (z13 / country
+                                          :name (z14 / name
+                                                :op1 "Japan"))
+                                    :ARG1-of (z15 / regard-01
+                                          :ARG0 z13)))
+                        :direction (z16 / west)
+                        :mod (z17 / just))))
+      :time (z18 / since
+            :op1 (z19 / order-01
+                  :ARG0 (z20 / person
+                        :name (z21 / name
+                              :op1 "Hu")
+                        :ARG0-of (z22 / have-org-role-91
+                              :ARG2 (z23 / president)))
+                  :ARG1 z2
+                  :ARG2 (z24 / go-02
+                        :ARG0 z2
+                        :ARG4 (z25 / abroad)
+                        :purpose (z26 / ensure-01
+                              :ARG0 z2
+                              :ARG1 (z27 / supply-01
+                                    :ARG0 z2))))))
+
+# ::snt China is furious that Japan has outbid it in their battle to determine the route of the pipeline that Russia intends to build to the Far East .
+(z1 / furious-02
+      :ARG0 (z2 / outbid-01
+            :ARG0 (z3 / country
+                  :name (z4 / name
+                        :op1 "Japan"))
+            :ARG1 (z5 / country
+                  :name (z6 / name
+                        :op1 "China"))
+            :ARG2 (z7 / battle-01
+                  :ARG0 z5
+                  :ARG1 z3
+                  :ARG2 (z8 / determine-01
+                        :ARG0 z5
+                        :ARG1 (z9 / route
+                              :path-of (z10 / pipeline
+                                    :ARG1-of (z11 / build-01
+                                          :ARG0 (z12 / country
+                                                :name (z13 / name
+                                                      :op1 "Russia"))
+                                          :ARG1-of (z14 / intend-01
+                                                :ARG0 z12))
+                                    :destination (z15 / world-region
+                                          :name (z16 / name
+                                                :op1 "Far"
+                                                :op2 "East"))))))))
+
+# ::snt But Samuel Alito believes in a little-known Constitutional theory - called the "Unitary Executive Theory" - which says that the President should have complete control over the Executive Branch, and that the Executive Branch should be in charge of almost everything that the Government actually does, including the functions of the Independent Agencies which were designed to be free of Presidential control, and the Military, which exists, which is regulated, and which is funded by specific authority given by the Constitution to Congress, not to the President .
+(z1 / believe-01
+      :ARG0 (z2 / person
+            :name (z3 / name
+                  :op1 "Samuel"
+                  :op2 "Alito"))
+      :ARG1 (z4 / theory
+            :ARG1-of (z5 / know-01
+                  :degree (z6 / little))
+            :mod (z7 / constitution)
+            :ARG1-of (z8 / call-01
+                  :ARG2 (z9 / theory
+                        :name (z10 / name
+                              :op1 "Unique"
+                              :op2 "Executive"
+                              :op3 "Theory")))
+            :ARG0-of (z11 / say-01
+                  :ARG1 (z12 / and
+                        :op1 (z13 / recommend-01
+                              :ARG1 (z14 / control-01
+                                    :ARG0 (z15 / person
+                                          :ARG0-of (z16 / have-org-role-91
+                                                :ARG2 (z17 / president)))
+                                    :ARG1 (z18 / branch
+                                          :mod z7)
+                                    :ARG1-of (z19 / complete-02)))
+                        :op2 (z20 / recommend-01
+                              :ARG1 (z21 / charge-08
+                                    :ARG1 z18
+                                    :ARG2 (z22 / everything
+                                          :mod (z23 / almost)
+                                          :ARG1-of (z24 / do-02
+                                                :ARG0 (z25 / government-organization
+                                                      :ARG0-of (z26 / govern-01))
+                                                :ARG1-of (z27 / actual-02))
+                                          :ARG2-of (z28 / include-01
+                                                :ARG1 (z29 / and
+                                                      :op1 (z30 / function-01
+                                                            :ARG0 (z31 / agency
+                                                                  :ARG0-of (z32 / depend-01
+                                                                        :polarity -)
+                                                                  :ARG1-of (z33 / design-01
+                                                                        :ARG3 (z34 / free-04
+                                                                              :ARG1 z31
+                                                                              :ARG2 (z35 / control-01
+                                                                                    :ARG0 z15
+                                                                                    :ARG1 z31)))))
+                                                      :op2 (z36 / military
+                                                            :ARG1-of (z37 / exist-01)
+                                                            :ARG1-of (z38 / regulate-01)
+                                                            :ARG1-of (z39 / fund-01
+                                                                  :ARG0 (z40 / authority
+                                                                        :ARG1-of (z41 / specific-02)
+                                                                        :ARG1-of (z42 / give-01
+                                                                              :ARG0 z7
+                                                                              :ARG2 (z43 / government-organization
+                                                                                    :name (z44 / name
+                                                                                          :op1 "Congress"))
+                                                                              :ARG1-of (z45 / contrast-01
+                                                                                    :ARG2 (z46 / give-01
+                                                                                          :polarity -
+                                                                                          :ARG0 z7
+                                                                                          :ARG1 z40
+                                                                                          :ARG2 z15)))))))))))))))
+
+# ::snt It has cat's "Meowing" for the vocals, and you might really find yourself in those furnaces, feeling and thinking those terrible feelings and thoughts that these cats do before they die .
+(z1 / and
+      :op1 (z2 / have-03
+            :ARG0 (z3 / it)
+            :ARG1 (z4 / melody
+                  :source (z5 / voice-01
+                        :ARG0 (z6 / cat))))
+      :op2 (z7 / possible-01
+            :ARG1 (z8 / find-01
+                  :ARG0 (z9 / you)
+                  :ARG1 (z10 / and
+                        :op1 (z11 / be-located-at-91
+                              :ARG1 z9
+                              :ARG2 (z12 / furnace
+                                    :mod (z13 / that)))
+                        :op2 (z14 / feel-01
+                              :ARG0 z9
+                              :ARG1 (z15 / and
+                                    :op1 (z16 / thing
+                                          :ARG1-of (z17 / feel-01)
+                                          :ARG1-of (z18 / terrible-01))
+                                    :op2 (z19 / thing
+                                          :ARG1-of (z20 / think-01))
+                                    :mod (z21 / that)
+                                    :ARG1-of (z22 / terrible-01)
+                                    :ARG1-of (z23 / feel-01))
+                              :ARG1-of (z24 / do-02
+                                    :ARG0 z6
+                                    :time (z25 / before
+                                          :op1 (z26 / die-01
+                                                :ARG1 z6))))))
+            :ARG1-of (z27 / real-04)))
+
+# ::snt If anyone wants the complete article, email me, as it is a very good article which no meat-eater can read and not sense their own hypocrisy .
+(z1 / email-01
+      :mode imperative
+      :ARG0 (z2 / anyone)
+      :ARG2 (z3 / i)
+      :condition (z4 / want-01
+            :ARG0 z2
+            :ARG1 (z5 / article
+                  :ARG1-of (z6 / complete-02)))
+      :ARG1-of (z7 / cause-01
+            :ARG0 (z8 / article
+                  :ARG1-of (z9 / good-02
+                        :degree (z10 / very))
+                  :ARG1-of (z11 / read-01
+                        :ARG0 (z12 / person
+                              :ARG0-of (z13 / eat-01
+                                    :ARG1 (z14 / meat)))
+                        :ARG1-of (z15 / possible-01
+                              :polarity -))
+                  :ARG1-of (z16 / sense-01
+                        :polarity -
+                        :ARG0 z12
+                        :ARG1-of (z17 / possible-01)))
+            :domain z5))
+
+# ::snt STEP TWO:Now take the #1 name off the list that you see above, move the other names up (six becomes 5, 5 becomes 4, and etc.) and add YOUR NAME as number 6 on the list .
+(z1 / and
+      :op1 (z2 / take-01
+            :mode imperative
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / name
+                  :ord (z5 / ordinal-entity
+                        :value 1)
+                  :ARG1-of (z6 / see-01
+                        :ARG0 z3
+                        :location (z7 / above)))
+            :ARG2 (z8 / list-01))
+      :op2 (z9 / move-01
+            :mode imperative
+            :ARG0 z3
+            :ARG1 (z10 / name
+                  :mod (z11 / other)
+                  :ARG1-of (z12 / mean-01
+                        :ARG2 (z13 / and
+                              :op1 (z14 / become-01
+                                    :ARG1 (z15 / name
+                                          :ord (z16 / ordinal-entity
+                                                :value 6))
+                                    :ARG2 (z17 / name
+                                          :ord (z18 / ordinal-entity
+                                                :value 5)))
+                              :op2 (z19 / become-01
+                                    :ARG1 (z20 / name
+                                          :ord (z21 / ordinal-entity
+                                                :value 5))
+                                    :ARG2 (z22 / name
+                                          :ord (z23 / ordinal-entity
+                                                :value 4)))
+                              :op3 (z24 / et-cetera))))
+            :ARG2 (z25 / up))
+      :op3 (z26 / add-02
+            :mode imperative
+            :ARG0 z3
+            :ARG1 (z27 / name
+                  :poss z3
+                  :ord (z28 / ordinal-entity
+                        :value 6))
+            :ARG2 z8)
+      :time (z29 / now))
+
+# ::snt If you were of integrity, the program will continue and the money that so many others have received will come your way .
+(z1 / and
+      :op1 (z2 / continue-01
+            :ARG1 (z3 / program))
+      :op2 (z4 / come-01
+            :ARG1 (z5 / money
+                  :ARG1-of (z6 / receive-01
+                        :ARG0 (z7 / other
+                              :ARG1-of (z8 / have-quant-91
+                                    :ARG2 (z9 / many)
+                                    :ARG3 (z10 / so)))))
+            :ARG4 (z11 / way
+                  :poss (z12 / you))))
+
+# ::snt Fill in the subject, this will be the header that everyone sees as they scroll through the list of postings in a particular group, click the post message button .
+(z1 / and
+      :op1 (z2 / fill-in-02
+            :mode imperative
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / subject))
+      :op2 (z5 / see-01
+            :ARG0 (z6 / everyone)
+            :ARG1 (z7 / thing
+                  :ARG2-of (z8 / headline-01)
+                  :domain (z9 / this))
+            :time (z10 / scroll-01
+                  :ARG0 z6
+                  :ARG1 (z11 / list-01
+                        :ARG1 (z12 / thing
+                              :ARG1-of (z13 / post-01
+                                    :ARG0 (z14 / group
+                                          :mod (z15 / particular))))))))
+
+# ::snt Since wolf recovery, streamside plants, willows and cottonwoods provide food for other critters -- beavers, a whole variety of avian species, berry-producing shrubs that bears can use .
+(z1 / provide-01
+      :ARG0 (z2 / and
+            :op1 (z3 / plant
+                  :location (z4 / streamside))
+            :op2 (z5 / willow)
+            :op3 (z6 / cottonwood))
+      :ARG1 (z7 / food)
+      :ARG2 (z8 / critter
+            :mod (z9 / other)
+            :example (z10 / and
+                  :op1 (z11 / Beaver)
+                  :op2 (z12 / species
+                        :mod (z13 / avian)
+                        :mod (z14 / variety
+                              :mod (z15 / whole)))
+                  :op3 (z16 / shrub
+                        :ARG0-of (z17 / produce-01
+                              :ARG1 (z18 / berry))
+                        :ARG1-of (z19 / use-01
+                              :ARG0 (z20 / bear)
+                              :ARG1-of (z21 / possible-01))))))
+
+# ::snt The countries which are giving to America to aid are a great example of the seed that America has sown through the years with other nations .
+(z1 / exemplify-01
+      :ARG0 (z2 / country
+            :ARG0-of (z3 / give-01
+                  :ARG1 (z4 / aid-01
+                        :ARG0 z2
+                        :ARG2 (z5 / country
+                              :name (z6 / name
+                                    :op1 "America")))))
+      :ARG1 (z7 / seed
+            :ARG1-of (z8 / sow-01
+                  :ARG0 z5
+                  :duration (z9 / multiple
+                        :op1 (z10 / temporal-quantity
+                              :quant 1
+                              :unit (z11 / year)))
+                  :accompanier (z12 / nation
+                        :mod (z13 / other))))
+      :mod (z14 / great))
+
+# ::snt You now have it in you to create the kind of life for yourself that you want .
+(z1 / have-03
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / create-01
+            :ARG0 z2
+            :ARG1 (z4 / life
+                  :mod (z5 / kind)
+                  :ARG1-of (z6 / want-01
+                        :ARG0 z2))
+            :ARG3 z2)
+      :time (z7 / now))
+
+# ::snt Lopez addressed the note which I had written, sealed it with his sleeve-link, and sent it by the hand of the servant, Jose .
+(z1 / and
+      :op1 (z2 / address-01
+            :ARG0 (z3 / person
+                  :name (z4 / name
+                        :op1 "Lopez"))
+            :ARG1 (z5 / note
+                  :ARG1-of (z6 / write-01
+                        :ARG0 (z7 / i))))
+      :op2 (z8 / seal-01
+            :ARG0 z3
+            :ARG1 z5
+            :instrument (z9 / link
+                  :mod (z10 / sleeve)
+                  :poss z3))
+      :op3 (z11 / send-01
+            :ARG0 z3
+            :ARG1 z5
+            :instrument (z12 / hand
+                  :part-of (z13 / person
+                        :name (z14 / name
+                              :op1 "Jose")
+                        :ARG0-of (z15 / serve-02)))))
+
+# ::snt The early days were the days of competition between Paul and his wife and John and his wife and he knew he had to compete with ugly John for the leadership of the band in front of their wives and having Yoko Ono made him aware of his lack of virility and repressed homosexuality, he grew the beard that we see in the "Let it Be" film and started to show pictures of naked women in the same film, doing every effort he could to be seen as a man... .
+(z1 / and
+      :op1 (z2 / day
+            :time-of (z3 / compete-01
+                  :ARG0 (z4 / person
+                        :name (z5 / name
+                              :op1 "Paul"))
+                  :ARG1 (z6 / person
+                        :ARG0-of (z7 / have-rel-role-91
+                              :ARG1 z4
+                              :ARG2 (z8 / wife))))
+            :ARG2 (z9 / person
+                  :name (z10 / name
+                        :op1 "John")
+                  :mod (z11 / ugly))
+            :ARG3 (z12 / lead-02
+                  :ARG0 z9
+                  :ARG1 (z13 / band)
+                  :location (z14 / in-front-of
+                        :op1 (z15 / person
+                              :ARG0-of (z16 / have-rel-role-91
+                                    :ARG1 z4
+                                    :ARG2 (z17 / wife))))))
+      :time (z18 / day
+            :mod (z19 / early)))
+
+# ::snt (He already had the traumas that his previous girlfriend Jane Asher had caused him when she made him aware of his little manliness and effeminate manners) .
+(z1 / traumatize-01
+      :ARG0 (z2 / person
+            :name (z3 / name
+                  :op1 "Jane"
+                  :op2 "Asher")
+            :ARG0-of (z4 / have-rel-role-91
+                  :ARG1 (z5 / he)
+                  :ARG2 (z6 / girlfriend)
+                  :time (z7 / previous)))
+      :ARG1 z5
+      :time (z8 / realize-01
+            :ARG0 z5
+            :ARG1 (z9 / and
+                  :op1 (z10 / manliness
+                        :mod (z11 / little)
+                        :poss z5)
+                  :op2 (z12 / manner
+                        :mod (z13 / effeminate)
+                        :poss z5))))
+
+# ::snt This is something that his ego trip of lucky bad musician could not face anymore... .
+(z1 / possible-01
+      :polarity -
+      :ARG1 (z2 / face-01
+            :ARG0 (z3 / he)
+            :ARG1 (z4 / trip-03
+                  :ARG0 (z5 / musician
+                        :mod (z6 / lucky)
+                        :ARG1-of (z7 / bad-02))
+                  :mod (z8 / ego))
+            :ARG1 (z9 / this))
+      :time (z10 / anymore))
+
+# ::snt Because of the trauma that his homosexual relation with Brian Epstein had left him, he made lyrics such as: "You can wear a collar and a tie, one thing you can't hide is when you're crippled inside" and gave declarations to the "Rolling Stone" magazine saying that "sometimes he wore Texan boots to feel more secure as a man" .
+(z1 / and
+      :op1 (z2 / make-01
+            :ARG0 (z3 / he)
+            :ARG1 (z4 / lyric
+                  :example (z5 / possible-01
+                        :ARG1 (z6 / and
+                              :op1 (z7 / wear-01
+                                    :ARG0 (z8 / you)
+                                    :ARG1 (z9 / and
+                                          :op1 (z10 / collar)
+                                          :op2 (z11 / tie)))
+                              :op2 (z12 / possible-01
+                                    :polarity -
+                                    :ARG1 (z13 / hide-01
+                                          :ARG0 z8
+                                          :ARG1 (z14 / thing
+                                                :quant 1
+                                                :ARG1-of (z15 / include-91
+                                                      :ARG2 (z16 / hide-01
+                                                            :ARG0 z8
+                                                            :time (z17 / cripple-01
+                                                                  :ARG1 z8
+                                                                  :location (z18 / inside)))))))))))
+      :ARG1-of (z19 / cause-01
+            :ARG0 (z20 / trauma
+                  :ARG1-of (z21 / cause-01
+                        :ARG0 (z22 / leave-12
+                              :ARG0 (z23 / relation-03
+                                    :ARG0 z3
+                                    :ARG1 (z24 / homosexual)
+                                    :ARG2 (z25 / person
+                                          :name (z26 / name
+                                                :op1 "Brian"
+                                                :op2 "Epstein")))
+                              :ARG2 z3)))))
+
+# ::snt The fact that bad apprentice musicians such as the Beatles and the Rolling Stones achieved such a giant fame that not even the real quality musicians could achieve, was because the forces of Satan were behind everything, supporting the process .
+(z1 / cause-01
+      :ARG0 (z2 / and
+            :op1 (z3 / be-located-at-91
+                  :ARG1 (z4 / force
+                        :poss (z5 / person
+                              :name (z6 / name
+                                    :op1 "Satan")))
+                  :ARG2 (z7 / behind
+                        :op1 (z8 / everything)))
+            :op2 (z9 / support-01
+                  :ARG0 z4
+                  :ARG1 (z10 / process-02)))
+      :ARG1 (z11 / achieve-01
+            :ARG0 (z12 / musician
+                  :ARG0-of (z13 / apprentice-01)
+                  :ARG1-of (z14 / bad-02)
+                  :example (z15 / and
+                        :op1 (z16 / organization
+                              :name (z17 / name
+                                    :op1 "Beatles"))
+                        :op2 (z18 / organization
+                              :name (z19 / name
+                                    :op1 "Rolling"
+                                    :op2 "Stones"))))
+            :ARG1 (z20 / fame
+                  :mod (z21 / giant)
+                  :mod (z22 / such)
+                  :ARG1-of (z23 / achieve-01
+                        :ARG0 (z24 / musician
+                              :mod (z25 / quality
+                                    :ARG1-of (z26 / real-04))
+                              :mod (z27 / even
+                                    :polarity -))
+                        :ARG1-of (z28 / possible-01)))))
+
+# ::snt This mentally ill humanity, destroyed families, twisted moral values, manifest or repressed homosexuality in human beings, anti natural feminism rebellion, drug addiction, corrupt social outlines, mad youths without direction, non respect to hierarchies, convulsed nations, misanthropy, misogyny, paedophilia, irrational and feeble lasciviousness and all other type of existent aberrations, are due to the vast manoeuvre that Satan executed through his main marionettes the Beatles and the Rolling Stones, from the Devil's Island .
+(z1 / cause-01
+      :ARG0 (z2 / maneuver-01
+            :ARG0 (z3 / person
+                  :name (z4 / name
+                        :op1 "Satan"))
+            :ARG1 (z5 / and
+                  :op1 (z6 / humanity
+                        :ARG1-of (z7 / ill-01
+                              :mod (z8 / mental))
+                        :mod (z9 / this))
+                  :op2 (z10 / family
+                        :ARG1-of (z11 / destroy-01))
+                  :op3 (z12 / value
+                        :ARG1-of (z13 / moral-02)
+                        :ARG1-of (z14 / twisted-02))
+                  :op4 (z15 / or
+                        :op1 (z16 / manifest-01
+                              :ARG1 (z17 / homosexuality
+                                    :location (z18 / being
+                                          :mod (z19 / human))))
+                        :op2 (z20 / repress-01
+                              :ARG1 z17))
+                  :op5 (z21 / rebel-01
+                        :ARG1 (z22 / feminism
+                              :ARG1-of (z23 / natural-03)))
+                  :op6 (z24 / addict-01
+                        :ARG2 (z25 / drug))
+                  :op7 (z26 / outline
+                        :ARG1-of (z27 / corrupt-01)
+                        :mod (z28 / society))
+                  :op8 (z29 / youth
+                        :ARG1-of (z30 / mad-02)
+                        :ARG0-of (z31 / have-03
+                              :polarity -
+                              :ARG1 (z32 / direction)))
+                  :op9 (z33 / respect-01
+                        :polarity -
+                        :ARG1 (z34 / hierarchy))
+                  :op10 (z35 / nation
+                        :ARG1-of (z36 / convulse-01))
+                  :op11 (z37 / misanthropy)))
+      :op14 (z38 / and
+            :op1 (z39 / rational
+                  :polarity -)
+            :op2 (z40 / lasciviousness
+                  :mod (z41 / feeble))
+            :op3 (z42 / aberration
+                  :mod (z43 / type
+                        :mod (z44 / all)
+                        :mod (z45 / other)
+                        :ARG1-of (z46 / exist-01))))
+      :manner (z47 / puppet
+            :mod (z48 / main)
+            :poss z3
+            :domain (z49 / and
+                  :op1 (z50 / organization
+                        :name (z51 / name
+                              :op1 "Beatles"))
+                  :op2 (z52 / organization
+                        :name (z53 / name
+                              :op1 "Rolling"
+                              :op2 "Stones")))))
+
+# ::snt Even the small navy that Iran puts to sea is capable enough to harass shipping, and several cases of small boat operations against oil well heads in the Gulf during that period made it clear small asymmetrical tactics of the Iranian Navy could be quite effective. "
+(z1 / and
+      :op1 (z2 / capable-01
+            :ARG1 (z3 / navy
+                  :mod (z4 / small)
+                  :ARG1-of (z5 / put-01
+                        :ARG0 (z6 / country
+                              :name (z7 / name
+                                    :op1 "Iran"))
+                        :ARG2 (z8 / sea))
+                  :mod (z9 / even))
+            :ARG2-of (z10 / have-degree-91
+                  :ARG1 z3
+                  :ARG3 (z11 / enough)
+                  :ARG6 (z12 / harass-01
+                        :ARG0 z3
+                        :ARG1 (z13 / ship-01))))
+      :op2 (z14 / make-02
+            :ARG0 (z15 / case-04
+                  :ARG1 (z16 / operate-01
+                        :ARG0 (z17 / boat
+                              :mod (z18 / small))
+                        :prep-against (z19 / head
+                              :mod (z20 / well
+                                    :mod (z21 / oil))
+                              :location (z22 / gulf
+                                    :name (z23 / name
+                                          :op1 "Gulf")))
+                        :time (z24 / period
+                              :mod (z25 / that)))
+                  :quant (z26 / several))
+            :ARG1 (z27 / clear-06
+                  :ARG1 (z28 / possible-01
+                        :ARG1 (z29 / effective-04
+                              :ARG0 (z30 / tactic
+                                    :mod (z31 / small)
+                                    :mod (z32 / symmetrical
+                                          :polarity -)
+                                    :poss (z33 / military
+                                          :name (z34 / name
+                                                :op1 "Navy")
+                                          :mod z6))
+                              :degree (z35 / quite))))))
+
+# ::snt 100 - Percentage of those decisions that Bush then decided to allow the government to ignore indefinitely .
+(z1 / percentage-entity
+      :value 100
+      :ARG3-of (z2 / include-91
+            :ARG2 (z3 / thing
+                  :ARG1-of (z4 / decide-01)
+                  :mod (z5 / that)
+                  :ARG1-of (z6 / ignore-01
+                        :ARG0 (z7 / government-organization
+                              :ARG0-of (z8 / govern-01))
+                        :duration (z9 / definite
+                              :polarity -)
+                        :ARG1-of (z10 / allow-01
+                              :ARG0 (z11 / person
+                                    :name (z12 / name
+                                          :op1 "Bush"))
+                              :ARG1-of (z13 / decide-01
+                                    :ARG0 z11
+                                    :time (z14 / then)))))))
+
+# ::snt 10 - Number of days that the Pentagon spent investigating a soldier who had called the President "a joke" in a letter to the editor of a Newspaper .
+(z1 / number-01
+      :ARG1 (z2 / temporal-quantity
+            :quant 10
+            :unit (z3 / day)
+            :ARG3-of (z4 / spend-02
+                  :ARG0 (z5 / government-organization
+                        :name (z6 / name
+                              :op1 "Pentagon"))
+                  :ARG1 (z7 / investigate-01
+                        :ARG0 z5
+                        :ARG1 (z8 / soldier
+                              :ARG0-of (z9 / call-01
+                                    :ARG1 (z10 / person
+                                          :ARG0-of (z11 / have-org-role-91
+                                                :ARG2 (z12 / president)))
+                                    :ARG2 (z13 / joke-01)
+                                    :medium (z14 / letter)
+                                    :beneficiary (z15 / person
+                                          :ARG0-of (z16 / have-org-role-91
+                                                :ARG1 (z17 / newspaper)
+                                                :ARG2 (z18 / editor)))))))))
+
+# ::snt 2 - Number of Nations that George Bush has attacked and taken over since coming into office .
+(z1 / number
+      :quant-of (z2 / nation
+            :ARG1-of (z3 / attack-01
+                  :ARG0 (z4 / person
+                        :name (z5 / name
+                              :op1 "George"
+                              :op2 "Bush")))
+            :ARG1-of (z6 / take-over-12
+                  :ARG0 z4)
+            :time (z7 / since
+                  :op1 (z8 / come-01
+                        :ARG1 z4
+                        :ARG4 (z9 / office)))))
+
+# ::snt 43 - Percentage of the entire world's military spending that the US spends on defence .
+(z1 / percentage-entity
+      :value 43
+      :ARG3-of (z2 / include-91
+            :ARG2 (z3 / spend-01
+                  :ARG0 (z4 / country
+                        :name (z5 / name
+                              :op1 "US"))
+                  :ARG1 (z6 / defend-01)
+                  :ARG3 (z7 / spend-01
+                        :ARG0 (z8 / world
+                              :mod (z9 / entire))
+                        :ARG1 (z10 / military)))))
+
+# ::snt 0 - Number of coffins of dead soldiers returning home that the Bush administration has permitted to be photographed .
+(z1 / number
+      :quant-of (z2 / coffin
+            :consist-of (z3 / soldier
+                  :ARG1-of (z4 / die-01)
+                  :ARG1-of (z5 / return-01
+                        :ARG4 (z6 / home))))
+      :ARG1-of (z7 / photograph-01
+            :ARG1-of (z8 / permit-01
+                  :ARG0 (z9 / government-organization
+                        :ARG0-of (z10 / administrate-01)
+                        :mod (z11 / person
+                              :name (z12 / name
+                                    :op1 "Bush"))))))
+
+# ::snt 0 - Number of memorial services for the returned dead that Bush has attended since the beginning of the war .
+(z1 / number
+      :quant-of (z2 / service
+            :mod (z3 / memorial)
+            :beneficiary (z4 / person
+                  :ARG1-of (z5 / die-01)
+                  :ARG1-of (z6 / return-01))
+            :ARG1-of (z7 / attend-01
+                  :ARG0 (z8 / person
+                        :name (z9 / name
+                              :op1 "Bush"))
+                  :time (z10 / since
+                        :op1 (z11 / begin-01
+                              :ARG1 (z12 / war))))))
+
+# ::snt 10 - Number of fellow members from the Yale secret society Skull and Bones that Bush has named to important positions (including the Associate Attorney General Robert McCallum Jr. and SEC chief Bill Donaldson) .
+(z1 / number
+      :quant-of (z2 / person
+            :ARG0-of (z3 / have-org-role-91
+                  :ARG1 (z4 / organization
+                        :name (z5 / name
+                              :op1 "Skull"
+                              :op2 "and"
+                              :op3 "Bones")
+                        :mod (z6 / secret)
+                        :mod (z7 / university
+                              :name (z8 / name
+                                    :op1 "Yale")))
+                  :ARG2 (z9 / member
+                        :mod (z10 / fellow)))
+            :ARG2-of (z11 / include-01
+                  :ARG1 (z12 / and
+                        :op1 (z13 / person
+                              :name (z14 / name
+                                    :op1 "Robert"
+                                    :op2 "McCallum"
+                                    :op3 "Jr.")
+                              :ARG0-of (z15 / have-org-role-91
+                                    :ARG2 (z16 / attorney
+                                          :mod (z17 / general
+                                                :mod (z18 / associate)))))
+                        :op2 (z19 / person
+                              :name (z20 / name
+                                    :op1 "Bill"
+                                    :op2 "Donaldson")
+                              :ARG0-of (z21 / have-org-role-91
+                                    :ARG1 (z22 / government-organization
+                                          :name (z23 / name
+                                                :op1 "SEC"))
+                                    :ARG2 (z24 / chief))))))
+      :ARG1-of (z25 / name-03
+            :ARG0 (z26 / person
+                  :name (z27 / name
+                        :op1 "Bush"))
+            :ARG2 (z28 / position
+                  :ARG1-of (z29 / important-01))))
+
+# ::snt 35m - Number of Americans that the government defines as "food insecure," in other words, hungry .
+(z1 / number
+      :quant-of (z2 / person
+            :mod (z3 / country
+                  :name (z4 / name
+                        :op1 "America")))
+      :ARG1-of (z5 / define-01
+            :ARG0 (z6 / government-organization
+                  :ARG0-of (z7 / govern-01))
+            :ARG2 (z8 / secure-02
+                  :polarity -
+                  :ARG1 z2
+                  :ARG2 (z9 / food)
+                  :ARG1-of (z10 / mean-01
+                        :ARG2 (z11 / hunger-01
+                              :ARG0 z2)))))
+
+# ::snt 30 - Length of time in months between Enron's collapse and Lay (whom the President called "Kenny Boy") still not being charged with a crime .
+(z1 / temporal-quantity
+      :quant 30
+      :unit (z2 / month)
+      :time-of (z3 / between
+            :op1 (z4 / collapse-01
+                  :ARG1 (z5 / company
+                        :name (z6 / name
+                              :op1 "Enron")))
+            :op2 (z7 / charge-05
+                  :polarity -
+                  :ARG1 (z8 / person
+                        :name (z9 / name
+                              :op1 "Lay")
+                        :ARG1-of (z10 / call-01
+                              :ARG0 (z11 / person
+                                    :ARG0-of (z12 / have-org-role-91
+                                          :ARG2 (z13 / president)))))
+                  :ARG2 (z14 / crime-02)
+                  :mod (z15 / still))))
+
+# ::snt $200m - Amount that the Bush-Cheney 2004 campaign expects to raise by November 2004 .
+(z1 / monetary-quantity
+      :quant 200000000
+      :unit (z2 / dollar)
+      :ARG1-of (z3 / raise-02
+            :ARG0 (z4 / campaign-01
+                  :ARG0 (z5 / and
+                        :op1 (z6 / person
+                              :name (z7 / name
+                                    :op1 "Bush"))
+                        :op2 (z8 / person
+                              :name (z9 / name
+                                    :op1 "Cheney")))
+                  :time (z10 / date-entity
+                        :year 2004))
+            :ARG1-of (z11 / expect-01
+                  :ARG0 z5)
+            :time (z12 / by
+                  :op1 (z13 / date-entity
+                        :month 11
+                        :year 2004))))
+
+# ::snt my name is Josalyn Leainne Creek and i'm 19 years old and i graduated from high in May adn of this year and i love animals and i'm great at working and i had drama in my last job which was mcallister's deli and i', a mormon and i hvae changed to be a better person that pwople are wanting to hirier and i'm willing to work whenever you need me but i go to church on every sunday and i have a doctor's appointment this thursday at 2;30 and i hope you h=guys hirier me because i work very hard and i dont care about how much you guys pay and i've been looking for a job ever since i have graduated and i hate dram a
+(z1 / and
+      :op1 (z2 / name
+            :op1 "Josalyn"
+            :op2 "Leainne"
+            :op3 "Creek")
+      :age (z3 / temporal-quantity
+            :quant 19
+            :unit (z4 / year)))
+
+# ::snt I've never had a dwarf hamster but I've had the same problem with my pet rat I put some chicken wiring around it the I got from home depot and now it can't out .
+(z1 / contrast-01
+      :ARG1 (z2 / have-03
+            :polarity -
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / hamster
+                  :mod (z5 / dwarf))
+            :time (z6 / ever))
+      :ARG2 (z7 / have-03
+            :ARG0 z3
+            :ARG1 (z8 / problem
+                  :ARG1-of (z9 / same-01)
+                  :topic (z10 / rat
+                        :mod (z11 / pet)
+                        :poss z3)
+                  :ARG1-of (z12 / cause-01
+                        :ARG0 (z13 / and
+                              :op1 (z14 / put-01
+                                    :ARG0 z3
+                                    :ARG1 (z15 / wire
+                                          :mod (z16 / chicken)
+                                          :quant (z17 / some))
+                                    :ARG2 (z18 / around
+                                          :op1 z4)
+                                    :ARG1-of (z19 / get-01
+                                          :ARG0 z3
+                                          :ARG2 (z20 / company
+                                                :name (z21 / name
+                                                      :op1 "Home"
+                                                      :op2 "Depot"))))
+                              :op2 (z22 / possible-01
+                                    :polarity -
+                                    :ARG1 (z23 / out-06
+                                          :ARG1 z4)
+                                    :time (z24 / now)))))))
+
+# ::snt You need either a filter for each device except the DSL modem, or a whole home filter which filters all the jacks, except the one which the DSL modem connects .
+(z1 / need-01
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / or
+            :op1 (z4 / filter-02
+                  :ARG1 (z5 / device
+                        :mod (z6 / each)
+                        :ARG2-of (z7 / except-01
+                              :ARG1 (z8 / modem
+                                    :mod (z9 / company
+                                          :name (z10 / name
+                                                :op1 "DSL"))))))
+            :op2 (z11 / filter-02
+                  :mod (z12 / home)
+                  :mod (z13 / whole)
+                  :ARG0-of (z14 / filter-02
+                        :ARG1 (z15 / jack
+                              :mod (z16 / all)
+                              :ARG2-of (z17 / except-01
+                                    :ARG1 (z18 / one
+                                          :ARG2-of (z19 / connect-01
+                                                :ARG1 z8))))))))
+
+# ::snt I have weighed those options and found the three that I have chosen to be more my wife and my own taste .
+(z1 / and
+      :op1 (z2 / weigh-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / option
+                  :mod (z5 / that)))
+      :op2 (z6 / find-01
+            :ARG0 z3
+            :ARG1 (z7 / thing
+                  :quant 3
+                  :ARG1-of (z8 / choose-01
+                        :ARG0 z3
+                        :ARG2 (z9 / have-rel-role-91
+                              :ARG0 z7
+                              :ARG1 z3
+                              :ARG2 (z10 / wife)
+                              :ARG3-of (z11 / have-degree-91
+                                    :ARG1 z9
+                                    :ARG4 (z12 / and
+                                          :op1 (z13 / wife)
+                                          :op2 (z14 / taste
+                                                :poss z3))
+                                    :ARG3 (z15 / more)))))))
+
+# ::snt Any programs that you use please list :) Th x
+(z1 / list-01
+      :mode imperative
+      :polite +
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / program
+            :mod (z4 / any)
+            :ARG1-of (z5 / use-01
+                  :ARG0 z2)))
+
+# ::snt Some of the major differences I see is the HD video, longer battery life, and faster processor that the NOOK Tablet boasts .
+(z1 / include-91
+      :ARG1 (z2 / and
+            :op1 (z3 / video
+                  :mod (z4 / high-definition))
+            :op2 (z5 / have-degree-91
+                  :ARG1 (z6 / life
+                        :mod (z7 / battery))
+                  :ARG2 (z8 / long-03
+                        :ARG1 z6)
+                  :ARG3 (z9 / more))
+            :op3 (z10 / have-degree-91
+                  :ARG1 (z11 / processor)
+                  :ARG2 (z12 / fast-02
+                        :ARG1 z11)
+                  :ARG3 (z13 / more))
+            :ARG1-of (z14 / boast-01
+                  :ARG0 (z15 / product
+                        :name (z16 / name
+                              :op1 "NOOK"
+                              :op2 "Tablet")))))
+
+# ::snt NOTE:If i see a answer that i love i will make my best right there and the n
+(z1 / have-condition-91
+      :ARG1 (z2 / and
+            :op1 (z3 / make-01
+                  :ARG0 (z4 / i)
+                  :ARG1 (z5 / thing
+                        :ARG1-of (z6 / have-degree-91
+                              :ARG2 (z7 / good-03
+                                    :ARG1 z4)
+                              :ARG3 (z8 / most)))
+                  :location (z9 / there
+                        :mod (z10 / right)))
+            :op2 (z11 / thing
+                  :name (z12 / name
+                        :op1 "n")))
+      :ARG2 (z13 / see-01
+            :ARG0 z4
+            :ARG1 (z14 / thing
+                  :ARG2-of (z15 / answer-01)
+                  :ARG1-of (z16 / love-01
+                        :ARG0 z4))))
+
+# ::snt (Apart from the wire flooring which i am going to cover) Which of these two cages is better :
+(z1 / multi-sentence
+      :snt1 (z2 / except-01
+            :ARG1 (z3 / floor
+                  :mod (z4 / wire)
+                  :ARG2-of (z5 / cover-01
+                        :ARG0 (z6 / i)))))
+
+# ::snt they will move if they get too warm-it's not like a heat rock which you should avoid at all costs .
+(z1 / move-01
+      :ARG0 (z2 / they)
+      :condition (z3 / get-03
+            :ARG1 z2
+            :ARG2 (z4 / warm-07
+                  :ARG2-of (z5 / have-degree-91
+                        :ARG1 z2
+                        :ARG3 (z6 / too))))
+      :ARG1-of (z7 / cause-01
+            :ARG0 (z8 / resemble-01
+                  :polarity -
+                  :ARG1 (z9 / it)
+                  :ARG2 (z10 / rock
+                        :ARG1-of (z11 / heat-01)
+                        :ARG1-of (z12 / avoid-01
+                              :ARG0 (z13 / you)
+                              :ARG1-of (z14 / recommend-01)
+                              :degree (z15 / at-all-cost))))))
+
+# ::snt Seizures will occur when the toxins that the kidney normally filters out are released into the blood stream .
+(z1 / release-01
+      :ARG1 (z2 / toxin
+            :ARG1-of (z3 / filter-02
+                  :ARG0 (z4 / kidney)
+                  :ARG2 (z5 / out-06)
+                  :ARG1-of (z6 / normal-02)))
+      :destination (z7 / stream
+            :mod (z8 / blood)))
+
+# ::snt The word renaissance (Rinascimento in Italian) means “rebirth”, and the era is best known for the renewed interest in the culture of classical antiquity after the period that Renaissance humanists labelled the Dark Ages .
+(z1 / and
+      :op1 (z2 / mean-01
+            :ARG1 (z3 / word
+                  :mod (z4 / renaissance))
+            :ARG2 (z5 / bear-02))
+      :op2 (z6 / know-02
+            :ARG1 z4
+            :ARG2 (z7 / interest-01
+                  :ARG2 (z8 / culture
+                        :mod (z9 / antiquity
+                              :mod (z10 / classical)))
+                  :ARG1-of (z11 / renew-01)
+                  :time (z12 / after
+                        :op1 (z13 / label-01
+                              :ARG0 (z14 / humanist
+                                    :mod z4)
+                              :ARG2 (z15 / name
+                                    :op1 "Dark"
+                                    :op2 "Ages"))))
+            :ARG1-of (z16 / have-degree-91
+                  :ARG2 (z17 / good-02
+                        :ARG1 z6)
+                  :ARG3 (z18 / most))))
+
+# ::snt I honestly have no idea what to expect or prepare for and calling in to get professional advice from either of the embassies costs by the minute- which I really don't have the money for .
+(z1 / and
+      :op1 (z2 / have-03
+            :polarity -
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / idea
+                  :topic (z5 / or
+                        :op1 (z6 / expect-01
+                              :ARG0 z3
+                              :ARG1 (z7 / thing))
+                        :op2 (z8 / prepare-02
+                              :ARG0 z3
+                              :ARG2 z7)))
+            :ARG1-of (z9 / honest-01))
+      :op2 (z10 / call-in-04
+            :ARG0 z3
+            :ARG1 (z11 / advise-01
+                  :ARG0 (z12 / cost-01
+                        :ARG1 (z13 / embassy
+                              :mod (z14 / either))
+                        :ARG1-of (z15 / rate-entity-91
+                              :ARG2 (z16 / temporal-quantity
+                                    :quant 1
+                                    :unit (z17 / minute)))
+                        :ARG3-of (z18 / have-03
+                              :polarity -
+                              :ARG0 z3
+                              :ARG1 (z19 / money)
+                              :ARG1-of (z20 / real-04)))
+                  :mod (z21 / professional))))
+
+# ::snt Above is the link to the Department of State travel website, which will give you all the info that you need, including passport information .
+(z1 / link-01
+      :ARG2 (z2 / website
+            :mod (z3 / travel-01)
+            :mod (z4 / government-organization
+                  :name (z5 / name
+                        :op1 "Department"
+                        :op2 "of"
+                        :op3 "State"))
+            :ARG0-of (z6 / give-01
+                  :ARG1 (z7 / information
+                        :mod (z8 / all)
+                        :ARG1-of (z9 / need-01
+                              :ARG0 (z10 / you))
+                        :ARG2-of (z11 / include-01
+                              :ARG1 (z12 / information
+                                    :topic (z13 / passport)))))
+            :ARG2 z10))
+
+# ::snt I heard that a company (here is a link: http://news.yahoo.com/nestl-purina-releases-commercial-aimed-dogs-183443091.html ) is trying to make a dog food commercial aimed at dogs, complete with squeaky chew-toy sounds, and high pitched sounds that humans can't hear .
+(z1 / hear-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / try-01
+            :ARG0 (z4 / company)
+            :ARG1 (z5 / make-01
+                  :ARG0 z4
+                  :ARG1 (z6 / commercial
+                        :ARG1-of (z7 / aim-02
+                              :ARG2 (z8 / dog))
+                        :ARG1-of (z9 / complete-03
+                              :ARG2 (z10 / and
+                                    :op1 (z11 / sound-02
+                                          :ARG1 (z12 / toy
+                                                :mod (z13 / chew)
+                                                :ARG1-of (z14 / squeak-01)))
+                                    :op2 (z15 / sound
+                                          :mod (z16 / pitched
+                                                :ARG1-of (z17 / high-02))
+                                          :ARG1-of (z18 / hear-01
+                                                :ARG0 (z19 / human)
+                                                :ARG1-of (z20 / possible-01
+                                                      :polarity -)))))))))
+
+# ::snt Impossible to say, but I guess you would have to work out fuel consumption for the particular vehicle that they are using and pay a proportion of that, and some on top for the driver's time and effort, unless you are able to share transport with another or more, that would keep the costs down .
+(z1 / contrast-01
+      :ARG1 (z2 / possible-01
+            :polarity -
+            :ARG1 (z3 / say-01)))
+
+# ::snt There is already a little dog house that I would turn into a little rabbit hutch being kept back there and I was thinking about keeping the rabbit in the run with the chickens, but keeping the chickens in the coop and the rabbit in the hutch at night .
+(z1 / and
+      :op1 (z2 / house
+            :mod (z3 / little)
+            :mod (z4 / dog)
+            :ARG1-of (z5 / turn-02
+                  :ARG0 (z6 / i)
+                  :ARG2 (z7 / hutch
+                        :mod (z8 / little)
+                        :mod (z9 / bunny)
+                        :ARG1-of (z10 / keep-01
+                              :location (z11 / back
+                                    :op1 z2)))
+                  :time (z12 / already)))
+      :op2 (z13 / think-01
+            :ARG0 z6
+            :ARG1 (z14 / contrast-01
+                  :ARG1 (z15 / keep-01
+                        :ARG0 z6
+                        :ARG1 (z16 / and
+                              :op1 (z17 / be-located-at-91
+                                    :ARG1 z9
+                                    :ARG2 (z18 / run)
+                                    :accompanier (z19 / chicken))))
+                  :ARG2 (z20 / and
+                        :op1 (z21 / keep-01
+                              :ARG0 z6
+                              :ARG1 (z22 / be-located-at-91
+                                    :ARG1 z19
+                                    :ARG2 (z23 / coop)))
+                        :op2 (z24 / be-located-at-91
+                              :ARG1 z9
+                              :ARG2 (z25 / hutch)
+                              :time (z26 / date-entity
+                                    :dayperiod (z27 / night)))))))
+
+# ::snt We feed the chickens scraps of veggies and fruits throughout the day, but it's nothing that a rabbit wouldn't be able to digest just fine .
+(z1 / feed-01
+      :ARG0 (z2 / we)
+      :ARG1 (z3 / scrap
+            :consist-of (z4 / and
+                  :op1 (z5 / vegetable)
+                  :op2 (z6 / fruit)))
+      :ARG2 (z7 / chicken)
+      :time (z8 / throughout
+            :op1 (z9 / day))
+      :concession (z10 / nothing
+            :ARG1-of (z11 / digest-01
+                  :ARG0 (z12 / rabbit)
+                  :ARG1-of (z13 / possible-01
+                        :polarity -)
+                  :ARG1-of (z14 / fine-04
+                        :mod (z15 / just)))))
+
+# ::snt why dont you get some treats that he loves and only give him them when he does something right .
+(z1 / cause-01
+      :ARG0 (z2 / amr-unknown)
+      :ARG1 (z3 / and
+            :op1 (z4 / get-01
+                  :polarity -
+                  :ARG0 (z5 / you)
+                  :ARG1 (z6 / treat
+                        :quant (z7 / some)
+                        :ARG1-of (z8 / love-01
+                              :ARG0 (z9 / he))))
+            :op2 (z10 / give-01
+                  :polarity -
+                  :ARG0 z5
+                  :ARG1 z6
+                  :ARG2 z9
+                  :time (z11 / do-02
+                        :ARG0 z9
+                        :ARG1 (z12 / something
+                              :ARG1-of (z13 / right-02)))
+                  :mod (z14 / only))))
+
+# ::snt We loved most of the locations that both of the ships visited and don't believe that this should be a distinguishing factor on deciding between the cruise lines .
+(z1 / and
+      :op1 (z2 / love-01
+            :ARG0 (z3 / we)
+            :ARG1 (z4 / location
+                  :ARG1-of (z5 / include-91
+                        :ARG2 (z6 / location
+                              :ARG1-of (z7 / visit-01
+                                    :ARG0 (z8 / ship
+                                          :mod (z9 / both))))
+                        :ARG3 (z10 / most)))))
+
+# ::snt Pools The Mariner of the Seas and Liberty both had salt water pools - which most cruise ships have .
+(z1 / have-03
+      :ARG0 (z2 / and
+            :op1 (z3 / pool
+                  :name (z4 / name
+                        :op1 "The"
+                        :op2 "Mariner"
+                        :op3 "of"
+                        :op4 "the"
+                        :op5 "Seas"))
+            :op2 (z5 / pool
+                  :name (z6 / name
+                        :op1 "Liberty"))
+            :mod (z7 / both))
+      :ARG1 (z8 / pool
+            :mod (z9 / water
+                  :mod (z10 / salt))
+            :ARG1-of (z11 / have-03
+                  :ARG0 (z12 / ship
+                        :mod (z13 / cruise)
+                        :quant (z14 / most)))))
+
+# ::snt If you have kids, this would be something that they would definitely enjoy .
+(z1 / enjoy-01
+      :ARG0 (z2 / person
+            :ARG0-of (z3 / have-rel-role-91
+                  :ARG1 (z4 / you)
+                  :ARG2 (z5 / kid)))
+      :ARG1 (z6 / something
+            :domain (z7 / this))
+      :mod (z8 / definite)
+      :condition (z9 / have-03
+            :ARG0 z4
+            :ARG1 z2))
+
+# ::snt I have a 9 month old German Shepherd that I raised from a puppy .
+(z1 / have-03
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / dog
+            :mod (z4 / breed
+                  :name (z5 / name
+                        :op1 "German"
+                        :op2 "Shepherd"))
+            :age (z6 / temporal-quantity
+                  :quant 9
+                  :unit (z7 / month))
+            :ARG1-of (z8 / raise-03
+                  :ARG0 z2
+                  :source (z9 / puppy))))
+
+# ::snt So, to answer your question, no, if you just have a bulb that says it produces UVA then you do not have "the sun's rays" that your bearded needs .
+(z1 / have-03
+      :polarity -
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / ray
+            :mod (z4 / sun)
+            :ARG1-of (z5 / need-01
+                  :ARG0 z2
+                  :ARG1-of (z6 / beard-01)))
+      :condition (z7 / have-03
+            :ARG0 z2
+            :ARG1 (z8 / bulb
+                  :ARG0-of (z9 / say-01
+                        :ARG1 (z10 / produce-01
+                              :ARG0 z8
+                              :ARG1 (z11 / small-molecule
+                                    :name (z12 / name
+                                          :op1 "UVA")))))
+            :mod (z13 / just)))
+
+# ::snt I am making a christmas list for my parents and i was going to ask for a bird and these are the affordable ones that i like, and i was wondering : which would not bite alot, and which are more fun to have as pets AND I NEED TO KNOW WHICH WOULD BE QUIETEST i honestly dont care but my family does !
+(z1 / and
+      :op1 (z2 / make-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / thing
+                  :ARG2-of (z5 / list-01)
+                  :mod (z6 / festival
+                        :name (z7 / name
+                              :op1 "Christmas")))
+            :ARG3 (z8 / person
+                  :ARG0-of (z9 / have-rel-role-91
+                        :ARG1 z3
+                        :ARG2 (z10 / parent))))
+      :op2 (z11 / ask-02
+            :ARG0 z3
+            :ARG1 (z12 / bird))
+      :op3 (z13 / possible-01
+            :ARG1 (z14 / afford-01
+                  :ARG1 (z15 / bird
+                        :mod (z16 / this))
+                  :ARG1-of (z17 / like-01
+                        :ARG0 z3)))
+      :op4 (z18 / wonder-01
+            :ARG0 z3
+            :ARG1 (z19 / and
+                  :op1 (z20 / bite-02
+                        :polarity -
+                        :ARG0 z15
+                        :quant (z21 / lot))
+                  :op2 (z22 / have-degree-91
+                        :ARG1 z15
+                        :ARG2 (z23 / fun-01
+                              :ARG0 (z24 / have-03
+                                    :ARG0 z3
+                                    :ARG1 z15
+                                    :prep-as (z25 / pet)))
+                        :ARG3 (z26 / more)))))
+
+# ::snt I did the same thing that you did for christmas .
+(z1 / do-02
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / thing
+            :ARG1-of (z4 / same-01
+                  :ARG2 (z5 / thing
+                        :ARG1-of (z6 / do-02
+                              :ARG0 (z7 / you)
+                              :ARG2 (z8 / festival
+                                    :name (z9 / name
+                                          :op1 "Christmas")))))))
+
+# ::snt I want a bird that I can hold and do tricks .
+(z1 / want-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / bird
+            :ARG1-of (z4 / hold-01
+                  :ARG0 z2
+                  :ARG1-of (z5 / possible-01
+                        :ARG1 z6))
+            :ARG0-of (z6 / do-02
+                  :ARG1 (z7 / trick))))
+
+# ::snt If you choose to get a parakeet this is a trick that I used to tame them .
+(z1 / trick-01
+      :ARG1 (z2 / tame-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / parakeet))
+      :ARG2 (z5 / this)
+      :ARG1-of (z6 / use-01
+            :ARG0 z3
+            :ARG2 z2
+            :time (z7 / use-03))
+      :condition (z8 / choose-01
+            :ARG0 (z9 / you)
+            :ARG1 (z10 / get-01
+                  :ARG0 z9
+                  :ARG1 z4)))
+
+# ::snt The only neurological sign that he shows is that he barely drags his toes and sometimes has trouble with his right lead .
+(z1 / signal-07
+      :ARG0 (z2 / and
+            :op1 (z3 / drag-01
+                  :ARG0 (z4 / he)
+                  :ARG1 (z5 / toe
+                        :part-of z4)
+                  :degree (z6 / barely))
+            :op2 (z7 / have-trouble-04
+                  :ARG0 z4
+                  :ARG1 (z8 / lead-01
+                        :ARG0 z4
+                        :ARG1-of (z9 / right-04))
+                  :frequency (z10 / sometimes))))
+
+# ::snt This is a horse that I otherwise wouldn't be able to afford and even if I spend 2K and treatment I come out ahead of his purchase price .
+(z1 / and
+      :op1 (z2 / horse
+            :mod (z3 / this)
+            :ARG1-of (z4 / afford-01
+                  :ARG0 (z5 / i)
+                  :ARG1-of (z6 / possible-01
+                        :polarity -
+                        :condition (z7 / have-polarity-91
+                              :ARG2 -
+                              :ARG1 z4))))
+      :op2 (z8 / come-out-09
+            :ARG1 z5
+            :concession (z9 / even-if
+                  :op1 (z10 / spend-01
+                        :ARG0 z5
+                        :ARG1 (z11 / and
+                              :op1 (z12 / monetary-quantity
+                                    :quant 2000
+                                    :unit (z13 / dollar))
+                              :op2 (z14 / treat-03
+                                    :ARG1 z5))
+                        :ARG3 z2))
+            :direction (z15 / ahead
+                  :op1 (z16 / monetary-quantity
+                        :ARG2-of (z17 / price-01
+                              :ARG1 (z18 / purchase-01
+                                    :ARG0 (z19 / he)))))))
+
+# ::snt Cj and company did all that we ask and 10 times more .
+(z1 / and
+      :op1 (z2 / do-02
+            :ARG0 (z3 / and
+                  :op1 (z4 / person
+                        :name (z5 / name
+                              :op1 "CJ"))
+                  :op2 (z6 / company))
+            :ARG1 (z7 / all
+                  :ARG1-of (z8 / ask-02
+                        :ARG0 (z9 / we))))
+      :op2 (z10 / do-02
+            :ARG0 z3
+            :ARG1 (z11 / all
+                  :ARG1-of (z12 / have-quant-91
+                        :ARG3 (z13 / times
+                              :quant 10)
+                        :ARG4 z7))))
+
+# ::snt I am very pleased with the tattoos that I revived from them .
+(z1 / please-01
+      :ARG0 (z2 / tattoo
+            :ARG1-of (z3 / revive-01
+                  :ARG0 (z4 / i)
+                  :source z2))
+      :ARG1 z4
+      :degree (z5 / very))
+
+# ::snt There are three Starbucks locations that I frequent .
+(z1 / be-located-at-91
+      :ARG1 (z2 / location
+            :quant 3
+            :mod (z3 / company
+                  :name (z4 / name
+                        :op1 "Starbucks")))
+      :ARG2-of (z5 / frequent-02
+            :ARG0 (z6 / i)))
+
+# ::snt If this is the best that Tucson has to offer, I am outta here.. .
+(z1 / out-06
+      :ARG1 (z2 / i)
+      :ARG2 (z3 / here))
+
+# ::snt What you get is a $13/day charge to access the internet through a slow 512/512kb/s that you can only use to check email etc (Read: No downloading) .
+(z1 / get-01
+      :ARG0 (z2 / you)
+      :ARG1 (z3 / charge-01
+            :ARG1 (z4 / rate-entity-91
+                  :ARG1 (z5 / monetary-quantity
+                        :quant 13
+                        :unit (z6 / dollar))
+                  :ARG2 (z7 / temporal-quantity
+                        :quant 1
+                        :unit (z8 / day)))
+            :ARG3 (z9 / access-01
+                  :ARG0 z2
+                  :ARG1 (z10 / internet)
+                  :instrument (z11 / rate-entity-91
+                        :ARG1 (z12 / information-quantity
+                              :quant 512
+                              :unit (z13 / gigabyte)
+                              :ARG1-of (z14 / slow-01)
+                              :ARG1-of (z15 / use-01
+                                    :ARG0 z2
+                                    :ARG2 (z16 / and
+                                          :op1 (z17 / check-01
+                                                :ARG0 z2
+                                                :ARG1 (z18 / email))
+                                          :op2 (z19 / et-cetera))
+                                    :ARG1-of (z20 / possible-01)
+                                    :mod (z21 / only)
+                                    :ARG1-of (z22 / mean-01
+                                          :ARG2 (z23 / download-01
+                                                :polarity -))))))))
+
+# ::snt Not the same old stuff that all the other stores have .
+(z1 / stuff
+      :polarity -
+      :mod (z2 / old)
+      :ARG1-of (z3 / same-01)
+      :ARG1-of (z4 / have-03
+            :ARG0 (z5 / store
+                  :mod (z6 / other)
+                  :mod (z7 / all))))
+
+# ::snt Especially high end keep sake sort of clothing that you just cant find in a lot of stores .
+(z1 / clothe-01
+      :mod (z2 / sort
+            :mod (z3 / sake
+                  :mod (z4 / high-end)))
+      :mod (z5 / especially)
+      :ARG1-of (z6 / find-01
+            :ARG0 (z7 / you)
+            :ARG1-of (z8 / possible-01
+                  :polarity -)
+            :location (z9 / store
+                  :quant (z10 / lot))
+            :mod (z11 / just)))
+
+# ::snt But the menu had standard stuff that one would get at a Belgian Tavern .
+(z1 / contrast-01
+      :ARG2 (z2 / have-03
+            :ARG0 (z3 / menu)
+            :ARG1 (z4 / stuff
+                  :ARG1-of (z5 / standard-02)
+                  :ARG1-of (z6 / get-01
+                        :ARG0 (z7 / one)
+                        :location (z8 / facility
+                              :name (z9 / name
+                                    :op1 "Belgian"
+                                    :op2 "Tavern"))))))
+
+# ::snt They interviewed me, gave me tests in the software I included on my resume, and placed me in a position that I kept for several years .
+(z1 / and
+      :op1 (z2 / interview-01
+            :ARG0 (z3 / they)
+            :ARG1 (z4 / i))
+      :op2 (z5 / test-01
+            :ARG0 z3
+            :ARG1 z4
+            :ARG2 (z6 / software
+                  :ARG1-of (z7 / include-01
+                        :ARG0 z4
+                        :ARG2 (z8 / resume
+                              :poss z4))))
+      :op3 (z9 / place-01
+            :ARG0 z3
+            :ARG1 z4
+            :ARG2 (z10 / position
+                  :ARG1-of (z11 / keep-01
+                        :ARG0 z4
+                        :duration (z12 / several
+                              :op1 (z13 / temporal-quantity
+                                    :quant 1
+                                    :unit (z14 / year)))))))
+
+# ::snt This is an awesome date spot that the area SERIOUSLY needs .
+(z1 / spot
+      :location-of (z2 / date-02)
+      :ARG1-of (z3 / awesome-02)
+      :domain (z4 / this)
+      :ARG1-of (z5 / need-01
+            :ARG0 (z6 / area)
+            :ARG1-of (z7 / serious-01)))
+
+# ::snt The only problem that I had in 2 years of living there was that the walls are pretty thin, sometimes I could here my neighbors conversations .
+(z1 / problem
+      :mod (z2 / only)
+      :ARG1-of (z3 / have-03
+            :ARG0 (z4 / i)
+            :time (z5 / live-01
+                  :ARG0 z4
+                  :location (z6 / there)
+                  :duration (z7 / temporal-quantity
+                        :quant 2
+                        :unit (z8 / year))))
+      :domain (z9 / thin-03
+            :ARG1 (z10 / wall)
+            :ARG0-of (z11 / cause-01
+                  :ARG1 (z12 / possible-01
+                        :ARG1 (z13 / hear-01
+                              :ARG0 z4
+                              :ARG1 (z14 / converse-01
+                                    :ARG0 (z15 / person
+                                          :ARG0-of (z16 / have-rel-role-91
+                                                :ARG1 z4
+                                                :ARG2 (z17 / neighbor)))))
+                        :frequency (z18 / sometimes)))))
+
+# ::snt Not only were my wife and I very pleased, but I also had the air duct quality tested professionally by the home inspector that I regularly use, before and after United Air Duct performed their work .
+(z1 / and
+      :op1 (z2 / please-01
+            :ARG1 (z3 / and
+                  :op1 (z4 / person
+                        :ARG0-of (z5 / have-rel-role-91
+                              :ARG1 (z6 / i)
+                              :ARG2 (z7 / wife)))
+                  :op2 z6)
+            :degree (z8 / very))
+      :op2 (z9 / test-01
+            :ARG0 (z10 / person
+                  :ARG0-of (z11 / inspect-01
+                        :ARG1 (z12 / home))
+                  :ARG1-of (z13 / use-01
+                        :ARG0 z6
+                        :ARG1-of (z14 / regular-02)))
+            :ARG1 (z15 / quality
+                  :mod (z16 / duct
+                        :mod (z17 / air)))
+            :ARG2 z6
+            :mod (z18 / also)
+            :manner (z19 / professional)
+            :time (z20 / before
+                  :op1 (z21 / perform-02
+                        :ARG0 (z22 / company
+                              :name (z23 / name
+                                    :op1 "United"
+                                    :op2 "Air"
+                                    :op3 "Duct"))
+                        :ARG1 (z24 / work-01
+                              :ARG0 z22)))
+            :time (z25 / after
+                  :op1 z21)))
+
+# ::snt They are and always will be the nicest people in Sicily that you will meet .
+(z1 / have-degree-91
+      :ARG1 (z2 / person
+            :domain (z3 / they))
+      :ARG2 (z4 / nice-01
+            :ARG1 z2)
+      :ARG3 (z5 / most)
+      :ARG5 (z6 / person
+            :location (z7 / island
+                  :name (z8 / name
+                        :op1 "Sicily"))
+            :ARG1-of (z9 / meet-02
+                  :ARG0 (z10 / you)))
+      :time (z11 / always))
+
+# ::snt I will 4-ever be eternally grateful for their hospitality and luv that my Sicilian family showed me when I was there for 3 years .
+(z1 / appreciate-02
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / and
+            :op1 (z4 / hospitality
+                  :poss (z5 / they))
+            :op2 (z6 / love-01
+                  :ARG0 z2
+                  :ARG1 (z7 / thing
+                        :ARG1-of (z8 / show-01
+                              :ARG0 (z9 / family
+                                    :mod (z10 / island
+                                          :name (z11 / name
+                                                :op1 "Sicily"))
+                                    :ARG1-of (z12 / have-org-role-91
+                                          :ARG0 z2
+                                          :ARG2 (z13 / member))))
+                        :ARG2 z2
+                        :time (z14 / be-located-at-91
+                              :ARG1 z2
+                              :ARG2 z10
+                              :duration (z15 / temporal-quantity
+                                    :quant 3
+                                    :unit (z16 / year)))))))
+
+# ::snt David is the most helpful and creative photographer that I have used .
+(z1 / have-degree-91
+      :ARG1 (z2 / person
+            :name (z3 / name
+                  :op1 "David"))
+      :ARG2 (z4 / and
+            :op1 (z5 / helpful-04
+                  :ARG0 z2)
+            :op2 (z6 / creative
+                  :domain z2))
+      :ARG3 (z7 / most)
+      :ARG5 (z8 / person
+            :ARG0-of (z9 / photograph-01)
+            :ARG1-of (z10 / use-01
+                  :ARG0 (z11 / i))))
+
+# ::snt Both the engagement and wedding pictures that he took for us we absolutely amazing .
+(z1 / amaze-01
+      :ARG0 (z2 / and
+            :op1 (z3 / picture
+                  :topic (z4 / engagement-02))
+            :op2 (z5 / picture
+                  :topic (z6 / wed-01))
+            :ARG1-of (z7 / take-01
+                  :ARG0 (z8 / he)
+                  :ARG3 (z9 / we)))
+      :degree (z10 / absolute))
+
+# ::snt I have been getting my treatments for a few months now and have seen some results but not up to the standards that I was told I should expect .
+(z1 / and
+      :op1 (z2 / get-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / treat-03
+                  :ARG1 z3)
+            :duration (z5 / few
+                  :op1 (z6 / temporal-quantity
+                        :quant 1
+                        :unit (z7 / month)))
+            :time (z8 / now))
+      :op2 (z9 / contrast-01
+            :ARG1 (z10 / see-01
+                  :ARG0 z3
+                  :ARG1 (z11 / result
+                        :quant (z12 / some)))
+            :ARG2 (z13 / up-to
+                  :polarity -
+                  :op1 (z14 / standard
+                        :ARG1-of (z15 / expect-01
+                              :ARG0 z3
+                              :ARG1-of (z16 / recommend-01
+                                    :ARG2 z3
+                                    :ARG1-of (z17 / tell-01
+                                          :ARG2 z3)))))))
+
+# ::snt It is the easiest thing that I have ever done and I tell all my friends that they should do it too .
+(z1 / and
+      :op1 (z2 / do-02
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / thing
+                  :ARG1-of (z5 / have-degree-91
+                        :ARG2 (z6 / easy-05
+                              :ARG1 z4)
+                        :ARG3 (z7 / most)))
+            :time (z8 / ever))
+      :op2 (z9 / tell-01
+            :ARG0 z3
+            :ARG1 (z10 / recommend-01
+                  :ARG1 (z11 / do-02
+                        :ARG0 (z12 / person
+                              :ARG0-of (z13 / have-rel-role-91
+                                    :ARG1 z3
+                                    :ARG2 (z14 / friend))
+                              :mod (z15 / all)))
+                  :ARG1 z4
+                  :mod (z16 / too))
+            :ARG2 z12))
+
+# ::snt The only problem that I have experienced is the landlord .
+(z1 / problem
+      :mod (z2 / only)
+      :ARG1-of (z3 / experience-01
+            :ARG0 (z4 / i))
+      :domain (z5 / landlord))
+
+# ::snt I found her through a colleague one day when one of my clients was in the midst of a panic attack and needed professional help that I am not qualified to provide .
+(z1 / find-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / she)
+      :ARG2 (z4 / person
+            :ARG0-of (z5 / have-rel-role-91
+                  :ARG1 z2
+                  :ARG2 (z6 / colleague)))
+      :time (z7 / day
+            :mod (z8 / one))
+      :time (z9 / and
+            :op1 (z10 / be-located-at-91
+                  :ARG1 (z11 / client
+                        :quant 1
+                        :ARG1-of (z12 / include-91
+                              :ARG2 (z13 / client
+                                    :poss z2)))
+                  :ARG2 (z14 / midst
+                        :op1 (z15 / attack
+                              :mod (z16 / panic))))
+            :op2 (z17 / need-01
+                  :ARG0 z11
+                  :ARG1 (z18 / help-01
+                        :ARG0 (z19 / professional)
+                        :ARG1-of (z20 / provide-01
+                              :ARG0 z2
+                              :ARG2-of (z21 / qualify-02
+                                    :polarity -
+                                    :ARG1 z2))))))
+
+# ::snt She probably does not even have 10% of the knowledge that some of the other EXPERIENCED vets do in this area .
+(z1 / probable
+      :domain (z2 / have-03
+            :polarity -
+            :ARG0 (z3 / she)
+            :ARG1 (z4 / percentage-entity
+                  :value 10
+                  :ARG3-of (z5 / include-91
+                        :ARG2 (z6 / know-01
+                              :ARG0 (z7 / veteran
+                                    :ARG1-of (z8 / experience-01)
+                                    :mod (z9 / other)
+                                    :quant (z10 / some))
+                              :topic (z11 / area
+                                    :mod (z12 / this)))))
+            :mod (z13 / even)))
+
+# ::snt During the session, he demanded to have my physical address, which I've always kept private as I am enrolled in a witness protection program .
+(z1 / demand-01
+      :ARG0 (z2 / he)
+      :ARG1 (z3 / have-03
+            :ARG0 z2
+            :ARG1 (z4 / address
+                  :mod (z5 / physical)
+                  :poss (z6 / i)
+                  :ARG1-of (z7 / private-02
+                        :time (z8 / always)
+                        :ARG1-of (z9 / cause-01
+                              :ARG0 (z10 / enroll-01
+                                    :ARG1 z6
+                                    :ARG2 (z11 / program
+                                          :ARG0-of (z12 / protect-01
+                                                :ARG1 (z13 / person
+                                                      :ARG0-of (z14 / witness-01))))))))))
+
+# ::snt You can see different treatments that a surgeon can't see, so that you can have several treatment options before you decide what to do .
+(z1 / possible-01
+      :ARG1 (z2 / see-01
+            :ARG0 (z3 / you)
+            :ARG1 (z4 / treat-03
+                  :ARG1-of (z5 / differ-02)
+                  :ARG1-of (z6 / see-01
+                        :ARG0 (z7 / person
+                              :ARG0-of (z8 / surgery-01))
+                        :ARG1-of (z9 / possible-01
+                              :polarity -))))
+      :purpose (z10 / possible-01
+            :ARG1 (z11 / have-03
+                  :ARG0 z3
+                  :ARG1 (z12 / option
+                        :mod z4
+                        :quant (z13 / several))
+                  :time (z14 / before
+                        :op1 (z15 / decide-01
+                              :ARG0 z3
+                              :ARG1 (z16 / thing
+                                    :ARG1-of (z17 / do-02
+                                          :ARG0 z3)))))))
+
+# ::snt I also did not feel like they tried to sell me a bunch of services that I did not need .
+(z1 / feel-01
+      :polarity -
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / try-01
+            :ARG0 (z4 / they)
+            :ARG1 (z5 / sell-01
+                  :ARG0 z4
+                  :ARG1 (z6 / service
+                        :quant (z7 / bunch)
+                        :ARG1-of (z8 / need-01
+                              :polarity -
+                              :ARG0 z2))
+                  :ARG2 z2)))
+
+# ::snt I had my wedding luncheon at this BJs restaurant, and it was one of the best choices that I made .
+(z1 / and
+      :op1 (z2 / have-06
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / lunch
+                  :mod (z5 / wed-01
+                        :ARG1 z3))
+            :location (z6 / restaurant
+                  :mod (z7 / company
+                        :name (z8 / name
+                              :op1 "BJs"))
+                  :mod (z9 / this)))
+      :op2 (z10 / choose-01
+            :ARG0 z3
+            :ARG1 z4
+            :ARG1-of (z11 / include-91
+                  :ARG2 (z12 / choose-01
+                        :ARG0 z3
+                        :ARG1-of (z13 / have-degree-91
+                              :ARG2 (z14 / good-02
+                                    :ARG1 z12)
+                              :ARG3 (z15 / most))))))
+
+# ::snt I was in two weeks ago and had the worst pedicure that I have had in my life .
+(z1 / and
+      :op1 (z2 / be-located-at-91
+            :ARG1 (z3 / i)
+            :time (z4 / before
+                  :op1 (z5 / now)
+                  :quant (z6 / temporal-quantity
+                        :quant 2
+                        :unit (z7 / week))))
+      :op2 (z8 / pedicure
+            :ARG1-of (z9 / have-degree-91
+                  :ARG2 (z10 / bad-05
+                        :ARG1 z8)
+                  :ARG3 (z11 / most)
+                  :ARG5 (z12 / pedicure
+                        :ARG1-of (z13 / have-06
+                              :ARG0 z3
+                              :time (z14 / life
+                                    :poss z3))))))
+
+# ::snt So we didn't expect them to even know some of the requests that we asked that night .
+(z1 / cause-01
+      :ARG1 (z2 / expect-01
+            :polarity -
+            :ARG0 (z3 / we)
+            :ARG1 (z4 / know-01
+                  :ARG0 (z5 / they)
+                  :ARG1 (z6 / some
+                        :ARG1-of (z7 / include-91
+                              :ARG2 (z8 / request-01
+                                    :ARG1-of (z9 / ask-01
+                                          :ARG0 z3
+                                          :time (z10 / date-entity
+                                                :dayperiod (z11 / night)
+                                                :mod (z12 / that)))))))
+            :mod (z13 / even)))
+
+# ::snt On a recent event quote that I had done, they came in thousands of dollars over their local competition .
+(z1 / come-in-07
+      :ARG1 (z2 / they)
+      :ARG2 (z3 / multiple
+            :op1 (z4 / monetary-quantity
+                  :quant 1000
+                  :unit (z5 / dollar)))
+      :ARG4 (z6 / company
+            :ARG0-of (z7 / compete-02
+                  :ARG1 z2)
+            :ARG1-of (z8 / local-02
+                  :ARG2 z2))
+      :topic (z9 / quote-01
+            :ARG1 (z10 / event
+                  :time (z11 / recent))
+            :ARG1-of (z12 / do-02
+                  :ARG0 (z13 / i))))
+
+# ::snt I cant speak for them but any tests or appointments they recommend are probably in the best interests of us (the patient) and you have the ability to decline anything that they suggest to you .
+(z1 / contrast-01
+      :ARG1 (z2 / possible-01
+            :polarity -
+            :ARG1 (z3 / speak-01
+                  :ARG0 (z4 / i)
+                  :beneficiary (z5 / they))))
+
+# ::snt Everyone can get the signature dish with ingredients and spices that they want and have the fun of watching it cook .
+(z1 / possible-01
+      :ARG1 (z2 / and
+            :op1 (z3 / get-01
+                  :ARG0 (z4 / everyone)
+                  :ARG1 (z5 / dish
+                        :mod (z6 / signature)
+                        :accompanier (z7 / and
+                              :op1 (z8 / ingredient)
+                              :op2 (z9 / spice)
+                              :ARG1-of (z10 / want-01
+                                    :ARG0 z4))))
+            :op2 (z11 / fun-01
+                  :ARG0 z4
+                  :ARG1 (z12 / watch-01
+                        :ARG0 z4
+                        :ARG1 (z13 / cook-01
+                              :ARG1 z5)))))
+
+# ::snt I played dumb and asked him questions that I already knew the answers to and he responded with half truths and a few falsehoods .
+(z1 / and
+      :op1 (z2 / play-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / dumb))
+      :op2 (z5 / ask-01
+            :ARG0 z3
+            :ARG1 (z6 / question
+                  :ARG1-of (z7 / answer-01
+                        :ARG2-of (z8 / answer-01
+                              :ARG1-of (z9 / know-01
+                                    :ARG0 z3
+                                    :time (z10 / already)))))
+            :ARG2 (z11 / he))
+      :op3 (z12 / respond-01
+            :ARG0 z11
+            :ARG2 (z13 / and
+                  :op1 (z14 / truth
+                        :mod (z15 / half))
+                  :op2 (z16 / falsehood
+                        :quant (z17 / few)))))
+
+# ::snt I dropped off a sheet metal piece that I needed copied due to th it was needing to be replaced .
+(z1 / drop-off-03
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / piece
+            :consist-of (z4 / sheet
+                  :mod (z5 / metal))
+            :ARG1-of (z6 / copy-01
+                  :ARG0 z2
+                  :ARG1-of (z7 / need-01
+                        :ARG0 z2
+                        :ARG1-of (z8 / cause-01
+                              :ARG0 (z9 / need-01
+                                    :ARG0 z3
+                                    :ARG1 (z10 / replace-01
+                                          :ARG1 z3)))))))
+
+# ::snt I was able to cancel it but only after paying a $50 fee (which the staff person who signed me up stated I would not have to pay if I had proof of moving) and being spoken to in a very belittling manner .
+(z1 / possible-01
+      :ARG1 (z2 / cancel-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / it)
+            :time (z5 / after
+                  :op1 (z6 / and
+                        :op1 (z7 / pay-01
+                              :ARG0 z3
+                              :ARG1 (z8 / fee
+                                    :mod (z9 / monetary-quantity
+                                          :quant 50
+                                          :unit (z10 / dollar)
+                                          :ARG1-of (z11 / pay-01
+                                                :ARG0 z3
+                                                :ARG2-of (z12 / obligate-01
+                                                      :polarity -
+                                                      :ARG1 z3
+                                                      :condition (z13 / have-03
+                                                            :ARG0 z3
+                                                            :ARG1 (z14 / prove-01
+                                                                  :ARG0 z3
+                                                                  :ARG1 (z15 / move-01
+                                                                        :ARG0 z3)))
+                                                      :ARG1-of (z16 / state-01
+                                                            :ARG0 (z17 / person
+                                                                  :mod (z18 / staff)
+                                                                  :ARG0-of (z19 / sign-up-03
+                                                                        :ARG1 z3))))))))
+                        :mod (z20 / only))
+                  :op2 (z21 / speak-01
+                        :ARG2 z3
+                        :manner (z22 / belittle-01
+                              :ARG1 z3
+                              :degree (z23 / very))))))
+
+# ::snt Well, again, I am now faced with a tax bill of $6,000+, all due on April 15, 2010 and all that Rod has to say to the matter is 'well, you won't have to pay a penalty. '
+(z1 / and
+      :op1 (z2 / face-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / bill
+                  :mod (z5 / tax-01
+                        :ARG1 (z6 / at-least
+                              :op1 (z7 / monetary-quantity
+                                    :quant 6000
+                                    :unit (z8 / dollar))))
+                  :mod (z9 / all)
+                  :ARG1-of (z10 / due-03
+                        :ARG2 (z11 / date-entity
+                              :day 15
+                              :month 4
+                              :year 2010))))
+      :time (z12 / now))
+
+# ::snt He also neglected to tell the other person working at the store about a dining room table that I had ordered and that was supposed to be coming in .
+(z1 / neglect-01
+      :ARG0 (z2 / he)
+      :ARG1 (z3 / tell-01
+            :ARG0 z2
+            :ARG1 (z4 / and
+                  :op1 (z5 / table
+                        :mod (z6 / room
+                              :mod (z7 / dine-01))
+                        :ARG1-of (z8 / order-02
+                              :ARG0 (z9 / i)))
+                  :op2 (z10 / suppose-02
+                        :ARG1 (z11 / come-in-07
+                              :ARG1 z5)))
+            :ARG2 (z12 / person
+                  :mod (z13 / other)
+                  :ARG0-of (z14 / work-01
+                        :ARG1 (z15 / store))))
+      :mod (z16 / also))
+
+# ::snt Well it took us a while to find one that we liked .
+(z1 / take-10
+      :ARG0 (z2 / find-01
+            :ARG0 (z3 / we)
+            :ARG1 (z4 / one
+                  :ARG1-of (z5 / like-01
+                        :ARG0 z3)))
+      :ARG1 (z6 / while)
+      :ARG2 z3)
+
+# ::snt So I figure if they don't want to take the time to fix the fence that they installed then I'll take the time to let everyone I can know about how they treat customers once they have your money!! !
+(z1 / cause-01
+      :ARG1 (z2 / figure-01
+            :ARG0 (z3 / i)
+            :ARG1 (z4 / take-01
+                  :ARG0 z3
+                  :ARG1 (z5 / time
+                        :purpose (z6 / let-know-07
+                              :ARG0 z3
+                              :ARG1 (z7 / everyone
+                                    :ARG1-of (z8 / know-02
+                                          :ARG0 z3
+                                          :ARG1-of (z9 / possible-01)))
+                              :ARG2 (z10 / thing
+                                    :manner-of (z11 / treat-01
+                                          :ARG0 (z12 / they)
+                                          :ARG1 (z13 / customer)
+                                          :time (z14 / have-06
+                                                :ARG0 z12
+                                                :ARG1 (z15 / money
+                                                      :poss (z16 / you))))))))
+            :condition (z17 / want-01
+                  :polarity -
+                  :ARG0 z12
+                  :ARG1 (z18 / take-01
+                        :ARG0 z12
+                        :ARG1 (z19 / time
+                              :purpose (z20 / fix-02
+                                    :ARG0 z12
+                                    :ARG1 (z21 / fence
+                                          :ARG1-of (z22 / install-01
+                                                :ARG0 z12))))))))
+
+# ::snt They had a room with a $99 rate, which I booked .
+(z1 / have-03
+      :ARG0 (z2 / they)
+      :ARG1 (z3 / room
+            :prep-with (z4 / rate
+                  :mod (z5 / monetary-quantity
+                        :quant 99
+                        :unit (z6 / dollar)))
+            :ARG1-of (z7 / book-03
+                  :ARG0 (z8 / i))))
+
+# ::snt The email confirmation (which I read in the car) warned about large suitcases, declaring that we are innkeepers, not longshoreman .
+(z1 / warn-01
+      :ARG0 (z2 / confirmation
+            :mod (z3 / email)
+            :ARG1-of (z4 / read-01
+                  :ARG0 (z5 / i)
+                  :location (z6 / car))
+            :ARG0-of (z7 / declare-02
+                  :ARG1 (z8 / and
+                        :op1 (z9 / person
+                              :ARG0-of (z10 / keep-01
+                                    :ARG1 (z11 / innkeeper))
+                              :domain (z12 / we))
+                        :op2 (z13 / person
+                              :polarity -
+                              :ARG0-of (z14 / have-org-role-91
+                                    :ARG2 (z15 / longshoreman))
+                              :domain z12)))))
+
+# ::snt I thought it would be a good idea to see how a few that I liked would look like on a model (by looking the dress up online) .
+(z1 / think-01
+      :ARG0 (z2 / i)
+      :ARG1 (z3 / idea
+            :ARG1-of (z4 / good-02)
+            :domain (z5 / see-01
+                  :ARG0 z2
+                  :ARG1 (z6 / look-02
+                        :ARG0 (z7 / few
+                              :ARG1-of (z8 / like-01
+                                    :ARG0 z2))
+                        :ARG1 (z9 / thing)
+                        :location (z10 / model))
+                  :manner (z11 / look-up-05
+                        :ARG0 z2
+                        :ARG1 (z12 / dress-up)
+                        :medium (z13 / online)))))
+
+# ::snt Aside from that little *mystery*, one of the sales ladies was quite comfortable telling me how wrong I was about how another dress that I loved compared to one of her dresses that I was trying on .
+(z1 / comfortable-02
+      :ARG0 (z2 / lady
+            :quant 1
+            :ARG1-of (z3 / include-91
+                  :ARG2 (z4 / lady
+                        :ARG0-of (z5 / sell-01))))
+      :ARG1 (z6 / tell-01
+            :ARG0 z2
+            :ARG1 (z7 / thing
+                  :degree-of (z8 / wrong-04
+                        :ARG1 (z9 / i)
+                        :ARG2 (z10 / dress
+                              :mod (z11 / another)
+                              :ARG1-of (z12 / love-01
+                                    :ARG0 z9)
+                              :ARG1-of (z13 / compare-01
+                                    :ARG2 (z14 / dress
+                                          :quant 1
+                                          :ARG1-of (z15 / include-91
+                                                :ARG2 (z16 / dress
+                                                      :poss (z17 / she)
+                                                      :ARG1-of (z18 / try-04
+                                                            :ARG0 z9)))))))))
+      :ARG2 z9)
+
+# ::snt I waited about 20 minutes in the store part before anyone was able to assist me and was then told to pull my car into the shop (that is apparently what you are supposed to do, but the big signs pointing you that way are for some reason kept inside the garage, so you don't see them drving up, and they purposely block the front pull-up that all other Sear's use) .
+(z1 / and
+      :op1 (z2 / wait-01
+            :ARG1 (z3 / i)
+            :ARG2 (z4 / possible-01
+                  :ARG1 (z5 / assist-01
+                        :ARG0 (z6 / anyone)
+                        :ARG1 z3))
+            :duration (z7 / about
+                  :op1 (z8 / temporal-quantity
+                        :quant 20
+                        :unit (z9 / minute)))
+            :location (z10 / part
+                  :part-of (z11 / store))))
+
+# ::snt A few minutes after I left, I was called and informed that "I" left my wheel lock (which they should have left in the car) .
+(z1 / and
+      :op1 (z2 / call-02
+            :ARG1 (z3 / i))
+      :op2 (z4 / inform-01
+            :ARG1 z3
+            :ARG2 (z5 / leave-11
+                  :ARG0 z3
+                  :ARG1 (z6 / lock-01
+                        :ARG1 (z7 / wheel
+                              :part-of z3)
+                        :ARG1-of (z8 / recommend-01
+                              :ARG2 (z9 / they))
+                        :location (z10 / car)))))
+
+# ::snt The employees at this Sear's are completely apathetic and there didn't seem to be any sort of management that I could see .
+(z1 / and
+      :op1 (z2 / apathetic
+            :domain (z3 / person
+                  :ARG1-of (z4 / employ-01
+                        :ARG0 (z5 / company
+                              :name (z6 / name
+                                    :op1 "Sear's")
+                              :mod (z7 / this))))
+            :ARG1-of (z8 / complete-02))
+      :op2 (z9 / seem-01
+            :polarity -
+            :ARG1 (z10 / manage-01
+                  :mod (z11 / sort
+                        :mod (z12 / any))
+                  :ARG1-of (z13 / see-01
+                        :ARG0 (z14 / i)
+                        :ARG1-of (z15 / possible-01)))))
+
