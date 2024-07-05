@@ -1,5 +1,5 @@
 # relative-amr-eval
-This repository contains the code and dataset for the paper *The Relative Clauses AMR Parsers Hate Most* by Xiulin Yang and Nathan Schneider.
+This repository contains the code and dataset for the paper *[The Relative Clauses AMR Parsers Hate Most](https://aclanthology.org/2024.dmr-1.16/)* by Xiulin Yang and Nathan Schneider.
 
 # To replicate the experiments
 First, you need to create a virtual environment with python==3.8 and install all the dependencies.
@@ -47,6 +47,25 @@ In order to check if there is any mis-classified reduced relative clauses, you c
 
 4. Once you have corrected all sentences, you can make a double check by (1) run ```rc-types.py``` to get the updated ```eud_ewt_split.conllu``` under the ```eud_ewt``` folder; (2) run ```rrc-types.py``` to get the updated reduced relative clause classification and recheck if they are correct. If some annotation is wrong, then follow the correction section. 
 
+# Citation
+```
+@inproceedings{yang-schneider-2024-relative,
+    title = "The Relative Clauses {AMR} Parsers Hate Most",
+    author = "Yang, Xiulin  and
+      Schneider, Nathan",
+    editor = "Bonial, Claire  and
+      Bonn, Julia  and
+      Hwang, Jena D.",
+    booktitle = "Proceedings of the Fifth International Workshop on Designing Meaning Representations @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.dmr-1.16",
+    pages = "151--161",
+    abstract = "This paper evaluates how well English Abstract Meaning Representation parsers process an important and frequent kind of Long-Distance Dependency construction, namely, relative clauses (RCs). On two syntactically parsed datasets, we evaluate five AMR parsers at recovering the semantic reentrancies triggered by different syntactic subtypes of relative clauses. Our findings reveal a general difficulty among parsers at predicting such reentrancies, with recall below 64{\%} on the EWT corpus. The sequence-to-sequence models (regardless of whether structural biases were included in training) outperform the compositional model. An analysis by relative clause subtype shows that passive subject RCs are the easiest, and oblique and reduced RCs the most challenging, for AMR parsers.",
+}
+```
 
 ## TODO
 - [ ] Add argparse and bash script for easier implementation of the code.
